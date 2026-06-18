@@ -2,9 +2,7 @@ name: Hodinova Aktualizacia Maltrail Zoznamu
 
 on:
   schedule:
-    # Spustí sa každú hodinu (vždy na začiatku hodiny)
     - cron: '0 * * * *'
-  # Umožní ti spustiť worker aj manuálne jedným kliknutím
   workflow_dispatch:
 
 jobs:
@@ -18,23 +16,19 @@ jobs:
     - name: Checkout repozitara
       uses: actions/checkout@v5
 
-    # 2. Príprava Python prostredia
     - name: Nastavenie Pythonu
       uses: actions/setup-python@v6
       with:
         python-version: '3.x'
 
-    # 3. Inštalácia knižnice requests, ktorú tvoj skript potrebuje
     - name: Instalacia requests
       run: |
         python -m pip install --upgrade pip
         pip install requests
 
-    # 4. Spustenie samotného parsera (vytvorí/aktualizuje vysledok.txt)
     - name: Spustenie parser.py
       run: python parser.py
 
-    # 5. Kontrola, či sa zmenil obsah a uloženie zmien (Git Commit & Push)
     - name: Ulozenie zmien do repozitara
       run: |
         git config --global user.name "github-actions[bot]"
