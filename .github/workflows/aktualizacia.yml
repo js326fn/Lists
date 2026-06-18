@@ -1,0 +1,47 @@
+name: Hodinova Aktualizacia Maltrail Zoznamu
+
+on:
+  schedule:
+    # Spustí sa každú hodinu (vždy na začiatku hodiny)
+    - cron: '0 * * * *'
+  # Umožní ti spustiť worker aj manuálne jedným kliknutím
+  workflow_dispatch:
+
+jobs:
+  run-parser:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repozitara
+      uses: actions/checkout@v4
+
+    # 2. Príprava Python prostredia
+    - name: Nastavenie Pythonu
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    # 3. Inštalácia knižnice requests, ktorú tvoj skript potrebuje
+    - name: Instalacia requests
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    # 4. Spustenie samotného parsera (vytvorí/aktualizuje vysledok.txt)
+    - name: Spustenie parser.py
+      run: python parser.py
+
+    # 5. Kontrola, či sa zmenil obsah a uloženie zmien (Git Commit & Push)
+    - name: Ulozenie zmien do repozitara
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        
+        # Pridáme výsledný súbor do Gitu
+        git add maltrail.txt
+        
+        # Ak skript našiel nové dáta, urobí sa commit a push. Ak sa nič nezmenilo, neurobí nič.
+        git diff-index --quiet HEAD || (git commit -m "Automatická aktualizácia zoznamu" && git push)
