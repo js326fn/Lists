@@ -1,17 +1,18 @@
 import os
+import re
 from urllib.parse import urlparse
 import requests
 
-
 url = "https://urlhaus.abuse.ch/downloads/text/"
-headers = {}
-
 
 print("Sťahujem zoznam malware URL z URLhaus...")
-response = requests.get(url, headers=headers)
+response = requests.get(url)
 
 if response.status_code == 200:
-    transformovane_riadky = []
+    unikatne_riadky = set()
+    
+    # Regulárny výraz, ktorý spoľahlivo nájde a zmaže akýkoľvek port (:číslo)
+    port_regex = re.compile(r":\d{1,5}")
     
     for riadok in response.text.splitlines():
         riadok = riadok.strip()
@@ -26,32 +27,39 @@ if response.status_code == 200:
             
             parsed_url = urlparse(url_na_parsovanie)
             
-            domena = parsed_url.netloc
-            cesta = parsed_url.path
+            domena_s_portom = parsed_url.netloc
+            cesta_s_portom = parsed_url.path
             
-
-            if domena.startswith("www."):
-                domena = domena[4:] 
+            # 1. Odstránenie www.
+            if domena_s_portom.startswith("www."):
+                domena_s_portom = domena_s_portom[4:]
             
+            # 2. Pridanie query/fragmentov k ceste
             if parsed_url.query:
-                cesta += "?" + parsed_url.query
+                cesta_s_portom += "?" + parsed_url.query
             if parsed_url.fragment:
-                cesta += "#" + parsed_url.fragment
+                cesta_s_portom += "#" + parsed_url.fragment
                 
-            if not cesta:
-                cesta = "/"
+            if not cesta_s_portom:
+                cesta_s_portom = "/"
                 
-            novy_riadok = f"{domena},{cesta},URLhaus"
-            transformovane_riadky.append(novy_riadok)
+            # 3. ODSTRÁNENIE PORTU (Kľúčové pre Flowmon)
+            # Vyčistí port z domény aj z cesty (rieši media:80)
+            čista_domena = port_regex.sub("", domena_s_portom)
+            čista_cesta = port_regex.sub("", cesta_s_portom)
+            
+            # 4. Spojenie do formátu: hostname,path,comment
+            novy_riadok = f"{čista_domena},{čista_cesta},URLhaus"
+            unikatne_riadky.add(novy_riadok)
             
         except Exception as e:
-            print(f"Preskakujem neplatnú URL: {riadok} (Chyba: {e})")
             continue
 
+    # Zápis do súboru
     with open("urlhaus_urls.txt", "w", encoding="utf-8") as f:
-        f.write("\n".join(transformovane_riadky))
+        f.write("\n".join(sorted(unikatne_riadky)))
         
-    print(f"Zoznam bol úspešne transformovaný. Celkovo riadkov: {len(transformovane_riadky)}")
+    print(f"Súbor úspešne vygenerovaný. Celkovo riadkov pre Flowmon: {len(unikatne_riadky)}")
 else:
     print(f"Chyba pri sťahovaní dát: {response.status_code}")
     exit(1)
