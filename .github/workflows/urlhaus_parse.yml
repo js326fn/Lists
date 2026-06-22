@@ -2,7 +2,7 @@ name: URLhaus Data Fetcher
 
 on:
   schedule:
-    - cron: '19 * * * *'
+    - cron: '41 * * * *'
   workflow_dispatch:
 
 # TOTO TU CHÝBALO: Povolí workeru zapisovať zmeny do kódu
