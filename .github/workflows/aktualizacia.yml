@@ -2,7 +2,7 @@ name: Hodinova Aktualizacia Maltrail Zoznamu
 
 on:
   schedule:
-    - cron: '19 * * * *'
+    - cron: '42 * * * *'
   workflow_dispatch:
 
 jobs:
