@@ -13,25 +13,40 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.x'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-    - name: Run script
-      run: python Scripts/urlhaus.py
+      - name: Run script
+        run: python Scripts/urlhaus.py
 
-    - name: Commit and push changes
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add Lists/urlhaus_urls.txt
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Automatická aktualizácia urlhaus_urls.txt" && git push)
+      - name: Debug files
+        run: |
+          pwd
+          echo "===== ROOT ====="
+          ls -la
+          echo "===== LISTS ====="
+          ls -la Lists || true
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add Lists/urlhaus_urls.txt
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Automatická aktualizácia urlhaus_urls.txt"
+            git push
+          else
+            echo "Žiadne zmeny."
+          fi
