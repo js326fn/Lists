@@ -1,6 +1,7 @@
 import os
 import re
 import csv
+import ipaddress
 from urllib.parse import urlparse
 import requests
 
@@ -11,10 +12,32 @@ zdroje = {
 }
 
 unikatne_riadky = set()
+
 port_regex = re.compile(r":\d{1,5}")
+
+hostname_regex = re.compile(
+    r"^(?=.{1,253}$)(?!-)([a-zA-Z0-9-]{1,63}\.)+[a-zA-Z]{2,63}$"
+)
+
 headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+    "User-Agent": "Mozilla/5.0"
 }
+
+
+def valid_hostname(host):
+    host = host.lower().strip()
+
+    if not host:
+        return False
+
+    try:
+        ipaddress.ip_address(host)
+        return True
+    except ValueError:
+        pass
+
+    return bool(hostname_regex.match(host))
+
 
 print("Pracovný adresár:", os.getcwd())
 
@@ -22,52 +45,63 @@ for nazov_zdroja, url in zdroje.items():
     print(f"Sťahujem {nazov_zdroja}...")
 
     try:
-        response = requests.get(url, headers=headers, timeout=45)
+        response = requests.get(
+            url,
+            headers=headers,
+            timeout=45
+        )
 
         if response.status_code != 200:
-            print(f"Chyba pri sťahovaní {nazov_zdroja}: HTTP {response.status_code}")
+            print(
+                f"Chyba pri sťahovaní {nazov_zdroja}: "
+                f"HTTP {response.status_code}"
+            )
             continue
 
         pocet_z_tohto_zdroja = 0
         riadky_textu = response.text.splitlines()
 
         if nazov_zdroja == "PhishTank":
+
             reader = csv.reader(riadky_textu)
 
             next(reader, None)
 
             for row in reader:
+
                 if len(row) < 2:
                     continue
 
                 url_na_parsovanie = row[1].strip()
 
-                if not url_na_parsovanie or url_na_parsovanie.startswith("#"):
+                if not url_na_parsovanie:
                     continue
 
                 try:
-                    parsed_url = urlparse(url_na_parsovanie)
+                    parsed = urlparse(url_na_parsovanie)
 
-                    domena = parsed_url.netloc
-                    cesta = parsed_url.path
+                    domena = parsed.netloc.lower()
+                    cesta = parsed.path
 
                     if domena.startswith("www."):
                         domena = domena[4:]
 
-                    if parsed_url.query:
-                        cesta += "?" + parsed_url.query
+                    if parsed.query:
+                        cesta += "?" + parsed.query
 
-                    if parsed_url.fragment:
-                        cesta += "#" + parsed_url.fragment
+                    if parsed.fragment:
+                        cesta += "#" + parsed.fragment
 
                     if not cesta:
                         cesta = "/"
 
-                    cista_domena = port_regex.sub("", domena)
-                    cista_cesta = port_regex.sub("", cesta)
+                    domena = port_regex.sub("", domena)
+
+                    if not valid_hostname(domena):
+                        continue
 
                     unikatne_riadky.add(
-                        f"{cista_domena},{cista_cesta},{nazov_zdroja}"
+                        f"{domena},{cesta},PhishTank"
                     )
 
                     pocet_z_tohto_zdroja += 1
@@ -76,71 +110,112 @@ for nazov_zdroja, url in zdroje.items():
                     continue
 
         else:
+
             for riadok in riadky_textu:
+
                 riadok = riadok.strip()
 
-                if not riadok or riadok.startswith(("#", ";")):
+                if not riadok:
+                    continue
+
+                if riadok.startswith("#"):
+                    continue
+
+                if riadok.startswith(";"):
                     continue
 
                 if nazov_zdroja == "ThreatFox":
-                    if riadok.startswith("127.0.0.1"):
-                        riadok = riadok.replace("127.0.0.1", "").strip()
-                    else:
+
+                    if not riadok.startswith("127.0.0.1"):
                         continue
 
+                    riadok = (
+                        riadok
+                        .replace("127.0.0.1", "")
+                        .strip()
+                    )
+
                 try:
-                    url_na_parsovanie = riadok
 
-                    if not url_na_parsovanie.startswith(("http://", "https://")):
-                        url_na_parsovanie = "http://" + url_na_parsovanie
+                    if not riadok.startswith(
+                        ("http://", "https://")
+                    ):
+                        url_na_parsovanie = (
+                            "http://" + riadok
+                        )
+                    else:
+                        url_na_parsovanie = riadok
 
-                    parsed_url = urlparse(url_na_parsovanie)
+                    parsed = urlparse(url_na_parsovanie)
 
-                    domena = parsed_url.netloc
-                    cesta = parsed_url.path
+                    domena = parsed.netloc.lower()
+                    cesta = parsed.path
 
                     if domena.startswith("www."):
                         domena = domena[4:]
 
-                    if parsed_url.query:
-                        cesta += "?" + parsed_url.query
+                    if parsed.query:
+                        cesta += "?" + parsed.query
 
-                    if parsed_url.fragment:
-                        cesta += "#" + parsed_url.fragment
+                    if parsed.fragment:
+                        cesta += "#" + parsed.fragment
 
                     if not cesta:
                         cesta = "/"
 
-                    cista_domena = port_regex.sub("", domena)
-                    cista_cesta = port_regex.sub("", cesta)
+                    domena = port_regex.sub("", domena)
+
+                    if not valid_hostname(domena):
+                        continue
 
                     unikatne_riadky.add(
-                        f"{cista_domena},{cista_cesta},{nazov_zdroja}"
+                        f"{domena},{cesta},{nazov_zdroja}"
                     )
 
-                    pocet_z_tohto_zdroja += 1
+                    pocet_z_to_this_source += 1
 
                 except Exception:
                     continue
 
         print(
-            f"-> Úspešne spracované zo {nazov_zdroja}: {pocet_z_tohto_zdroja} riadkov"
+            f"-> Spracované zo {nazov_zdroja}: "
+            f"{pocet_z_tohto_zdroja}"
         )
 
     except Exception as e:
-        print(f"Zlyhalo spojenie so {nazov_zdroja}: {e}")
+        print(
+            f"Zlyhalo spojenie so "
+            f"{nazov_zdroja}: {e}"
+        )
 
 os.makedirs("Lists", exist_ok=True)
 
 vystupny_subor = "Lists/urlhaus_urls.txt"
 
 if len(unikatne_riadky) > 100:
-    with open(vystupny_subor, "w", encoding="utf-8") as f:
-        f.write("\n".join(sorted(unikatne_riadky)))
 
-    print(f"\nHOTOVO")
-    print(f"Zapísaných: {len(unikatne_riadky)} záznamov")
-    print(f"Súbor: {vystupny_subor}")
+    with open(
+        vystupny_subor,
+        "w",
+        encoding="utf-8",
+        newline=""
+    ) as f:
+
+        f.write("hostname,path,comment\n")
+
+        for riadok in sorted(unikatne_riadky):
+            f.write(riadok + "\n")
+
+    print(
+        f"HOTOVO - uložených "
+        f"{len(unikatne_riadky)} záznamov"
+    )
+
 else:
-    print(f"\nCHYBA: Len {len(unikatne_riadky)} záznamov")
+
+    print(
+        f"CHYBA - iba "
+        f"{len(unikatne_riadky)} záznamov"
+    )
+
     exit(1)
