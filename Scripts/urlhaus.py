@@ -15,14 +15,18 @@ zdroje = {
 
 unikatne_riadky = set()
 port_regex = re.compile(r":\d{1,5}")
-# Regex pre overenie, že doména obsahuje iba bezpečné znaky a nie skomolené binárne dáta
+# Bezpečný regex, ktorý kontroluje už IBA ČISTÚ doménu (bez http://, portov a ciest)
 validna_domena_regex = re.compile(r"^[a-zA-Z0-9.-]+$")
-headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+
+# Simulácia reálneho prehliadača (PhishTank bez tohto často vracia prázdne dáta/chybu)
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
 
 for nazov_zdroja, url in zdroje.items():
     print(f"Sťahujem {nazov_zdroja}...")
     try:
-        response = requests.get(url, headers=headers, timeout=45)
+        response = requests.get(url, headers=headers, timeout=60)
         if response.status_code != 200:
             print(f"Chyba pri sťahovaní {nazov_zdroja}: Status {response.status_code}")
             continue
@@ -32,18 +36,14 @@ for nazov_zdroja, url in zdroje.items():
         # === ŠPECIFICKÉ PARSOVANIE PRE PHISHTANK (XML v BZ2) ===
         if nazov_zdroja == "PhishTank":
             try:
-                # Dekompresia BZ2 dát priamo v pamäti
                 xml_data = bz2.decompress(response.content)
                 root = ET.fromstring(xml_data)
                 
-                # Prechádzame jednotlivé <entry> záznamy
                 for entry in root.iter('entry'):
-                    # 1. Kontrola, či je záznam aktuálne ONLINE
                     online_element = entry.find('status/online')
                     if online_element is None or online_element.text != 'yes':
                         continue
                     
-                    # 2. Vytiahnutie a vyčistenie URL
                     url_element = entry.find('url')
                     if url_element is None or not url_element.text:
                         continue
@@ -52,14 +52,11 @@ for nazov_zdroja, url in zdroje.items():
                     if not url_na_parsovanie or url_na_parsovanie.startswith("#"):
                         continue
                     
-                    # 3. Vytiahnutie detailov pre Flowmon-friendly komentár
                     phish_detail_url = entry.find('phish_detail_url')
                     phish_detail_url = phish_detail_url.text.strip() if (phish_detail_url is not None and phish_detail_url.text) else ""
                     
                     target = entry.find('target')
                     target = target.text.strip() if (target is not None and target.text) else "Unknown"
-
-                    # Vytiahnutie ID z URL (napr. z http://..._id=9464515 vytiahne len 9464515)
                     phish_id = phish_detail_url.split("phish_id=")[-1] if "phish_id=" in phish_detail_url else "0000"
 
                     try:
@@ -78,11 +75,10 @@ for nazov_zdroja, url in zdroje.items():
                         čista_domena = port_regex.sub("", domena)
                         čista_cesta = port_regex.sub("", cesta)
                         
-                        # Bezpečnostný filter na neplatné znaky v doméne
+                        # !!! OPRAVA: Regex kontroluje až očistenú doménu, nie celú URL !!!
                         if not validna_domena_regex.match(čista_domena):
                             continue
                         
-                        # Príprava kompaktného komentára bez nebezpečných znakov (čiarky, zátvorky, medzery)
                         čisty_target = target.replace(",", " ").replace(" ", "_")
                         komentar = f"{nazov_zdroja}_{čisty_target}_ID{phish_id}"
                         
@@ -102,7 +98,6 @@ for nazov_zdroja, url in zdroje.items():
                 if not riadok or riadok.startswith(("#", ";")):
                     continue
                 
-                # Ošetrenie špecifického formátu ThreatFoxu (127.0.0.1 [tab] domena)
                 if nazov_zdroja == "ThreatFox":
                     if riadok.startswith("127.0.0.1"):
                         casti = riadok.split()
@@ -132,7 +127,6 @@ for nazov_zdroja, url in zdroje.items():
                     čista_domena = port_regex.sub("", domena)
                     čista_cesta = port_regex.sub("", cesta)
                     
-                    # Bezpečnostný filter na neplatné znaky v doméne
                     if not validna_domena_regex.match(čista_domena):
                         continue
                         
@@ -146,11 +140,15 @@ for nazov_zdroja, url in zdroje.items():
     except Exception as e:
         print(f"Zlyhalo spojenie so {nazov_zdroja}: {e}")
 
-# Finálny zápis do súboru (iba ak máme dostatok dát)
+# === FINÁLNY ZÁPIS (Ukladá priamo do "Lists/urlhaus_urls.txt") ===
 if len(unikatne_riadky) > 100:
-    with open("urlhaus_urls.txt", "w", encoding="utf-8") as f:
+    # Vytvorí priečinok Lists iba v roote (nie Lists/Lists)
+    os.makedirs("Lists", exist_ok=True)
+    
+    cesta_k_suboru = os.path.join("Lists", "urlhaus_urls.txt")
+    with open(cesta_k_suboru, "w", encoding="utf-8") as f:
         f.write("\n".join(sorted(unikatne_riadky)))
-    print(f"\nHOTOVO. Spojený súbor obsahuje celkovo {len(unikatne_riadky)} unikátnych záznamov.")
+    print(f"\nHOTOVO. Súbor uložený do {cesta_k_suboru}. Obsahuje {len(unikatne_riadky)} unikátnych záznamov.")
 else:
-    print("\nCHYBA: Málo záznamov. Súbor nebol prepísaný.")
+    print(f"\nCHYBA: Málo záznamov ({len(unikatne_riadky)}). Súbor nebol prepísaný.")
     exit(1)
