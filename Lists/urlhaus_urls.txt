@@ -563,7 +563,6 @@
 103.154.90.21,/i,URLhaus
 103.157.210.26,/bin.sh,URLhaus
 103.157.210.26,/i,URLhaus
-103.159.221.33,/i,URLhaus
 103.160.130.109,/bin.sh,URLhaus
 103.160.130.109,/i,URLhaus
 103.160.130.178,/i,URLhaus
@@ -587,6 +586,7 @@
 103.161.17.92,/ohshit.sh,URLhaus
 103.163.119.220,/Aqua.arm4,URLhaus
 103.163.119.220,/Aqua.arm5,URLhaus
+103.163.119.220,/Aqua.arm6,URLhaus
 103.163.119.220,/Aqua.arm7,URLhaus
 103.163.119.220,/Aqua.dbg,URLhaus
 103.163.119.220,/Aqua.i686,URLhaus
@@ -635,6 +635,7 @@
 103.181.160.22,/Mozi.a,URLhaus
 103.185.249.13,/kworker_u8,URLhaus
 103.186.77.82,/Mozi.m,URLhaus
+103.187.151.107,/.i,URLhaus
 103.187.151.107,/Mozi.m,URLhaus
 103.187.151.107,/i,URLhaus
 103.19.49.134,/bin.sh,URLhaus
@@ -727,6 +728,7 @@
 103.208.202.85,/i,URLhaus
 103.209.184.118,/.i,URLhaus
 103.209.184.118,/Mozi.m,URLhaus
+103.209.184.118,/i,URLhaus
 103.209.184.121,/Mozi.m,URLhaus
 103.209.184.121,/i,URLhaus
 103.209.65.74,/bin.sh,URLhaus
@@ -784,9 +786,10 @@
 103.232.213.24,/z,URLhaus
 103.24.110.240,/bin.sh,URLhaus
 103.24.110.240,/i,URLhaus
+103.240.211.121,/Photo.scr,URLhaus
 103.240.211.121,/info.zip,URLhaus
+103.245.10.51,/.i,URLhaus
 103.245.10.51,/Mozi.m,URLhaus
-103.245.10.51,/i,URLhaus
 103.245.204.42,/i,URLhaus
 103.245.27.100,/bot.arm,URLhaus
 103.245.27.100,/bot.arm5,URLhaus
@@ -3202,8 +3205,6 @@
 112.27.10.150,/Mozi.m,URLhaus
 112.27.10.150,/bin.sh,URLhaus
 112.27.10.150,/i,URLhaus
-112.31.180.128,/bin.sh,URLhaus
-112.31.180.128,/i,URLhaus
 112.31.189.32,/bin.sh,URLhaus
 112.31.189.32,/i,URLhaus
 112.31.247.176,/Mozi.m,URLhaus
@@ -3343,6 +3344,8 @@
 113.228.159.76,/i,URLhaus
 113.228.159.79,/bin.sh,URLhaus
 113.228.159.79,/i,URLhaus
+113.228.209.236,/bin.sh,URLhaus
+113.228.209.236,/i,URLhaus
 113.228.236.148,/bin.sh,URLhaus
 113.228.236.148,/i,URLhaus
 113.228.64.165,/bin.sh,URLhaus
@@ -3622,7 +3625,6 @@
 114.7.160.114,/.i,URLhaus
 114.7.160.114,/Mozi.m,URLhaus
 114.7.160.114,/i,URLhaus
-114.7.209.193,/Mozi.m,URLhaus
 115.127.68.162,/,URLhaus
 115.127.68.162,/i,URLhaus
 115.159.149.113,/down/pkexU0YtxaR3.exe,URLhaus
@@ -3686,7 +3688,6 @@
 115.230.18.121,/bin.sh,URLhaus
 115.230.18.121,/i,URLhaus
 115.230.66.84,/i,URLhaus
-115.240.70.185,/i,URLhaus
 115.42.71.239,/bin.sh,URLhaus
 115.42.71.239,/i,URLhaus
 115.42.75.111,/Mozi.a,URLhaus
@@ -4435,8 +4436,6 @@
 115.52.40.97,/i,URLhaus
 115.52.46.99,/bin.sh,URLhaus
 115.52.46.99,/i,URLhaus
-115.52.52.55,/bin.sh,URLhaus
-115.52.52.55,/i,URLhaus
 115.52.53.56,/bin.sh,URLhaus
 115.52.66.240,/bin.sh,URLhaus
 115.52.66.240,/i,URLhaus
@@ -4517,6 +4516,7 @@
 115.54.131.169,/i,URLhaus
 115.54.131.48,/bin.sh,URLhaus
 115.54.131.48,/i,URLhaus
+115.54.132.26,/i,URLhaus
 115.54.134.90,/bin.sh,URLhaus
 115.54.134.90,/i,URLhaus
 115.54.144.61,/Mozi.7,URLhaus
@@ -6083,7 +6083,6 @@
 116.171.106.3,/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/wss/client/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/wss/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/wss/szclient/info.zip,URLhaus
-116.171.106.3,/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/wss/util/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/wss/util/nvr/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/WEB-INF/classes/info.zip,URLhaus
@@ -6142,7 +6141,6 @@
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/base/wss/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/base/wss/util/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/chkptwss/dao/info.zip,URLhaus
-116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/chkptwss/dto/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/chkptwss/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/chkptwss/mgr/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/base/dto/info.zip,URLhaus
@@ -6171,7 +6169,6 @@
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/pdawss/action/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/pdawss/dao/info.zip,URLhaus
-116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/pdawss/dto/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/pdawss/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/pdawss/mgr/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/sysparam/action/info.zip,URLhaus
@@ -6200,6 +6197,7 @@
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/mapping/com/vkl/pcwss/module/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/mapping/com/vkl/pcwss/module/sysparam/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/mapping/com/vkl/pcwss/module/viewws/info.zip,URLhaus
+116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/mapping/com/vkl/pcwss/module/visitwss/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/mapping/com/vkl/pcwss/module/zbawss/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/mapping/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/info.zip,URLhaus
@@ -6430,6 +6428,7 @@
 117.60.122.212,/i,URLhaus
 117.72.181.104,/02.08.2022.exe,URLhaus
 117.72.183.111,/1.exe,URLhaus
+117.72.191.140,/02.08.2022.exe,URLhaus
 117.72.242.9,/02.08.2022.exe,URLhaus
 117.72.39.83,/02.08.2022.exe,URLhaus
 117.81.162.7,/bin.sh,URLhaus
@@ -8774,6 +8773,7 @@
 124.163.53.51,/i,URLhaus
 124.163.55.40,/i,URLhaus
 124.194.46.204,/Mozi.m,URLhaus
+124.194.46.204,/i,URLhaus
 124.198.131.134,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 124.198.131.134,/bin/support.client.exe,URLhaus
 124.198.131.152,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
@@ -8826,6 +8826,7 @@
 124.234.239.113,/i,URLhaus
 124.234.239.227,/bin.sh,URLhaus
 124.234.239.227,/i,URLhaus
+124.235.243.150,/bin.sh,URLhaus
 124.29.194.115,/Mozi.a,URLhaus
 124.29.194.26,/Mozi.m,URLhaus
 124.29.214.246,/Mozi.m,URLhaus
@@ -11556,6 +11557,7 @@
 148.170.135.198,/i,URLhaus
 1480wqm.hair,/txtstyh9/15twRz/sTgWXV,PhishTank_Other_ID9437701
 149.210.44.16,/sshd,URLhaus
+149.255.10.46,/.i,URLhaus
 149.255.10.46,/i,URLhaus
 149.28.42.137,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 149.62.200.106,/sshd,URLhaus
@@ -11619,7 +11621,6 @@
 151.233.144.58,/i,URLhaus
 151.233.179.226,/Mozi.7,URLhaus
 151.233.193.84,/i,URLhaus
-151.236.247.230,/.i,URLhaus
 151.236.247.230,/Mozi.m,URLhaus
 151.236.247.230,/i,URLhaus
 151.237.28.218,/bin.sh,URLhaus
@@ -11831,7 +11832,9 @@
 153.80.249.35,/pg.exe,URLhaus
 1533o.checkingsum.in.net,/,ThreatFox
 154.0.129.114,/.i,URLhaus
+154.0.129.114,/Mozi.m,URLhaus
 154.0.129.114,/i,URLhaus
+154.0.129.134,/,URLhaus
 154.0.129.134,/.i,URLhaus
 154.0.129.134,/Mozi.m,URLhaus
 154.0.129.134,/i,URLhaus
@@ -15163,11 +15166,9 @@
 177.36.61.196,/i,URLhaus
 177.39.122.214,/i,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2019-03-18/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Cancelamento/2019-03-26/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2019-04-02/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2019-04-17/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2019-04-30/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Cancelamento/2019-05-02/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2019-05-20/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2019-05-21/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2019-06-04/info.zip,URLhaus
@@ -15233,6 +15234,7 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-05-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-05-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-05-19/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Cancelamento/2020-05-21/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-06-01/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-06-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-06-15/info.zip,URLhaus
@@ -15254,7 +15256,6 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-10-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-10-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-10-15/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Cancelamento/2020-10-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-10-30/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-11-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-11-06/info.zip,URLhaus
@@ -15281,6 +15282,7 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-04-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-04-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-04-16/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Cancelamento/2021-04-28/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-04-30/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-05-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-05-06/info.zip,URLhaus
@@ -15293,14 +15295,12 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-06-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-06-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-06-28/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Cancelamento/2021-07-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-07-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-07-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-07-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-07-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-07-21/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-08-03/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Cancelamento/2021-08-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-08-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-08-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-08-10/info.zip,URLhaus
@@ -15325,6 +15325,7 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-11-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-11-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-11-26/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Cancelamento/2021-11-30/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-12-03/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-12-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-12-08/info.zip,URLhaus
@@ -15351,7 +15352,6 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2022-03-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2022-03-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2022-03-21/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Cancelamento/2022-03-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2022-03-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2022-03-31/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2022-04-01/info.zip,URLhaus
@@ -15417,7 +15417,6 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2023-10-18/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2023-10-20/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2023-10-31/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Cancelamento/2023-11-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2023-12-04/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2023-12-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2024-01-03/info.zip,URLhaus
@@ -15431,7 +15430,6 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2024-04-02/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2024-04-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2024-04-22/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Cancelamento/2024-05-02/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2024-05-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2024-05-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2024-06-06/info.zip,URLhaus
@@ -15442,8 +15440,8 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2024-07-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2024-07-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2024-08-06/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Cancelamento/2024-08-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2024-08-21/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Cancelamento/2024-08-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2024-09-30/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2024-10-01/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2024-10-03/info.zip,URLhaus
@@ -15463,7 +15461,6 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2025-04-04/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2025-04-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2025-04-17/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Cancelamento/2025-04-29/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2025-05-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2025-05-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2025-05-09/info.zip,URLhaus
@@ -15502,7 +15499,6 @@
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-10-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-10-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-10-27/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-11-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-11-13/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-12-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-01-07/info.zip,URLhaus
@@ -15511,8 +15507,8 @@
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-04-01/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-04-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-04-19/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-05-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-06-01/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-06-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-07-20/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-07-21/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-07-26/info.zip,URLhaus
@@ -15527,12 +15523,10 @@
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-17/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-20/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-10-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-10-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-11-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-11-30/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-12-13/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-01-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-01-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-01-20/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-01-21/info.zip,URLhaus
@@ -15542,6 +15536,7 @@
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-03-03/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-03-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-03-15/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-03-29/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-04-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-04-27/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-05-17/info.zip,URLhaus
@@ -15554,7 +15549,6 @@
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-08-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-08-18/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-08-25/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-08-29/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-09-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-10-04/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-10-13/info.zip,URLhaus
@@ -15565,7 +15559,6 @@
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-12-13/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-12-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-12-27/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-01-31/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-02-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-03-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-03-17/info.zip,URLhaus
@@ -15575,6 +15568,7 @@
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-06-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-07-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-08-04/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-08-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-08-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-08-28/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2023-09-06/info.zip,URLhaus
@@ -15614,7 +15608,6 @@
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-03-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-04-29/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-05-09/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-05-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-06-04/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-06-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-06-13/info.zip,URLhaus
@@ -15702,7 +15695,6 @@
 177.70.102.228,/TmpFTP/01/Consulta/2024-03-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Consulta/2024-04-03/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Consulta/2024-05-06/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Consulta/2024-05-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Consulta/2024-06-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Consulta/2024-06-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Consulta/2024-06-17/info.zip,URLhaus
@@ -15734,15 +15726,12 @@
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-01-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-01-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-01-27/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-01-29/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-01-30/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-02-04/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-02-11/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-02-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-03-26/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-04-01/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-04-07/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-05-04/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-05-13/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-06-02/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-06-04/info.zip,URLhaus
@@ -15751,7 +15740,6 @@
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-08-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2020-12-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-03-01/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-03-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-04-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-05-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-06-08/info.zip,URLhaus
@@ -15764,7 +15752,6 @@
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-09-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-09-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-10-13/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-11-11/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-11-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-12-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2022-01-10/info.zip,URLhaus
@@ -15772,7 +15759,6 @@
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2022-01-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2022-03-17/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2022-04-05/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2023-06-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2023-11-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2023-11-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2023-11-27/info.zip,URLhaus
@@ -15797,7 +15783,6 @@
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-04-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-04-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-04-27/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-05-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-06-03/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-06-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-06-07/info.zip,URLhaus
@@ -15808,11 +15793,9 @@
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-08-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-08-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-08-19/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-08-31/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-05-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-08-27/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-12-10/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2021-08-11/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2021-09-29/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2021-10-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2021-12-02/info.zip,URLhaus
@@ -15821,7 +15804,6 @@
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-02-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-02-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-04-22/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-07-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-07-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-08-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-08-22/info.zip,URLhaus
@@ -15834,7 +15816,6 @@
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-09-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-11-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2024-01-04/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2024-02-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2024-02-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2024-07-02/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2024-07-04/info.zip,URLhaus
@@ -15854,7 +15835,6 @@
 177.70.102.228,/TmpFTP/CONS/1/9929/11032020101348/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CONS/1/9929/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CONS/1/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CONS/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-01-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-01-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-01-17/info.zip,URLhaus
@@ -15899,6 +15879,7 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-09/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-11/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-13/info.zip,URLhaus
@@ -15925,7 +15906,6 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-04-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-04-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-04-07/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-04-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-04-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-04-11/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-04-12/info.zip,URLhaus
@@ -15956,6 +15936,7 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-18/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-22/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-26/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-27/info.zip,URLhaus
@@ -15982,6 +15963,7 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-08/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-11/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-12/info.zip,URLhaus
@@ -15993,7 +15975,6 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-21/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-23/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-26/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-27/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-02-28/info.zip,URLhaus
@@ -16001,17 +15982,14 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-02/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-03/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-04/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-10/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-11/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-15/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-17/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-21/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-25/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-26/info.zip,URLhaus
@@ -16024,16 +16002,15 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-07/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-11/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-13/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-14/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-17/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-19/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-20/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-21/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-25/info.zip,URLhaus
@@ -16043,7 +16020,6 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-30/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-05-01/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-05-02/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-05-03/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-05-04/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-05-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-05-07/info.zip,URLhaus
@@ -16150,7 +16126,6 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-04-11/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-04-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-04-13/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-04-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-04-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-04-17/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-04-18/info.zip,URLhaus
@@ -16170,7 +16145,6 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-02/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-03/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-04/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-09/info.zip,URLhaus
@@ -16179,12 +16153,12 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-13/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-14/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-17/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-18/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-20/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-21/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-25/info.zip,URLhaus
@@ -16214,7 +16188,6 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-02/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-03/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-04/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-08/info.zip,URLhaus
@@ -16224,7 +16197,7 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-13/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-15/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-16/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-17/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-18/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-20/info.zip,URLhaus
@@ -16249,7 +16222,6 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-13/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-15/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-18/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-20/info.zip,URLhaus
@@ -16263,14 +16235,14 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-28/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-29/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-30/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-03-31/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-01/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-02/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-03/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-04/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-08/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-11/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-12/info.zip,URLhaus
@@ -16288,7 +16260,6 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-27/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-28/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-29/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-04-30/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-01/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-02/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-03/info.zip,URLhaus
@@ -16298,7 +16269,6 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-09/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-11/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-13/info.zip,URLhaus
@@ -16326,18 +16296,16 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-01-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-01-20/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-01-22/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-01-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-01-25/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-01-26/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-01-27/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-01-28/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-01-30/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-01-31/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-01/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-02/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-03/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-04/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-05/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-10/info.zip,URLhaus
@@ -16348,10 +16316,10 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-17/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-18/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-20/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-21/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-25/info.zip,URLhaus
@@ -16389,7 +16357,6 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-03-31/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-04-01/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-04-02/info.zip,URLhaus
-177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-04-03/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-04-04/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-04-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-04-07/info.zip,URLhaus
@@ -16483,7 +16450,6 @@
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta%20NSU%20Faltante/02589791001053/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta%20NSU%20Faltante/18296147000306/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta%20NSU%20Faltante/info.zip,URLhaus
-177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/02589791000596/2019-07-07/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/02589791000596/2021-07-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/02589791000596/2021-07-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/02589791000596/2021-07-23/info.zip,URLhaus
@@ -16494,7 +16460,6 @@
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/02589791000596/2022-04-20/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/02589791000596/2022-04-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/02589791000596/2023-03-07/info.zip,URLhaus
-177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/02589791000596/2023-03-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/02589791000596/2023-04-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/02589791000596/2023-04-17/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/02589791000596/2023-04-18/info.zip,URLhaus
@@ -16661,7 +16626,6 @@
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/18296147000136/2024-09-27/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/18296147000306/2020-11-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/18296147000306/2020-12-07/info.zip,URLhaus
-177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/18296147000306/2021-01-13/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/18296147000306/2021-08-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/18296147000306/2021-11-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/18296147000306/2022-02-16/info.zip,URLhaus
@@ -16679,7 +16643,6 @@
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Consulta/18296147000721/2021-10-21/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Eventos%20Autom%C3%A1ticos/2022-03-02/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Eventos%20Autom%C3%A1ticos/2022-03-03/info.zip,URLhaus
-177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Eventos%20Autom%C3%A1ticos/2022-03-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Eventos%20Autom%C3%A1ticos/2022-05-01/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Eventos%20Autom%C3%A1ticos/2022-05-03/info.zip,URLhaus
 177.70.102.228,/TmpFTP/Manifesta%C3%A7%C3%A3o/Eventos%20Autom%C3%A1ticos/2022-05-11/info.zip,URLhaus
@@ -16936,14 +16899,12 @@
 177.70.102.228,/TmpFTP/TD00000000000000171474/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000171476/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000171478/info.zip,URLhaus
-177.70.102.228,/TmpFTP/TD00000000000000171556/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000171640/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000171702/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000171726/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000171742/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000171854/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000171858/info.zip,URLhaus
-177.70.102.228,/TmpFTP/TD00000000000000171888/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000171986/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000172094/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000172163/info.zip,URLhaus
@@ -16985,7 +16946,6 @@
 177.70.102.228,/TmpFTP/TD00000000000000224648/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000225745/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000225746/info.zip,URLhaus
-177.70.102.228,/TmpFTP/TD00000000000000226537/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000226538/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000230417/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000230418/info.zip,URLhaus
@@ -17089,7 +17049,6 @@
 177.70.102.228,/TmpFTP/TD00000000000000604319/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000604320/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000604321/info.zip,URLhaus
-177.70.102.228,/TmpFTP/TD00000000000000604442/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000604491/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000604501/info.zip,URLhaus
 177.70.102.228,/TmpFTP/TD00000000000000604650/info.zip,URLhaus
@@ -18037,7 +17996,6 @@
 178.16.53.176,/HTTP/kcrypted.ps1,URLhaus
 178.16.54.101,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 178.16.54.101,/bin/support.client.exe,URLhaus
-178.16.54.109,/1,URLhaus
 178.16.54.109,/1.exe,URLhaus
 178.16.54.109,/12.exe,URLhaus
 178.16.54.109,/13.exe,URLhaus
@@ -18216,7 +18174,6 @@
 178.183.70.63,/sshd,URLhaus
 178.188.30.171,/.i,URLhaus
 178.188.30.171,/Mozi.m,URLhaus
-178.188.30.171,/i,URLhaus
 178.198.246.24,/AV.lnk,URLhaus
 178.198.246.24,/AV.scr,URLhaus
 178.198.246.24,/Photo.lnk,URLhaus
@@ -18235,6 +18192,8 @@
 178.210.83.9,/,URLhaus
 178.211.135.170,/Mozi.m,URLhaus
 178.211.135.170,/i,URLhaus
+178.220.234.5,/,URLhaus
+178.220.234.5,/.i,URLhaus
 178.236.246.159,/bins/bioset0,URLhaus
 178.236.246.159,/bins/cfg80211d,URLhaus
 178.236.246.159,/bins/devfreq_wq,URLhaus
@@ -18280,6 +18239,7 @@
 1789mzx.skin,/qpyx53ie/thKBwD/tf82d1,PhishTank_Other_ID9436548
 179.108.89.220,/bin.sh,URLhaus
 179.108.89.220,/i,URLhaus
+179.189.254.54,/.i,URLhaus
 179.189.254.54,/Mozi.m,URLhaus
 179.189.254.54,/i,URLhaus
 179.214.0.18,/AV.lnk,URLhaus
@@ -18460,7 +18420,7 @@
 181.193.59.78,/,URLhaus
 181.193.59.78,/.i,URLhaus
 181.193.59.78,/i,URLhaus
-181.211.15.11,/i,URLhaus
+181.211.252.34,/Mozi.m,URLhaus
 181.211.252.34,/i,URLhaus
 181.214.140.248,/init.sh,URLhaus
 181.225.67.10,/i,URLhaus
@@ -18469,6 +18429,7 @@
 181.49.47.190,/i,URLhaus
 181.55.251.93,/.i,URLhaus
 181.55.251.93,/i,URLhaus
+181.60.246.15,/i,URLhaus
 181.78.82.109,/facebook,PhishTank_Other_ID9351278
 181.79.85.69,/bin.sh,URLhaus
 181.79.85.69,/i,URLhaus
@@ -19911,7 +19872,6 @@
 182.123.217.37,/i,URLhaus
 182.123.225.3,/bin.sh,URLhaus
 182.123.225.3,/i,URLhaus
-182.123.234.14,/i,URLhaus
 182.123.239.95,/i,URLhaus
 182.123.242.208,/bin.sh,URLhaus
 182.123.242.208,/i,URLhaus
@@ -20543,9 +20503,8 @@
 182.129.144.42,/i,URLhaus
 182.130.208.219,/bin.sh,URLhaus
 182.130.208.219,/i,URLhaus
-182.160.102.188,/,URLhaus
 182.160.102.188,/Mozi.m,URLhaus
-182.160.102.188,/i,URLhaus
+182.160.109.98,/i,URLhaus
 182.163.114.232,/Test/info.zip,URLhaus
 182.163.114.232,/info.zip,URLhaus
 182.173.199.8,/bin.sh,URLhaus
@@ -20717,7 +20676,6 @@
 184.174.97.162,/payload/386/pikachu,URLhaus
 184.185.30.182,/.i,URLhaus
 184.185.30.182,/Mozi.m,URLhaus
-184.185.30.182,/i,URLhaus
 18409237.xyz,/5ddk32rn/0ohztr/cNDag6,PhishTank_Other_ID9407165
 18452654.killbot.ru,/,ThreatFox
 185-217-0-181.ip.obe.net,/,PhishTank_Other_ID9493011
@@ -21787,7 +21745,6 @@
 193-233-82-248.sslip.io,/,ThreatFox
 193.104.58.65,/rumpaugust.png,URLhaus
 193.104.58.65,/yuxwormaugust.png,URLhaus
-193.106.58.174,/.i,URLhaus
 193.106.58.174,/Mozi.m,URLhaus
 193.106.58.174,/i,URLhaus
 193.111.117.6,/stc-pg-cr.exe,URLhaus
@@ -21951,7 +21908,6 @@
 194.32.248.126,/updates/svchost.exe,URLhaus
 194.32.248.126,/updates/svchost_laptop.exe,URLhaus
 194.36.80.225,/.i,URLhaus
-194.36.80.225,/i,URLhaus
 194.36.88.178,/bins,URLhaus
 194.36.88.178,/loader.sh,URLhaus
 194.48.248.48,/bot,URLhaus
@@ -23272,6 +23228,7 @@
 200.61.163.235,/Mozi.m,URLhaus
 200.61.163.235,/i,URLhaus
 200.69.219.25,/.i,URLhaus
+200.69.219.25,/Mozi.m,URLhaus
 200.69.219.25,/i,URLhaus
 2000tiendasd1.com.co,/,ThreatFox
 201.110.207.86,/sshd,URLhaus
@@ -23332,7 +23289,7 @@
 202.137.141.244,/am.html,PhishTank_Amazon.com_ID9426468
 202.139.20.12,/sshd,URLhaus
 202.141.101.239,/Mozi.a,URLhaus
-202.148.18.220,/.i,URLhaus
+202.148.18.218,/Mozi.m,URLhaus
 202.148.18.220,/Mozi.m,URLhaus
 202.148.18.220,/i,URLhaus
 202.148.18.221,/i,URLhaus
@@ -23384,9 +23341,9 @@
 202.53.164.46,/Mozi.m,URLhaus
 202.53.164.46,/i,URLhaus
 202.53.164.90,/.i,URLhaus
-202.53.164.90,/i,URLhaus
 202.57.39.2,/tftp,URLhaus
 202.57.43.234,/tftp,URLhaus
+202.59.90.109,/i,URLhaus
 202.62.41.165,/.i,URLhaus
 202.62.41.165,/i,URLhaus
 202.70.139.56,/Mozi.a,URLhaus
@@ -23429,7 +23386,6 @@
 203.101.181.9,/i,URLhaus
 203.101.187.22,/bin.sh,URLhaus
 203.101.187.22,/i,URLhaus
-203.109.201.77,/.i,URLhaus
 203.109.201.77,/i,URLhaus
 203.114.239.238,/i,URLhaus
 203.114.63.253,/sshd,URLhaus
@@ -23478,6 +23434,7 @@
 203.187.227.112,/photo.lnk,URLhaus
 203.187.227.112,/photo.scr,URLhaus
 203.187.227.112,/video.lnk,URLhaus
+203.187.227.112,/video.scr,URLhaus
 203.192.211.119,/AV.lnk,URLhaus
 203.192.211.119,/AV.scr,URLhaus
 203.192.211.119,/Photo.lnk,URLhaus
@@ -23840,6 +23797,7 @@
 211.92.69.163,/i,URLhaus
 212.107.232.167,/,URLhaus
 212.107.232.167,/.i,URLhaus
+212.107.232.167,/i,URLhaus
 212.156.106.146,/sshd,URLhaus
 212.164.115.235,/bin.sh,URLhaus
 212.164.115.235,/i,URLhaus
@@ -23869,8 +23827,8 @@
 212.40.77.22,/i,URLhaus
 212.51.156.55,/i,URLhaus
 212.73.53.163,/i,URLhaus
-212.73.75.82,/i,URLhaus
 212.73.75.84,/.i,URLhaus
+212.73.75.84,/Mozi.m,URLhaus
 212.73.75.84,/i,URLhaus
 212.85.166.12,/.i,URLhaus
 212.85.166.12,/i,URLhaus
@@ -23909,11 +23867,9 @@
 213.242.30.74,/bin.sh,URLhaus
 213.242.30.74,/i,URLhaus
 213.47.243.57,/i,URLhaus
-213.5.194.56,/.i,URLhaus
 213.5.194.56,/i,URLhaus
 213.6.196.230,/.i,URLhaus
 213.6.196.230,/i,URLhaus
-213.6.74.138,/.i,URLhaus
 213.6.74.138,/Mozi.m,URLhaus
 213.60.255.191,/login,PhishTank_Other_ID8257690
 213.66.64.21,/bin.sh,URLhaus
@@ -24409,6 +24365,7 @@
 217.60.241.9,/bin/support.client.exe,URLhaus
 217.64.135.181,/bin.sh,URLhaus
 217.64.135.181,/i,URLhaus
+217.75.193.34,/i,URLhaus
 217.92.214.15,/Photo.scr,URLhaus
 217651.8b.io,/,PhishTank_Microsoft_ID6925502
 218.101.27.83,/bin.sh,URLhaus
@@ -26366,6 +26323,7 @@
 222.165.237.59,/i,URLhaus
 222.165.237.60,/i,URLhaus
 222.165.237.61,/i,URLhaus
+222.165.237.62,/i,URLhaus
 222.166.248.15,/bin.sh,URLhaus
 222.166.248.15,/i,URLhaus
 222.173.239.186,/i,URLhaus
@@ -26899,8 +26857,6 @@
 27.206.83.207,/i,URLhaus
 27.206.84.69,/bin.sh,URLhaus
 27.206.84.69,/i,URLhaus
-27.206.89.192,/bin.sh,URLhaus
-27.206.89.192,/i,URLhaus
 27.206.89.234,/bin.sh,URLhaus
 27.206.89.234,/i,URLhaus
 27.206.90.87,/bin.sh,URLhaus
@@ -27232,7 +27188,6 @@
 27.220.11.19,/bin.sh,URLhaus
 27.220.11.19,/i,URLhaus
 27.220.114.3,/i,URLhaus
-27.220.132.248,/bin.sh,URLhaus
 27.220.132.248,/i,URLhaus
 27.220.241.80,/bin.sh,URLhaus
 27.220.241.80,/i,URLhaus
@@ -27316,8 +27271,6 @@
 27.37.102.253,/i,URLhaus
 27.37.103.123,/i,URLhaus
 27.37.103.132,/i,URLhaus
-27.37.103.139,/bin.sh,URLhaus
-27.37.103.139,/i,URLhaus
 27.37.103.176,/i,URLhaus
 27.37.103.179,/i,URLhaus
 27.37.103.182,/bin.sh,URLhaus
@@ -28063,7 +28016,6 @@
 31.173.70.100,/sshd,URLhaus
 31.184.194.114,/404,URLhaus
 31.186.54.111,/Mozi.m,URLhaus
-31.186.54.111,/i,URLhaus
 31.220.163.1,/.i,URLhaus
 31.220.163.1,/i,URLhaus
 31.222.113.214,/sshd,URLhaus
@@ -28617,6 +28569,7 @@
 36.48.59.106,/bin.sh,URLhaus
 36.48.59.106,/i,URLhaus
 36.5.87.64,/i,URLhaus
+36.64.210.218,/.i,URLhaus
 36.64.210.218,/Mozi.m,URLhaus
 36.64.210.218,/i,URLhaus
 36.64.227.134,/.i,URLhaus
@@ -28628,6 +28581,7 @@
 36.67.66.178,/Mozi.a,URLhaus
 36.67.66.178,/Mozi.m,URLhaus
 36.67.66.178,/bin.sh,URLhaus
+36.67.66.178,/i,URLhaus
 36.67.66.178,/o,URLhaus
 36.69.82.140,/bin.sh,URLhaus
 36.69.82.140,/i,URLhaus
@@ -28684,7 +28638,6 @@
 36.89.62.19,/i,URLhaus
 36.92.110.187,/sshd,URLhaus
 36.92.68.241,/.i,URLhaus
-36.92.68.241,/Mozi.m,URLhaus
 36.93.2.29,/i,URLhaus
 36.95.137.155,/i,URLhaus
 360-carview.com,/,ThreatFox
@@ -28722,9 +28675,12 @@
 37.232.128.5,/i,URLhaus
 37.232.183.1,/i,URLhaus
 37.232.219.81,/i,URLhaus
+37.233.63.185,/Mozi.m,URLhaus
 37.233.63.185,/i,URLhaus
-37.255.210.242,/i,URLhaus
+37.255.210.242,/.i,URLhaus
 37.255.217.87,/Mozi.m,URLhaus
+37.255.217.87,/i,URLhaus
+37.255.229.18,/.i,URLhaus
 37.255.229.18,/i,URLhaus
 37.34.209.216,/.i,URLhaus
 37.34.209.216,/Mozi.m,URLhaus
@@ -29605,6 +29561,7 @@
 41.77.74.90,/.i,URLhaus
 41.77.74.90,/i,URLhaus
 41.78.75.186,/Mozi.m,URLhaus
+41.78.75.186,/i,URLhaus
 41.87.80.123,/pty10,URLhaus
 41.87.80.123,/pty3,URLhaus
 41.87.80.123,/pty4,URLhaus
@@ -32298,7 +32255,6 @@
 45.148.120.78,/4Vo7,URLhaus
 45.148.120.78,/4wL,URLhaus
 45.148.120.78,/54Y,URLhaus
-45.148.120.78,/5Fl,URLhaus
 45.148.120.78,/5LKy,URLhaus
 45.148.120.78,/5PT,URLhaus
 45.148.120.78,/5TX0,URLhaus
@@ -32368,7 +32324,6 @@
 45.148.120.78,/Jav,URLhaus
 45.148.120.78,/Jwg,URLhaus
 45.148.120.78,/JyVY,URLhaus
-45.148.120.78,/K2vC,URLhaus
 45.148.120.78,/K49,URLhaus
 45.148.120.78,/KIGQ,URLhaus
 45.148.120.78,/KZK,URLhaus
@@ -32380,7 +32335,6 @@
 45.148.120.78,/Laa,URLhaus
 45.148.120.78,/Le4,URLhaus
 45.148.120.78,/LeQ,URLhaus
-45.148.120.78,/LfyP,URLhaus
 45.148.120.78,/M2bO,URLhaus
 45.148.120.78,/M2g,URLhaus
 45.148.120.78,/M3DX,URLhaus
@@ -32436,7 +32390,6 @@
 45.148.120.78,/UT6d,URLhaus
 45.148.120.78,/UWq5,URLhaus
 45.148.120.78,/Uo2K,URLhaus
-45.148.120.78,/V2w,URLhaus
 45.148.120.78,/VBk5,URLhaus
 45.148.120.78,/VCl,URLhaus
 45.148.120.78,/Vid,URLhaus
@@ -32449,9 +32402,7 @@
 45.148.120.78,/XouQ,URLhaus
 45.148.120.78,/Xze2,URLhaus
 45.148.120.78,/YMp,URLhaus
-45.148.120.78,/Z47T,URLhaus
 45.148.120.78,/Zim,URLhaus
-45.148.120.78,/a2f,URLhaus
 45.148.120.78,/aGNs,URLhaus
 45.148.120.78,/aK5,URLhaus
 45.148.120.78,/aRv0,URLhaus
@@ -32467,7 +32418,6 @@
 45.148.120.78,/bth,URLhaus
 45.148.120.78,/cHNh,URLhaus
 45.148.120.78,/cKJ,URLhaus
-45.148.120.78,/cmxi,URLhaus
 45.148.120.78,/dZA,URLhaus
 45.148.120.78,/dga,URLhaus
 45.148.120.78,/dnFN,URLhaus
@@ -32482,7 +32432,6 @@
 45.148.120.78,/fdTU,URLhaus
 45.148.120.78,/fmQ,URLhaus
 45.148.120.78,/fvix,URLhaus
-45.148.120.78,/gjF,URLhaus
 45.148.120.78,/gn8,URLhaus
 45.148.120.78,/gxf,URLhaus
 45.148.120.78,/h0V,URLhaus
@@ -32497,7 +32446,6 @@
 45.148.120.78,/jJA4,URLhaus
 45.148.120.78,/jLt,URLhaus
 45.148.120.78,/jNYq,URLhaus
-45.148.120.78,/jW3,URLhaus
 45.148.120.78,/jeF,URLhaus
 45.148.120.78,/k15,URLhaus
 45.148.120.78,/kHH,URLhaus
@@ -32506,7 +32454,6 @@
 45.148.120.78,/lMl,URLhaus
 45.148.120.78,/lOs,URLhaus
 45.148.120.78,/m9i,URLhaus
-45.148.120.78,/mH3m,URLhaus
 45.148.120.78,/mcM,URLhaus
 45.148.120.78,/mh6,URLhaus
 45.148.120.78,/mo8E,URLhaus
@@ -32552,7 +32499,6 @@
 45.148.120.78,/tz6E,URLhaus
 45.148.120.78,/u3lT,URLhaus
 45.148.120.78,/uDS,URLhaus
-45.148.120.78,/uIBe,URLhaus
 45.148.120.78,/uNJ,URLhaus
 45.148.120.78,/uWH,URLhaus
 45.148.120.78,/udeG,URLhaus
@@ -32560,12 +32506,9 @@
 45.148.120.78,/vUTn,URLhaus
 45.148.120.78,/viK,URLhaus
 45.148.120.78,/vlB,URLhaus
-45.148.120.78,/vzPx,URLhaus
-45.148.120.78,/w0g,URLhaus
 45.148.120.78,/wIu4,URLhaus
 45.148.120.78,/wnmO,URLhaus
 45.148.120.78,/x4i,URLhaus
-45.148.120.78,/xHRf,URLhaus
 45.148.120.78,/xRn,URLhaus
 45.148.120.78,/xSxb,URLhaus
 45.148.120.78,/xXT2,URLhaus
@@ -34017,7 +33960,6 @@
 47.113.113.162,/linux,URLhaus
 47.115.37.164,/linux,URLhaus
 47.120.20.86,/02.08.2022.exe,URLhaus
-47.120.32.72,/02.08.2022.exe,URLhaus
 47.121.137.8,/02.08.2022.exe,URLhaus
 47.121.184.138,/linux,URLhaus
 47.123.4.165,/i,URLhaus
@@ -34073,7 +34015,7 @@
 48zn9jgdd1qqbnxz.org,/,ThreatFox
 49.13.77.253,/MSI_211940.png,URLhaus
 49.158.206.47,/.i,URLhaus
-49.158.206.47,/Mozi.m,URLhaus
+49.158.206.47,/config,URLhaus
 49.158.206.47,/i,URLhaus
 49.158.206.47,/mozi.a,URLhaus
 49.176.254.54,/,URLhaus
@@ -36939,6 +36881,7 @@
 60moi.canone7node.in.net,/,ThreatFox
 60ou7kjk.dinosrestaurant.co.uk,/,ThreatFox
 61.136.49.183,/bin.sh,URLhaus
+61.136.49.183,/i,URLhaus
 61.136.85.126,/i,URLhaus
 61.136.85.251,/i,URLhaus
 61.136.86.4,/bin.sh,URLhaus
@@ -39216,7 +39159,6 @@
 72jk.skyroad.in.net,/,ThreatFox
 72mv6y0m.twinglassca.com,/,ThreatFox
 72z5.zex8liron.in.net,/,ThreatFox
-73.51.224.25,/Photo.lnk,URLhaus
 7309h.puro2tal.surf,/,ThreatFox
 730e.po4vaxel.in.net,/,ThreatFox
 73190564.xyz,/c7uup3ox/TFGIhF/n4mEoo,PhishTank_Other_ID9393953
@@ -39244,6 +39186,7 @@
 74.48.34.10,/AB4g5/Josho.arm,URLhaus
 74.48.34.10,/AB4g5/Josho.arm5,URLhaus
 74.48.34.10,/AB4g5/Josho.arm6,URLhaus
+74.48.34.10,/AB4g5/Josho.arm7,URLhaus
 74.48.34.10,/AB4g5/Josho.m68k,URLhaus
 74.48.34.10,/AB4g5/Josho.mips,URLhaus
 74.48.34.10,/AB4g5/Josho.mpsl,URLhaus
@@ -39251,6 +39194,7 @@
 74.48.34.10,/AB4g5/Josho.sh4,URLhaus
 74.48.34.10,/AB4g5/Josho.x86,URLhaus
 74.48.34.10,/bins/hax.arm,URLhaus
+74.48.34.10,/bins/hax.arm5,URLhaus
 74.48.34.10,/bins/hax.arm6,URLhaus
 74.48.34.10,/bins/hax.arm7,URLhaus
 74.48.34.10,/bins/hax.m68k,URLhaus
@@ -39397,7 +39341,6 @@
 77.239.124.139,/nz/nz.spc,URLhaus
 77.239.124.139,/nz/nz.x86,URLhaus
 77.239.124.139,/nz/nz.x86_64,URLhaus
-77.245.7.181,/i,URLhaus
 77.247.88.103,/bin.sh,URLhaus
 77.247.88.103,/i,URLhaus
 77.247.88.121,/bin.sh,URLhaus
@@ -39418,7 +39361,7 @@
 77.247.88.99,/i,URLhaus
 77.39.19.233,/i,URLhaus
 77.46.170.18,/.i,URLhaus
-77.46.170.18,/i,URLhaus
+77.46.170.18,/Mozi.m,URLhaus
 77.50.222.238,/i,URLhaus
 77.53.231.107,/bin.sh,URLhaus
 77.53.231.107,/i,URLhaus
@@ -39897,7 +39840,7 @@
 81.16.123.55,/Aqua.arm6,URLhaus
 81.16.123.55,/Aqua.arm7,URLhaus
 81.16.123.55,/Aqua.x86,URLhaus
-81.16.123.55,/Mozi.m,URLhaus
+81.16.123.55,/Mozi.a,URLhaus
 81.16.242.236,/Mozi.m,URLhaus
 81.16.242.236,/i,URLhaus
 81.16.247.81,/.i,URLhaus
@@ -40743,7 +40686,6 @@
 88vx07b2.sametcanaltindal.online,/,ThreatFox
 88xxzx8888888xz125654check.weebly.com,/,PhishTank_Other_ID9242341
 89.101.123.50,/,URLhaus
-89.101.123.50,/i,URLhaus
 89.106.83.40,/MayData/coursehope.ps1,URLhaus
 89.121.250.206,/tftp,URLhaus
 89.124.94.238,/AC.cmd,URLhaus
@@ -41164,6 +41106,7 @@
 91.199.45.108,/,URLhaus
 91.199.45.108,/?q={random.randint(1,1000000)}&rnd={random.random()},URLhaus
 91.204.154.197,/.i,URLhaus
+91.204.154.197,/i,URLhaus
 91.208.197.30,/client.exe,URLhaus
 91.214.78.173,/bins/bot-amd64,URLhaus
 91.214.78.173,/bins/bot-arm7,URLhaus
@@ -44231,7 +44174,6 @@
 94.233.102.185,/i,URLhaus
 94.244.113.217,/,URLhaus
 94.244.113.217,/.i,URLhaus
-94.244.113.217,/i,URLhaus
 94.244.36.34,/bin.sh,URLhaus
 94.244.36.34,/i,URLhaus
 94.249.112.218,/i,URLhaus
@@ -44490,7 +44432,6 @@
 95.165.187.102,/bin.sh,URLhaus
 95.165.187.102,/i,URLhaus
 95.170.112.165,/i,URLhaus
-95.170.116.28,/.i,URLhaus
 95.170.119.100,/.i,URLhaus
 95.170.119.100,/i,URLhaus
 95.179.224.131,/pty10,URLhaus
@@ -45986,6 +45927,7 @@ adamascrate.firebaseapp.com,/,PhishTank_Other_ID8018982
 adamconsultings.com,/,ThreatFox
 adamdasdadad-47266.portmap.host,/,ThreatFox
 adamint.ristestate.com,/wp,PhishTank_Other_ID9313428
+adammagazine.ch,/,ThreatFox
 adamrat.lol,/,ThreatFox
 adams1518.com,/community/review.php?code=%22%2F%3E%3Cimg%20src%3D%22https%3A%2F%2Fgoogle.com%2Fi6GK9w3sszdtP.jpg%22%20onerror%3D%22window.location%3DdecodeURIComponent%28atob%28%27Njg3NDc0NzA3MzNhMmYyZjZmMmU2YjZjNjg2ODZiN2E3NjZkMmU2ZDZmNmQyZjcxNjM2NjdhNjU3MjY5MjMzMTM5MzAzMjM0MmY3MTYzNjY3YTY1NzI2OQ%3D%3D%27%29.replace%28%2F%28..%29%2Fg%2C%20%27%25%241%27%29%29%3B%22%3E,PhishTank_eBay__Inc._ID9269151
 adamsaccountsecurelogin.weeblysite.com,/,PhishTank_Other_ID9481383
@@ -78146,7 +78088,6 @@ download.globalprotection.services,/,ThreatFox
 download.haozip.com,/haozip.100021.exe,URLhaus
 download.haozip.com,/haozip.convertimg.exe,URLhaus
 download.haozip.com,/uniondown/haozip_tiny.201805.exe,URLhaus
-download.kaobeitu.com,/kaobeitu/mini/v1.0.7.16/mini_04.exe,URLhaus
 download.kaobeitu.com,/kaobeitu/news/v1.0.7.31/news_01.exe,URLhaus
 download.kbcard.com,/security/wizvera/delfino-g3/delfino-g3.exe,URLhaus
 download.logltech.workers.dev,/,ThreatFox
@@ -79017,7 +78958,6 @@ drive.google.com,/uc?export=download&id=1ysD5Ynm5FVGZbicmpYWBvh6rgaJXDp2z,URLhau
 drive.google.com,/uc?export=download&id=1z_o0dyBE-ElCt5XejBcobF38AXt8XLwt,URLhaus
 drive.google.com,/uc?export=download&id=1zedecXg9goMyD7PpvT-eiN6PCD_hNWWp,URLhaus
 drive.google.com,/uc?export=download&id=1zqzIvoxid6wgVjstzD0lG2vxNpNC-puf,URLhaus
-drive.google.com,/uc?id=1YDCOOw9TkyO5_QFbdZcaqKD9hZDoUg7O,URLhaus
 drive.mt,/,ThreatFox
 drive.proton.me,/urls/XQBVWQQ12W#KuA6wccfgqXK,PhishTank_Internal_Revenue_Service_ID9395325
 drive.shadredin.store,/,ThreatFox
@@ -79866,6 +79806,7 @@ dtbtpd.com,/?type=verify&amp;key=nlvcfwjqtd,PhishTank_Other_ID9436245
 dtc.aasscc.how,/,ThreatFox
 dtc.cebolinhaburger.com,/,ThreatFox
 dtcjxif.net,/,ThreatFox
+dtcjz3h1.takeoffdallas.com,/,ThreatFox
 dtesf2.cl,/olkhh/kijhg/web/authen.php,PhishTank_Other_ID9485936
 dtetteinne.weebly.com,/,PhishTank_Other_ID9020768
 dtfgdzr.com,/,ThreatFox
@@ -94112,6 +94053,7 @@ hhhhh.fwh.is,/img_165545.png,URLhaus
 hhhhh.fwh.is,/img_234649.png,URLhaus
 hhhtpwpcu.weebly.com,/,PhishTank_Other_ID9458462
 hhhtrallycu.weebly.com,/,PhishTank_Other_ID9395662
+hhmqcnz.greenestreetchurch.com,/,ThreatFox
 hhpms.com,/,ThreatFox
 hhppdsg.ru,/,ThreatFox
 hhqcgjh.com,/,ThreatFox
@@ -95132,7 +95074,6 @@ hotelpedramar.com,/,ThreatFox
 hotelphotoadm.info,/,ThreatFox
 hotelplazacolon.com,/,ThreatFox
 hotels-cloudbeds.bolt.host,/,PhishTank_Other_ID9405868
-hotelsep.blogspot.com,/atom.xml,URLhaus
 hotelservicemonitor.com,/,ThreatFox
 hotelshuktara.com,/,ThreatFox
 hotelsignbkngguest.help,/,ThreatFox
@@ -98484,7 +98425,6 @@ indotech.it.com,/,ThreatFox
 indportedcoud.start.page,/,PhishTank_Facebook_ID8098337
 indreamtech.github.io,/waybillkr_UJOAGCTZY6z7zJSWAdEouaxShQZiD2C0HcUJs43ohCF6jkTT3uRFPZW_cryptech.shtml,PhishTank_Other_ID9353130
 indreamtech.github.io,/waybillkr_UJOAGCTZY6z7zJSWAdEouaxShQZiD2C0HcUJs43ohCF6jkTT3uRFPZW_cryptech.shtml,PhishTank_Other_ID9353131
-indusenterprises.co,/uilo/uilo.js,URLhaus
 industrialglpmadrid.com,/,ThreatFox
 industrialstructures.com.au,/,ThreatFox
 industrialweb.webcindario.com,/,PhishTank_Other_ID8291964
@@ -100370,6 +100310,7 @@ ivs.c34.mytemp.website,/,PhishTank_Other_ID8634274
 ivsfinmc.meadow-observability-core.garden,/,ThreatFox
 ivx-rpcrectify.pages.dev,/,PhishTank_Other_ID9493004
 ivx-rpcrectify.pages.dev,/,PhishTank_Other_ID9493005
+ivxxyaq.eng-us--goldalign.com,/,ThreatFox
 ivycapitalgroup.net,/,ThreatFox
 ivygo.co,/,ThreatFox
 ivyprologue.top,/,ThreatFox
@@ -100407,7 +100348,6 @@ ix9n.vexa7lorn.bet,/,ThreatFox
 ixc32.1dorelax.surf,/,ThreatFox
 ixcube.ddns.net,/,ThreatFox
 ixejqlu.wavelu.com,/,ThreatFox
-ixirgroup.com,/isi/isi.js,URLhaus
 ixober.jamaicamihappyga.com,/,ThreatFox
 ixscgl.marquettedetailing.com,/,ThreatFox
 ixtl.silver-dock.in.net,/,ThreatFox
@@ -101168,6 +101108,7 @@ jhgyuguuyuyuiiiyuyuyu.weebly.com,/,PhishTank_Other_ID9496102
 jhh0yt.highjoke.in.net,/,ThreatFox
 jhifgpnl.besthire.in.net,/,ThreatFox
 jhikfdl.ru,/,ThreatFox
+jhjokx.sweethannahs.com,/,ThreatFox
 jhknytxr.chain-sinusit.in.net,/,ThreatFox
 jhkxjkxjhxj90.weebly.com,/,PhishTank_Other_ID9086491
 jhlzgnx.com,/,ThreatFox
@@ -101344,6 +101285,7 @@ jlmnp.com,/,ThreatFox
 jloj7ws.dex4lavel.in.net,/,ThreatFox
 jlqawun.net,/,ThreatFox
 jluynhq.ru,/,ThreatFox
+jlwaxyd.eng-us--goldalign.com,/,ThreatFox
 jlwz.cn,/bbs/upload/1000/2017/03/16/202395_1101210.apk,URLhaus
 jm1yq-22w83k-9h5rsm-hs0-1m10.pages.dev,/,PhishTank_Other_ID9492492
 jm1yq-22w83k-9h5rsm-hs0-1m10.pages.dev,/,PhishTank_Other_ID9492493
@@ -123209,7 +123151,6 @@ oiyksxf.vexon3ar.surf,/,ThreatFox
 oj7f87i3.radioshartbandi.casino,/,ThreatFox
 oj7f87i3.radioshartbandi.casino,/?ublib=9c525f8c-b37f-4761-9e2e-24341614a7fe,URLhaus
 ojalvosa.com.ar,/web/wp/,PhishTank_Other_ID9332110
-ojang.pe.kr,/CALENDAR/DOWN/CALENDAR/SETUP.EXE,URLhaus
 ojang.pe.kr,/calendar/down/calendar.exe,URLhaus
 ojang.pe.kr,/calendar/down/jeditor/jeditor.exe,URLhaus
 ojblxlua.hugugtejarat4.xyz,/,ThreatFox
@@ -150623,6 +150564,7 @@ rvubnzq.akharinbama.ir,/888acdaa-e677-444a-ae53-007ec13bdd79,URLhaus
 rvvemra.takhtebet.app,/,ThreatFox
 rvvemra.takhtebet.app,/faea0967-fa05-4994-8440-686eaa2d049b,URLhaus
 rvweldedmesh.com,/,ThreatFox
+rvwwzcz.greaternewzionbc.org,/,ThreatFox
 rvxdhve.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click,/ab753813-65b8-4970-99d4-b2b2abc212e6.php,PhishTank_Other_ID9438227
 rw-manufaktur.de,/,ThreatFox
 rw5c0wt9.shop,/,ThreatFox
@@ -154192,6 +154134,7 @@ shoemaker.jp.net,/,ThreatFox
 shoesearthquake.xyz,/,ThreatFox
 shoesha.pk,/,ThreatFox
 shohill.devopsn.in.net,/,ThreatFox
+sholap.sweethannahs.com,/,ThreatFox
 shootr.cyou,/,ThreatFox
 shop-hub.selzovestments.in.net,/,ThreatFox
 shop-list1.albann0vosel.in.net,/,ThreatFox
@@ -167099,6 +167042,7 @@ tridraix5.gypsyw0od.in.net,/,ThreatFox
 tridraor.mav2lirex.lat,/,ThreatFox
 triedandtrueroofing.com,/,ThreatFox
 trienen.de,/streaming/?id28,PhishTank_Other_ID9367384
+triflackcom.com,/main2.exe,URLhaus
 triflux3ar.morphinve8et.in.net,/,ThreatFox
 trifluxor.strangle-snup.surf,/,ThreatFox
 trifluxos.skylint.in.net,/,ThreatFox
@@ -167782,6 +167726,7 @@ twswsb.cn,/,ThreatFox
 twtaxgo.cn,/,ThreatFox
 twtd.zom7lirex.in.net,/,ThreatFox
 twu-hwt.org,/agenzia/,URLhaus
+twu-hwt.org,/connect/,URLhaus
 twu-hwt.org,/scarica/,URLhaus
 twuurbf.com,/,ThreatFox
 twvjaye.penalti.website,/,ThreatFox
@@ -174109,6 +174054,7 @@ web.archive.org,/web/20240808121419if_/http:/154.216.19.139/bins/mirai.mips,URLh
 web.archive.org,/web/20240808121832if_/http://154.216.19.139/bins/mirai.mipsel,URLhaus
 web.archive.org,/web/20240808121832if_/http:/154.216.19.139/bins/mirai.mipsel,URLhaus
 web.archive.org,/web/20240808122159if_/http://154.216.19.139/bins/mirai.powerpc,URLhaus
+web.archive.org,/web/20240808122159if_/http:/154.216.19.139/bins/mirai.powerpc,URLhaus
 web.archive.org,/web/20240808122448if_/http://154.216.19.139/bins/mirai.sh4,URLhaus
 web.archive.org,/web/20240808122448if_/http:/154.216.19.139/bins/mirai.sh4,URLhaus
 web.archive.org,/web/20240808122636if_/http://154.216.19.139/bins/mirai.sparc,URLhaus
@@ -175399,6 +175345,7 @@ windhorseevents.com,/,ThreatFox
 windinnovationcorp.com,/,ThreatFox
 windlrr.com,/,ThreatFox
 windomstatetheater.com,/mits.zip,URLhaus
+windomstatetheater.com,/osxs.zip,URLhaus
 windomstatetheater.com,/rars.zip,URLhaus
 windonws.com,/,ThreatFox
 windowas.com,/,ThreatFox
@@ -177676,6 +177623,7 @@ xzxllyxf.radioshartbandi.bet,/,ThreatFox
 xzxni-135-134-92-71.run.pinggy-free.link,/run.sh,URLhaus
 xzxx.eu.cc,/MX,PhishTank_Other_ID9442210
 xzz.proxygrid.cc,/,ThreatFox
+xzzxhqm.eng-us--goldalign.com,/,ThreatFox
 y-hazel-ten.vercel.app,/,ThreatFox
 y.gy,/5Oam,PhishTank_Other_ID9276287
 y04bab68.shop,/,ThreatFox
