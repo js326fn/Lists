@@ -550,8 +550,10 @@
 103.120.153.119,/bin.sh,URLhaus
 103.120.153.119,/i,URLhaus
 103.125.163.10,/,URLhaus
+103.125.163.10,/.i,URLhaus
 103.125.163.10,/02.08.2022.exe,URLhaus
 103.125.163.10,/Hajime,URLhaus
+103.125.163.10,/Mozi.m,URLhaus
 103.125.163.10,/i,URLhaus
 103.130.215.73,///arm5,URLhaus
 103.130.215.73,/arc,URLhaus
@@ -663,6 +665,7 @@
 103.185.249.13,/kworker_u8,URLhaus
 103.186.77.82,/Mozi.m,URLhaus
 103.187.151.107,/.i,URLhaus
+103.187.151.107,/Mozi.m,URLhaus
 103.187.151.107,/i,URLhaus
 103.19.49.134,/bin.sh,URLhaus
 103.19.49.134,/i,URLhaus
@@ -822,6 +825,7 @@
 103.240.211.121,/Video.scr,URLhaus
 103.245.10.51,/.i,URLhaus
 103.245.10.51,/Mozi.m,URLhaus
+103.245.10.51,/i,URLhaus
 103.245.204.42,/i,URLhaus
 103.245.27.100,/bot.arm,URLhaus
 103.245.27.100,/bot.arm5,URLhaus
@@ -3662,7 +3666,6 @@
 114.235.174.131,/i,URLhaus
 114.239.117.214,/bin.sh,URLhaus
 114.239.117.214,/i,URLhaus
-114.242.100.72,/info.zip,URLhaus
 114.35.88.142,/bin.sh,URLhaus
 114.35.88.142,/i,URLhaus
 114.55.101.133,/alk.php,PhishTank_Other_ID8061972
@@ -4034,7 +4037,6 @@
 115.49.203.6,/i,URLhaus
 115.49.208.150,/bin.sh,URLhaus
 115.49.208.150,/i,URLhaus
-115.49.208.50,/bin.sh,URLhaus
 115.49.208.50,/i,URLhaus
 115.49.209.189,/i,URLhaus
 115.49.209.232,/bin.sh,URLhaus
@@ -6178,7 +6180,6 @@
 116.171.106.3,/tomcat8/webapps/bfxt/WEB-INF/classes/mapping/com/vkl/ckts/module/rgsy/nvrsetting/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/WEB-INF/classes/mapping/com/vkl/ckts/module/rgsy/photoset/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/WEB-INF/classes/mapping/com/vkl/ckts/module/rgsy/record/info.zip,URLhaus
-116.171.106.3,/tomcat8/webapps/bfxt/WEB-INF/classes/mapping/com/vkl/ckts/module/rgsy/spotckeck/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/WEB-INF/classes/mapping/com/vkl/ckts/module/rgsy/systemset/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/WEB-INF/classes/mapping/com/vkl/ckts/module/rgsy/unusual/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/WEB-INF/classes/mapping/com/vkl/ckts/module/rgsy/vehiclereview/info.zip,URLhaus
@@ -6199,6 +6200,7 @@
 116.171.106.3,/tomcat8/webapps/bfxt/plugin/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/report/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/static/css/info.zip,URLhaus
+116.171.106.3,/tomcat8/webapps/bfxt/static/css1/_notes/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/static/css1/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/static/images/icons/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt/static/images/info.zip,URLhaus
@@ -6221,7 +6223,6 @@
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/chkptwss/mgr/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/base/dto/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/base/info.zip,URLhaus
-116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/dataquery/action/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/dataquery/dao/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/dataquery/dto/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/dataquery/mgr/info.zip,URLhaus
@@ -6230,7 +6231,6 @@
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/datawrite/exception/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/datawrite/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/gbrwrite/action/info.zip,URLhaus
-116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/gbrwrite/dao/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/gbrwrite/dto/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/gbrwrite/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pcwss/WEB-INF/classes/com/vkl/pcwss/module/ckwss/info.zip,URLhaus
@@ -6309,6 +6309,7 @@
 116.171.106.3,/tomcat8/webapps/bfxt_pda/WEB-INF/classes/com/vkl/pda/module/utils/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pda/WEB-INF/classes/com/vkl/pda/module/utils/nvr/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pda/WEB-INF/classes/com/vkl/pda/module/wss/info.zip,URLhaus
+116.171.106.3,/tomcat8/webapps/bfxt_pda/WEB-INF/classes/templete/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pda/WEB-INF/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pda/WEB-INF/lib/info.zip,URLhaus
 116.171.106.3,/tomcat8/webapps/bfxt_pda/info.zip,URLhaus
@@ -7163,7 +7164,6 @@
 121.101.79.178,/,URLhaus
 121.142.70.6,/i,URLhaus
 121.158.55.2,/i,URLhaus
-121.173.138.102,/i,URLhaus
 121.176.14.102,/aarch64,URLhaus
 121.176.14.102,/arm7,URLhaus
 121.176.14.102,/clean,URLhaus
@@ -7980,6 +7980,7 @@
 123.14.57.105,/bin.sh,URLhaus
 123.14.57.105,/i,URLhaus
 123.14.57.240,/i,URLhaus
+123.14.73.174,/bin.sh,URLhaus
 123.14.75.146,/bin.sh,URLhaus
 123.14.75.146,/i,URLhaus
 123.14.79.55,/i,URLhaus
@@ -11714,7 +11715,6 @@
 1480wqm.hair,/txtstyh9/15twRz/sTgWXV,PhishTank_Other_ID9437701
 149.210.44.16,/sshd,URLhaus
 149.255.10.46,/.i,URLhaus
-149.255.10.46,/i,URLhaus
 149.28.42.137,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 149.50.154.101,/bot_arm,URLhaus
 149.50.154.101,/bot_arm7,URLhaus
@@ -12363,7 +12363,6 @@
 160.187.146.122,/where/sh4,URLhaus
 160.187.146.122,/where/spc,URLhaus
 160.187.146.122,/where/w.sh,URLhaus
-160.187.146.122,/where/wget.sh,URLhaus
 160.187.146.122,/where/x86,URLhaus
 160.187.146.122,/where/x86_64,URLhaus
 160.187.146.122,/x86,URLhaus
@@ -13319,6 +13318,7 @@
 175.146.244.185,/bin.sh,URLhaus
 175.146.244.185,/i,URLhaus
 175.146.54.164,/i,URLhaus
+175.146.6.50,/bin.sh,URLhaus
 175.146.84.105,/bin.sh,URLhaus
 175.146.84.105,/i,URLhaus
 175.146.84.196,/i,URLhaus
@@ -15642,7 +15642,6 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-02-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-02-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-02-17/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Cancelamento/2020-02-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-02-28/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-03-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-03-11/info.zip,URLhaus
@@ -15659,6 +15658,7 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-05-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-05-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-05-19/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Cancelamento/2020-05-21/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-06-01/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-06-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2020-06-15/info.zip,URLhaus
@@ -15704,7 +15704,9 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-03-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-03-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-03-17/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Cancelamento/2021-04-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-04-07/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Cancelamento/2021-04-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-04-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-04-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-04-16/info.zip,URLhaus
@@ -15712,17 +15714,20 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-05-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-05-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-05-07/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Cancelamento/2021-05-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-05-17/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-05-18/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-05-27/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-05-31/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-06-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-06-16/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Cancelamento/2021-06-28/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-06-30/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-07-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-07-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-07-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-07-12/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Cancelamento/2021-07-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-07-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-07-21/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2021-08-03/info.zip,URLhaus
@@ -15785,6 +15790,7 @@
 177.70.102.228,/TmpFTP/01/Cancelamento/2022-04-11/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2022-04-29/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2022-05-02/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Cancelamento/2022-05-04/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2022-05-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2022-05-06/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Cancelamento/2022-05-10/info.zip,URLhaus
@@ -15942,6 +15948,7 @@
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-13/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-14/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-17/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-09-20/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-10-07/info.zip,URLhaus
@@ -16175,6 +16182,7 @@
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-05-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-06-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-07-06/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-07-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-07-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-07-29/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2021-08-11/info.zip,URLhaus
@@ -16197,7 +16205,6 @@
 177.70.102.228,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2023-11-27/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-03-13/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-03-14/info.zip,URLhaus
-177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-03-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-03-18/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-03-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-03-25/info.zip,URLhaus
@@ -16252,6 +16259,7 @@
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-03-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-04-27/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-05-30/info.zip,URLhaus
+177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-09-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-11-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2024-01-04/info.zip,URLhaus
 177.70.102.228,/TmpFTP/01/Recep%C3%A7%C3%A3o/2024-02-09/info.zip,URLhaus
@@ -16333,6 +16341,7 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-25/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-27/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-28/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-29/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-03-30/info.zip,URLhaus
@@ -16376,6 +16385,7 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-18/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-23/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-26/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-27/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000162/Consulta%20Geral/2025-05-28/info.zip,URLhaus
@@ -16441,6 +16451,7 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-28/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-29/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-03-30/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-02/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-04/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-05/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-04-06/info.zip,URLhaus
@@ -16478,6 +16489,7 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-05-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-05-17/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-05-18/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-05-20/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-05-21/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-05-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000324/Consulta%20Geral/2025-05-24/info.zip,URLhaus
@@ -16540,6 +16552,7 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-03-13/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-03-14/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-03-15/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-03-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-03-17/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-03-18/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-03-19/info.zip,URLhaus
@@ -16591,7 +16604,9 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-10/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-11/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-12/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-13/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-14/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-16/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-18/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-19/info.zip,URLhaus
@@ -16605,6 +16620,7 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-28/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-29/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/2025-05-30/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/Consulta%20Geral/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000405/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-01-15/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-01-16/info.zip,URLhaus
@@ -16642,6 +16658,7 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-21/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-24/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-25/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-26/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-27/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-02-28/info.zip,URLhaus
@@ -16720,6 +16737,7 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-18/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-19/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-20/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-21/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-23/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000596/Consulta%20Geral/2025-05-25/info.zip,URLhaus
@@ -16753,6 +16771,7 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-08/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-09/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-10/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-11/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-12/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-13/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-14/info.zip,URLhaus
@@ -16763,6 +16782,7 @@
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-21/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-22/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-23/info.zip,URLhaus
+177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-24/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-25/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-26/info.zip,URLhaus
 177.70.102.228,/TmpFTP/CT-e/Distribui%C3%A7%C3%A3o/02589791000677/Consulta%20Geral/2025-02-27/info.zip,URLhaus
@@ -17809,7 +17829,6 @@
 177.70.102.232,/TmpFTP/01/Cancelamento/2023-08-28/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2023-08-31/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2023-09-11/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Cancelamento/2023-09-13/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2023-10-17/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2023-10-18/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2023-10-20/info.zip,URLhaus
@@ -18918,6 +18937,7 @@
 181.214.136.12,/hiddenbin/Mystic.x86_64,URLhaus
 181.214.140.248,/init.sh,URLhaus
 181.225.67.10,/i,URLhaus
+181.48.119.70,/.i,URLhaus
 181.48.119.70,/i,URLhaus
 181.49.47.190,/Mozi.m,URLhaus
 181.49.47.190,/i,URLhaus
@@ -21015,6 +21035,7 @@
 182.253.115.155,/.i,URLhaus
 182.253.115.155,/Mozi.m,URLhaus
 182.253.115.155,/i,URLhaus
+182.253.115.156,/.i,URLhaus
 182.253.115.156,/Mozi.m,URLhaus
 182.253.115.156,/i,URLhaus
 182.34.56.255,/bin.sh,URLhaus
@@ -21151,6 +21172,7 @@
 183.92.206.110,/bin.sh,URLhaus
 183.92.206.110,/i,URLhaus
 183.95.8.124,/i,URLhaus
+184.160.27.44,/.i,URLhaus
 184.160.27.44,/i,URLhaus
 184.174.20.150,/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest&c=bat&c=&c=&c=&c=&c=&c=&c=,URLhaus
 184.174.96.191,/bot.armv4,URLhaus
@@ -21173,7 +21195,6 @@
 185.104.63.91,/curl.sh,URLhaus
 185.118.128.34,/i,URLhaus
 185.12.78.161,/.i,URLhaus
-185.12.78.161,/Mozi.m,URLhaus
 185.12.78.161,/i,URLhaus
 185.122.171.156,/fscan,URLhaus
 185.132.53.171,/SEMANTIC_ASTROLOGY.exe,URLhaus
@@ -23198,6 +23219,7 @@
 20-228-132-238.cpanel.site,/login,PhishTank_Other_ID9465465
 20-251-144-161.cprapid.com,/eu/,PhishTank_Other_ID9425919
 20.96.177.238,/share/OfficeClickToRun.exe,URLhaus
+200.11.216.34,/Mozi.m,URLhaus
 200.112.129.121,/bin.sh,URLhaus
 200.112.129.121,/i,URLhaus
 200.112.129.135,/bin.sh,URLhaus
@@ -23214,7 +23236,6 @@
 200.112.129.46,/i,URLhaus
 200.112.129.57,/bin.sh,URLhaus
 200.112.129.57,/i,URLhaus
-200.115.102.14,/i,URLhaus
 200.115.102.16,/Mozi.a,URLhaus
 200.115.102.16,/bin.sh,URLhaus
 200.115.102.16,/i,URLhaus
@@ -23748,6 +23769,7 @@
 200.6.91.43,/bin.sh,URLhaus
 200.6.91.43,/i,URLhaus
 200.61.163.235,/.i,URLhaus
+200.61.163.235,/Mozi.m,URLhaus
 200.61.163.235,/i,URLhaus
 200.69.219.25,/Mozi.m,URLhaus
 200.69.219.25,/i,URLhaus
@@ -23806,8 +23828,9 @@
 202.139.20.12,/sshd,URLhaus
 202.141.101.239,/Mozi.a,URLhaus
 202.148.18.218,/.i,URLhaus
+202.148.18.218,/Mozi.m,URLhaus
+202.148.18.220,/.i,URLhaus
 202.148.18.220,/Mozi.m,URLhaus
-202.148.18.220,/i,URLhaus
 202.148.18.221,/i,URLhaus
 202.148.20.138,/,URLhaus
 202.148.20.138,/.i,URLhaus
@@ -23830,7 +23853,6 @@
 202.155.8.56,/RSW0,URLhaus
 202.155.8.56,/UGHR,URLhaus
 202.155.8.56,/WAEC,URLhaus
-202.155.8.56,/WSW0,URLhaus
 202.155.8.56,/XNHF,URLhaus
 202.155.8.56,/XRKQ,URLhaus
 202.155.8.56,/ZEFS,URLhaus
@@ -23933,6 +23955,7 @@
 203.159.90.61,/bin/support.client.exe,URLhaus
 203.159.90.82,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 203.159.90.82,/bin/support.client.exe,URLhaus
+203.160.56.67,/Mozi.m,URLhaus
 203.160.56.67,/i,URLhaus
 203.160.9.182,/bin.sh,URLhaus
 203.160.9.182,/i,URLhaus
@@ -23956,12 +23979,9 @@
 203.192.211.119,/Video.lnk,URLhaus
 203.192.211.119,/Video.scr,URLhaus
 203.192.211.119,/info.zip,URLhaus
-203.192.219.165,/DOCIMG/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_101124_MAHAL-SERVER/info.zip,URLhaus
-203.192.219.165,/OUTWARD/ExportImages_10124_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_101424_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_101824_MAHAL-NODE1/info.zip,URLhaus
-203.192.219.165,/OUTWARD/ExportImages_102124_MAHAL-NODE2/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_102524_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_102624_MAHAL-NODE2/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_10325_MAHAL-NODE1/info.zip,URLhaus
@@ -23972,7 +23992,6 @@
 203.192.219.165,/OUTWARD/ExportImages_121424_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_122124_MAHAL-NODE2/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_122624_MAHAL-NODE1/info.zip,URLhaus
-203.192.219.165,/OUTWARD/ExportImages_12424_MAHAL-NODE2/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_12525_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_21025_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_21425_MAHAL-NODE2/info.zip,URLhaus
@@ -23983,30 +24002,20 @@
 203.192.219.165,/OUTWARD/ExportImages_31025_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_32824_MAHAL-SERVER/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_3925_MAHAL-NODE2/info.zip,URLhaus
-203.192.219.165,/OUTWARD/ExportImages_41724_MAHAL-NODE1/info.zip,URLhaus
-203.192.219.165,/OUTWARD/ExportImages_42425_MAHAL-NODE2/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_42625_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_51025_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_51125_MAHAL-NODE1/info.zip,URLhaus
-203.192.219.165,/OUTWARD/ExportImages_52324_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_61324_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_61924_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_62124_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_6424_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_71024_MAHAL-NODE1/info.zip,URLhaus
-203.192.219.165,/OUTWARD/ExportImages_71824_MAHAL-NODE1/info.zip,URLhaus
-203.192.219.165,/OUTWARD/ExportImages_82224_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_82225_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_82325_MAHAL-NODE1/info.zip,URLhaus
-203.192.219.165,/OUTWARD/ExportImages_82624_MAHAL-NODE2/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_91824_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/ExportImages_92825_MAHAL-NODE1/info.zip,URLhaus
-203.192.219.165,/OUTWARD/ExportImages_9924_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/OUTWARD/info.zip,URLhaus
-203.192.219.165,/PRODIMG/ExportImages_42425_MAHAL-NODE1/info.zip,URLhaus
 203.192.219.165,/PRODIMG/ExportImages_42425_MAHAL-NODE2/info.zip,URLhaus
-203.192.219.165,/PRODIMG/info.zip,URLhaus
-203.192.219.165,/info.zip,URLhaus
 203.198.17.51,/,URLhaus
 203.202.232.187,/44/weneedbestcreativeideasforbetterplacestocomeback.hta,URLhaus
 203.202.232.187,/img/img_052226.png,URLhaus
@@ -24412,6 +24421,7 @@
 212.193.3.17,/toot,URLhaus
 212.224.107.246,/SSA_Statement.msi,URLhaus
 212.232.22.87,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
+212.233.125.238,/.i,URLhaus
 212.233.125.238,/i,URLhaus
 212.27.26.206,/AV.lnk,URLhaus
 212.27.26.206,/Photo.lnk,URLhaus
@@ -24423,9 +24433,7 @@
 212.51.156.55,/i,URLhaus
 212.73.53.163,/i,URLhaus
 212.73.75.82,/i,URLhaus
-212.73.75.84,/.i,URLhaus
 212.73.75.84,/Mozi.m,URLhaus
-212.73.75.84,/i,URLhaus
 212.85.166.12,/.i,URLhaus
 212.85.166.12,/i,URLhaus
 212.93.103.10,/sshd,URLhaus
@@ -24465,6 +24473,7 @@
 213.242.30.74,/i,URLhaus
 213.5.194.56,/.i,URLhaus
 213.5.194.56,/i,URLhaus
+213.6.196.230,/.i,URLhaus
 213.6.196.230,/i,URLhaus
 213.6.74.138,/.i,URLhaus
 213.6.74.138,/Mozi.m,URLhaus
@@ -27312,6 +27321,7 @@
 27.14.64.17,/i,URLhaus
 27.14.64.82,/bin.sh,URLhaus
 27.14.64.82,/i,URLhaus
+27.147.196.138,/i,URLhaus
 27.147.225.2,/Mozi.m,URLhaus
 27.15.242.216,/bin.sh,URLhaus
 27.15.242.216,/i,URLhaus
@@ -27756,7 +27766,6 @@
 27.215.80.8,/bin.sh,URLhaus
 27.215.80.85,/bin.sh,URLhaus
 27.215.80.85,/i,URLhaus
-27.215.81.133,/bin.sh,URLhaus
 27.215.81.133,/i,URLhaus
 27.215.81.243,/bin.sh,URLhaus
 27.215.81.243,/i,URLhaus
@@ -28369,6 +28378,7 @@
 2k7d5hmd.one1xbet.win,/?ublib=452f58ff-1213-4de7-a9f7-206d03e36b66,URLhaus
 2kk9d.pixelfodream.rest,/,ThreatFox
 2koij32.cfd,/ylprzghg/jniolM/l8xV3O,PhishTank_Other_ID9428301
+2ky85g4j.goldalignn.com,/,ThreatFox
 2l7nxx4r.pinellascountyroofers.com,/,ThreatFox
 2lhhe5ae.1xfa.bio,/?ublib=cc1b2274-b0ce-4534-99ea-cfbe5ce7f7c0,URLhaus
 2lo-2ar-dabf-2ia-p1hq-pes6.pages.dev,/,PhishTank_Other_ID9481846
@@ -29326,7 +29336,6 @@
 36.92.68.241,/Mozi.m,URLhaus
 36.92.68.241,/i,URLhaus
 36.93.2.29,/i,URLhaus
-36.95.137.155,/i,URLhaus
 360.intraserv.pl,/three.js.old/examples/models/gltf/Monster/glTF/predatory/rampage,URLhaus
 360degreesgoldenhub-com.us.stackstaging.com,/vendor/bin/carbone/my,PhishTank_Other_ID9426263
 360degreesgoldenhub-com.us.stackstaging.com,/vendor/bin/carbone/my/,PhishTank_Other_ID9426264
@@ -29363,6 +29372,7 @@
 37.233.63.185,/i,URLhaus
 37.252.66.188,/Mozi.m,URLhaus
 37.252.66.188,/i,URLhaus
+37.252.69.10,/,URLhaus
 37.252.69.10,/.i,URLhaus
 37.34.209.216,/.i,URLhaus
 37.34.209.216,/Mozi.m,URLhaus
@@ -34648,6 +34658,7 @@
 47.245.111.51,/linux,URLhaus
 47.245.84.42,/linux,URLhaus
 47.49.114.179,/.i,URLhaus
+47.49.114.179,/i,URLhaus
 47.76.79.220,/linux,URLhaus
 47.83.203.183,/linux,URLhaus
 47.84.190.146,/linux,URLhaus
@@ -37564,8 +37575,6 @@
 60.18.199.186,/bin.sh,URLhaus
 60.18.3.226,/bin.sh,URLhaus
 60.18.3.226,/i,URLhaus
-60.18.56.21,/bin.sh,URLhaus
-60.18.56.21,/i,URLhaus
 60.18.60.89,/bin.sh,URLhaus
 60.18.60.89,/i,URLhaus
 60.18.61.234,/bin.sh,URLhaus
@@ -38305,6 +38314,7 @@
 61.53.216.33,/bin.sh,URLhaus
 61.53.216.33,/i,URLhaus
 61.53.219.139,/bin.sh,URLhaus
+61.53.219.139,/i,URLhaus
 61.53.219.70,/bin.sh,URLhaus
 61.53.219.70,/i,URLhaus
 61.53.220.232,/bin.sh,URLhaus
@@ -39350,36 +39360,7 @@
 64.89.163.215,/bins/wget.sh,URLhaus
 64.89.163.215,/dg.mips,URLhaus
 64.89.163.215,/ipmiv2.xml,URLhaus
-64.89.163.218,/1.sh,URLhaus
-64.89.163.218,/b.sh,URLhaus
-64.89.163.218,/bins.sh,URLhaus
-64.89.163.218,/bins/1,URLhaus
-64.89.163.218,/bins/10,URLhaus
-64.89.163.218,/bins/11,URLhaus
-64.89.163.218,/bins/2,URLhaus
-64.89.163.218,/bins/3,URLhaus
-64.89.163.218,/bins/4,URLhaus
-64.89.163.218,/bins/5,URLhaus
-64.89.163.218,/bins/6,URLhaus
-64.89.163.218,/bins/7,URLhaus
-64.89.163.218,/bins/8,URLhaus
-64.89.163.218,/bins/9,URLhaus
-64.89.163.218,/bins/axis.arm,URLhaus
-64.89.163.218,/bins/axis.arm5,URLhaus
-64.89.163.218,/bins/axis.arm6,URLhaus
-64.89.163.218,/bins/axis.arm7,URLhaus
-64.89.163.218,/bins/axis.mips,URLhaus
-64.89.163.218,/bins/axis.mpsl,URLhaus
-64.89.163.218,/bins/axis.ppc,URLhaus
-64.89.163.218,/bins/axis.sh4,URLhaus
-64.89.163.218,/bins/axis.x86,URLhaus
-64.89.163.218,/bins/axis.x86_64,URLhaus
 64.89.163.218,/bins/spc,URLhaus
-64.89.163.218,/d.sh,URLhaus
-64.89.163.218,/l,URLhaus
-64.89.163.218,/loader.sh,URLhaus
-64.89.163.218,/lol.sh,URLhaus
-64.89.163.218,/x.sh,URLhaus
 64.89.163.22,/,URLhaus
 64.89.163.22,/1.exe,URLhaus
 64.89.163.22,/49.elf,URLhaus
@@ -39708,6 +39689,7 @@
 6b4ki3sp.abt90kade.com,/,ThreatFox
 6b4ki3sp.abt90kade.com,/?ublib=b044dd75-8721-4bd6-916f-1501c01712ce,URLhaus
 6biioqya.vitalmcallen.com,/,ThreatFox
+6biyu5ds.greaternewzionbc.org,/,ThreatFox
 6bj30.eightyen1arge.garden,/,ThreatFox
 6brdt8i3dugvk3tq.org,/,ThreatFox
 6c0nh-jrdb0k-yob-fcxop-l0i7l4.pages.dev,/,PhishTank_Other_ID9492350
@@ -40432,6 +40414,7 @@
 78.25.170.214,/i,URLhaus
 78.26.18.38,/bin.sh,URLhaus
 78.26.18.38,/i,URLhaus
+78.26.180.129,/.i,URLhaus
 78.26.180.129,/i,URLhaus
 78.26.48.22,/i,URLhaus
 78.26.49.53,/i,URLhaus
@@ -40568,6 +40551,7 @@
 7g5swyfn.bazipoop.com,/?ublib=a815c546-6abb-42e5-8ac0-b3f3472f6189,URLhaus
 7gkvepml.ironapp.digital,/,ThreatFox
 7gnetonl.futuremillionaire.net,/,ThreatFox
+7hbz.com,/fingerprint.php,PhishTank_Other_ID9503631
 7ho-axyvwx-2pz8-rh894-l32n.pages.dev,/,PhishTank_Other_ID9476422
 7ho-axyvwx-2pz8-rh894-l32n.pages.dev,/,PhishTank_Other_ID9476423
 7i2syccf.en-energyrevolution.com,/,ThreatFox
@@ -40761,14 +40745,12 @@
 80.11.25.16,/info.zip,URLhaus
 80.11.36.4,/sshd,URLhaus
 80.14.38.66,//sshd,URLhaus
-80.14.38.66,/sshd,URLhaus
 80.147.155.189,/AV.lnk,URLhaus
 80.147.155.189,/AV.scr,URLhaus
 80.147.155.189,/Photo.lnk,URLhaus
 80.147.155.189,/Photo.scr,URLhaus
 80.147.155.189,/Video.lnk,URLhaus
 80.147.155.189,/Video.scr,URLhaus
-80.147.3.138,/,URLhaus
 80.24.87.77,//sshd,URLhaus
 80.24.87.77,/sshd,URLhaus
 80.249.6.118,/Photo.scr,URLhaus
@@ -40803,6 +40785,7 @@
 81.16.123.55,/Aqua.arm5,URLhaus
 81.16.123.55,/Aqua.arm6,URLhaus
 81.16.123.55,/Aqua.i686,URLhaus
+81.16.123.55,/Mozi.a,URLhaus
 81.16.123.55,/i,URLhaus
 81.16.123.55,/o,URLhaus
 81.16.242.236,/.i,URLhaus
@@ -40815,6 +40798,7 @@
 81.16.247.83,/i,URLhaus
 81.16.249.96,/,URLhaus
 81.16.249.96,/Mozi.m,URLhaus
+81.16.249.96,/i,URLhaus
 81.213.214.180,/i,URLhaus
 81.22.42.232,/sshd,URLhaus
 81.225.195.11,/bin.sh,URLhaus
@@ -41071,8 +41055,6 @@
 83.168.95.167,/x86_64,URLhaus
 83.177.220.128,/Mozi.a,URLhaus
 83.217.209.80,/debug/loader.sh,URLhaus
-83.217.209.80,/loader.sh,URLhaus
-83.217.209.80,/payload.sh,URLhaus
 83.218.189.21,/,URLhaus
 83.218.189.41,/.i,URLhaus
 83.218.189.41,/i,URLhaus
@@ -41530,7 +41512,6 @@
 87.227.173.42,/i,URLhaus
 87.232.123.174,/f,URLhaus
 87.232.123.174,/p,URLhaus
-87.249.142.126,/AV.scr,URLhaus
 87.249.142.126,/Photo.scr,URLhaus
 87.251.249.41,//sshd,URLhaus
 87.251.249.41,/sshd,URLhaus
@@ -41559,6 +41540,7 @@
 88.112.33.200,/bin.sh,URLhaus
 88.112.33.200,/i,URLhaus
 88.116.62.226,/.i,URLhaus
+88.116.62.226,/Mozi.m,URLhaus
 88.19.49.215,/sshd,URLhaus
 88.190.74.159,/sshd,URLhaus
 88.212.109.208.host.secureserver.net,/,ThreatFox
@@ -41684,6 +41666,7 @@
 89.208.97.134,/index.ps1,URLhaus
 89.216.100.166,/.i,URLhaus
 89.216.100.166,/Mozi.m,URLhaus
+89.216.100.166,/i,URLhaus
 89.216.107.99,/.i,URLhaus
 89.216.107.99,/i,URLhaus
 89.23.107.5,/k/ofelia.dat,URLhaus
@@ -42071,6 +42054,7 @@
 91.199.133.59,/client.exe,URLhaus
 91.199.45.108,/,URLhaus
 91.199.45.108,/?q={random.randint(1,1000000)}&rnd={random.random()},URLhaus
+91.204.154.197,/.i,URLhaus
 91.208.197.30,/client.exe,URLhaus
 91.214.78.173,/bins/bot-amd64,URLhaus
 91.214.78.173,/bins/bot-arm7,URLhaus
@@ -43134,7 +43118,6 @@
 91.92.47.8,/quis.exe,URLhaus
 91.92.82.180,/.i,URLhaus
 91.92.82.180,/Mozi.m,URLhaus
-91.92.82.180,/i,URLhaus
 911itg.com,/,ThreatFox
 912.lazulya.com,/#a@b.com,PhishTank_Other_ID9329202
 9127349jus.lat,/ou7oy1kn/M8kjMj/BEMEGj,PhishTank_Other_ID9435488
@@ -45400,10 +45383,8 @@
 94.72.35.59,/sshd,URLhaus
 94.76.156.101,/AV.lnk,URLhaus
 94.76.156.101,/AV.scr,URLhaus
-94.76.156.101,/Photo.lnk,URLhaus
 94.76.156.101,/Photo.scr,URLhaus
 94.76.156.101,/Video.lnk,URLhaus
-94.76.156.101,/Video.scr,URLhaus
 9400fr.weebly.com,/,PhishTank_Other_ID8915271
 949hdftu-03-20.weebly.com,/,PhishTank_Other_ID9443972
 94auswsb.piculi5tep.in.net,/,ThreatFox
@@ -46791,6 +46772,7 @@ acessoexclusivopjnetempresas.net,/,PhishTank_Other_ID9499555
 acessointernoapp.digital,/,PhishTank_Other_ID9467745
 acessojuridicointerno.digital,/,PhishTank_Bradesco_ID9469373
 acessojuridicopj.digital,/,PhishTank_Bradesco_ID9463595
+acessonetempresaexclusivo.digital,/chegue.php?token=13670049246a7c6ae3455964.07033790&amp;h=317a601536ae51fa8ed81dc05e29e37154e07192c577605463861ea902d4fa68,PhishTank_Other_ID9503619
 acessonetempresaexclusivo.online,/,PhishTank_Other_ID9499558
 acessonetusuario.com,/login.php?hash=124623376a02249fa699f2.94821085,PhishTank_Other_ID9422106
 acessonternopj.digital,/,PhishTank_Other_ID9471658
@@ -47282,7 +47264,6 @@ advance-desktop.wixstudio.com,/desktop,PhishTank_Other_ID9406898
 advance-liveapp.wixstudio.com,/en-us,PhishTank_Other_ID9406254
 advance-trexo.wixstudio.com,/start,PhishTank_Other_ID9410881
 advanced-it-infrastructure.courses,/,ThreatFox
-advanced-it-infrastructure.courses,/f8c73b68-f542-4300-a89e-6d1778c42196/google.cl,URLhaus
 advancedapplicators.co.nz,/,ThreatFox
 advanceddrivelines.com,/,ThreatFox
 advancedentalcare.com.au,/,ThreatFox
@@ -50009,6 +49990,8 @@ allegrolokalnie.8756818551.click,/,PhishTank_Allegro_ID9475949
 allegrolokalnie.875745.lat,/oferta/id-p46ge-Glosnik-JBL-Partybox-310-Super-Stan,PhishTank_Allegro_ID9461435
 allegrolokalnie.876503.click,/,PhishTank_Allegro_ID9485758
 allegrolokalnie.87655.lat,/,PhishTank_Allegro_ID9462874
+allegrolokalnie.8841821248.lat,/logowanie?referrer=http://allegrolokalnie.8841821248.lat/macbook-neo-512-gb/75087/wiadomosci/,PhishTank_Allegro_ID9503638
+allegrolokalnie.8841821248.lat,/macbook-neo-512-gb/75087/wiadomosci/,PhishTank_Allegro_ID9503637
 allegrolokalnie.88434.top,/,PhishTank_Allegro_ID9484467
 allegrolokalnie.8851885152.click,/,PhishTank_Allegro_ID9475891
 allegrolokalnie.88989702073.cfd,/oferta/sprzedam-motocykl-wsk-1983r/11842,PhishTank_Allegro_ID9472263
@@ -54197,7 +54180,6 @@ assholesgonewild.info,/,ThreatFox
 assim.ope-10884282.pro,/,PhishTank_Other_ID9420082
 assimomos.firebaseapp.com,/,PhishTank_Other_ID8414410
 assimomos.web.app,/,PhishTank_Other_ID8414411
-assin6k7n.rye93shishaty.coupons,/,ThreatFox
 assine-clarobrasil-com-br.vercel.app,/,PhishTank_Other_ID9303099
 assine-gap.conk.com.br,/,ThreatFox
 assisorys.firebaseapp.com,/,PhishTank_Other_ID8351436
@@ -54650,6 +54632,7 @@ atualizacaoparanetempresas.digital,/,PhishTank_Bradesco_ID9502647
 atualizacaopj-topaz.com,/,PhishTank_Other_ID9467761
 atualizacaopjtopaz.com,/,PhishTank_Other_ID9469339
 atualizacaotopaznetempresa.com,/,PhishTank_Bradesco_ID9469376
+atualizacoesbradescopj.com,/,PhishTank_Other_ID9503617
 atualizanavegador.com,/,ThreatFox
 atualizanavegador.online,/,ThreatFox
 atualizanetempresapj.app,/,PhishTank_Other_ID9428653
@@ -55620,6 +55603,7 @@ baccredomatic.pbshon.com,/,PhishTank_Other_ID9469399
 baccredomaticaccesoc.help,/pa,PhishTank_Other_ID9431730
 baccredomaticaccesoi.help,/pa,PhishTank_Other_ID9431731
 baccredomaticc.sbs,/,PhishTank_Other_ID9469309
+baccredomatico.icu,/hn,PhishTank_Other_ID9503628
 baccredomatlic.com,/,PhishTank_Other_ID9365073
 baccredot.webcindario.com,/,PhishTank_Other_ID8177182
 baccuentaonline.help,/pa,PhishTank_Other_ID9474565
@@ -61141,6 +61125,8 @@ boa-user.web.app,/,PhishTank_Other_ID7918938
 boa1lg-m7b6-8alkag-vhii-llon6p.pages.dev,/,PhishTank_Other_ID9475527
 boa1lg-m7b6-8alkag-vhii-llon6p.pages.dev,/,PhishTank_Other_ID9475528
 boafiles.weebly.com,/,PhishTank_Other_ID9456642
+board-browse.com,/,PhishTank_Other_ID9503610
+board-browse.com,/captcha,PhishTank_Other_ID9503609
 board-mgr.infocircuit.in.net,/,ThreatFox
 board-whop.netlify.app,/verify/,PhishTank_Other_ID9267743
 board8.creekpath.lol,/,ThreatFox
@@ -64650,6 +64636,7 @@ cel-robox.com,/,ThreatFox
 celc0m-digi-5g.weebly.com,/,PhishTank_Other_ID9344215
 celcomdigi-main-ffe1dfb1a4b9518259c598f.webflow.io,/,PhishTank_Other_ID9087220
 celcomdigi-main-ffe1dfb1a4b9518259c598f.webflow.io,/,PhishTank_Other_ID9087221
+celebratingseniors.net,/oste.zip,URLhaus
 celebratingseniors.net,/rate.zip,URLhaus
 celebratingseniors.net,/rats.zip,URLhaus
 celebration-internet.cc,/,ThreatFox
@@ -65160,6 +65147,7 @@ chekingmax.vercel.app,/?download=1,URLhaus
 cheloks.pro,/,ThreatFox
 chemsmixlab.com,/,ThreatFox
 chengzhiwuliu.cn,/invite/edzvrrdcrg/accept,PhishTank_Other_ID9384151
+chenwangqiao.com,/wordpress/FILE/,URLhaus
 cheqinnet.weebly.com,/,PhishTank_Other_ID9461128
 chequecholeric.digital,/,ThreatFox
 chequecustodiabiafoto.online,/verificacao-assinatura.php?token=16574056346a568881b61f84.06962332&amp;h=1c6dfb0296076407f083045f6c8df9d5dc462b1b09016ba6dfddfa58c09fd3f5,PhishTank_Other_ID9479180
@@ -66802,8 +66790,6 @@ codepit-rized-denengine.garden,/,ThreatFox
 codepit-rized-denengine.garden,/f09ff42d-b909-4ff1-a435-32f0ac22a206/google.cl,URLhaus
 coder-eosin.vercel.app,/,PhishTank_Other_ID9455248
 coder-logic-vault.courses,/,ThreatFox
-coder-logic-vault.courses,/0afb7780-04e8-40be-b342-45a8dd51c61e/google.cl,URLhaus
-coder-logic-vault.courses,/7e533182-9ac1-48de-8948-ec74b0f1aee9/google.cl,URLhaus
 codered.chownjoysomerville.com,/,ThreatFox
 codered.ironalarm.io,/,ThreatFox
 codered.nadhled.info,/,ThreatFox
@@ -71222,6 +71208,7 @@ devcon.cd,/,ThreatFox
 devdexentertaiment.wixstudio.com,/devdex/library,PhishTank_Other_ID9477578
 developers-shelby.lat,/,ThreatFox
 developerstation.live,/,ThreatFox
+development.leandro.st,/,ThreatFox
 devemalaine.lovestoblog.com,/dfs.html,PhishTank_Other_ID9491166
 devenirchauffeur.com,/,ThreatFox
 device-exadous.wixstudio.com,/us-en,PhishTank_Other_ID9445138
@@ -78862,7 +78849,6 @@ download.caihong.com,/gamewd/yhdl.exe,URLhaus
 download.cavepay.app,/CavePayWallet.exe,URLhaus
 download.dancefloor.top,/,ThreatFox
 download.doumaibiji.cn,/doumai/fmt/v1.0.1.11/fmt_01.exe,URLhaus
-download.doumaibiji.cn,/doumai/news2/v1.0.7.01/news2_01.exe,URLhaus
 download.doumaibiji.cn,/doumai/tips/v1.0.1.11/tips_01.exe,URLhaus
 download.get-version.com,/,ThreatFox
 download.globalprotection.services,/,ThreatFox
@@ -82930,7 +82916,6 @@ enter-rabby-io-uss.wasmer.app,/,PhishTank_Other_ID9450455
 enteraie.com,/,ThreatFox
 enterpirise.org,/,PhishTank_Other_ID9363881
 enterprise-security-log.courses,/,ThreatFox
-enterprise-security-log.courses,/0281b943-135c-4e7e-a18f-3a0caed9eff6/google.cl,URLhaus
 enterprise-solution-buffer-utility-log.wiki,/,ThreatFox
 entertainment.zincgroup.com,/,ThreatFox
 enthusiastic-cassava-092831.framer.app,/,PhishTank_Other_ID9459283
@@ -89592,6 +89577,7 @@ gerenciamentopjempresas.digital,/,PhishTank_Other_ID9421082
 gerenciatopaz.digital,/,PhishTank_Other_ID9485803
 gerenland.click,/api/stale.msi,URLhaus
 gerenland.click,/flask/whales.msi,URLhaus
+gerente-chatempresa.app,/,PhishTank_Bradesco_ID9503627
 gerente-netempresas.opedroribeirodesigner.com.br,/atendimento-pj/,PhishTank_Other_ID9445144
 gerentepainel.digital,/,PhishTank_Other_ID9469360
 gerenteportalpj.digital,/,PhishTank_Bradesco_ID9440689
@@ -90149,7 +90135,6 @@ github.com,/AbdoooAli/corellm/raw/refs/heads/main/corellm/Software_calaba.zip,UR
 github.com,/AbdoooAli/precision-aim-8ball-pool/raw/refs/heads/branch/catacorolla/precision-pool-aim-ball-1.3-beta.5.zip,URLhaus
 github.com,/AdobePdf-Reader/Pdf-Reader/raw/refs/heads/main/Pdf%20Reader.exe,URLhaus
 github.com,/Adrinnno/PTwis/raw/main/File_CBS_App_details_no-0923871691_xlsx.zip,URLhaus
-github.com,/AkashnilRecovered/Text-Formatting-Crash-Course/releases/download/v1.0/Software.zip,URLhaus
 github.com,/AlanParadis/Stalker2SimpleModMerger/releases/download/Vortex-v1.4.9/Stalker2SimpleModMergerForVortex.zip,URLhaus
 github.com,/Alejandro5486/InfestusWebApp/releases/download/v1.0/Software.zip,URLhaus
 github.com,/AlinRight93/stalzone-tools-cheat-2026/releases/download/release/Stalzone.v1.6.by.Kernel.Labs.zip,URLhaus
@@ -90166,7 +90151,6 @@ github.com,/Arya-gg/Axium/releases/download/v1.0/Software.zip,URLhaus
 github.com,/As3dYasen/portfolio/releases/download/v2.0/Software.zip,URLhaus
 github.com,/AsherFn/Acadex-AI-Google-Deepmind/raw/refs/heads/main/components/Deepmind-A-Acadex-Google-v1.8-alpha.4.zip,URLhaus
 github.com,/AsherFn/asherfn.github.io/raw/refs/heads/main/swankily/io-asherfn-github-3.6.zip,URLhaus
-github.com,/Atom3dx/array-base-scatter-filled/releases/download/v2.0/Software.zip,URLhaus
 github.com,/Azw1/Suction-funnel-for-Bosch-click-clean-system/releases/download/v1.0/Application.zip,URLhaus
 github.com,/Azw1/Suction-funnel-for-Bosch-click-clean-system/releases/download/v1.0/Program.zip,URLhaus
 github.com,/Azw1/Suction-funnel-for-Bosch-click-clean-system/releases/download/v2.0/Software.zip,URLhaus
@@ -90180,7 +90164,6 @@ github.com,/Berstarhunter/deepseek-start/releases/download/v1.0/Software.zip,URL
 github.com,/Berstarhunter/deepseek-start/releases/download/v2.0/Software.zip,URLhaus
 github.com,/BinniZenobioCordovaLeandro/apachimuhkayqui-server/releases/download/v2.0/Software.zip,URLhaus
 github.com,/BlackSuite999/Fishstrap-Roblox-2026/releases/download/release/Release.v.1.3.8.zip,URLhaus
-github.com,/BoOoDy123/manual-brick-breaker/releases/download/v1.0/Program.zip,URLhaus
 github.com,/BoOoDy123/manual-brick-breaker/releases/download/v2.0/Software.zip,URLhaus
 github.com,/BoomerXD69/Amog-OS-LTS/releases/download/v2.0/Software.zip,URLhaus
 github.com,/BoomerXD69/Fixing-Error-0xc00000ba/releases/download/v2.0/Software.zip,URLhaus
@@ -90189,16 +90172,13 @@ github.com,/Celestiapolyunsaturated14/Helios-Engine/raw/refs/heads/master/tests/
 github.com,/ChainBarberBear/roblox-client-tracker-versions/releases/download/Release/Roblox-Client-Tracker.zip,URLhaus
 github.com,/ChokoPie333/doom/raw/main/svchost.exe,URLhaus
 github.com,/ColtOSTemp/platform_bionic/releases/download/v1.0/Application.zip,URLhaus
-github.com,/ColtOSTemp/platform_bionic/releases/download/v2.0/Software.zip,URLhaus
 github.com,/ColtOSTemp/platform_bootable_recovery/releases/download/v1.0/Application.zip,URLhaus
 github.com,/ColtOSTemp/platform_bootable_recovery/releases/download/v2.0/Software.zip,URLhaus
 github.com,/ColtOSTemp/platform_build/releases/download/v1.0/Application.zip,URLhaus
 github.com,/ColtOSTemp/platform_build/releases/download/v2.0/Software.zip,URLhaus
 github.com,/ColtOSTemp/platform_external_airbnb-lottie/releases/download/v1.0/Application.zip,URLhaus
 github.com,/ColtOSTemp/platform_external_airbnb-lottie/releases/download/v2.0/Software.zip,URLhaus
-github.com,/ColtOSTemp/platform_external_json-c/releases/download/v1.0/Application.zip,URLhaus
 github.com,/ColtOSTemp/platform_external_json-c/releases/download/v2.0/Software.zip,URLhaus
-github.com,/ColtOSTemp/platform_external_selinux/releases/download/v1.0/Application.zip,URLhaus
 github.com,/ColtOSTemp/platform_external_selinux/releases/download/v2.0/Software.zip,URLhaus
 github.com,/ColtOSTemp/platform_external_sqlite/releases/download/v1.0/Application.zip,URLhaus
 github.com,/ColtOSTemp/platform_external_sqlite/releases/download/v2.0/Software.zip,URLhaus
@@ -90211,11 +90191,8 @@ github.com,/Da2dalus/LOIC/raw/refs/heads/master/LOIC.exe,URLhaus
 github.com,/Da2dalus/The-MALWARE-Repo/blob/master/RAT/NJRat.exe?raw=true,URLhaus
 github.com,/Da2dalus/The-MALWARE-Repo/raw/refs/heads/master/Ransomware/WannaCry.exe,URLhaus
 github.com,/DarkException22/Aayush/raw/refs/heads/master/dietic/Software-commenceable.zip,URLhaus
-github.com,/DarkException22/alphabet/raw/refs/heads/main/src/cmps/Software_unattuned.zip,URLhaus
 github.com,/DarkException22/da-hood-lock-script-showcase/raw/refs/heads/main/noncredent/showcase_hood_da_script_lock_1.9.zip,URLhaus
 github.com,/DarkException22/darkexception22.github.io/raw/refs/heads/main/unreachably/darkexception_github_io_v2.7.zip,URLhaus
-github.com,/Dax009YT/chilledwindows-gui/releases/download/1.0/ChilledWindows.GUI.exe,URLhaus
-github.com,/Deroxs/PowerRat-leak/raw/refs/heads/main/PowerRat.exe,URLhaus
 github.com,/Dishonorpeachpit230/fijahu-5/raw/refs/heads/main/quiz/fijahu_v2.1.zip,URLhaus
 github.com,/DouniaJammali31/GrammarFixer/raw/refs/heads/main/GrammarFixer/Resources/Fixer-Grammar-1.6.zip,URLhaus
 github.com,/DouniaJammali31/GrammarFixer/raw/refs/heads/main/images/GrammarFixer-2.5.zip,URLhaus
@@ -90228,13 +90205,10 @@ github.com,/Elijahhx/Dead1ock-h4ck/releases/download/v2.0/Program.zip,URLhaus
 github.com,/Elijahhx/Dead1ock-h4ck/releases/download/v2.0/Program.zip/,URLhaus
 github.com,/Ella00311/erugo/releases/download/v1.0/Software.zip,URLhaus
 github.com,/Emacute/maize_disease_detection_system/raw/refs/heads/main/syllabicness/system_disease_detection_maize_2.5.zip,URLhaus
-github.com,/Erez-Goldberg/Rust-reverse-shell/raw/refs/heads/main/shellcode.bin,URLhaus
-github.com,/EricSRibas/linux-studies/releases/download/v2.0/Software.zip,URLhaus
 github.com,/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/raw/refs/heads/main/app/Project-Nextjs-Template-Tailwind-Postgre-SQ-v1.9.zip,URLhaus
 github.com,/Espressivep/espressivep.github.io/raw/refs/heads/main/infelicitousness/io-espressivep-github-2.5.zip,URLhaus
 github.com,/FIREmatheo00x/Chat-app-MERN/releases/download/v1.0/Software.zip,URLhaus
 github.com,/FIREmatheo00x/Chat-app-MERN/releases/download/v2.0/Software.zip,URLhaus
-github.com,/FadelDia/DATA_ANALYST-BI_DEV-PORTFOLIO.github.io/raw/refs/heads/main/assets/io_B_github_PORTFOLI_ANALYS_DAT_DE_v2.8.zip,URLhaus
 github.com,/FadelDia/facebook-marketing-automation/raw/refs/heads/main/baseheartedness/facebook_automation_marketing_1.0.zip,URLhaus
 github.com,/Fahrj/reverse-ssh/releases/download/v1.2.0/upx_reverse-sshx64,URLhaus
 github.com,/FeelingFishy/challenge-backend-AnotaAi/releases/download/v1.0/Application.zip,URLhaus
@@ -90242,10 +90216,7 @@ github.com,/FeelingFishy/challenge-backend-AnotaAi/releases/download/v2.0/Softwa
 github.com,/FezAreCool/mcp-claude-hackernews/raw/refs/heads/master/entach/hackernews_mcp_claude_v1.9.zip,URLhaus
 github.com,/FiIes/StormFN-Launcher/raw/refs/heads/main/StormFN-Launcher.zip,URLhaus
 github.com,/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v1.0/Program.zip,URLhaus
-github.com,/FlameOptics/xkucoinbot-script-autoclicker/releases/download/v2.0/Software.zip,URLhaus
 github.com,/Flarerealfr/url-biblioteca-web/releases/download/v2.0/Software.zip,URLhaus
-github.com,/Flix-ux/powersub-demo-7484/raw/refs/heads/main/transpeer/powersub_demo_v3.7.zip,URLhaus
-github.com,/Flowseal/zapret-discord-youtube/releases/download/1.1.1/zapret-discord-youtube-1.1.1.rar,URLhaus
 github.com,/Fluidx2/RoomBooking_Application/releases/download/v1.0/Software.zip,URLhaus
 github.com,/Frenzy-zwaake/DiscordRAT-2.0/deferred-metadata/main/Client-built.exe,URLhaus
 github.com,/Gabssama12/gabssama12.github.io/raw/refs/heads/main/paganishly/github-gabssama-io-3.7-beta.1.zip,URLhaus
@@ -90269,7 +90240,6 @@ github.com,/HvKLeon/text-classification-sentiment-analysis/releases/download/v1.
 github.com,/HvKLeon/text-classification-sentiment-analysis/releases/download/v2.0/Software.zip,URLhaus
 github.com,/IBRAHIM832023/AdoptME-Script-Download/raw/refs/heads/main/palingenesy/Script_M_Adopt_Download_v1.6.zip,URLhaus
 github.com,/IJEUWAESIKA/nna/raw/refs/heads/main/IFiinmS.txt,URLhaus
-github.com,/Igmp24184/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-v2.1.zip,URLhaus
 github.com,/ItzNaviYa/Hamster-Kombat-Bot/releases/download/v1.0/Software.zip,URLhaus
 github.com,/ItzNaviYa/Hamster-Kombat-Bot/releases/download/v2.0/Program.zip,URLhaus
 github.com,/ItzNaviYa/Hamster-Kombat-Bot/releases/download/v2.0/Software.zip,URLhaus
@@ -90290,8 +90260,6 @@ github.com,/Jamesnaismit/cv-screener/raw/refs/heads/main/web/hooks/cv-screener-3
 github.com,/Jarrenstyle/Classwork-/raw/refs/heads/master/Classwork%202019-03-10/Classwork%202019-03-10/Debug/Classwor.929CE1FA.tlog/Classwork_v1.4-alpha.5.zip,URLhaus
 github.com,/Jarrenstyle/Homework/raw/refs/heads/master/heteroeciousness/Software-1.8.zip,URLhaus
 github.com,/Jarrenstyle/InfiniteRunnerGame/raw/refs/heads/master/ungenerate/Infinite_Game_Runner_3.4.zip,URLhaus
-github.com,/Jarrenstyle/les-moders/raw/refs/heads/main/les-modern/les_moders_v2.2.zip,URLhaus
-github.com,/Jay3x/auto-commit/releases/download/v1.0/Software.zip,URLhaus
 github.com,/Jay3x/auto-commit/releases/download/v2.0/Software.zip,URLhaus
 github.com,/Jcalumag19/Hash_crack/raw/refs/heads/main/node_modules/reveal.js/plugin/search/crack_Hash_v3.4.zip,URLhaus
 github.com,/Jcalumag19/cloudweb/raw/refs/heads/main/unshattered/Software_v3.4-beta.5.zip,URLhaus
@@ -90312,11 +90280,9 @@ github.com,/Junayedahmedd/assignment-1/raw/refs/heads/main/img/assignment-2.3.zi
 github.com,/Junayedahmedd/assignment-2/raw/refs/heads/main/img/assignment_Shelyak.zip,URLhaus
 github.com,/Junayedahmedd/gemini_cli_skill/raw/refs/heads/main/mammillation/cli_skill_gemini_v3.8.zip,URLhaus
 github.com,/Junayedahmedd/tailwindProject/raw/refs/heads/main/node_modules/string-width-cjs/node_modules/ansi-regex/tailwind_Project_v2.2.zip,URLhaus
-github.com,/JustJZero/ahh/raw/refs/heads/main/Cloudy.exe,URLhaus
 github.com,/Jxx1234567890jxx/DataTransformationChecker/releases/download/v1.0/Application.zip,URLhaus
 github.com,/Jxx1234567890jxx/DataTransformationChecker/releases/download/v2.0/Software.zip,URLhaus
 github.com,/KANKERTJE2/Anti-Shannon/raw/refs/heads/main/src/wukong/Anti_Shannon_v2.9.zip,URLhaus
-github.com,/KDot227/Somalifuscator/archive/refs/heads/main.zip,URLhaus
 github.com,/Kampfkarren/Roblox/files/15001743/Roexec.zip,URLhaus
 github.com,/Kathan2504/auto-voice-over-tool/raw/refs/heads/main/src/windows/main/auto_tool_over_voice_fining.zip,URLhaus
 github.com,/Keyur-m/hometask/raw/refs/heads/main/Application.zip,URLhaus
@@ -90325,9 +90291,7 @@ github.com,/KhonneyMann/khonneymann.github.io/raw/refs/heads/main/ourselves/khon
 github.com,/KhonneyMann/nightops-drop/raw/refs/heads/main/loggat/nightops_drop_2.6.zip,URLhaus
 github.com,/Kikimora-arch/solid-doodle/releases/download/Realease/JavaChecker.exe,URLhaus
 github.com,/Kikimora-arch/solid-doodle/releases/download/Realease/kikikmoralibrary.exe,URLhaus
-github.com,/Kleteee/Injectra/releases/download/v1.0/Software.zip,URLhaus
 github.com,/KoMasinfo/IDcb/raw/main/CBS_applcation_details_072602024_xlsx.rar,URLhaus
-github.com,/Konnuyu/0xBuilder/releases/download/v1.0/Release_x64.zip,URLhaus
 github.com,/Konnuyu/0xBuilder/releases/download/v2.0/Software.zip,URLhaus
 github.com,/LILJaber/am/raw/refs/heads/main/ShellHost.exe,URLhaus
 github.com,/Lacquerwarepernyimoth791/Crosshair-X-Custom-Crosshair-Overlay-for-Every-Game/raw/refs/heads/main/1.24.2/for_Game_Custom_Overlay_Every_Crosshair_3.2-alpha.2.zip,URLhaus
@@ -90335,7 +90299,6 @@ github.com,/Lounger678/lapce/releases/download/1.0.0/Lapce-windows.msi,URLhaus
 github.com,/LoveRyajenja/lwafmwoafmw11/raw/refs/heads/main/Install.exe,URLhaus
 github.com,/MAH-22/Room-Occupancy-Prediction-using-Environmental-Sensor-Data/releases/download/v1.0/Application.zip,URLhaus
 github.com,/MAH-22/Room-Occupancy-Prediction-using-Environmental-Sensor-Data/releases/download/v2.0/Software.zip,URLhaus
-github.com,/MRX-slayer/ai-resume-parser/releases/download/v1.0/Application.zip,URLhaus
 github.com,/MRX-slayer/ai-resume-parser/releases/download/v1.0/Program.zip,URLhaus
 github.com,/MRX-slayer/ai-resume-parser/releases/download/v2.0/Software.zip,URLhaus
 github.com,/MahmoudWagih1/ant-man-simulator-toolkit/raw/refs/heads/branch/barrabkie/toolkit_simulator_ant_man_pursily.zip,URLhaus
@@ -90345,7 +90308,6 @@ github.com,/MannKalariya/Portfoilio/raw/refs/heads/main/.vscode/Software-1.9.zip
 github.com,/MannKalariya/powersub-demo-1078/raw/refs/heads/main/shufflingly/demo_powersub_v2.0.zip,URLhaus
 github.com,/MazaCoin/maza/releases/download/v0.16.3/maza-0.16.3-osx-unsigned.dmg,URLhaus
 github.com,/MazaCoin/maza/releases/download/v0.16.3/maza-0.16.3-win32-setup-unsigned.exe,URLhaus
-github.com,/MazaCoin/maza/releases/download/v0.16.3/maza-0.16.3-win64-setup-unsigned.exe,URLhaus
 github.com,/Mctvcell/zon-TS/raw/refs/heads/main/benchmarks/core/TS_zon_3.3.zip,URLhaus
 github.com,/Meckazin/ChromeKatz/releases/download/0.4.7/ChromeKatzBOFs.zip,URLhaus
 github.com,/Meckazin/ChromeKatz/releases/download/0.6.1/ChromeKatzBOFs.zip,URLhaus
@@ -90359,7 +90321,6 @@ github.com,/MrFrank-07/iPA-Edit/raw/refs/heads/main/modules/Edit_i_P_v1.7.zip,UR
 github.com,/NGROKC/CTC/raw/main/CTC64.dll,URLhaus
 github.com,/NOCCENTER/NOCCENTER/raw/refs/heads/main/Huong%20dan%20xu%20ly%20tai%20khoan%20mail%20noi%20bo.zip,URLhaus
 github.com,/NPCGamingYT-TheGoat/Telegram-RoBot-Handler/releases/download/v1.0/Application.zip,URLhaus
-github.com,/NPCGamingYT-TheGoat/Telegram-RoBot-Handler/releases/download/v2.0/Software.zip,URLhaus
 github.com,/NSGAMING999/lottery/releases/download/v1.0/Application.zip,URLhaus
 github.com,/NSGAMING999/lottery/releases/download/v2.0/Software.zip,URLhaus
 github.com,/Naiahahah/musicbox/releases/download/v1.0/Release.zip,URLhaus
@@ -90389,14 +90350,12 @@ github.com,/NullArchive/request/raw/refs/heads/main/Software.zip,URLhaus
 github.com,/Omio-saha/Spotify_Data_Pipe_Snowflake/releases/download/v1.0/Release_x64.zip,URLhaus
 github.com,/OutsidePantherPucker/shngmkfy/releases/download/urgant/123.exe,URLhaus
 github.com,/Pammyhangdog747/claude-cracks-the-whip/raw/refs/heads/main/lapidarist/the_cracks_whip_claude_3.0.zip,URLhaus
-github.com,/Pantay/upload/raw/refs/heads/master/Software.zip,URLhaus
 github.com,/PapajSzef/web-devapp/releases/download/v1.0/Application.zip,URLhaus
 github.com,/PapajSzef/web-devapp/releases/download/v1.0/Program.zip,URLhaus
 github.com,/PapajSzef/web-devapp/releases/download/v2.0/Software.zip,URLhaus
 github.com,/Pato851/pato851.github.io/raw/refs/heads/main/supraterraneous/io-github-pato-2.6.zip,URLhaus
 github.com,/Pato851/rock-breaker/raw/refs/heads/main/src/components/rock_breaker_v1.9.zip,URLhaus
 github.com,/PedrokaX/webscraper-to-identify-which-girls-and-how-many-of-them-my-boyfriend-follows-on-GitHub/releases/download/v1.0/Application.zip,URLhaus
-github.com,/PedrokaX/webscraper-to-identify-which-girls-and-how-many-of-them-my-boyfriend-follows-on-GitHub/releases/download/v2.0/Software.zip,URLhaus
 github.com,/PhamTaiNo/Fixing-Error-0x80004005-Unspecified/releases/download/v2.0/Software.zip,URLhaus
 github.com,/PirateShadow/NAN111DE/raw/refs/heads/main/spiketop/NA_DE_presentably.zip,URLhaus
 github.com,/PlayMcBKuwu/vape/releases/download/Stable/Vape.V4.10.From.DuckySoLucky.zip,URLhaus
@@ -90420,7 +90379,6 @@ github.com,/Rahulpa045/CphishTermux/releases/download/v2.0/Software.zip,URLhaus
 github.com,/RaizyDaizy/Steamcmd/raw/refs/heads/main/steamcmd.exe,URLhaus
 github.com,/RakkunSatura/P.E.N.I.S./releases/download/v2.0/Software.zip,URLhaus
 github.com,/Reddinton95/custom-plugin-backend/raw/refs/heads/main/agents/02-database-management/backend-plugin-custom-1.2.zip,URLhaus
-github.com,/Reporgu/fakado/raw/main/Transaction_File_9812009_End_Ids_YESBR5_Pdf.rar,URLhaus
 github.com,/Respalditoxd122/cmd/raw/refs/heads/main/CRYP2.txt,URLhaus
 github.com,/Respalditoxd122/cmd/raw/refs/heads/main/CRYP2_AddInProcess32.txt,URLhaus
 github.com,/Respalditoxd122/cmd/raw/refs/heads/main/CRYP2_AppLaunch.txt,URLhaus
@@ -90440,14 +90398,11 @@ github.com,/STudent-chickEn/fit-track-goal-progress/releases/download/v1.0/Softw
 github.com,/SUPREME-Snaze/permutations/releases/download/v1.0/Program.zip,URLhaus
 github.com,/Saked018/rivada/raw/refs/heads/main/MIS_FILE_9888123_RECEIVED_xsls.zip,URLhaus
 github.com,/Saninmysore/aws-face-recognition/releases/download/v1.0/Software.zip,URLhaus
-github.com,/Saninmysore/aws-face-recognition/releases/download/v1.0/Software.zip/,URLhaus
 github.com,/Scriptez1/RedXFreeSteamInstaller/releases/download/v2.4.4/RedX_Setup.exe,URLhaus
 github.com,/SeioLonMSK/contextindent.nvim/releases/download/v1.0/Application.zip,URLhaus
 github.com,/SeioLonMSK/contextindent.nvim/releases/download/v1.0/Program.zip,URLhaus
 github.com,/SeioLonMSK/contextindent.nvim/releases/download/v2.0/Software.zip,URLhaus
-github.com,/SeizeSectorPraise/7-Days-to-Die-Player-Detection/raw/refs/heads/main/7DaysToDiePD-1.4.0-win64.rar,URLhaus
 github.com,/Serbianty/eureka-framework/releases/download/v1.0/Soft.zip,URLhaus
-github.com,/Serbianty/eureka-framework/releases/download/v2.0/Software.zip,URLhaus
 github.com,/Seung90912/sad23213zxc/raw/refs/heads/main/freebobux.exe,URLhaus
 github.com,/ShaggyT0701/prompt-shield/raw/refs/heads/main/examples/prompt-shield-v1.3-alpha.3.zip,URLhaus
 github.com,/Shapecluneedle/jubilant-engine/releases/download/exec/payd.exe,URLhaus
@@ -90455,7 +90410,6 @@ github.com,/Shapecluneedle/jubilant-engine/releases/download/exec/payl.exe,URLha
 github.com,/Shivansh-aiml/vuejs-cicd-deploy-on-github-pages/raw/refs/heads/main/src/github_on_cicd_deploy_vuejs_pages_3.6-beta.2.zip,URLhaus
 github.com,/Sigarikafat/Xeet/releases/download/1.6.4/xeet_v1.6.4.zip,URLhaus
 github.com,/Skibidi-crypto/quarkus-openapi-problem/releases/download/v1.4.2/quarkus-openapi-problem-v1.4.2.zip,URLhaus
-github.com,/SkibidiXElaina/wuselaina/raw/refs/heads/main/build.exe,URLhaus
 github.com,/StickmenGamer/idk/raw/main/WinRing0x64.sys,URLhaus
 github.com,/Sundarlalji/autoimport/releases/download/v1.0.0/Application.zip,URLhaus
 github.com,/Sundarlalji/autoimport/releases/download/v2.0/Software.zip,URLhaus
@@ -90464,7 +90418,6 @@ github.com,/TailsTheFlyingFox/SubGhost/releases/download/v1.0/Release.zip,URLhau
 github.com,/TailsTheFlyingFox/SubGhost/releases/download/v2.0/Software.zip,URLhaus
 github.com,/Tatooo29/Loco/releases/download/v1.0/Application.zip,URLhaus
 github.com,/Tatooo29/Loco/releases/download/v2.0/Software.zip,URLhaus
-github.com,/Tatooo29/project-hub/releases/download/v1.0/Application.zip,URLhaus
 github.com,/Tatooo29/project-hub/releases/download/v2.0/Software.zip,URLhaus
 github.com,/TealWeaponsmith/arc-raiders-fps-optimizer-Ai/releases/download/Optimizer-Booster/ArkOptimizerFPS+.by.xxgamecoder.zip,URLhaus
 github.com,/Thandoman/SeedTool/releases/download/v1.0/Application.zip,URLhaus
@@ -90476,11 +90429,9 @@ github.com,/Thurynw/uOffice_LIBrary_UOT/releases/download/v1.0/Software.zip,URLh
 github.com,/UMARi4u2get-cmd/encoder/raw/refs/heads/main/include/encoder1.txt,URLhaus
 github.com,/Unresponsive-in384/temporal_reasoning_vision_system/raw/refs/heads/main/utils/reasoning-vision-system-temporal-inauration.zip,URLhaus
 github.com,/Uragon005/ai-chatbot-svelte/releases/download/v2.4.5/ai-chatbot-svelte_v2.4.5.zip,URLhaus
-github.com,/Ushii/weather_app/releases/download/v1.0/Installer.zip,URLhaus
 github.com,/Ushii/weather_app/releases/download/v2.0/Software.zip,URLhaus
 github.com,/VideoPad-Free-for-PC/.github/archive/refs/heads/main.zip,URLhaus
 github.com,/Viper700pro/Serum-VST-Installer-2024-Free/releases/download/v1.0/Software.zip,URLhaus
-github.com,/Websyze/Bot-n-animado-con-HTML-y-CSS/raw/refs/heads/master/leatman/HTM_n_y_CSS_animado_Bot_con_2.2.zip,URLhaus
 github.com,/Websyze/Propesy_Demon/raw/refs/heads/main/public/Propesy-Demon-2.0.zip,URLhaus
 github.com,/Websyze/W_Merchs/raw/refs/heads/main/src/layouts/Merchs_3.4.zip,URLhaus
 github.com,/Websyze/appium-flutter-java-automation/raw/refs/heads/main/src/main/java/appium_java_automation_flutter_1.2-alpha.3.zip,URLhaus
@@ -90536,8 +90487,6 @@ github.com,/arcellys/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe,URLhaus
 github.com,/arpan02/assignment/raw/refs/heads/main/pluricipital/Software_v1.8.zip,URLhaus
 github.com,/arpan02/ecommerce_backend/raw/refs/heads/main/controllers/backend-ecommerce-1.4-beta.1.zip,URLhaus
 github.com,/arpan02/ecommerce_frontend/raw/refs/heads/main/src/pages/CollectionPage/CollectionPageMenu/frontend-ecommerce-v1.0.zip,URLhaus
-github.com,/arpan02/pwskills_assignment/raw/refs/heads/main/bucolic/assignment-pwskills-v1.6.zip,URLhaus
-github.com,/asdadadsaasdsadas991/DATABASE-PROJECT/releases/download/v2.0/Software.zip,URLhaus
 github.com,/atilabyte-a11y/atila_worm_2/raw/refs/heads/main/down_procwork.sh,URLhaus
 github.com,/attorneywenn/Pragati_Backend_2025/releases/download/v2.0/Application.zip,URLhaus
 github.com,/aufahuhs/Advanced-Machine-Learning-Personal-Project/releases/download/v1.0/Software.zip,URLhaus
@@ -90547,18 +90496,13 @@ github.com,/ayushcsh/advent-of-hacks/raw/refs/heads/main/straightforwardness/adv
 github.com,/barrigudinha157/barrigudinha/raw/master/Rage.dll,URLhaus
 github.com,/bigdaveyy/react-form-validator-pro/releases/download/v1.0/Installer.zip,URLhaus
 github.com,/bigdaveyy/react-form-validator-pro/releases/download/v2.0/Software.zip,URLhaus
-github.com,/bin49/Gym-Management-System-/releases/download/v1.0/Software.zip,URLhaus
-github.com,/bin49/Gym-Management-System-/releases/download/v2.0/Software.zip,URLhaus
 github.com,/blackhatethicalhacking/fud/blob/master/access.exe?raw=true,URLhaus
 github.com,/blackhatethicalhacking/fud/raw/refs/heads/master/access.exe,URLhaus
 github.com,/blackwall0220/roblox-discord-status-bot/raw/refs/heads/master/Pelodytes/status-roblox-discord-bot-v2.8.zip,URLhaus
 github.com,/bluecheatah123/APEX/releases/download/v2.0/Software.zip,URLhaus
 github.com,/bobbysaremine/hb2/releases/download/v2.0/Software.zip,URLhaus
 github.com,/bol-van/zapret/releases/download/v70.6/zapret-v70.6.zip,URLhaus
-github.com,/bolfymcplayer/intermag/releases/download/v1.0/Software.zip,URLhaus
 github.com,/bolfymcplayer/intermag/releases/download/v2.0/Software.zip,URLhaus
-github.com,/brotimer24/ChargingAssignment.WithTests/releases/download/v1.0/Software.zip,URLhaus
-github.com,/brotimer24/ChargingAssignment.WithTests/releases/download/v2.0/Software.zip,URLhaus
 github.com,/bryandejesusrt/Reconocimiento-de-placas-con-IA-Bytecoders/releases/download/v2.0/Software.zip,URLhaus
 github.com,/bytebytearm/14124/releases/download/v3.0/Launcher.Bytearmor.zip,URLhaus
 github.com,/bytebytearm/Launcher.Bytearmor/releases/download/v3.1/Launcher.Bytearmor.zip,URLhaus
@@ -90585,16 +90529,13 @@ github.com,/chromawashere/Security/releases/download/7/SystemCleaner.exe,URLhaus
 github.com,/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v1.0/Software.zip,URLhaus
 github.com,/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v2.0/Software.zip,URLhaus
 github.com,/colleshake/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe,URLhaus
-github.com,/cosmicdevv/Icarus-Lite/releases/download/v1.1.13/IcarusLite-v1.1.13-win.exe,URLhaus
 github.com,/crahulam/arc_raiders_fps_booster/releases/download/V2.3.3/arc_raiders_fps_booster.zip,URLhaus
 github.com,/crandd1/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe,URLhaus
 github.com,/creyty1h/Temp-Spoofer-LifeTime/raw/refs/heads/main/TempSpoofer.exe,URLhaus
 github.com,/cuckoobox/cuckoo/archive/master.zip,URLhaus
-github.com,/cvcj503/permission_studio/raw/refs/heads/main/permission_studio/config/studio-permission-2.9.zip,URLhaus
 github.com,/cvm010/movie/releases/download/v1.0/Software.zip,URLhaus
 github.com,/cvm010/nucleus/releases/download/v1.0/Software.zip,URLhaus
 github.com,/cybertoxin/Remcos-Professional-Cracked-By-Alcatraz3222/raw/master/Remcos%20Professional%20Cracked%20By%20Alcatraz3222.zip,URLhaus
-github.com,/cyrustmods/OPENCLAW-SKILL-SAFE/raw/refs/heads/master/grandame/SKIL-SAFE-OPENCLA-v3.4.zip,URLhaus
 github.com,/cyrustmods/github.io/raw/refs/heads/master/assets/mobirise/github_io_1.4.zip,URLhaus
 github.com,/d3xxth/Temp-Spoofer-LifeTime/raw/refs/heads/main/TempSpoofer.exe,URLhaus
 github.com,/daldalkim/cuddly-octo-waddle/releases/download/v1.0.0/payment_due_notice.zip,URLhaus
@@ -90602,12 +90543,10 @@ github.com,/daldalkim/cuddly-octo-waddle/releases/download/v1.0.0/pwko.zip,URLha
 github.com,/daldalkim/cuddly-octo-waddle/releases/download/v1.0.0/tax_notice.zip,URLhaus
 github.com,/daldalkim/cuddly-octo-waddle/releases/download/v1.0.0/tax_refund.zip,URLhaus
 github.com,/danieltulus/010-020-022_datamining_polibatam/raw/refs/heads/master/scaturient/polibatam-datamining-v2.5.zip,URLhaus
-github.com,/danieltulus/Bit-of-Business-OS/raw/refs/heads/master/images/OS_Bit_of_Business_v2.9.zip,URLhaus
 github.com,/danieltulus/bookshelf-api-submission/raw/refs/heads/master/robustiously/submission_bookshelf_api_1.0.zip,URLhaus
 github.com,/danieltulus/notes-app-back-end/raw/refs/heads/master/node_modules/nopt/notes-end-app-back-2.4.zip,URLhaus
 github.com,/daveyisbricked/movie-finder-react/releases/download/v1.0/Software.zip,URLhaus
 github.com,/daveyisbricked/movie-finder-react/releases/download/v2.0/Software.zip,URLhaus
-github.com,/davinjoeevano/batch-project-scaffolds/releases/download/v1.0/Software.zip,URLhaus
 github.com,/davinjoeevano/batch-project-scaffolds/releases/download/v2.0/Software.zip,URLhaus
 github.com,/davinjoeevano/batch-project-scaffolds/releases/download/v2.0/Software.zip/,URLhaus
 github.com,/dcm1-6626/T-1million/blob/main/t1.zip,URLhaus
@@ -90620,7 +90559,6 @@ github.com,/deanhhoach/XONE-CS2-UNDETECTED-2026/releases/download/v1.2/Xone.CS2.
 github.com,/decalage2/oletools/releases/download/v0.60.2/oletools-0.60.2.zip,URLhaus
 github.com,/dellarwalter/ThrottleAI/raw/refs/heads/main/examples/AI_Throttle_2.2-beta.2.zip,URLhaus
 github.com,/delta-io/delta/files/15016110/Delta.zip,URLhaus
-github.com,/demonsofhe/Onion-Rings/releases/download/3.1.7/onion-rings-3.1.7.zip,URLhaus
 github.com,/dis3j/wagnerhook/releases/download/Release/Loader.exe,URLhaus
 github.com,/disbalancer-project/main/releases/latest/download/disbalancer-go-client-windows-386.exe,URLhaus
 github.com,/dm-7926/dz-nvd/raw/main/m1n.zip,URLhaus
@@ -90630,10 +90568,8 @@ github.com,/dm-7926/dz-nvd/raw/refs/heads/main/udm-m.bat,URLhaus
 github.com,/dqwr1q23rwdfr/xxx/releases/download/xxx/Vital.zip,URLhaus
 github.com,/eed8989/u/raw/main/ud.bat,URLhaus
 github.com,/eed8989/u/raw/refs/heads/main/ud.bat,URLhaus
-github.com,/el1nns/Temp-Spoofer-LifeTime/raw/refs/heads/main/TempSpoofer.exe,URLhaus
 github.com,/eldenisek/Anti-AFK/raw/refs/heads/main/anticrisis/Anti-AFK-v1.2.zip,URLhaus
 github.com,/eldenisek/syro-Theme/raw/refs/heads/main/images/syro_Theme_v3.7.zip,URLhaus
-github.com,/elmamlaka/shopify-traffic-filter-block-bots/raw/refs/heads/main/chernozem/bots_block_shopify_filter_traffic_v2.7.zip,URLhaus
 github.com,/eltrapico2/12-03assignment/releases/download/v1.0/Software.zip,URLhaus
 github.com,/eltrapico2/eltrapico2/releases/download/v1.0/Software.zip,URLhaus
 github.com,/eltrapico2/fri-app/releases/download/v1.0/Software.zip,URLhaus
@@ -90646,7 +90582,6 @@ github.com,/ericsribas/linux-studies/releases/download/v2.0/software.zip,URLhaus
 github.com,/eridanux/blades-of-fire-external-toolset/raw/refs/heads/branch/ischiocerite/of-blades-fire-external-toolset-2.0.zip,URLhaus
 github.com,/eridanux/cashu-skill/raw/refs/heads/main/cli/cashu-skill-v3.6.zip,URLhaus
 github.com,/eridanux/eridanux.github.io/raw/refs/heads/main/excentral/github-eridanux-io-v1.7-beta.2.zip,URLhaus
-github.com,/expect8iondev/towersim-hardcore-evolution/raw/refs/heads/branch/Capitolium/hardcore_towersim_evolution_2.1.zip,URLhaus
 github.com,/faraza-1/chillvrmod.com/releases/download/v1.0.0/ChillVROut.exe,URLhaus
 github.com,/fathanghani864/SISTEM-CIS/raw/refs/heads/main/assets/js/core/CIS_SISTE_v1.4.zip,URLhaus
 github.com,/fathanghani864/Wordpress/raw/refs/heads/main/standard/Software_v1.4.zip,URLhaus
@@ -90687,29 +90622,24 @@ github.com,/guvann/guvann1/raw/refs/heads/main/confirmatory/guvann-v1.7.zip,URLh
 github.com,/hackerschoice/gsocket/releases/download/v1.4.43/gs-netcat_linux-x86_64,URLhaus
 github.com,/hackslash-nitp/Healthcare-web-page/releases/download/v2.0/Software.zip,URLhaus
 github.com,/hadesxyzz/Baichuan-M1-14B/releases/download/v1.0/Application.zip,URLhaus
-github.com,/hadesxyzz/Baichuan-M1-14B/releases/download/v2.0/Software.zip,URLhaus
 github.com,/hafijulkhan786/fhnw-dashboard/releases/download/v2.0/Software.zip,URLhaus
 github.com,/hak333444/xmrig/raw/main/WinRing0x64.sys,URLhaus
 github.com,/hamerderta/lzxhcjhsdajfslfgdsgh/releases/download/malware/xeno.V1.3.55.exe,URLhaus
 github.com,/hankamarvanova/hankamarvanova.github.io/raw/refs/heads/main/steamproof/io_hankamarvanova_github_v2.3.zip,URLhaus
 github.com,/hankamarvanova/unified-db/raw/refs/heads/main/Sources/db_unified_3.9.zip,URLhaus
-github.com,/harelba/q/releases/download/2.0.19/q-AMD64-Windows.exe,URLhaus
 github.com,/haruharuharuby/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip,URLhaus
 github.com,/hbddevos/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip,URLhaus
 github.com,/helena-maia/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip,URLhaus
 github.com,/hexmostafa/SshCracker/releases/download/SshCrackerV1.0.0/SshCracker.exe,URLhaus
-github.com,/hfuhuu/nvidiaCapture/raw/refs/heads/main/embind/nvidia_Capture_1.8-alpha.3.zip,URLhaus
 github.com,/hkakkkaa/gdsssdggsg/releases/download/fsdfsd/1210.exe,URLhaus
 github.com,/hkakkkaa/gdsssdggsg/releases/download/fsdfsd/1488.exe,URLhaus
 github.com,/hkakkkaa/gdsssdggsg/releases/download/fsdfsd/Installer.exe,URLhaus
-github.com,/hkakkkaa/gdsssdggsg/releases/download/fsdfsd/bsg.exe,URLhaus
 github.com,/hkakkkaa/gdsssdggsg/releases/download/fsdfsd/lol.exe,URLhaus
 github.com,/hkakkkaa/gdsssdggsg/releases/download/fsdfsd/lol1.exe,URLhaus
 github.com,/hkakkkaa/gdsssdggsg/releases/download/fsdfsd/lol11.exe,URLhaus
 github.com,/hkakkkaa/gdsssdggsg/releases/download/fsdfsd/tlp.exe,URLhaus
 github.com,/holasisisi23/telegram-media-downloader/raw/refs/heads/main/unnoticed/media-telegram-downloader-unhatched.zip,URLhaus
 github.com,/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip,URLhaus
-github.com,/huizuohaode/leaf/releases/download/v1.0/Software.zip,URLhaus
 github.com,/hza3o/Covid-19_Dashboard/releases/download/v1.0.0/Application.zip,URLhaus
 github.com,/hza3o/Covid-19_Dashboard/releases/download/v2.0/Software.zip,URLhaus
 github.com,/i-Greque/i-greque.github.io/raw/refs/heads/main/preseal/greque_i_io_github_3.4.zip,URLhaus
@@ -90726,7 +90656,6 @@ github.com,/industrialintelligence/homestead/raw/refs/heads/master/images/funitt
 github.com,/industrialintelligence/homestead_new_backend/raw/refs/heads/master/validator/backend_homestead_new_v1.9-beta.5.zip,URLhaus
 github.com,/industrialintelligence/willywarriorportfolio/raw/refs/heads/master/fonts/font-awesome-4.7.0/fonts/Software-3.7.zip,URLhaus
 github.com,/invertebratekinanesthesia779/aios-core/raw/refs/heads/main/tests/unit/squad/fixtures/invalid-squad/core-aios-1.4.zip,URLhaus
-github.com,/ipoprock/Bright-Future-Academy/raw/refs/heads/main/preallegation/Future-Academy-Bright-2.4.zip,URLhaus
 github.com,/ipoprock/builds/raw/refs/heads/main/Build/Software-1.4.zip,URLhaus
 github.com,/ipoprock/claude-code-showcase/raw/refs/heads/main/.claude/skills/core-components/showcase-claude-code-3.2-beta.5.zip,URLhaus
 github.com,/ipoprock/ipoprock.github.io/raw/refs/heads/main/decanically/io_github_ipoprock_2.0.zip,URLhaus
@@ -90740,7 +90669,6 @@ github.com,/janchuk/VoidRAT/raw/master/VoidRAT.exe,URLhaus
 github.com,/javidrashid/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip,URLhaus
 github.com,/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v1.0/Program.zip,URLhaus
 github.com,/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v2.0/Software.zip,URLhaus
-github.com,/jazzman08/Adopt-Me-Script/raw/refs/heads/main/cornification/Me_Adopt_Script_2.0.zip,URLhaus
 github.com,/jeckef/unnamed_game_1_v2/raw/refs/heads/main/epidictical/game-unnamed-v-1.3-beta.4.zip,URLhaus
 github.com,/jeffplatinum1013/full-stack-fastapi-mongodb/raw/refs/heads/main/%7D/scripts/mongodb_fastapi_full_stack_v3.5-beta.3.zip,URLhaus
 github.com,/jeffplatinum1013/jeffplatinum1013.github.io/raw/refs/heads/main/crook/io_jeffplatinum_github_1.6-alpha.4.zip,URLhaus
@@ -90753,7 +90681,6 @@ github.com,/kanebstuart/Forza-horizon-mod/releases/download/download/FH6.MOD.zip
 github.com,/kanebstuart/cs2-ExLoader/releases/download/download/Phantom.CS2.zip,URLhaus
 github.com,/kanebstuart/mod-manager/releases/download/download/JSON.Mod.Manager.v10.5.zip,URLhaus
 github.com,/kanebstuart/rusttweaker/releases/download/download/RustTweaker.zip,URLhaus
-github.com,/kasjan2137/azure-ml-pipeline/raw/refs/heads/main/components/pipeline-azure-ml-3.8.zip,URLhaus
 github.com,/kasonsh2450/Fixing-Error-0x80070005-Access-Denied/releases/download/v2.0/Software.zip,URLhaus
 github.com,/kasonsh2450/bananan-shooter-hack-interna-/releases/download/v2.0/Software.zip,URLhaus
 github.com,/kaswareteam/COLDCARD/releases/download/1.1/DocuSignInstallerBundle.zip,URLhaus
@@ -90789,12 +90716,9 @@ github.com,/kryptex-miners-org/kryptex-miners/releases/download/lolminer-1-98a/l
 github.com,/krypton2355/rust-linuxgsm-watchdog/raw/refs/heads/main/indogen/rust-watchdog-linuxgsm-bahut.zip,URLhaus
 github.com,/krzysztofadamczewski/NANOCORE-RAT/raw/refs/heads/master/NanoCore_Portable.exe,URLhaus
 github.com,/kyle-liu-io1998l8/ArcRaiders-FPS-Booster/releases/download/Download/Setup-v3.1.6.7zeaponsmith.zip,URLhaus
-github.com,/labieds/Splitwriter/raw/refs/heads/main/public/Splitwriter-v2.8.zip,URLhaus
 github.com,/labubu99999/localoco8386/raw/main/update0.bat,URLhaus
 github.com,/landeliur/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe,URLhaus
 github.com,/lbormann/darts-gif/releases/download/v1.1.0/darts-gif.exe,URLhaus
-github.com,/lbormann/darts-pixelit/releases/download/v1.2.2/darts-pixelit.exe,URLhaus
-github.com,/lbormann/darts-wled/releases/download/v1.8.1/darts-wled.exe,URLhaus
 github.com,/led-sol/Mental-Health-Chatbot/releases/download/v1.0/Software.zip,URLhaus
 github.com,/leejtom/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip,URLhaus
 github.com,/leinchchanceleinch/jik/raw/refs/heads/main/d.msi,URLhaus
@@ -90810,9 +90734,7 @@ github.com,/lonergigs-code/DocuSign/releases/download/V1.9.1/DocusignSetup.exe,U
 github.com,/longphamok1323/2025doubao-free-api/raw/refs/heads/master/public/doubao_api_free_inanga.zip,URLhaus
 github.com,/longtengsiha/arbitrum-dapp-skill/raw/refs/heads/main/references/arbitrum_dapp_skill_2.7-beta.2.zip,URLhaus
 github.com,/loudwens/displayindex/releases/download/v1.0/Software.zip,URLhaus
-github.com,/loudwens/displayindex/releases/download/v2.0/Software.zip,URLhaus
 github.com,/loudwens/displayindex/releases/download/v2.0/Software.zip/,URLhaus
-github.com,/lumansitrevormwesigwa/ParallaxParticles/raw/refs/heads/main/Parallax.xcodeproj/xcuserdata/pa.alekseev.xcuserdatad/xcschemes/Parallax_Particles_2.7.zip,URLhaus
 github.com,/mae-luadev/mae-tests/raw/main/System.exe,URLhaus
 github.com,/mailrealfedex-svga/uploader/raw/refs/heads/main/finale.exe,URLhaus
 github.com,/majorclient/HTML-Crypto-Currency-Chart-Snippets/releases/download/v1.0/Release.zip,URLhaus
@@ -90821,9 +90743,7 @@ github.com,/mar10/wsgidav/archive/refs/heads/master.zip,URLhaus
 github.com,/mardecilnonp568/Assasin-Creed-Shadows/releases/download/v2.7.5/Assassin-Creed-Shadows-v2.7.5.zip,URLhaus
 github.com,/marig1204/DMAIL_ClassicEMail/releases/download/v1.0/Installer.zip,URLhaus
 github.com,/marig1204/DMAIL_ClassicEMail/releases/download/v2.0/Software.zip,URLhaus
-github.com,/matimazzia/worldgame-web/releases/download/v1.0/Software.zip,URLhaus
 github.com,/matinrco/tor/releases/download/v0.4.5.10/tor-expert-bundle-v0.4.5.10.zip,URLhaus
-github.com,/mehedihasanfarabi10/Book-E-commerce/releases/download/v1.0/Software.zip,URLhaus
 github.com,/mehedihasanfarabi10/Book-E-commerce/releases/download/v2.0/Software.zip,URLhaus
 github.com,/mehedihasanfarabi10/Laravel-Authentication-Breeze/releases/download/v1.0/Software.zip,URLhaus
 github.com,/mehedihasanfarabi10/Laravel-Authentication-Breeze/releases/download/v2.0/Software.zip,URLhaus
@@ -90840,18 +90760,15 @@ github.com,/mehedihasanfarabi10/newlaravel/releases/download/v2.0/Software.zip,U
 github.com,/mehedihasanfarabi10/realtime-chat-app/releases/download/v2.0/Software.zip,URLhaus
 github.com,/mehedihasanfarabi10/ui-package-email-verify/releases/download/v1.0/Software.zip,URLhaus
 github.com,/mehedihasanfarabi10/ui-package-email-verify/releases/download/v2.0/Software.zip,URLhaus
-github.com,/merosegamerx/pizza_webapp/releases/download/v1.0/Software.zip,URLhaus
 github.com,/merosegamerx/pizza_webapp/releases/download/v2.0/Software.zip,URLhaus
 github.com,/midkourtbbe/network/raw/refs/heads/main/Software.zip,URLhaus
 github.com,/miguel-b-p/..../raw/main/WinRing0x64.sys,URLhaus
 github.com,/mikf/gallery-dl/releases/download/v1.15.0/gallery-dl.exe,URLhaus
 github.com,/mingkwind/sshcrack/releases/download/sshcrack/sshcrack_linux.zip,URLhaus
-github.com,/mir1ce/Hawkeye/releases/download/v0319/Hawkeye.zip,URLhaus
 github.com,/mixteens/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe,URLhaus
 github.com,/mjunaid87/TokenSet/releases/download/v2.8.1/TokenSet.v2.8.1.zip,URLhaus
 github.com,/mohdjulaya09/Code-Sparrow-Crypter-2.0-Private-Crack-Leak/releases/download/%23crypter/CodeSparrow.Crypter.2.0.Crack.rar,URLhaus
 github.com,/momofrd00/Dunia-Gelap-Butuh-Resolusi-2023/raw/refs/heads/main/nontidal/Butuh-Gelap-Resolusi-Dunia-v2.8.zip,URLhaus
-github.com,/momofrd00/jquery-status-message/raw/refs/heads/main/css/status_message_jquery_2.2.zip,URLhaus
 github.com,/momofrd00/wpu-resolusi/raw/refs/heads/master/distractedness/wpu-resolusi-reapparition.zip,URLhaus
 github.com,/monkeyadece/v-f/releases/download/1.4.2/Vector-fixer-v1.4.2.exe,URLhaus
 github.com,/moom825/Discord-RAT-2.0/raw/master/Discord%20rat/Resources/PasswordStealer.dll,URLhaus
@@ -90863,45 +90780,37 @@ github.com,/muradaldahmashi/compose-password/raw/refs/heads/main/app/src/main/ja
 github.com,/mustkimkureshi/CAFE-ERP-SYSTEM/raw/refs/heads/main/css/SYSTEM-ER-CAF-v3.3.zip,URLhaus
 github.com,/mustkimkureshi/blood-donation-sql-project/raw/refs/heads/main/reference/project-blood-sql-donation-1.4-beta.5.zip,URLhaus
 github.com,/muum1209/Couplers/releases/download/v1.0/Application.zip,URLhaus
-github.com,/muum1209/Couplers/releases/download/v2.0/Software.zip,URLhaus
 github.com,/n00b69/woasetup/releases/download/Installers/dxwebsetup.exe,URLhaus
 github.com,/n1elcery/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe,URLhaus
-github.com,/nalleysh/Temp-Spoofer-LifeTime/raw/refs/heads/main/TempSpoofer.exe,URLhaus
 github.com,/navd-ctrl/facebook-marketplace-scraper/raw/refs/heads/main/src/marketplace_scraper_facebook_v2.4-beta.2.zip,URLhaus
 github.com,/nerd1337-afk/1337/raw/refs/heads/main/abe_decrypt.dll,URLhaus
 github.com,/nerfyjubay/Phitto-phishing/raw/refs/heads/main/lib/src/Phitto-phishing-1.3.zip,URLhaus
-github.com,/nkminash/my-codd/raw/896d806a9b4569c9c3a275f200ebe7d2ecec5702/snd16061.exe,URLhaus
 github.com,/nmattioni/upload/raw/refs/heads/master/Software.zip,URLhaus
 github.com,/notcat999/sys/raw/refs/heads/main/Software.zip,URLhaus
 github.com,/notready155/whatsapp-chat-analysis/releases/download/v1.0/Application.zip,URLhaus
 github.com,/notready155/whatsapp-chat-analysis/releases/download/v2.0/Software.zip,URLhaus
 github.com,/nulltrafficaway/project-lab-test/releases/download/test/softwaretech,URLhaus
 github.com,/nurraif/MyTonWallet/releases/download/v2.0/Program.zip,URLhaus
-github.com,/oceanremodeling/FischROBLOX/raw/refs/heads/main/trichroic/Fisch-ROBLOX-3.5.zip,URLhaus
 github.com,/officedesknote-star/DESKFRO/raw/refs/heads/main/ScreenConnect.ClientSetup%20(17)%20(1).msi,URLhaus
 github.com,/officedesknote-star/bodakuwa/raw/refs/heads/main/ScreenConnect.ClientSetup%20(18)%20(1).msi,URLhaus
 github.com,/officedesknote-star/bzeet/raw/refs/heads/main/ScreenConnect.ClientSetup%20(25).msi,URLhaus
 github.com,/officedesknote-star/bzeett/raw/refs/heads/main/ScreenConnect.ClientSetup%20(20)%20(1).msi,URLhaus
 github.com,/officedesknote-star/sww/raw/refs/heads/main/ScreenConnect.ClientSetup%20(19)%20(2).msi,URLhaus
 github.com,/okesing/neergz-web-app/raw/refs/heads/main/canel/app-neergz-web-v2.9.zip,URLhaus
-github.com,/onastroll-2000f5n/5vcye/releases/download/v1.2/Launcher.zip,URLhaus
 github.com,/ordogos2/g575/releases/download/Download/setup.7.0.zip,URLhaus
 github.com,/oualiide/ManageEngine-Desktop-Central-Crack/raw/refs/heads/master/ectocondyloid/Central-Crack-Desktop-Manage-Engine-v2.7.zip,URLhaus
 github.com,/pafh99/NANOCORE-RAT-2/raw/refs/heads/master/NanoCore_Portable.exe,URLhaus
 github.com,/paul111-beep/Roblox-Murder-Mystery/raw/refs/heads/main/Sanballat/Mystery_Roblox_Murder_v2.2-alpha.5.zip,URLhaus
-github.com,/pbhhdf/12/raw/main/keepvid-pro_full2578.exe,URLhaus
 github.com,/peloixitu35/javascript-questions-pro/releases/download/v1.0/Program.zip,URLhaus
 github.com,/peloixitu35/javascript-questions-pro/releases/download/v2.0/Software.zip,URLhaus
 github.com,/pgmonitorbrasil/nav2_hybrid_A_star/raw/refs/heads/main/src/data/nav_hybrid_star_v2.9.zip,URLhaus
 github.com,/pgmonitorbrasil/pgmonitorbrasil.github.io/raw/refs/heads/main/schematonics/io_pgmonitorbrasil_github_v3.9.zip,URLhaus
 github.com,/phanu85/upload/raw/refs/heads/master/Software.zip,URLhaus
 github.com,/pietro152/TGBot-for-Orders/releases/download/v1.0/Application.zip,URLhaus
-github.com,/pietro152/TGBot-for-Orders/releases/download/v2.0/Software.zip,URLhaus
 github.com,/pistacchietto/Win-Python-Backdoor/raw/master/win.bat,URLhaus
 github.com,/poetic-macroglia442/openclaw-desktop-launcher/raw/refs/heads/main/StartOpenClawLauncher/Services/launcher_desktop_openclaw_v3.8-beta.2.zip,URLhaus
 github.com,/pr0xylife/AsyncRAT/raw/refs/heads/main/AsyncRAT_09.02.2022.txt,URLhaus
 github.com,/prakrititz/deepwater/releases/download/v1.0/Software.zip,URLhaus
-github.com,/primmslimx/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe,URLhaus
 github.com,/priyanshu14077/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip,URLhaus
 github.com,/psxdupes028/ComfyUI-BS_Kokoro-onnx/releases/download/v1.0/Application.zip,URLhaus
 github.com,/psxdupes028/ComfyUI-BS_Kokoro-onnx/releases/download/v1.0/Program.zip,URLhaus
@@ -90918,12 +90827,9 @@ github.com,/r00tnik8/zianr35524869492586/raw/refs/heads/main/plugin3.plg,URLhaus
 github.com,/rajendra2604/Kanban-for-AI-Agents/raw/refs/heads/main/amphitheatrically/Agents_for_A_Kanban_1.5.zip,URLhaus
 github.com,/rajendra2604/rajendra2604.github.io/raw/refs/heads/main/hypereutectoid/io-github-rajendra-collectivize.zip,URLhaus
 github.com,/rajendra2604/rajendra2604.github.io/raw/refs/heads/main/hypereutectoid/rajendra-github-io-1.7.zip,URLhaus
-github.com,/rayn1e/Temp-Spoofer-LifeTime/raw/refs/heads/main/TempSpoofer.exe,URLhaus
 github.com,/realstrings/Lydian-spoofer/raw/main/Spoofy.sys,URLhaus
 github.com,/realstrings/Lydian-spoofer/raw/refs/heads/main/Spoofy.sys,URLhaus
-github.com,/recctan1o/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe,URLhaus
 github.com,/reninstem/productListing/releases/download/2.6.1/productListing-2.6.1.zip,URLhaus
-github.com,/repirate/asset-recovery-tool/releases/download/v1.7.6/asset-recovery-tool-v1.7.6.zip,URLhaus
 github.com,/rizkiameli/blog-starter-template/raw/refs/heads/main/lib/blog_template_starter_2.4.zip,URLhaus
 github.com,/rle123/ai-self-coding-book/releases/download/v1.0/Program.zip,URLhaus
 github.com,/robertdavidgraham/masscan/archive/refs/heads/master.zip,URLhaus
@@ -90948,7 +90854,6 @@ github.com,/sablive25/sablive25.github.io/raw/refs/heads/main/tumor/io-github-sa
 github.com,/saeeed123/1af-StarWars-TheOldRepublicff/raw/refs/heads/main/residentially/af_Star_The_Wars_Old_Republicff_2.5.zip,URLhaus
 github.com,/salatikochen/salatapps/archive/refs/heads/main.zip,URLhaus
 github.com,/salesplataniik-commits/sales/raw/refs/heads/main/NRRWIHQIDTHWSZEL.zip,URLhaus
-github.com,/sameer2135/OffCam/raw/refs/heads/main/opinable/Cam_Off_v2.2.zip,URLhaus
 github.com,/samix151210/ndarray-base-normalize-indices/releases/download/v2.0/Software.zip,URLhaus
 github.com,/samuelhaxk/41369/raw/refs/heads/main/256/233.txt,URLhaus
 github.com,/samueltonao/Lauth/releases/download/v1.0/Application.zip,URLhaus
@@ -90963,7 +90868,6 @@ github.com,/scode18/All-Tweaker/releases/download/Beta_v0.6/All.Tweaker.Beta.v0.
 github.com,/sdifru877234/ilu123g5/raw/main/svchost.exe,URLhaus
 github.com,/sebaxakerhtc/rdpwrap/releases/download/v1.8.9.9/RDPW_Installer.exe,URLhaus
 github.com,/seh4835/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip,URLhaus
-github.com,/shaerrlys/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe,URLhaus
 github.com,/shellyACM/imgx/releases/download/v1.0/Software.zip,URLhaus
 github.com,/shellyACM/imgx/releases/download/v2.0/Software.zip,URLhaus
 github.com,/silenthashik/winring/raw/main/WinRing0x64.sys,URLhaus
@@ -90973,7 +90877,6 @@ github.com,/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v2.0/
 github.com,/smailikskywarsp4s/ArcRaiders-FPS-Booster-2025-2026/raw/refs/heads/main/BOOSTER.rar,URLhaus
 github.com,/soloobr/z-loops/raw/refs/heads/master/UpdateLM/Properties/loops_z_v2.9.zip,URLhaus
 github.com,/soloobr/z-loops/raw/refs/heads/master/breathseller/z-loops.zip,URLhaus
-github.com,/sooryanaga/obscure-affairs-unlocked-edition/raw/refs/heads/branch/taurobolium/unlocked-obscure-affairs-edition-3.0.zip,URLhaus
 github.com,/sooryanaga/qt-liquid-glass/raw/refs/heads/main/bulliform/qt_glass_liquid_3.5.zip,URLhaus
 github.com,/soulclientwtf/lnk/raw/refs/heads/main/execute,URLhaus
 github.com,/sparoecanthusfultoni104/exphora_db/raw/refs/heads/main/ui/src/components/settings/exphora-db-v3.4-beta.1.zip,URLhaus
@@ -90981,7 +90884,6 @@ github.com,/sqrtZeroKnowledge/XWorm-Trojan/archive/refs/heads/main.zip,URLhaus
 github.com,/ssslllap1/asdasd/raw/main/crypted.exe,URLhaus
 github.com,/ssten1/Temp-Spoofer-LifeTime/raw/refs/heads/main/TempSpoofer.exe,URLhaus
 github.com,/syklon99/ai-chatbot-svelte/releases/download/v1.4.9/ai-chatbot-svelte-v1.4.9.zip,URLhaus
-github.com,/talktobaby/infinity-snip3/raw/refs/heads/master/audio/infinity_snip_screeve.zip,URLhaus
 github.com,/talktobaby/talktobaby.github.io/raw/refs/heads/main/hymeneals/talktobaby-io-github-v1.3.zip,URLhaus
 github.com,/techsavvysenior/ReferralReactJS/archive/refs/heads/main.zip,URLhaus
 github.com,/tedburke/CommandCam/archive/refs/heads/master.zip,URLhaus
@@ -90990,7 +90892,6 @@ github.com,/tekin441/urban_company_clone/releases/download/v2.0/Software.zip,URL
 github.com,/tekinohore/tekiRAT/blob/main/ItsukamiRat.exe,URLhaus
 github.com,/theabhishekar/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip,URLhaus
 github.com,/therecruiter809876/Liquidbounce/raw/master/Downloads/liquiedbounce/liquidbounce-1.21.1-v2.0.4.jar,URLhaus
-github.com,/thomson101/XHP/releases/download/Release/Steanings.exe,URLhaus
 github.com,/tianlanyb/Gemini-in-Chrome/raw/refs/heads/master/eighteen/in_Gemini_Chrome_preadherent.zip,URLhaus
 github.com,/tiiisiet65-sudo/LoioioNoaisK/raw/refs/heads/main/Create-LNK-VBS.cmd,URLhaus
 github.com,/tiiisiet65-sudo/LoioioNoaisK/raw/refs/heads/main/Csharp-Version/Download-macOSx.cmd,URLhaus
@@ -91069,11 +90970,9 @@ github.com,/toanminh2004/duan1/releases/download/v2.0/Software.zip,URLhaus
 github.com,/toe2132313/Zorvex-CAT/releases/download/v1.0/Software.zip,URLhaus
 github.com,/toe2132313/Zorvex-CAT/releases/download/v1.0/Software.zip/,URLhaus
 github.com,/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/CoronaVirus.exe,URLhaus
-github.com,/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/CryptoWall.exe,URLhaus
 github.com,/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/Hive%20Ransomware.exe,URLhaus
 github.com,/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/InfinityCrypt.exe,URLhaus
 github.com,/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/Jigsaw.exe,URLhaus
-github.com,/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/NoMoreRansom.exe,URLhaus
 github.com,/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/Petya.A.exe,URLhaus
 github.com,/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Ransomware/WannaCry.exe,URLhaus
 github.com,/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Trojan/000.exe,URLhaus
@@ -91093,18 +90992,15 @@ github.com,/up-6626/udm/blob/main/udm.bat,URLhaus
 github.com,/up-6626/udm/raw/refs/heads/main/udm.bat,URLhaus
 github.com,/up-6626/udt/blob/main/udt.bat,URLhaus
 github.com,/up-6626/udt/raw/refs/heads/main/udt.bat,URLhaus
-github.com,/user-attachments/files/16419615/Solara.zip,URLhaus
 github.com,/user-attachments/files/16737801/Wave.zip,URLhaus
 github.com,/user-attachments/files/16784059/p.zip,URLhaus
 github.com,/user-attachments/files/17267811/stm.txt,URLhaus
 github.com,/user-attachments/files/17793058/lg246drE.txt,URLhaus
 github.com,/user-attachments/files/18630095/Software.zip,URLhaus
-github.com,/user-attachments/files/18630095/software.zip,URLhaus
 github.com,/user-attachments/files/18722098/Application.zip,URLhaus
 github.com,/user-attachments/files/18722098/application.zip,URLhaus
 github.com,/user-attachments/files/19831288/crack.nurik.zip,URLhaus
 github.com,/user-attachments/files/19831362/alpha.zip,URLhaus
-github.com,/user-attachments/files/19831450/Solara.zip,URLhaus
 github.com,/user-attachments/files/19835739/solarus.zip,URLhaus
 github.com,/ustaxes/UsTaxes/files/15378217/All.2023.Tax.Documents.zip,URLhaus
 github.com,/ustaxes/UsTaxes/files/15421286/2022and2023TaxDocuments.zip,URLhaus
@@ -91121,34 +91017,28 @@ github.com,/vsparedes/PyCalc/releases/download/v1.0/Software.zip,URLhaus
 github.com,/vukhang16/ggg/releases/download/v1.0/Software.zip,URLhaus
 github.com,/wealthy4500/pc/raw/refs/heads/main/ZoomInstaller.msi,URLhaus
 github.com,/wer812/bbgy555555551/raw/refs/heads/main/ntladlklthawd.exe,URLhaus
-github.com,/wer812/bhh666666666666/raw/refs/heads/main/Service.exe,URLhaus
 github.com,/wer812/vbvgghjjio999000/raw/refs/heads/main/bnoaprihjatuasss.exe,URLhaus
 github.com,/whathedogding/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto/releases/download/v1.0/Release.zip,URLhaus
 github.com,/whathedogding/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto/releases/download/v2.0/Software.zip,URLhaus
 github.com,/wuaricoco23/WhiteBoxAesCrack/raw/refs/heads/main/fonts/White-Crack-Box-Aes-v2.5.zip,URLhaus
 github.com,/wuaricoco23/valentine/raw/refs/heads/main/effortful/Software-2.3.zip,URLhaus
 github.com,/wubejack-cmd/yopyop/releases/download/yop/Launcher.dmg,URLhaus
-github.com,/xFoXuSx/Arduino-joystick-and-servo-control/raw/refs/heads/main/lection/servo-Arduino-control-and-joystick-1.1.zip,URLhaus
 github.com,/xFoXuSx/xfoxusx.github.io/raw/refs/heads/main/arsenism/github_io_xfoxusx_v1.7.zip,URLhaus
 github.com,/xaviertya/.dotfiles/releases/download/v2.0/software.zip,URLhaus
-github.com,/xmanykwim/simple-2/releases/download/v1.0/Application.zip,URLhaus
 github.com,/xmanykwim/simple-2/releases/download/v2.0/Software.zip,URLhaus
 github.com,/xmanykwim/simple-proxytv/releases/download/v1.0/Application.zip,URLhaus
 github.com,/xmanykwim/simple-proxytv/releases/download/v2.0/Software.zip,URLhaus
 github.com,/xmrig/xmrig/blob/master/bin/WinRing0/WinRing0x64.sys?raw=true,URLhaus
 github.com,/xmrig/xmrig/releases/download/v6.10.0/xmrig-6.10.0-linux-static-x64.tar.gz,URLhaus
-github.com,/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-static-x64.tar.gz,URLhaus
 github.com,/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-x64.tar.gz,URLhaus
 github.com,/xmrig/xmrig/releases/download/v6.21.0/xmrig-6.21.0-linux-static-x64.tar.gz,URLhaus
 github.com,/xmrig/xmrig/releases/download/v6.21.0/xmrig-6.21.0-linux-x64.tar.gz,URLhaus
 github.com,/xmrig/xmrig/releases/download/v6.22.0/xmrig-6.22.0-linux-static-x64.tar.gz,URLhaus
-github.com,/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-msvc-win64.zip,URLhaus
 github.com,/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-linux-static-x64.tar.gz,URLhaus
 github.com,/xmrig/xmrig/releases/download/v6.24.0/xmrig-6.24.0-windows-x64.zip,URLhaus
 github.com,/xmrig/xmrig/releases/download/v6.25.0/xmrig-6.25.0-linux-static-x64.tar.gz,URLhaus
 github.com,/xmrig/xmrig/releases/download/v6.26.0/xmrig-6.26.0-linux-static-x64.tar.gz,URLhaus
 github.com,/yogeshnicks/loader-ldtk/releases/download/v2.0/Software.zip,URLhaus
-github.com,/yumYumdonuts/Free-YouTube-To-MP3-Converter-Free/releases/download/1.1.2/FreeYouTubeToMP3ConverterFree-1.1.2.zip,URLhaus
 github.com,/ziebwon/cnmsb/raw/refs/heads/main/docs/apt/dists/stable/Software-3.8.zip,URLhaus
 github.com,/zodiac1616/test/raw/refs/heads/main/svchost.exe,URLhaus
 github.com,/zouag94/map/raw/refs/heads/main/or/75.txt,URLhaus
@@ -94975,6 +94865,7 @@ hnpmmm.weebly.com,/,PhishTank_Other_ID9446100
 hnqspj.com,/nfpcmlho,PhishTank_Other_ID9476990
 hnqspj.com,/nfpcmlho/,PhishTank_Other_ID9476991
 hntcoin.lat,/,ThreatFox
+hnuqq.com,/fingerprint.php,PhishTank_Other_ID9503633
 hnz4q1fw.zenithharbinger.digital,/,ThreatFox
 hnzi.behtarin-site-shartbandi.com,/,ThreatFox
 hnzi.behtarin-site-shartbandi.com,/2a563779-d2bb-492c-9164-4dd12c9dd8d0,URLhaus
@@ -112276,7 +112167,6 @@ lum-spireos.hai1owhiten.in.net,/,ThreatFox
 lum-tidear.plix9anor.in.net,/,ThreatFox
 lum-valeon.3toravix.lat,/,ThreatFox
 luma-film.de,/,ThreatFox
-lumacrea.com,/me/me.js,URLhaus
 lumadigital.net,/,ThreatFox
 lumafer.ch,/,ThreatFox
 lumcore6en.rockexcellent.in.net,/,ThreatFox
@@ -112859,7 +112749,6 @@ maestroandperunamoneymoney.lol,/,ThreatFox
 maestroload.it.com,/,ThreatFox
 maestrotiguii.com,/,ThreatFox
 mafiyacoffee.com,/,ThreatFox
-mag1q9t.rye93shishaty.coupons,/,ThreatFox
 magaji.duckdns.org,/,ThreatFox
 magalu-achadinhospromo.biz,/,PhishTank_Other_ID9489385
 magalu-com.vercel.app,/,PhishTank_Other_ID9490455
@@ -116282,7 +116171,6 @@ mircopucci.it,/wp-content/2wlB5xFwgjM2SBPbvaz2NRCQtMAl6BnZ/?id=7092037085076006a
 mircopucci.it,/wp-content/2wlB5xFwgjM2SBPbvaz2NRCQtMAl6BnZ/?id=c26678a366428d87af25dda7d7be1b77&email,PhishTank_Other_ID9264532
 mircopucci.it,/wp-content/2wlB5xFwgjM2SBPbvaz2NRCQtMAl6BnZ/?id=fcb957167e1a25fa906b8cd390338adb&email,PhishTank_Other_ID9264431
 mireyasflowersshop.com,/,ThreatFox
-miriamgualda.com.br,/oga/freshone.js,URLhaus
 miricanvas.com,/de/v/1339f2g,PhishTank_Other_ID8534220
 miricanvas.com,/de/v/15dk7ju,PhishTank_Other_ID9343679
 miricanvas.com,/en/v/1358gmd,PhishTank_Other_ID8555052
@@ -117675,6 +117563,7 @@ mssbksu.overtheitgirl.com,/,ThreatFox
 mssdold.vercel.app,/,PhishTank_Other_ID9449011
 mssg.me,/globaluniversaltime,PhishTank_Other_ID8894853
 msshdxv.yardnext.in.net,/,ThreatFox
+mstcyi.theslimsplitsmethod.net,/,ThreatFox
 mstdvyct.gift-lattice.christmas,/,ThreatFox
 msthiyun.com,/,ThreatFox
 mstopsai.com,/,ThreatFox
@@ -119096,6 +118985,7 @@ ndzuw.bmz.hu,/,ThreatFox
 ne12bradesconetempresapj.com,/,PhishTank_Other_ID9418882
 ne12empresa.digital,/,PhishTank_Other_ID9461950
 ne12empresasatualizacao.com,/,PhishTank_Bradesco_ID9502637
+ne12empresasecontratospj.com,/fileira.php,PhishTank_Bradesco_ID9503629
 ne2013.com,/olx-order/YvLnCYd3qPrEsmL,PhishTank_Other_ID9437868
 ne6nzi7r.1shart.bet,/,ThreatFox
 ne6nzi7r.1shart.bet,/?ublib=ab0b8ce8-9e1f-44ae-99ff-a8717c3b1b9b,URLhaus
@@ -119354,6 +119244,7 @@ netbanco-santander.pt-clientes.com,/,PhishTank_Banco_Santander__S.A._ID9483728
 netbanco-santander.pt-clientes.com,/seguranca.php,PhishTank_Banco_Santander__S.A._ID9483727
 netbazaar.lol,/,ThreatFox
 netbradesco-empresas.vrfm.com.br,/atendimento-pj/,PhishTank_Other_ID9416533
+netbradescoempresa.online,/,PhishTank_Other_ID9503625
 netbst.top,/,ThreatFox
 netcare-healthos.vercel.app,/,PhishTank_Other_ID9391128
 netchains.pages.dev,/,PhishTank_Other_ID9500153
@@ -119381,6 +119272,7 @@ netempresas.atendimentoexclusivo.digital,/,PhishTank_Other_ID9428455
 netempresas.lojaefata.com.br,/pj,PhishTank_Other_ID9454269
 netempresas.suporteinternopj.digital,/,PhishTank_Other_ID9433871
 netempresasacessar.digital,/,PhishTank_Bradesco_ID9482216
+netempresasapp.cfd,/,PhishTank_Other_ID9503622
 netempresasatualiza.net,/,PhishTank_Bradesco_ID9502648
 netempresasatualizar.digital,/,PhishTank_Other_ID9428693
 netempresasbradesco.com,/login.php?hash=114824806769e00dd4de0160.15861558,PhishTank_Other_ID9394426
@@ -122987,6 +122879,7 @@ of8p7ob4.mururhesabdari.xyz,/?ublib=a7796ba1-14ae-42ec-9ae9-c96db1cdb3c4,URLhaus
 ofaskfaksfmtjmka.com,/,ThreatFox
 ofbeldigegnbornum.is,/,ThreatFox
 ofcielip.com,/,PhishTank_Interactive_Brokers_ID9240949
+ofcimed.vercel.app,/,PhishTank_Other_ID9503598
 ofdocsonliineaws.firebaseapp.com,/,PhishTank_Other_ID8960043
 ofdocsonliineaws.web.app,/,PhishTank_Other_ID8960044
 ofdqgn.vel7ramon.in.net,/,ThreatFox
@@ -150594,6 +150487,7 @@ rzecbgjw.enfejartime.com,/c24f5964-b8c2-4604-a208-58163fee6cc4,URLhaus
 rzetsd57687iguyicuyiu-sd7g9oifyuthrdjufigku.teemill.com,/,PhishTank_Other_ID8833995
 rzeusijc.dependint7amur.in.net,/,ThreatFox
 rzhsudhugugfugugsg.to,/,ThreatFox
+rzjob.ch,/,ThreatFox
 rzkvd.ca6a8b74-32ac-45ea-84f0-fb607b8789ab.click,/64cde040-2235-45be-a3f6-4dcd6c886dbe.php,PhishTank_Other_ID9435474
 rzlt.getron.in.net,/,ThreatFox
 s-14billmondy.s3.us-east-2.amazonaws.com,/BillyMonday.msi,URLhaus
@@ -152007,7 +151901,6 @@ scwhobgyn.com,/,ThreatFox
 sd0z5d4.blogspot.com,/,PhishTank_Other_ID8466587
 sd5hup4yo5vj7p5g35l36m843brzhpj.pages.dev,/,PhishTank_Other_ID8498479
 sd9arw2r.flos-strip.digital,/,ThreatFox
-sd9arw2r.flos-strip.digital,/?ublib=64b46dad-5ad6-452a-bdcc-3ce3ad6767d6,URLhaus
 sdafdsew.novapath.bet,/,ThreatFox
 sdanc.trave1.bet,/,ThreatFox
 sdasdsss.webcindario.com,/bipd/bipd/,PhishTank_Other_ID8382121
@@ -154643,6 +154536,7 @@ sistema.portal-nota.sbs,/,ThreatFox
 sistema.sistemapremiumlondrina.com.br,/dpcz.html,PhishTank_Other_ID8395077
 sistemadeasignacionesyincentivosfast.lovable.app,/,PhishTank_Other_ID9370156
 sistemadeasignacionesyincentivosfast.lovable.app,/blocked,PhishTank_Other_ID9370157
+sistemapj.online,/pj/,PhishTank_Bradesco_ID9503630
 sistemaprodu1.webcindario.com,/,PhishTank_Other_ID9300773
 sistemasyusa.icu,/admin/productimages/unkillbot_x86_64,URLhaus
 sister-hub.gouachesoror.in.net,/,ThreatFox
@@ -164329,6 +164223,7 @@ teste.melom.com,/red/wx.htm,PhishTank_Other_ID9331787
 teste.mpcservicos.com.br,/,ThreatFox
 teste.ste-pdffiller.lat,/,ThreatFox
 teste.trusted-connection.com,/,ThreatFox
+testeredirdesconovo.pages.dev,/,PhishTank_Other_ID9503618
 testerlau.lat,/,ThreatFox
 testes.nsgrafica.ao,/,ThreatFox
 testesclaus.beer,/,ThreatFox
@@ -164708,6 +164603,7 @@ thesis-vault.dialectraforge.in.net,/,ThreatFox
 thesleepingontour.info,/,ThreatFox
 theslimsplits.com,/,ThreatFox
 theslimsplits.us,/,ThreatFox
+theslimsplitsmethod.net,/,ThreatFox
 thesolnov.com,/,ThreatFox
 thespacemachines.st,/,ThreatFox
 thespiritchariot.com,/,ThreatFox
@@ -167002,6 +166898,7 @@ trxriosuite.m-pages.com,/EN-US,PhishTank_Other_ID9159597
 trxror-started.wixstudio.com,/enus,PhishTank_Other_ID9483528
 trxtrt.autos,/vnoYVYmAQ,PhishTank_Other_ID9494948
 trxycujvkacdstujkavsdutyjh-aqduyacsitduyqsatq.teemill.com,/,PhishTank_Other_ID8798526
+try-bpzone.com,/,ThreatFox
 try-tr.site,/,ThreatFox
 try.expertcs.au,/,ThreatFox
 try.msalifenterprise.net,/,ThreatFox
@@ -168510,6 +168407,7 @@ unusual-alpaca-535612.framer.app,/,PhishTank_Other_ID9456639
 unusual-meeting-502376.framer.app,/,PhishTank_Other_ID9439375
 unusualaccountrestricted90.github.io,/,PhishTank_Facebook_ID8526566
 unwitting.fluxobase.info,/,ThreatFox
+unwoeue.try-bpzone.com,/,ThreatFox
 unx7.swimsuit-unable.lat,/,ThreatFox
 unykvis.com,/,ThreatFox
 uo6ie1ro.wintermere.digital,/,ThreatFox
@@ -172846,6 +172744,7 @@ vtjfpz12q51y4qb5.org,/,ThreatFox
 vtneuluzf.pathfindersafrica.com,/,ThreatFox
 vtneuluzf.pathfindersafrica.com,/6d80fda1-7efc-406f-bb5f-3fd34a450e61,URLhaus
 vtneuluzf.pathfindersafrica.com,/6d80fda1-7efc-406f-bb5f-3fd34a450e61/gc.key,URLhaus
+vtniqu.theslimsplitsmethod.com,/,ThreatFox
 vtnsth.xx039009.cn,/ghticg/lub-iu_louik,PhishTank_Other_ID9416681
 vtptolt.pink-salt.us,/,ThreatFox
 vtqac.ceremoniavezeto.hu,/,ThreatFox
@@ -173643,10 +173542,8 @@ web.amarifirmdynamic-concepts.com,/?email=example@example.com,PhishTank_Other_ID
 web.archive.org,/web/20240808120223if_/http://154.216.19.139/bins/mirai.bin,URLhaus
 web.archive.org,/web/20240808120223if_/http:/154.216.19.139/bins/mirai.bin,URLhaus
 web.archive.org,/web/20240808120646if_/http://154.216.19.139/bins/mirai.armv4l,URLhaus
-web.archive.org,/web/20240808120646if_/http:/154.216.19.139/bins/mirai.armv4l,URLhaus
 web.archive.org,/web/20240808120945if_/http://154.216.19.139/bins/mirai.armv5l,URLhaus
 web.archive.org,/web/20240808120945if_/http:/154.216.19.139/bins/mirai.armv5l,URLhaus
-web.archive.org,/web/20240808121041if_/http://154.216.19.139/bins/mirai.armv6l,URLhaus
 web.archive.org,/web/20240808121041if_/http:/154.216.19.139/bins/mirai.armv6l,URLhaus
 web.archive.org,/web/20240808121121if_/http://154.216.19.139/bins/mirai.armv7l,URLhaus
 web.archive.org,/web/20240808121121if_/http:/154.216.19.139/bins/mirai.armv7l,URLhaus
@@ -174888,7 +174785,6 @@ windharbor.1zarelin.lat,/,ThreatFox
 windhorseevents.com,/,ThreatFox
 windinnovationcorp.com,/,ThreatFox
 windlrr.com,/,ThreatFox
-windomstatetheater.com,/osxs.zip,URLhaus
 windomstatetheater.com,/rars.zip,URLhaus
 windonws.com,/,ThreatFox
 windowas.com,/,ThreatFox
