@@ -188,7 +188,6 @@
 0btu8g.icu,/cpgn1zuq/jGAC0z/7,PhishTank_Other_ID9203008
 0btzdnc3.us-en-us-neuroxen.com,/,ThreatFox
 0c3ba2.info,/7oBbyg,PhishTank_Other_ID9520746
-0c3eoh5p.legalspeckle.digital,/,ThreatFox
 0c60a280a0ff242f0034f6f055ac6c62.997860a77af92d44109bdec1bcd2e9c6.traefik.default,/,ThreatFox
 0ccb70sc.thevictorytoken.org,/,ThreatFox
 0co7tx46.worldofmacarons.com,/,ThreatFox
@@ -466,6 +465,8 @@
 101.108.69.64,/i,URLhaus
 101.108.7.49,/bin.sh,URLhaus
 101.108.7.49,/i,URLhaus
+101.108.8.2,/bin.sh,URLhaus
+101.108.8.2,/i,URLhaus
 101.108.9.143,/i,URLhaus
 101.109.170.235,/bin.sh,URLhaus
 101.109.170.235,/i,URLhaus
@@ -626,11 +627,8 @@
 103.119.13.58,/linux_mipsel,URLhaus
 103.119.3.91,/output_86.bin,URLhaus
 103.125.163.10,/,URLhaus
-103.125.163.10,/.i,URLhaus
-103.125.163.10,/02.08.2022.exe,URLhaus
 103.125.163.10,/Hajime,URLhaus
 103.125.163.10,/Mozi.m,URLhaus
-103.125.163.10,/i,URLhaus
 103.125.31.101,/bin.sh,URLhaus
 103.125.31.101,/i,URLhaus
 103.130.215.73,///arm5,URLhaus
@@ -679,7 +677,6 @@
 103.160.130.168,/bin.sh,URLhaus
 103.160.130.178,/bin.sh,URLhaus
 103.160.130.178,/i,URLhaus
-103.160.197.219,/Mozi.m,URLhaus
 103.161.17.92,/bins/arm,URLhaus
 103.161.17.92,/bins/arm5,URLhaus
 103.161.17.92,/bins/arm6,URLhaus
@@ -739,7 +736,6 @@
 103.164.128.184,/i,URLhaus
 103.164.199.105,/bin.sh,URLhaus
 103.164.199.105,/i,URLhaus
-103.164.200.170,/.i,URLhaus
 103.164.200.170,/Mozi.m,URLhaus
 103.164.200.170,/i,URLhaus
 103.167.175.108,/bin.sh,URLhaus
@@ -747,6 +743,7 @@
 103.167.175.111,/bin.sh,URLhaus
 103.167.175.111,/i,URLhaus
 103.167.175.118,/i,URLhaus
+103.167.175.121,/i,URLhaus
 103.168.67.55,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 103.171.168.74,/i,URLhaus
 103.172.186.146,/bin.sh,URLhaus
@@ -765,6 +762,7 @@
 103.172.221.97,/bin.sh,URLhaus
 103.172.221.97,/i,URLhaus
 103.173.173.98,/,URLhaus
+103.173.173.98,/.i,URLhaus
 103.173.173.98,/Mozi.m,URLhaus
 103.173.173.98,/i,URLhaus
 103.173.7.170,/Mozi.a,URLhaus
@@ -782,6 +780,7 @@
 103.185.249.13,/kworker_u8,URLhaus
 103.186.77.82,/Mozi.m,URLhaus
 103.187.151.107,/.i,URLhaus
+103.187.151.107,/i,URLhaus
 103.19.49.134,/bin.sh,URLhaus
 103.19.49.134,/i,URLhaus
 103.190.23.91,/bin.sh,URLhaus
@@ -876,6 +875,7 @@
 103.209.184.118,/Mozi.m,URLhaus
 103.209.184.121,/.i,URLhaus
 103.209.184.121,/Mozi.m,URLhaus
+103.209.184.121,/i,URLhaus
 103.209.65.74,/bin.sh,URLhaus
 103.209.65.74,/i,URLhaus
 103.209.67.34,/AV.lnk,URLhaus
@@ -888,7 +888,6 @@
 103.212.141.129,/bin.sh,URLhaus
 103.217.215.238,/.i,URLhaus
 103.217.215.238,/Mozi.m,URLhaus
-103.217.215.238,/i,URLhaus
 103.219.161.81,/i,URLhaus
 103.226.124.232,/s.exe,URLhaus
 103.226.187.112,/bin.sh,URLhaus
@@ -912,7 +911,6 @@
 103.226.250.88,/tranphuonglinh.sh,URLhaus
 103.226.250.88,/viet69.sh,URLhaus
 103.227.118.45,/.i,URLhaus
-103.227.118.45,/Mozi.m,URLhaus
 103.229.53.84,/bin,URLhaus
 103.229.53.84,/chromelevator_x64.exe,URLhaus
 103.229.53.84,/data,URLhaus
@@ -923,17 +921,17 @@
 103.229.53.84,/run.ps1,URLhaus
 103.229.53.84,/upd,URLhaus
 103.229.53.84,/update.ps1,URLhaus
+103.236.133.81,/.i,URLhaus
 103.236.133.81,/i,URLhaus
 103.236.135.177,/.i,URLhaus
-103.236.135.177,/i,URLhaus
 103.24.110.240,/bin.sh,URLhaus
 103.24.110.240,/i,URLhaus
+103.240.211.121,/AV.lnk,URLhaus
 103.240.211.121,/Photo.lnk,URLhaus
 103.240.211.121,/Video.lnk,URLhaus
-103.240.211.121,/Video.scr,URLhaus
-103.240.211.121,/info.zip,URLhaus
 103.245.10.51,/.i,URLhaus
 103.245.10.51,/Mozi.m,URLhaus
+103.245.10.51,/i,URLhaus
 103.245.204.42,/i,URLhaus
 103.245.27.100,/bot.arm,URLhaus
 103.245.27.100,/bot.arm5,URLhaus
@@ -1087,7 +1085,6 @@
 103.90.206.87,/.i,URLhaus
 103.90.206.87,/i,URLhaus
 103.90.207.234,/.i,URLhaus
-103.90.207.234,/Mozi.m,URLhaus
 103.94.142.75,/bin.sh,URLhaus
 103.94.142.75,/i,URLhaus
 103.96.96.35,/i,URLhaus
@@ -1207,6 +1204,7 @@
 104.252.175.109,/data_mipsel,URLhaus
 104.253.79.245,/uploads12152152142356367346/caches/4_chek_list_dlya_provedeniya_vstrechi.ps1,URLhaus
 104.253.79.245,/uploads12152152142356367346/caches/5_fulltext_reestr_tekushih_proektov_kompanii.ps1,URLhaus
+104.4.43.233,/,URLhaus
 1047qra.ink,/txtstyh9/15twRz/sTgWXV,PhishTank_Other_ID9437699
 105.111.150.173,/i,URLhaus
 105.111.24.85,/i,URLhaus
@@ -1400,6 +1398,8 @@
 105.186.211.136,/bin.sh,URLhaus
 105.186.211.136,/i,URLhaus
 105.186.220.123,/bin.sh,URLhaus
+105.186.220.180,/bin.sh,URLhaus
+105.186.220.180,/i,URLhaus
 105.186.224.110,/bin.sh,URLhaus
 105.186.224.110,/i,URLhaus
 105.186.227.71,/bin.sh,URLhaus
@@ -1456,6 +1456,8 @@
 105.186.88.219,/i,URLhaus
 105.186.93.221,/bin.sh,URLhaus
 105.186.93.221,/i,URLhaus
+105.186.95.116,/bin.sh,URLhaus
+105.186.95.116,/i,URLhaus
 105.186.95.59,/bin.sh,URLhaus
 105.186.95.59,/i,URLhaus
 105.186.99.108,/i,URLhaus
@@ -1657,8 +1659,6 @@
 106.57.6.155,/i,URLhaus
 106.57.6.80,/bin.sh,URLhaus
 106.57.6.80,/i,URLhaus
-106.57.7.10,/bin.sh,URLhaus
-106.57.7.10,/i,URLhaus
 106.57.7.26,/bin.sh,URLhaus
 106.57.7.26,/i,URLhaus
 106.58.114.77,/bin.sh,URLhaus
@@ -1714,9 +1714,6 @@
 107.172.247.123,/227/vmc.exe,URLhaus
 107.172.247.123,/36/weneedbestthingscomingfromthegod.hta,URLhaus
 107.172.247.123,/45/renewcrypterforresults.hta,URLhaus
-107.173.101.114,/?h=107.173.101.114&p=10000&t=tcp&a=w32&stage=true,URLhaus
-107.173.101.114,/?h=107.173.101.114&p=10000&t=tcp&a=w64&stage=true,URLhaus
-107.173.101.114,/swt,URLhaus
 107.173.143.36,/33/wehavingbestsolutionsforbetterplacescomingfor.hta,URLhaus
 107.173.143.36,/img/1.jpg,URLhaus
 107.173.143.45,/128/givemebesttimeforbetterplacescomingforme.hta?&%D0%9B%D0%9B%D0%9B%D0%9B%D0%9B%D0%9B%D0%9B%D0%9B%D0%9B%D0%9B%D0%9B%D0%9B%D0%9B%D0%9B%D0%9B%D0%9B%D0%9B%D0%9B,URLhaus
@@ -1856,8 +1853,6 @@
 109.69.79.44,/.i,URLhaus
 109.69.79.44,/i,URLhaus
 109.74.204.206,/bre,URLhaus
-109.92.143.90,/.i,URLhaus
-109.92.143.90,/Mozi.m,URLhaus
 109.92.143.90,/i,URLhaus
 109826-108720.weeblysite.com,/,PhishTank_Other_ID9396574
 10987.7zorelin.in.net,/,ThreatFox
@@ -2641,7 +2636,6 @@
 111.59.254.165,/20210118/Photo.lnk,URLhaus
 111.59.254.165,/20210118/Photo.scr,URLhaus
 111.59.254.165,/20210118/Video.lnk,URLhaus
-111.59.254.165,/20210118/Video.scr,URLhaus
 111.59.254.165,/20210408/AV.lnk,URLhaus
 111.59.254.165,/20210408/AV.scr,URLhaus
 111.59.254.165,/20210408/Video.lnk,URLhaus
@@ -2711,7 +2705,6 @@
 111.59.254.165,/20250408/Video.lnk,URLhaus
 111.59.254.165,/20250408/Video.scr,URLhaus
 111.59.254.165,/20250416/AV.scr,URLhaus
-111.59.254.165,/20250416/Photo.scr,URLhaus
 111.59.254.165,/20250416/Video.scr,URLhaus
 111.59.254.165,/20250615/AV.lnk,URLhaus
 111.59.254.165,/20250615/AV.scr,URLhaus
@@ -2780,13 +2773,13 @@
 111.59.254.165,/Photo.lnk,URLhaus
 111.59.254.165,/Photo.scr,URLhaus
 111.59.254.165,/Video.lnk,URLhaus
-111.59.254.165,/Video.scr,URLhaus
 111.61.92.78,/i,URLhaus
 111.70.13.127,/bin.sh,URLhaus
 111.70.13.127,/i,URLhaus
 111.72.43.182,/bin.sh,URLhaus
 111.72.43.182,/i,URLhaus
 111.74.21.155,/sshd,URLhaus
+111.88.7.48,/Mozi.m,URLhaus
 111.88.7.48,/bin.sh,URLhaus
 111.88.7.48,/i,URLhaus
 111.92.152.188,/Mozi.m,URLhaus
@@ -3038,6 +3031,8 @@
 112.248.103.126,/bin.sh,URLhaus
 112.248.104.54,/bin.sh,URLhaus
 112.248.104.54,/i,URLhaus
+112.248.105.114,/bin.sh,URLhaus
+112.248.105.114,/i,URLhaus
 112.248.105.19,/bin.sh,URLhaus
 112.248.105.19,/i,URLhaus
 112.248.105.21,/bin.sh,URLhaus
@@ -3165,6 +3160,7 @@
 112.248.63.250,/bin.sh,URLhaus
 112.248.63.250,/i,URLhaus
 112.248.81.107,/i,URLhaus
+112.248.81.132,/i,URLhaus
 112.248.81.241,/bin.sh,URLhaus
 112.248.81.241,/i,URLhaus
 112.248.81.8,/bin.sh,URLhaus
@@ -3307,6 +3303,8 @@
 113.221.44.204,/bin.sh,URLhaus
 113.221.44.204,/i,URLhaus
 113.221.44.37,/bin.sh,URLhaus
+113.221.45.157,/bin.sh,URLhaus
+113.221.45.157,/i,URLhaus
 113.221.46.118,/bin.sh,URLhaus
 113.221.46.118,/i,URLhaus
 113.221.46.119,/bin.sh,URLhaus
@@ -3336,6 +3334,8 @@
 113.221.9.116,/bin.sh,URLhaus
 113.221.9.116,/i,URLhaus
 113.221.9.63,/bin.sh,URLhaus
+113.221.96.116,/bin.sh,URLhaus
+113.221.96.116,/i,URLhaus
 113.221.96.161,/bin.sh,URLhaus
 113.221.99.137,/bin.sh,URLhaus
 113.221.99.137,/i,URLhaus
@@ -3351,8 +3351,6 @@
 113.228.103.193,/i,URLhaus
 113.228.111.59,/bin.sh,URLhaus
 113.228.111.59,/i,URLhaus
-113.228.113.255,/bin.sh,URLhaus
-113.228.113.255,/i,URLhaus
 113.228.117.193,/bin.sh,URLhaus
 113.228.117.193,/i,URLhaus
 113.228.132.214,/bin.sh,URLhaus
@@ -3389,6 +3387,8 @@
 113.228.209.236,/bin.sh,URLhaus
 113.228.209.236,/i,URLhaus
 113.228.216.110,/bin.sh,URLhaus
+113.228.216.246,/bin.sh,URLhaus
+113.228.216.246,/i,URLhaus
 113.228.253.15,/bin.sh,URLhaus
 113.228.253.15,/i,URLhaus
 113.228.254.228,/bin.sh,URLhaus
@@ -3441,16 +3441,21 @@
 113.230.81.126,/i,URLhaus
 113.230.81.174,/bin.sh,URLhaus
 113.230.81.174,/i,URLhaus
+113.230.82.33,/i,URLhaus
 113.230.83.154,/bin.sh,URLhaus
 113.230.83.154,/i,URLhaus
 113.231.100.15,/bin.sh,URLhaus
 113.231.100.15,/i,URLhaus
 113.231.108.98,/bin.sh,URLhaus
 113.231.108.98,/i,URLhaus
+113.231.121.170,/bin.sh,URLhaus
 113.231.121.170,/i,URLhaus
 113.231.127.198,/i,URLhaus
 113.231.16.102,/bin.sh,URLhaus
 113.231.16.175,/i,URLhaus
+113.231.18.34,/bin.sh,URLhaus
+113.231.204.123,/bin.sh,URLhaus
+113.231.204.123,/i,URLhaus
 113.231.21.194,/i,URLhaus
 113.231.218.166,/bin.sh,URLhaus
 113.231.218.166,/i,URLhaus
@@ -3511,6 +3516,8 @@
 113.236.116.189,/i,URLhaus
 113.236.118.216,/bin.sh,URLhaus
 113.236.118.216,/i,URLhaus
+113.236.121.214,/bin.sh,URLhaus
+113.236.121.214,/i,URLhaus
 113.236.123.97,/bin.sh,URLhaus
 113.236.123.97,/i,URLhaus
 113.236.135.234,/bin.sh,URLhaus
@@ -3520,6 +3527,8 @@
 113.236.157.223,/i,URLhaus
 113.236.233.5,/bin.sh,URLhaus
 113.236.233.5,/i,URLhaus
+113.236.65.235,/bin.sh,URLhaus
+113.236.65.235,/i,URLhaus
 113.236.67.209,/bin.sh,URLhaus
 113.236.67.209,/i,URLhaus
 113.236.71.127,/bin.sh,URLhaus
@@ -3527,7 +3536,6 @@
 113.236.91.179,/bin.sh,URLhaus
 113.236.91.179,/i,URLhaus
 113.236.92.184,/bin.sh,URLhaus
-113.236.92.184,/i,URLhaus
 113.236.93.92,/bin.sh,URLhaus
 113.236.93.92,/i,URLhaus
 113.236.97.10,/bin.sh,URLhaus
@@ -3706,6 +3714,7 @@
 114.234.181.161,/i,URLhaus
 114.235.174.131,/bin.sh,URLhaus
 114.235.174.131,/i,URLhaus
+114.239.63.214,/i,URLhaus
 114.31.8.22,/i,URLhaus
 114.31.8.25,/i,URLhaus
 114.55.101.133,/alk.php,PhishTank_Other_ID8061972
@@ -3715,10 +3724,11 @@
 114.7.20.38,/.i,URLhaus
 114.7.20.38,/Mozi.m,URLhaus
 115.127.68.162,/,URLhaus
+115.127.68.162,/i,URLhaus
 115.148.236.155,/bin.sh,URLhaus
 115.148.236.155,/i,URLhaus
 115.159.149.113,/down/pkexU0YtxaR3.exe,URLhaus
-115.190.161.178,/02.08.2022.exe,URLhaus
+115.178.100.190,/,URLhaus
 115.190.250.28,/02.08.2022.exe,URLhaus
 115.192.229.9,/bin.sh,URLhaus
 115.192.23.45,/bin.sh,URLhaus
@@ -3797,7 +3807,7 @@
 115.230.76.101,/bin.sh,URLhaus
 115.230.76.101,/i,URLhaus
 115.230.79.157,/bin.sh,URLhaus
-115.240.70.185,/,URLhaus
+115.240.70.185,/i,URLhaus
 115.42.71.239,/bin.sh,URLhaus
 115.42.71.239,/i,URLhaus
 115.45.152.67,/i,URLhaus
@@ -3917,6 +3927,7 @@
 115.48.151.41,/bin.sh,URLhaus
 115.48.151.41,/i,URLhaus
 115.48.151.74,/i,URLhaus
+115.48.152.21,/bin.sh,URLhaus
 115.48.152.21,/i,URLhaus
 115.48.152.8,/bin.sh,URLhaus
 115.48.152.8,/i,URLhaus
@@ -3958,7 +3969,6 @@
 115.48.163.9,/i,URLhaus
 115.48.19.30,/bin.sh,URLhaus
 115.48.19.30,/i,URLhaus
-115.48.2.241,/i,URLhaus
 115.48.237.18,/bin.sh,URLhaus
 115.48.237.18,/i,URLhaus
 115.48.238.1,/bin.sh,URLhaus
@@ -4048,6 +4058,7 @@
 115.49.200.26,/i,URLhaus
 115.49.200.35,/bin.sh,URLhaus
 115.49.200.35,/i,URLhaus
+115.49.200.54,/i,URLhaus
 115.49.200.66,/bin.sh,URLhaus
 115.49.200.66,/i,URLhaus
 115.49.200.94,/bin.sh,URLhaus
@@ -4385,6 +4396,7 @@
 115.51.122.221,/bin.sh,URLhaus
 115.51.122.221,/i,URLhaus
 115.51.123.145,/i,URLhaus
+115.51.123.229,/i,URLhaus
 115.51.123.243,/bin.sh,URLhaus
 115.51.123.243,/i,URLhaus
 115.51.124.103,/bin.sh,URLhaus
@@ -4581,6 +4593,8 @@
 115.54.124.147,/bin.sh,URLhaus
 115.54.124.37,/bin.sh,URLhaus
 115.54.124.37,/i,URLhaus
+115.54.126.228,/bin.sh,URLhaus
+115.54.126.228,/i,URLhaus
 115.54.128.181,/bin.sh,URLhaus
 115.54.128.38,/bin.sh,URLhaus
 115.54.128.38,/i,URLhaus
@@ -4929,6 +4943,8 @@
 115.55.31.69,/i,URLhaus
 115.55.35.165,/bin.sh,URLhaus
 115.55.35.165,/i,URLhaus
+115.55.37.155,/bin.sh,URLhaus
+115.55.37.155,/i,URLhaus
 115.55.4.118,/i,URLhaus
 115.55.42.244,/bin.sh,URLhaus
 115.55.42.244,/i,URLhaus
@@ -5057,6 +5073,7 @@
 115.56.102.218,/bin.sh,URLhaus
 115.56.102.218,/i,URLhaus
 115.56.102.220,/bin.sh,URLhaus
+115.56.102.220,/i,URLhaus
 115.56.102.63,/bin.sh,URLhaus
 115.56.102.63,/i,URLhaus
 115.56.109.217,/bin.sh,URLhaus
@@ -5098,6 +5115,8 @@
 115.56.148.132,/i,URLhaus
 115.56.149.1,/bin.sh,URLhaus
 115.56.149.1,/i,URLhaus
+115.56.149.105,/bin.sh,URLhaus
+115.56.149.105,/i,URLhaus
 115.56.149.187,/i,URLhaus
 115.56.149.232,/i,URLhaus
 115.56.149.40,/i,URLhaus
@@ -5135,6 +5154,8 @@
 115.56.156.79,/bin.sh,URLhaus
 115.56.156.79,/i,URLhaus
 115.56.157.163,/i,URLhaus
+115.56.157.204,/bin.sh,URLhaus
+115.56.157.204,/i,URLhaus
 115.56.157.238,/bin.sh,URLhaus
 115.56.157.238,/i,URLhaus
 115.56.157.252,/i,URLhaus
@@ -5277,6 +5298,8 @@
 115.57.212.85,/i,URLhaus
 115.57.212.94,/bin.sh,URLhaus
 115.57.212.94,/i,URLhaus
+115.57.213.127,/bin.sh,URLhaus
+115.57.213.127,/i,URLhaus
 115.57.213.55,/i,URLhaus
 115.57.215.144,/bin.sh,URLhaus
 115.57.215.144,/i,URLhaus
@@ -5549,8 +5572,6 @@
 115.60.200.162,/i,URLhaus
 115.60.208.32,/bin.sh,URLhaus
 115.60.208.32,/i,URLhaus
-115.60.209.99,/bin.sh,URLhaus
-115.60.209.99,/i,URLhaus
 115.60.210.98,/i,URLhaus
 115.60.214.81,/bin.sh,URLhaus
 115.60.214.81,/i,URLhaus
@@ -5762,6 +5783,7 @@
 115.63.145.245,/i,URLhaus
 115.63.145.31,/i,URLhaus
 115.63.145.71,/i,URLhaus
+115.63.146.138,/i,URLhaus
 115.63.146.145,/bin.sh,URLhaus
 115.63.146.145,/i,URLhaus
 115.63.146.6,/i,URLhaus
@@ -5924,6 +5946,8 @@
 116.138.107.171,/i,URLhaus
 116.138.107.198,/bin.sh,URLhaus
 116.138.107.198,/i,URLhaus
+116.138.108.110,/bin.sh,URLhaus
+116.138.108.110,/i,URLhaus
 116.138.108.112,/bin.sh,URLhaus
 116.138.108.112,/i,URLhaus
 116.138.108.78,/bin.sh,URLhaus
@@ -6295,7 +6319,6 @@
 116.171.106.3,/tomcat8/work/Catalina/localhost/info.zip,URLhaus
 116.171.106.3,/tomcat8/work/info.zip,URLhaus
 116.171.106.3,/xinheyuan/info.zip,URLhaus
-116.198.233.179,/02.08.2022.exe,URLhaus
 116.2.43.97,/bin.sh,URLhaus
 116.2.43.97,/i,URLhaus
 116.2.50.30,/bin.sh,URLhaus
@@ -6326,8 +6349,6 @@
 116.55.72.18,/bin.sh,URLhaus
 116.55.72.18,/i,URLhaus
 116.58.225.120,/i,URLhaus
-116.58.51.90,/.i,URLhaus
-116.58.51.90,/i,URLhaus
 116.58.62.74,/AV.lnk,URLhaus
 116.58.62.74,/AV.scr,URLhaus
 116.58.62.74,/Photo.lnk,URLhaus
@@ -6351,7 +6372,6 @@
 116.76.255.32,/Mozi.m,URLhaus
 116.86.50.18,/,URLhaus
 116.90.225.193,/i,URLhaus
-116.90.236.250,/i,URLhaus
 117.131.92.150,/bin.sh,URLhaus
 117.131.92.150,/i,URLhaus
 117.14.160.69,/bin.sh,URLhaus
@@ -6365,7 +6385,6 @@
 117.193.109.139,/Mozi.7,URLhaus
 117.199.72.241,/i,URLhaus
 117.20.227.25,/i,URLhaus
-117.20.27.25,/.i,URLhaus
 117.200.233.101,/bin.sh,URLhaus
 117.200.233.101,/i,URLhaus
 117.201.224.34,/bin.sh,URLhaus
@@ -6386,10 +6405,10 @@
 117.215.58.8,/i,URLhaus
 117.215.58.98,/bin.sh,URLhaus
 117.215.58.98,/i,URLhaus
-117.216.139.127,/sshd,URLhaus
 117.216.46.161,/sshd,URLhaus
 117.216.46.201,/sshd,URLhaus
 117.216.46.91,/sshd,URLhaus
+117.216.46.94,/sshd,URLhaus
 117.217.228.182,/bin.sh,URLhaus
 117.217.228.182,/i,URLhaus
 117.223.140.109,/bin.sh,URLhaus
@@ -6479,6 +6498,7 @@
 117.60.122.212,/i,URLhaus
 117.63.112.125,/bin.sh,URLhaus
 117.63.112.125,/i,URLhaus
+117.63.74.133,/Mozi.m,URLhaus
 117.63.74.133,/bin.sh,URLhaus
 117.63.74.133,/i,URLhaus
 117.72.181.104,/02.08.2022.exe,URLhaus
@@ -6521,8 +6541,8 @@
 118.179.121.235,/,URLhaus
 118.179.121.235,/.i,URLhaus
 118.179.121.235,/Mozi.m,URLhaus
-118.179.121.235,/i,URLhaus
 118.179.144.202,/i,URLhaus
+118.179.203.50,/Mozi.m,URLhaus
 118.179.203.50,/i,URLhaus
 118.189.172.141,/novoCRM/static/WinRing0x64.sys,URLhaus
 118.190.161.42,/linux,URLhaus
@@ -6546,10 +6566,11 @@
 118.34.109.121,/i,URLhaus
 118.69.157.212,//sshd,URLhaus
 118.69.157.212,/sshd,URLhaus
-118.71.250.6,/.i,URLhaus
+118.70.244.17,/i,URLhaus
 118.71.250.6,/Mozi.m,URLhaus
-118.71.250.6,/i,URLhaus
 118.89.88.183,/02.08.2022.exe,URLhaus
+118.96.39.119,/bin.sh,URLhaus
+118.96.39.119,/i,URLhaus
 118924kraken.com,/,PhishTank_Microsoft_ID9457441
 118jq.desa1inatcount.in.net,/,ThreatFox
 119.102.35.149,/bin.sh,URLhaus
@@ -6566,6 +6587,7 @@
 119.109.212.35,/i,URLhaus
 119.109.212.54,/bin.sh,URLhaus
 119.109.212.54,/i,URLhaus
+119.109.222.133,/bin.sh,URLhaus
 119.109.222.133,/i,URLhaus
 119.113.186.130,/Mozi.m,URLhaus
 119.113.75.65,/bin.sh,URLhaus
@@ -6596,8 +6618,6 @@
 119.115.160.240,/i,URLhaus
 119.115.162.192,/bin.sh,URLhaus
 119.115.177.84,/i,URLhaus
-119.115.184.179,/bin.sh,URLhaus
-119.115.184.179,/i,URLhaus
 119.115.222.169,/bin.sh,URLhaus
 119.115.222.169,/i,URLhaus
 119.115.246.124,/bin.sh,URLhaus
@@ -6619,6 +6639,8 @@
 119.116.124.229,/i,URLhaus
 119.116.131.31,/bin.sh,URLhaus
 119.116.131.31,/i,URLhaus
+119.116.133.149,/bin.sh,URLhaus
+119.116.133.149,/i,URLhaus
 119.116.140.32,/bin.sh,URLhaus
 119.116.140.32,/i,URLhaus
 119.116.141.41,/bin.sh,URLhaus
@@ -6669,6 +6691,7 @@
 119.116.88.117,/i,URLhaus
 119.116.93.73,/bin.sh,URLhaus
 119.116.93.73,/i,URLhaus
+119.116.95.237,/i,URLhaus
 119.117.108.130,/bin.sh,URLhaus
 119.117.108.130,/i,URLhaus
 119.117.133.35,/bin.sh,URLhaus
@@ -7026,6 +7049,7 @@
 120.28.119.54,/i,URLhaus
 120.28.135.245,/bin.sh,URLhaus
 120.28.135.245,/i,URLhaus
+120.28.135.4,/i,URLhaus
 120.28.137.240,/bin.sh,URLhaus
 120.28.137.240,/i,URLhaus
 120.28.137.87,/i,URLhaus
@@ -7037,7 +7061,9 @@
 120.28.144.161,/i,URLhaus
 120.28.161.11,/bin.sh,URLhaus
 120.28.161.11,/i,URLhaus
+120.28.161.60,/i,URLhaus
 120.28.166.185,/i,URLhaus
+120.28.167.203,/i,URLhaus
 120.28.189.248,/bin.sh,URLhaus
 120.28.189.248,/i,URLhaus
 120.28.192.219,/bin.sh,URLhaus
@@ -7053,6 +7079,7 @@
 120.28.194.30,/i,URLhaus
 120.28.194.92,/bin.sh,URLhaus
 120.28.194.92,/i,URLhaus
+120.28.196.250,/bin.sh,URLhaus
 120.28.196.74,/i,URLhaus
 120.28.197.118,/bin.sh,URLhaus
 120.28.197.118,/i,URLhaus
@@ -7232,7 +7259,9 @@
 121.202.204.227,/sshd,URLhaus
 121.202.208.107,/sshd,URLhaus
 121.202.208.193,/sshd,URLhaus
+121.202.208.237,/sshd,URLhaus
 121.202.209.31,/sshd,URLhaus
+121.202.209.46,/sshd,URLhaus
 121.202.211.217,/sshd,URLhaus
 121.202.250.245,/bin.sh,URLhaus
 121.202.250.245,/i,URLhaus
@@ -7241,6 +7270,7 @@
 121.205.208.217,/i,URLhaus
 121.205.208.226,/bin.sh,URLhaus
 121.205.208.226,/i,URLhaus
+121.231.116.192,/bin.sh,URLhaus
 121.231.139.26,/bin.sh,URLhaus
 121.231.139.26,/i,URLhaus
 121.231.142.133,/bin.sh,URLhaus
@@ -7270,6 +7300,8 @@
 122.116.172.87,/i,URLhaus
 122.138.231.189,/bin.sh,URLhaus
 122.138.231.189,/i,URLhaus
+122.139.13.133,/bin.sh,URLhaus
+122.139.13.133,/i,URLhaus
 122.139.13.204,/bin.sh,URLhaus
 122.139.13.204,/i,URLhaus
 122.139.14.243,/bin.sh,URLhaus
@@ -7322,7 +7354,6 @@
 122.195.28.245,/bin.sh,URLhaus
 122.195.28.245,/i,URLhaus
 122.201.25.95,/.i,URLhaus
-122.201.25.95,/i,URLhaus
 122.227.109.194,/bin.sh,URLhaus
 122.227.109.194,/i,URLhaus
 122.231.69.248,/bin.sh,URLhaus
@@ -7635,6 +7666,7 @@
 123.12.195.50,/bin.sh,URLhaus
 123.12.196.139,/bin.sh,URLhaus
 123.12.196.139,/i,URLhaus
+123.12.196.3,/i,URLhaus
 123.12.197.22,/bin.sh,URLhaus
 123.12.197.22,/i,URLhaus
 123.12.198.224,/bin.sh,URLhaus
@@ -7679,6 +7711,7 @@
 123.12.230.16,/i,URLhaus
 123.12.232.119,/bin.sh,URLhaus
 123.12.232.119,/i,URLhaus
+123.12.232.220,/i,URLhaus
 123.12.232.76,/bin.sh,URLhaus
 123.12.232.76,/i,URLhaus
 123.12.234.194,/bin.sh,URLhaus
@@ -7754,6 +7787,7 @@
 123.129.129.113,/bin.sh,URLhaus
 123.129.130.114,/bin.sh,URLhaus
 123.129.130.114,/i,URLhaus
+123.129.130.148,/i,URLhaus
 123.129.130.213,/bin.sh,URLhaus
 123.129.130.213,/i,URLhaus
 123.129.130.29,/bin.sh,URLhaus
@@ -7770,6 +7804,8 @@
 123.129.131.244,/i,URLhaus
 123.129.131.48,/bin.sh,URLhaus
 123.129.131.48,/i,URLhaus
+123.129.131.98,/bin.sh,URLhaus
+123.129.131.98,/i,URLhaus
 123.129.132.137,/bin.sh,URLhaus
 123.129.132.137,/i,URLhaus
 123.129.132.220,/bin.sh,URLhaus
@@ -7965,6 +8001,7 @@
 123.14.208.6,/bin.sh,URLhaus
 123.14.208.6,/i,URLhaus
 123.14.212.48,/i,URLhaus
+123.14.215.182,/bin.sh,URLhaus
 123.14.215.182,/i,URLhaus
 123.14.216.150,/bin.sh,URLhaus
 123.14.216.150,/i,URLhaus
@@ -7999,8 +8036,6 @@
 123.14.235.72,/i,URLhaus
 123.14.236.127,/bin.sh,URLhaus
 123.14.236.127,/i,URLhaus
-123.14.237.201,/bin.sh,URLhaus
-123.14.237.201,/i,URLhaus
 123.14.238.199,/bin.sh,URLhaus
 123.14.238.199,/i,URLhaus
 123.14.244.78,/bin.sh,URLhaus
@@ -8224,6 +8259,8 @@
 123.188.85.62,/i,URLhaus
 123.188.85.75,/bin.sh,URLhaus
 123.188.85.75,/i,URLhaus
+123.188.86.36,/bin.sh,URLhaus
+123.188.86.36,/i,URLhaus
 123.188.87.204,/bin.sh,URLhaus
 123.188.87.204,/i,URLhaus
 123.188.90.193,/bin.sh,URLhaus
@@ -8816,7 +8853,6 @@
 124.131.128.79,/i,URLhaus
 124.131.129.41,/bin.sh,URLhaus
 124.131.129.41,/i,URLhaus
-124.131.130.85,/i,URLhaus
 124.131.130.89,/bin.sh,URLhaus
 124.131.130.89,/i,URLhaus
 124.131.133.51,/bin.sh,URLhaus
@@ -8946,11 +8982,14 @@
 124.230.216.19,/Video.scr,URLhaus
 124.230.216.19,/info.zip,URLhaus
 124.234.128.149,/i,URLhaus
+124.234.131.24,/bin.sh,URLhaus
 124.234.131.24,/i,URLhaus
 124.234.200.151,/bin.sh,URLhaus
 124.234.200.151,/i,URLhaus
 124.234.207.132,/bin.sh,URLhaus
 124.234.207.132,/i,URLhaus
+124.234.219.141,/bin.sh,URLhaus
+124.234.219.141,/i,URLhaus
 124.234.219.153,/bin.sh,URLhaus
 124.234.219.153,/i,URLhaus
 124.234.219.192,/bin.sh,URLhaus
@@ -9228,6 +9267,8 @@
 125.40.83.220,/i,URLhaus
 125.40.83.222,/bin.sh,URLhaus
 125.40.83.222,/i,URLhaus
+125.40.86.11,/bin.sh,URLhaus
+125.40.86.11,/i,URLhaus
 125.40.86.110,/bin.sh,URLhaus
 125.40.86.110,/i,URLhaus
 125.40.86.16,/bin.sh,URLhaus
@@ -9405,6 +9446,7 @@
 125.42.119.58,/i,URLhaus
 125.42.125.127,/bin.sh,URLhaus
 125.42.125.127,/i,URLhaus
+125.42.127.37,/i,URLhaus
 125.42.13.21,/bin.sh,URLhaus
 125.42.13.21,/i,URLhaus
 125.42.14.164,/i,URLhaus
@@ -9583,6 +9625,7 @@
 125.43.45.65,/i,URLhaus
 125.43.5.203,/bin.sh,URLhaus
 125.43.5.203,/i,URLhaus
+125.43.5.41,/bin.sh,URLhaus
 125.43.5.41,/i,URLhaus
 125.43.8.221,/i,URLhaus
 125.43.8.244,/bin.sh,URLhaus
@@ -9629,6 +9672,7 @@
 125.44.19.167,/i,URLhaus
 125.44.19.78,/bin.sh,URLhaus
 125.44.19.78,/i,URLhaus
+125.44.190.92,/i,URLhaus
 125.44.190.99,/bin.sh,URLhaus
 125.44.190.99,/i,URLhaus
 125.44.192.121,/bin.sh,URLhaus
@@ -9793,6 +9837,8 @@
 125.45.19.215,/i,URLhaus
 125.45.25.114,/bin.sh,URLhaus
 125.45.25.114,/i,URLhaus
+125.45.26.216,/bin.sh,URLhaus
+125.45.26.216,/i,URLhaus
 125.45.34.23,/i,URLhaus
 125.45.35.81,/bin.sh,URLhaus
 125.45.48.113,/bin.sh,URLhaus
@@ -10924,6 +10970,7 @@
 130.61.147.74,/bot.zip,URLhaus
 130.94.114.206,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 1302768123-l3a4w496qm.ap-shanghai.tencentscf.com,/,ThreatFox
+1309673150-86ymvxmhrm.ap-shanghai.tencentscf.com,/,ThreatFox
 131.123.40.104,/GHfjfgvj,URLhaus
 131.123.40.104,/JIPJIPJj,URLhaus
 131.123.40.104,/RYrydry,URLhaus
@@ -10963,7 +11010,6 @@
 132.255.192.122,/sshd,URLhaus
 132.red-81-42-249.staticip.rima-tde.net,/AV.lnk,URLhaus
 132.red-81-42-249.staticip.rima-tde.net,/AV.scr,URLhaus
-132.red-81-42-249.staticip.rima-tde.net,/Photo.lnk,URLhaus
 132.red-81-42-249.staticip.rima-tde.net,/Photo.scr,URLhaus
 132.red-81-42-249.staticip.rima-tde.net,/R-02-RADIOLE/AV.scr,URLhaus
 132.red-81-42-249.staticip.rima-tde.net,/R-02-RADIOLE/Photo.scr,URLhaus
@@ -11100,13 +11146,11 @@
 139.159.233.200,/pty10,URLhaus
 139.159.233.200,/pty3,URLhaus
 139.159.233.200,/pty4,URLhaus
-139.162.53.175,/Mozi.m,URLhaus
 139.196.111.118,/02.08.2022.exe,URLhaus
 139.198.15.223,/PingInfoView.exe,URLhaus
 139.198.15.223,/ScanPort.exe,URLhaus
 139.211.170.225,/bin.sh,URLhaus
 139.211.170.225,/i,URLhaus
-139.255.97.116,/i,URLhaus
 139.59.240.15,/kworker,URLhaus
 139.99.209.90,/a/wget,URLhaus
 13d1fewbm0vsl-pages-dev.translate.goog,/www.matsui.co.jp.html?_x_tr_sch=&amp;_x_tr_sl=monex&amp;_x_tr_tl=ja,PhishTank_Other_ID9109582
@@ -11658,6 +11702,7 @@
 1480wqm.hair,/txtstyh9/15twRz/sTgWXV,PhishTank_Other_ID9437701
 1483linnie.workers.dev,/,ThreatFox
 149.255.10.46,/.i,URLhaus
+149.255.10.46,/i,URLhaus
 149.28.42.137,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 149.50.154.101,/bot_arm,URLhaus
 149.50.154.101,/bot_arm7,URLhaus
@@ -11800,6 +11845,7 @@
 151.233.179.226,/Mozi.7,URLhaus
 151.233.193.84,/i,URLhaus
 151.235.31.133,/i,URLhaus
+151.236.247.230,/.i,URLhaus
 151.236.247.230,/Mozi.m,URLhaus
 151.236.247.230,/i,URLhaus
 151.240.151.7,/bins.sh,URLhaus
@@ -11920,8 +11966,6 @@
 1533o.checkingsum.in.net,/,ThreatFox
 154.0.129.114,/.i,URLhaus
 154.0.129.114,/02.08.2022.exe,URLhaus
-154.0.129.114,/Mozi.m,URLhaus
-154.0.129.114,/i,URLhaus
 154.0.129.134,/,URLhaus
 154.0.129.134,/.i,URLhaus
 154.0.129.134,/Mozi.m,URLhaus
@@ -12551,6 +12595,8 @@
 163.142.93.90,/bin.sh,URLhaus
 163.142.94.0,/i,URLhaus
 163.142.94.100,/bin.sh,URLhaus
+163.142.94.107,/bin.sh,URLhaus
+163.142.94.107,/i,URLhaus
 163.142.94.12,/bin.sh,URLhaus
 163.142.94.124,/i,URLhaus
 163.142.94.15,/i,URLhaus
@@ -12695,6 +12741,7 @@
 167.179.119.120,/install.sh,URLhaus
 167.250.158.32,/bin.sh,URLhaus
 167.250.158.32,/i,URLhaus
+167.250.193.253,/.i,URLhaus
 167.250.193.253,/Mozi.m,URLhaus
 167.250.193.253,/i,URLhaus
 167.71.213.136,/y,URLhaus
@@ -13052,6 +13099,7 @@
 175.146.155.98,/i,URLhaus
 175.146.156.32,/bin.sh,URLhaus
 175.146.156.32,/i,URLhaus
+175.146.156.42,/bin.sh,URLhaus
 175.146.157.174,/bin.sh,URLhaus
 175.146.157.174,/i,URLhaus
 175.146.158.57,/bin.sh,URLhaus
@@ -13059,6 +13107,7 @@
 175.146.159.250,/i,URLhaus
 175.146.211.156,/bin.sh,URLhaus
 175.146.211.156,/i,URLhaus
+175.146.223.81,/bin.sh,URLhaus
 175.146.225.35,/bin.sh,URLhaus
 175.146.225.35,/i,URLhaus
 175.146.225.46,/bin.sh,URLhaus
@@ -13149,6 +13198,8 @@
 175.148.74.174,/i,URLhaus
 175.148.76.63,/bin.sh,URLhaus
 175.148.76.63,/i,URLhaus
+175.148.80.73,/bin.sh,URLhaus
+175.148.80.73,/i,URLhaus
 175.148.87.144,/bin.sh,URLhaus
 175.148.87.144,/i,URLhaus
 175.149.135.190,/bin.sh,URLhaus
@@ -13157,6 +13208,7 @@
 175.149.219.183,/i,URLhaus
 175.149.65.165,/bin.sh,URLhaus
 175.149.65.165,/i,URLhaus
+175.149.66.127,/bin.sh,URLhaus
 175.149.66.127,/i,URLhaus
 175.149.67.160,/i,URLhaus
 175.149.67.175,/bin.sh,URLhaus
@@ -13216,6 +13268,8 @@
 175.151.83.136,/i,URLhaus
 175.151.83.137,/bin.sh,URLhaus
 175.151.83.137,/i,URLhaus
+175.153.135.75,/bin.sh,URLhaus
+175.153.135.75,/i,URLhaus
 175.153.92.244,/bin.sh,URLhaus
 175.153.92.244,/i,URLhaus
 175.154.116.98,/i,URLhaus
@@ -13254,6 +13308,9 @@
 175.165.76.134,/i,URLhaus
 175.165.81.200,/i,URLhaus
 175.165.81.206,/i,URLhaus
+175.165.81.86,/bin.sh,URLhaus
+175.165.81.86,/i,URLhaus
+175.165.82.187,/i,URLhaus
 175.165.83.181,/i,URLhaus
 175.165.83.240,/bin.sh,URLhaus
 175.165.83.31,/Mozi.a,URLhaus
@@ -13309,6 +13366,7 @@
 175.167.254.184,/i,URLhaus
 175.167.47.248,/bin.sh,URLhaus
 175.167.47.248,/i,URLhaus
+175.167.65.19,/i,URLhaus
 175.167.76.60,/bin.sh,URLhaus
 175.167.76.60,/i,URLhaus
 175.167.77.1,/i,URLhaus
@@ -13461,6 +13519,7 @@
 175.30.114.108,/i,URLhaus
 175.30.115.35,/bin.sh,URLhaus
 175.30.115.35,/i,URLhaus
+175.31.168.229,/i,URLhaus
 175.31.184.132,/bin.sh,URLhaus
 175.31.184.132,/i,URLhaus
 175.31.188.203,/bin.sh,URLhaus
@@ -13527,6 +13586,7 @@
 176.106.25.181,/i,URLhaus
 176.116.56.92,/bin.sh,URLhaus
 176.116.56.92,/i,URLhaus
+176.122.28.26,/Mozi.m,URLhaus
 176.123.9.22,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 176.123.9.22,/bin/support.client.exe,URLhaus
 176.124.207.93,/pearl-miner,URLhaus
@@ -13764,14 +13824,6 @@
 176.65.139.140,/bins/x86,URLhaus
 176.65.139.140,/bins/x86_64,URLhaus
 176.65.139.140,/exodus.sh,URLhaus
-176.65.139.151,/Sakura.sh,URLhaus
-176.65.139.151,/a-r.m-6.Sakura,URLhaus
-176.65.139.151,/a-r.m-7.Sakura,URLhaus
-176.65.139.151,/m-6.8-k.Sakura,URLhaus
-176.65.139.151,/m-i.p-s.Sakura,URLhaus
-176.65.139.151,/m-p.s-l.Sakura,URLhaus
-176.65.139.151,/p-p.c-.Sakura,URLhaus
-176.65.139.151,/x-3.2-.Sakura,URLhaus
 176.65.139.151,/x-8.6-.Sakura,URLhaus
 176.65.139.152,/titan.arm4l,URLhaus
 176.65.139.152,/titan.arm4tl,URLhaus
@@ -14704,7 +14756,6 @@
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-09-27/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-10-04/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-10-10/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Cancelamento/2019-10-14/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-10-18/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-10-24/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-10-25/info.zip,URLhaus
@@ -14714,12 +14765,10 @@
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-11-13/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-11-14/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-11-19/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Cancelamento/2019-11-25/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-12-06/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-12-11/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-12-12/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-12-13/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Cancelamento/2019-12-18/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-12-19/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2019-12-31/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2020-01-03/info.zip,URLhaus
@@ -14729,7 +14778,6 @@
 177.70.102.232,/TmpFTP/01/Cancelamento/2020-01-16/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2020-01-17/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2020-01-22/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Cancelamento/2020-02-05/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2020-02-06/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2020-02-17/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2020-02-19/info.zip,URLhaus
@@ -14775,7 +14823,6 @@
 177.70.102.232,/TmpFTP/01/Cancelamento/2020-10-16/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2020-10-30/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2020-11-05/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Cancelamento/2020-11-06/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2020-11-25/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2020-11-30/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2020-12-04/info.zip,URLhaus
@@ -14787,7 +14834,6 @@
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-01-12/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-01-13/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-01-14/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Cancelamento/2021-01-26/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-02-04/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-02-08/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-02-09/info.zip,URLhaus
@@ -14816,14 +14862,12 @@
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-05-31/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-06-08/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-06-16/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Cancelamento/2021-06-28/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-06-30/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-07-05/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-07-08/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-07-09/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-07-12/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-07-14/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Cancelamento/2021-07-15/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-07-21/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-08-03/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-08-05/info.zip,URLhaus
@@ -14856,7 +14900,6 @@
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-11-30/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-12-03/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-12-06/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Cancelamento/2021-12-08/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-12-09/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-12-13/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2021-12-15/info.zip,URLhaus
@@ -14887,6 +14930,7 @@
 177.70.102.232,/TmpFTP/01/Cancelamento/2022-04-07/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2022-04-11/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2022-04-29/info.zip,URLhaus
+177.70.102.232,/TmpFTP/01/Cancelamento/2022-05-02/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2022-05-04/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2022-05-05/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Cancelamento/2022-05-06/info.zip,URLhaus
@@ -14971,7 +15015,6 @@
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-06-18/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-09-02/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-09-15/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2020-10-14/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-01-07/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-03-30/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2021-04-01/info.zip,URLhaus
@@ -14991,7 +15034,6 @@
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-03-03/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-03-15/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-03-29/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-04-19/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-04-27/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-05-11/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2022-05-17/info.zip,URLhaus
@@ -15030,7 +15072,6 @@
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-04-29/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-05-09/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-05-22/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-06-04/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-06-12/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-06-13/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Carta%20de%20Corre%C3%A7%C3%A3o/2025-06-25/info.zip,URLhaus
@@ -15058,7 +15099,6 @@
 177.70.102.232,/TmpFTP/01/Consulta/2020-01-10/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Consulta/2020-03-02/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Consulta/2020-05-07/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Consulta/2020-08-19/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Consulta/2020-09-30/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Consulta/2020-10-19/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Consulta/2020-11-05/info.zip,URLhaus
@@ -15151,8 +15191,6 @@
 177.70.102.232,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2022-01-10/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2022-01-14/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2022-01-19/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2022-03-17/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2022-04-05/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2022-09-09/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2023-06-22/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Inutiliza%C3%A7%C3%A3o/2023-11-09/info.zip,URLhaus
@@ -15176,7 +15214,6 @@
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-07-22/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-07-26/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-08-02/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-08-03/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-08-06/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-08-08/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-08-26/info.zip,URLhaus
@@ -15184,7 +15221,6 @@
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-08-31/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-09-04/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-09-09/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-09-24/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-09-30/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-10-01/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-10-09/info.zip,URLhaus
@@ -15195,7 +15231,6 @@
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-10-18/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-10-23/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-10-24/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-10-26/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-10-29/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-10-30/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2019-11-01/info.zip,URLhaus
@@ -15240,7 +15275,6 @@
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-03-31/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-04-02/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-04-08/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-04-15/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-04-16/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-04-17/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-04-20/info.zip,URLhaus
@@ -15273,6 +15307,7 @@
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-07-21/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-07-23/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-07-24/info.zip,URLhaus
+177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-07-27/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-07-28/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-07-29/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-07-30/info.zip,URLhaus
@@ -15289,7 +15324,6 @@
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-08-20/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-08-21/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-08-24/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-08-25/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-08-26/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-08-27/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-08-28/info.zip,URLhaus
@@ -15307,6 +15341,7 @@
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-11-09/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-11-10/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-11-11/info.zip,URLhaus
+177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-11-12/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-11-13/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-11-16/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-11-17/info.zip,URLhaus
@@ -15315,7 +15350,6 @@
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-11-20/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-11-23/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-11-24/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-11-25/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-11-26/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-11-27/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2020-11-30/info.zip,URLhaus
@@ -15384,7 +15418,6 @@
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-01-17/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-01-18/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-01-19/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-01-20/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-01-21/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-03-16/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2022-03-21/info.zip,URLhaus
@@ -15455,7 +15488,6 @@
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-02-06/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-02-07/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-02-08/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-02-09/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-02-10/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-02-13/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-02-14/info.zip,URLhaus
@@ -15509,7 +15541,6 @@
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-11-09/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-11-10/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-11-14/info.zip,URLhaus
-177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-11-17/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2023-11-21/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2024-10-28/info.zip,URLhaus
 177.70.102.232,/TmpFTP/01/Recep%C3%A7%C3%A3o/2024-10-29/info.zip,URLhaus
@@ -15555,7 +15586,6 @@
 178.141.28.94,/i,URLhaus
 178.150.97.200,/bin.sh,URLhaus
 178.150.97.200,/i,URLhaus
-178.151.143.2,/.i,URLhaus
 178.151.143.2,/Mozi.m,URLhaus
 178.151.143.2,/i,URLhaus
 178.16.52.133,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
@@ -15739,10 +15769,14 @@
 178.176.107.122,/bin.sh,URLhaus
 178.176.107.122,/i,URLhaus
 178.176.204.240,//sshd,URLhaus
+178.176.204.240,/sshd,URLhaus
+178.176.204.250,//sshd,URLhaus
+178.176.204.250,/sshd,URLhaus
 178.183.205.197,/sshd,URLhaus
 178.183.208.134,//sshd,URLhaus
 178.183.208.134,/sshd,URLhaus
 178.183.70.63,/sshd,URLhaus
+178.188.30.171,/.i,URLhaus
 178.188.30.171,/Mozi.m,URLhaus
 178.188.30.171,/i,URLhaus
 178.198.246.24,/AV.lnk,URLhaus
@@ -15808,14 +15842,21 @@
 179.108.89.220,/i,URLhaus
 179.108.90.55,/bin.sh,URLhaus
 179.108.90.55,/i,URLhaus
+179.154.80.249,/bin.sh,URLhaus
+179.154.80.249,/i,URLhaus
 179.214.0.18,/AV.lnk,URLhaus
+179.214.0.18,/AV.scr,URLhaus
 179.214.0.18,/Photo.lnk,URLhaus
+179.214.0.18,/Photo.scr,URLhaus
+179.214.0.18,/Video.lnk,URLhaus
 179.214.0.18,/Video.scr,URLhaus
+179.214.0.18,/info.zip,URLhaus
 179.248.3.202.ll.sta.mana.pf,/sshd,URLhaus
 179.43.182.70,/fuck,URLhaus
 179.43.182.70,/sshd,URLhaus
 179.49.213.85,/bin.sh,URLhaus
 179.49.213.85,/i,URLhaus
+179.51.168.26,/.i,URLhaus
 179.51.168.26,/i,URLhaus
 179.63.168.2,/tftp,URLhaus
 17eqwy30.takhtenard.app,/,ThreatFox
@@ -15955,6 +15996,7 @@
 180.252.217.7,/bin.sh,URLhaus
 180.252.217.7,/i,URLhaus
 180.252.221.210,/bin.sh,URLhaus
+180.252.221.56,/i,URLhaus
 180.252.221.81,/i,URLhaus
 180.252.223.220,/i,URLhaus
 180.253.13.67,/i,URLhaus
@@ -16039,7 +16081,6 @@
 181.193.106.86,/i,URLhaus
 181.211.15.11,/i,URLhaus
 181.211.252.34,/.i,URLhaus
-181.211.252.34,/Mozi.m,URLhaus
 181.211.252.34,/i,URLhaus
 181.214.136.12,/1.sh,URLhaus
 181.214.136.12,/hiddenbin/Mystic.arc,URLhaus
@@ -16206,6 +16247,8 @@
 182.113.206.65,/i,URLhaus
 182.113.206.76,/bin.sh,URLhaus
 182.113.206.76,/i,URLhaus
+182.113.208.136,/bin.sh,URLhaus
+182.113.208.136,/i,URLhaus
 182.113.210.246,/bin.sh,URLhaus
 182.113.210.246,/i,URLhaus
 182.113.212.236,/i,URLhaus
@@ -16265,6 +16308,7 @@
 182.113.3.35,/i,URLhaus
 182.113.3.74,/i,URLhaus
 182.113.31.114,/i,URLhaus
+182.113.31.138,/i,URLhaus
 182.113.31.247,/bin.sh,URLhaus
 182.113.31.247,/i,URLhaus
 182.113.31.70,/bin.sh,URLhaus
@@ -16281,6 +16325,7 @@
 182.113.33.72,/bin.sh,URLhaus
 182.113.33.72,/i,URLhaus
 182.113.34.181,/i,URLhaus
+182.113.35.132,/bin.sh,URLhaus
 182.113.35.132,/i,URLhaus
 182.113.35.171,/Mozi.m,URLhaus
 182.113.35.171,/i,URLhaus
@@ -16416,6 +16461,8 @@
 182.114.255.23,/i,URLhaus
 182.114.32.14,/bin.sh,URLhaus
 182.114.32.14,/i,URLhaus
+182.114.32.165,/bin.sh,URLhaus
+182.114.32.165,/i,URLhaus
 182.114.32.177,/bin.sh,URLhaus
 182.114.32.177,/i,URLhaus
 182.114.33.12,/bin.sh,URLhaus
@@ -16617,6 +16664,8 @@
 182.116.50.112,/bin.sh,URLhaus
 182.116.50.112,/i,URLhaus
 182.116.50.129,/bin.sh,URLhaus
+182.116.50.238,/bin.sh,URLhaus
+182.116.50.238,/i,URLhaus
 182.116.50.75,/bin.sh,URLhaus
 182.116.50.75,/i,URLhaus
 182.116.51.119,/bin.sh,URLhaus
@@ -17182,7 +17231,6 @@
 182.121.16.139,/bin.sh,URLhaus
 182.121.16.139,/i,URLhaus
 182.121.162.111,/i,URLhaus
-182.121.165.5,/i,URLhaus
 182.121.168.120,/bin.sh,URLhaus
 182.121.168.120,/i,URLhaus
 182.121.168.51,/i,URLhaus
@@ -17346,7 +17394,6 @@
 182.121.85.46,/i,URLhaus
 182.121.86.172,/bin.sh,URLhaus
 182.121.86.172,/i,URLhaus
-182.121.86.60,/bin.sh,URLhaus
 182.121.9.194,/bin.sh,URLhaus
 182.121.9.194,/i,URLhaus
 182.122.121.23,/bin.sh,URLhaus
@@ -17473,8 +17520,6 @@
 182.124.135.134,/i,URLhaus
 182.124.136.107,/bin.sh,URLhaus
 182.124.136.107,/i,URLhaus
-182.124.151.14,/bin.sh,URLhaus
-182.124.151.14,/i,URLhaus
 182.124.16.38,/bin.sh,URLhaus
 182.124.16.38,/i,URLhaus
 182.124.162.184,/bin.sh,URLhaus
@@ -17665,6 +17710,7 @@
 182.126.201.118,/i,URLhaus
 182.126.201.152,/bin.sh,URLhaus
 182.126.201.152,/i,URLhaus
+182.126.201.81,/i,URLhaus
 182.126.202.2,/bin.sh,URLhaus
 182.126.202.2,/i,URLhaus
 182.126.203.255,/i,URLhaus
@@ -17692,6 +17738,8 @@
 182.126.248.10,/i,URLhaus
 182.126.248.115,/bin.sh,URLhaus
 182.126.248.115,/i,URLhaus
+182.126.248.175,/bin.sh,URLhaus
+182.126.248.175,/i,URLhaus
 182.126.249.0,/bin.sh,URLhaus
 182.126.249.0,/i,URLhaus
 182.126.249.14,/bin.sh,URLhaus
@@ -17840,7 +17888,6 @@
 182.127.126.249,/bin.sh,URLhaus
 182.127.126.249,/i,URLhaus
 182.127.127.192,/i,URLhaus
-182.127.127.241,/i,URLhaus
 182.127.127.5,/bin.sh,URLhaus
 182.127.127.5,/i,URLhaus
 182.127.133.102,/bin.sh,URLhaus
@@ -18007,6 +18054,7 @@
 182.127.69.34,/i,URLhaus
 182.127.7.128,/bin.sh,URLhaus
 182.127.7.128,/i,URLhaus
+182.127.71.3,/i,URLhaus
 182.127.80.102,/bin.sh,URLhaus
 182.127.80.102,/i,URLhaus
 182.127.80.85,/bin.sh,URLhaus
@@ -18030,6 +18078,8 @@
 182.160.102.188,/,URLhaus
 182.160.102.188,/Mozi.m,URLhaus
 182.160.102.188,/i,URLhaus
+182.160.116.52,/,URLhaus
+182.160.116.52,/i,URLhaus
 182.163.114.232,/Test/info.zip,URLhaus
 182.163.114.232,/info.zip,URLhaus
 182.173.199.8,/bin.sh,URLhaus
@@ -18041,7 +18091,6 @@
 182.181.233.179,/bin.sh,URLhaus
 182.183.140.79,/i,URLhaus
 182.191.88.160,/bin.sh,URLhaus
-182.23.87.242,/i,URLhaus
 182.233.38.178,/Mozi.a,URLhaus
 182.239.81.126,/bin.sh,URLhaus
 182.239.81.126,/i,URLhaus
@@ -18065,6 +18114,7 @@
 182.253.115.155,/Mozi.m,URLhaus
 182.253.115.156,/.i,URLhaus
 182.253.115.156,/Mozi.m,URLhaus
+182.253.115.156,/i,URLhaus
 182.34.56.255,/bin.sh,URLhaus
 182.34.56.255,/i,URLhaus
 182.34.62.251,/i,URLhaus
@@ -18108,6 +18158,7 @@
 183.149.125.46,/i,URLhaus
 183.150.141.1,/bin.sh,URLhaus
 183.150.141.1,/i,URLhaus
+183.150.193.144,/bin.sh,URLhaus
 183.150.205.192,/i,URLhaus
 183.150.79.222,/bin.sh,URLhaus
 183.150.79.222,/i,URLhaus
@@ -18120,6 +18171,7 @@
 183.151.169.197,/i,URLhaus
 183.151.171.156,/bin.sh,URLhaus
 183.151.171.156,/i,URLhaus
+183.151.174.249,/i,URLhaus
 183.151.201.116,/bin.sh,URLhaus
 183.151.201.116,/i,URLhaus
 183.151.204.81,/bin.sh,URLhaus
@@ -18178,7 +18230,7 @@
 183.63.8.194,/bin.sh,URLhaus
 183.63.8.194,/i,URLhaus
 183.81.156.121,/Mozi.m,URLhaus
-183.81.156.121,/i,URLhaus
+183.81.156.123,/i,URLhaus
 183.81.156.124,/i,URLhaus
 183.81.156.125,/i,URLhaus
 183.83.186.77,/av.lnk,URLhaus
@@ -18209,14 +18261,13 @@
 184.174.96.191,/bot.x86_64,URLhaus
 184.174.97.162,/payload/386/pikachu,URLhaus
 184.185.30.182,/.i,URLhaus
-184.185.30.182,/Mozi.m,URLhaus
-184.185.30.182,/i,URLhaus
 18409237.xyz,/5ddk32rn/0ohztr/cNDag6,PhishTank_Other_ID9407165
 18452654.killbot.ru,/,ThreatFox
 185-217-0-181.ip.obe.net,/,PhishTank_Other_ID9493011
 185.100.157.126,/script,URLhaus
 185.100.157.222,/loader.sh,URLhaus
 185.100.157.222,/payload.sh,URLhaus
+185.103.130.250,/i,URLhaus
 185.103.166.138,/download,URLhaus
 185.104.63.79,/arm7,URLhaus
 185.104.63.79,/keyhunter-x86,URLhaus
@@ -18236,7 +18287,7 @@
 185.113.223.93,/kushnet.sh4,URLhaus
 185.113.223.93,/kushnet.x32,URLhaus
 185.113.223.93,/kushnet.x64-test,URLhaus
-185.12.78.161,/.i,URLhaus
+185.12.78.161,/,URLhaus
 185.12.78.161,/Mozi.m,URLhaus
 185.12.78.161,/i,URLhaus
 185.132.53.171,/SEMANTIC_ASTROLOGY.exe,URLhaus
@@ -18422,7 +18473,6 @@
 185.49.168.84,/sshd,URLhaus
 185.50.148.169,/bin.sh,URLhaus
 185.50.148.169,/i,URLhaus
-185.57.69.125,/Mozi.m,URLhaus
 185.57.69.125,/i,URLhaus
 185.60.107.150,/,URLhaus
 185.69.121.139,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
@@ -18438,6 +18488,7 @@
 185.76.78.13,/pty3,URLhaus
 185.76.78.13,/pty4,URLhaus
 185.8.233.160,/Photo.scr,URLhaus
+185.8.233.160,/info.zip,URLhaus
 185.80.0.36,/,URLhaus
 185.82.110.102,/bin.sh,URLhaus
 185.82.110.106,/bin.sh,URLhaus
@@ -18485,6 +18536,7 @@
 186.149.204.12,/bin.sh,URLhaus
 186.149.204.12,/i,URLhaus
 186.154.93.81,/Mozi.m,URLhaus
+186.154.93.81,/i,URLhaus
 186.208.12.230,/bin.sh,URLhaus
 186.208.12.230,/i,URLhaus
 186.227.246.220,/bin.sh,URLhaus
@@ -18526,6 +18578,7 @@
 188.17.91.233,/i,URLhaus
 188.170.32.148,//sshd,URLhaus
 188.170.32.148,/sshd,URLhaus
+188.173.136.155,/i,URLhaus
 188.187.77.38,/bin.sh,URLhaus
 188.187.77.38,/i,URLhaus
 188.19.103.145,/bin.sh,URLhaus
@@ -18542,7 +18595,7 @@
 188.246.178.42,/i,URLhaus
 188.56.204.166,/i,URLhaus
 188.72.6.218,/.i,URLhaus
-188.72.6.218,/Mozi.m,URLhaus
+188.72.6.218,/i,URLhaus
 188.82.127.68,/AV.lnk,URLhaus
 188.82.127.68,/AV.scr,URLhaus
 188.82.127.68,/Photo.lnk,URLhaus
@@ -18591,14 +18644,12 @@
 190.109.228.199,/bin.sh,URLhaus
 190.109.228.199,/i,URLhaus
 190.111.98.238,/i,URLhaus
-190.113.124.155,/Mozi.m,URLhaus
+190.113.124.155,/.i,URLhaus
 190.113.124.155,/i,URLhaus
 190.115.80.35,/Mozi.m,URLhaus
 190.115.80.35,/bin.sh,URLhaus
 190.115.80.35,/i,URLhaus
 190.12.99.194,/,URLhaus
-190.12.99.194,/.i,URLhaus
-190.12.99.194,/i,URLhaus
 190.123.46.208,/Okami.arm4,URLhaus
 190.123.46.208,/Okami.arm5,URLhaus
 190.123.46.208,/Okami.arm6,URLhaus
@@ -18615,22 +18666,21 @@
 190.123.46.208,/Okami.x86,URLhaus
 190.123.46.208,/bins.sh,URLhaus
 190.128.195.138,/,URLhaus
-190.128.195.138,/.i,URLhaus
+190.128.195.138,/i,URLhaus
 190.145.205.178,/.i,URLhaus
+190.145.205.178,/Mozi.m,URLhaus
+190.145.205.178,/i,URLhaus
 190.183.254.69,/i,URLhaus
 190.185.119.13,/.i,URLhaus
-190.185.119.13,/Mozi.m,URLhaus
 190.185.119.13,/i,URLhaus
 190.196.38.77,/AV.lnk,URLhaus
 190.196.38.77,/AV.scr,URLhaus
 190.196.38.77,/Photo.lnk,URLhaus
-190.196.38.77,/Photo.scr,URLhaus
 190.196.38.77,/Video.lnk,URLhaus
 190.196.38.77,/Video.scr,URLhaus
 190.196.38.77,/info.zip,URLhaus
 190.2.237.104,/.i,URLhaus
 190.2.237.104,/Mozi.m,URLhaus
-190.2.237.104,/i,URLhaus
 190.7.240.24,/bin.sh,URLhaus
 1904objective.workers.dev,/,ThreatFox
 191.37.19.74,/bin.sh,URLhaus
@@ -19029,6 +19079,9 @@
 194.150.166.178,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 194.150.166.178,/bin/support.client.exe,URLhaus
 194.164.29.150,/arm7,URLhaus
+194.183.186.164,/.i,URLhaus
+194.183.186.164,/Mozi.m,URLhaus
+194.183.186.164,/i,URLhaus
 194.238.57.124,/dp.sh,URLhaus
 194.238.57.124,/gg11,URLhaus
 194.238.57.124,/pito.arm4,URLhaus
@@ -19117,6 +19170,10 @@
 194.59.31.194,/s/amd64,URLhaus
 194.59.31.194,/s/kal64,URLhaus
 194.59.31.194,/s/kswpad,URLhaus
+194.59.31.231,/b/amd64,URLhaus
+194.59.31.231,/b/kal64,URLhaus
+194.59.31.231,/b/kswpad,URLhaus
+194.59.31.231,/b/linux,URLhaus
 194.59.31.5,/b/amd64,URLhaus
 194.59.31.5,/b/kal64,URLhaus
 194.59.31.5,/b/kswpad,URLhaus
@@ -19132,7 +19189,7 @@
 195.103.203.106,/Photo.scr,URLhaus
 195.123.4.249,/bbc,URLhaus
 195.137.245.219,/systemd,URLhaus
-195.158.88.156,/,URLhaus
+195.158.88.156,/.i,URLhaus
 195.158.88.156,/i,URLhaus
 195.158.90.40,/.i,URLhaus
 195.158.90.40,/i,URLhaus
@@ -19230,6 +19287,7 @@
 195.26.97.59,/sshd,URLhaus
 195.34.102.234,/sshd,URLhaus
 195.34.91.22,/.i,URLhaus
+195.34.91.22,/Mozi.m,URLhaus
 195.34.91.22,/i,URLhaus
 195q2fia.readthisintro.xyz,/?ublib=172ec75e-a191-4e5d-a1e3-c5117af58cb5,URLhaus
 196.135.205.23,/Mozi.7,URLhaus
@@ -19386,11 +19444,18 @@
 196.251.121.185,/systemd,URLhaus
 196.39.143.113,/sshd,URLhaus
 196.41.63.178,/.i,URLhaus
+196.41.63.178,/Mozi.m,URLhaus
 196.41.63.178,/i,URLhaus
 196.44.167.72.host.secureserver.net,/U035xcvdIxcvd/9Uvddaydba8I2K1/LXW6T/30816227/v4PEyyxkXIn8F0ijqWcRfz/19669609,PhishTank_Other_ID9388850
+196.64.168.209,/i,URLhaus
 196.77.63.52,/bin.sh,URLhaus
 196.77.63.52,/i,URLhaus
+197.157.195.161,/,URLhaus
+197.157.195.161,/i,URLhaus
 197.159.1.58,/,URLhaus
+197.159.1.58,/.i,URLhaus
+197.159.1.58,/Mozi.m,URLhaus
+197.159.1.58,/i,URLhaus
 197.206.54.196,/bin.sh,URLhaus
 197.206.54.196,/i,URLhaus
 197.255.229.88,/favico.ico,URLhaus
@@ -19759,8 +19824,10 @@
 2.178.39.174,/i,URLhaus
 2.181.198.232,/bin.sh,URLhaus
 2.181.198.232,/i,URLhaus
+2.181.242.160,/i,URLhaus
 2.183.135.123,/i,URLhaus
 2.187.249.41,/i,URLhaus
+2.187.250.85,/i,URLhaus
 2.187.38.183,/i,URLhaus
 2.187.39.131,/i,URLhaus
 2.187.98.47,/i,URLhaus
@@ -20474,12 +20541,12 @@
 200.29.120.130,/tftp,URLhaus
 200.54.221.234,/,URLhaus
 200.54.221.234,/.i,URLhaus
-200.54.221.234,/i,URLhaus
 200.6.91.43,/bin.sh,URLhaus
 200.6.91.43,/i,URLhaus
 200.61.163.235,/.i,URLhaus
 200.61.163.235,/Mozi.m,URLhaus
 200.61.163.235,/i,URLhaus
+200.69.219.25,/.i,URLhaus
 200.69.219.25,/Mozi.m,URLhaus
 200.69.219.25,/i,URLhaus
 2000tiendasd1.com.co,/,ThreatFox
@@ -20491,7 +20558,6 @@
 201.131.163.246,/i,URLhaus
 201.149.107.50,/bin.sh,URLhaus
 201.149.107.50,/i,URLhaus
-201.16.236.187,/i,URLhaus
 201.182.25.51,/,URLhaus
 201.94.181.7,/sshd,URLhaus
 201.98.176.195,/sshd,URLhaus
@@ -20505,7 +20571,7 @@
 202.1.26.69,/i,URLhaus
 202.1.26.70,/bin.sh,URLhaus
 202.1.26.70,/i,URLhaus
-202.105.196.30,/i,URLhaus
+202.105.196.30,/Mozi.m,URLhaus
 202.107.0.250,/bin.sh,URLhaus
 202.107.0.250,/i,URLhaus
 202.107.102.33,/bin.sh,URLhaus
@@ -20536,7 +20602,8 @@
 202.148.18.218,/.i,URLhaus
 202.148.18.218,/Mozi.m,URLhaus
 202.148.18.218,/i,URLhaus
-202.148.18.220,/Mozi.m,URLhaus
+202.148.18.220,/.i,URLhaus
+202.148.18.220,/i,URLhaus
 202.148.18.221,/i,URLhaus
 202.148.20.138,/,URLhaus
 202.148.20.138,/.i,URLhaus
@@ -20545,7 +20612,6 @@
 202.148.5.34,/.i,URLhaus
 202.148.5.34,/i,URLhaus
 202.154.187.26,/.i,URLhaus
-202.154.187.26,/i,URLhaus
 202.155.8.56,/BVNS,URLhaus
 202.155.8.56,/CEMY,URLhaus
 202.155.8.56,/CRHT,URLhaus
@@ -20572,15 +20638,18 @@
 202.163.107.242,/i,URLhaus
 202.163.107.97,/bin.sh,URLhaus
 202.163.107.97,/i,URLhaus
+202.166.218.154,/.i,URLhaus
+202.166.218.154,/i,URLhaus
 202.175.181.210,/,URLhaus
 202.189.12.244,/66666.bin,URLhaus
 202.3.248.178,//sshd,URLhaus
 202.3.248.178,/sshd,URLhaus
 202.3.248.179,//sshd,URLhaus
 202.3.248.179,/sshd,URLhaus
-202.40.178.238,/i,URLhaus
 202.5.50.108,/.i,URLhaus
 202.5.50.108,/Mozi.m,URLhaus
+202.53.164.214,/.i,URLhaus
+202.53.164.214,/i,URLhaus
 202.53.164.46,/.i,URLhaus
 202.53.164.46,/Mozi.m,URLhaus
 202.53.164.46,/i,URLhaus
@@ -20593,9 +20662,6 @@
 202.73.4.32,/install.sh,URLhaus
 202.74.75.181,/,URLhaus
 202.78.201.3,/.i,URLhaus
-202.78.201.3,/Mozi.m,URLhaus
-202.78.201.3,/i,URLhaus
-202.88.234.44,/.i,URLhaus
 202.88.234.44,/i,URLhaus
 202.95.11.173,/1.exe,URLhaus
 202.95.11.181,/1.exe,URLhaus
@@ -20653,6 +20719,7 @@
 203.159.90.61,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 203.159.90.61,/bin/support.client.exe,URLhaus
 203.160.56.67,/Mozi.m,URLhaus
+203.160.56.67,/i,URLhaus
 203.160.9.182,/bin.sh,URLhaus
 203.160.9.182,/i,URLhaus
 203.177.237.148,/bin.sh,URLhaus
@@ -20675,6 +20742,7 @@
 203.192.211.119,/Video.lnk,URLhaus
 203.192.211.119,/Video.scr,URLhaus
 203.192.211.119,/info.zip,URLhaus
+203.198.17.51,/,URLhaus
 203.2.151.15,/bin.sh,URLhaus
 203.2.151.15,/i,URLhaus
 203.202.232.187,/44/weneedbestcreativeideasforbetterplacestocomeback.hta,URLhaus
@@ -20683,6 +20751,8 @@
 203.204.157.55,/i,URLhaus
 203.204.158.100,/bin.sh,URLhaus
 203.204.158.100,/i,URLhaus
+203.204.93.86,/bin.sh,URLhaus
+203.204.93.86,/i,URLhaus
 203.212.222.22,/av.lnk,URLhaus
 203.212.222.22,/av.scr,URLhaus
 203.212.222.22,/info.zip,URLhaus
@@ -20753,7 +20823,6 @@
 205.185.114.150,/dvr.zip,URLhaus
 205.185.121.21,/1.exe,URLhaus
 205.185.127.10,/xg,URLhaus
-205.209.114.243,/so,URLhaus
 205.237.110.232,/aarch64,URLhaus
 205.237.110.232,/arm,URLhaus
 205.237.110.232,/arm4,URLhaus
@@ -20824,7 +20893,6 @@
 206.125.150.12,/i,URLhaus
 206.206.78.39,/index.ps1,URLhaus
 206.214.35.106,/Mozi.m,URLhaus
-206.214.35.106,/i,URLhaus
 206.245.165.5,/XClient...exe,URLhaus
 206.62.120.157,/bin.sh,URLhaus
 206.62.120.157,/i,URLhaus
@@ -21008,23 +21076,13 @@
 211.158.34.201,/i,URLhaus
 211.186.82.229,/.i,URLhaus
 211.186.82.229,/i,URLhaus
+211.194.20.7,/.i,URLhaus
 211.194.20.7,/i,URLhaus
-211.204.100.20,/IATInfect2008_64.exe,URLhaus
-211.204.100.20,/InfectSocks32_SQL_AntiVirus.vmp.dll,URLhaus
-211.204.100.20,/InfectSocks64_SQL_AntiVirus.vmp.dll,URLhaus
-211.204.100.20,/NdisInstaller3.2.32.1.exe,URLhaus
-211.204.100.20,/ShadowForce2008_64_Add.vmp.dll,URLhaus
-211.204.100.20,/iland.dat,URLhaus
-211.204.100.20,/mport.exe,URLhaus
-211.204.100.20,/upm2008.exe,URLhaus
-211.204.100.20,/winsetaccess64.exe,URLhaus
-211.204.100.20,/writedat.exe,URLhaus
 211.219.49.173,/i,URLhaus
 211.229.127.206,/i,URLhaus
 211.73.163.154,/.i,URLhaus
 211.75.38.154,/bin.sh,URLhaus
 211.75.38.154,/i,URLhaus
-212.107.232.167,/,URLhaus
 212.156.106.146,/sshd,URLhaus
 212.164.115.235,/bin.sh,URLhaus
 212.164.115.235,/i,URLhaus
@@ -21051,13 +21109,12 @@
 212.3.211.157,//sshd,URLhaus
 212.3.211.157,/sshd,URLhaus
 212.73.53.163,/i,URLhaus
-212.73.75.82,/i,URLhaus
 212.73.75.84,/.i,URLhaus
 212.73.75.84,/Mozi.m,URLhaus
+212.73.75.84,/i,URLhaus
 212.85.166.12,/.i,URLhaus
 212.85.166.12,/i,URLhaus
 212.93.103.10,/sshd,URLhaus
-212.98.186.8,/Mozi.m,URLhaus
 212.98.186.8,/i,URLhaus
 212uqd371gsar.com,/,ThreatFox
 213.111.147.16,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
@@ -21093,7 +21150,6 @@
 213.242.30.74,/i,URLhaus
 213.5.194.56,/.i,URLhaus
 213.5.194.56,/i,URLhaus
-213.6.196.230,/.i,URLhaus
 213.6.196.230,/i,URLhaus
 213.6.74.138,/.i,URLhaus
 213.6.74.138,/Mozi.m,URLhaus
@@ -21110,9 +21166,8 @@
 213.67.45.148,/bin.sh,URLhaus
 213.67.45.148,/i,URLhaus
 213.87.112.128,/Mozi.m,URLhaus
-213.87.112.128,/i,URLhaus
-213.91.204.178,/i,URLhaus
 213.91.236.237,/.i,URLhaus
+213.91.236.237,/Mozi.m,URLhaus
 213.91.236.237,/i,URLhaus
 213.96.13.100,/sshd,URLhaus
 2131kobushidetoken.run,/,ThreatFox
@@ -21192,6 +21247,7 @@
 216.129.184.213,/bin.sh,URLhaus
 216.129.184.213,/i,URLhaus
 216.155.92.203,/,URLhaus
+216.155.92.203,/.i,URLhaus
 216.158.95.194,/photo2,URLhaus
 216.167.26.154,/bot.py,URLhaus
 216.196.170.32,/bin.sh,URLhaus
@@ -21277,6 +21333,7 @@
 217.217.97.53,/bin/support.client.exe,URLhaus
 217.218.235.202,/.i,URLhaus
 217.218.235.202,/Mozi.m,URLhaus
+217.218.235.202,/i,URLhaus
 217.25.229.189,/i,URLhaus
 217.60.102.12,/ntb.armv4,URLhaus
 217.60.102.12,/ntb.armv5,URLhaus
@@ -21646,7 +21703,6 @@
 217.60.36.94,/william/mort.php,URLhaus
 217.60.36.94,/william/wi.txt,URLhaus
 217.64.135.181,/i,URLhaus
-217.75.193.34,/,URLhaus
 217.75.193.34,/i,URLhaus
 217.92.214.15,/Photo.scr,URLhaus
 217651.8b.io,/,PhishTank_Microsoft_ID6925502
@@ -21747,6 +21803,7 @@
 219.154.181.58,/i,URLhaus
 219.154.184.42,/bin.sh,URLhaus
 219.154.184.42,/i,URLhaus
+219.154.185.65,/i,URLhaus
 219.154.188.157,/bin.sh,URLhaus
 219.154.188.157,/i,URLhaus
 219.154.190.15,/i,URLhaus
@@ -21834,6 +21891,8 @@
 219.155.201.173,/i,URLhaus
 219.155.201.202,/bin.sh,URLhaus
 219.155.201.202,/i,URLhaus
+219.155.201.211,/bin.sh,URLhaus
+219.155.201.211,/i,URLhaus
 219.155.201.22,/i,URLhaus
 219.155.201.45,/bin.sh,URLhaus
 219.155.201.45,/i,URLhaus
@@ -21852,7 +21911,6 @@
 219.155.203.92,/i,URLhaus
 219.155.204.136,/bin.sh,URLhaus
 219.155.204.136,/i,URLhaus
-219.155.204.155,/i,URLhaus
 219.155.205.104,/bin.sh,URLhaus
 219.155.208.13,/bin.sh,URLhaus
 219.155.208.13,/i,URLhaus
@@ -22005,11 +22063,10 @@
 219.156.52.99,/bin.sh,URLhaus
 219.156.53.53,/bin.sh,URLhaus
 219.156.53.53,/i,URLhaus
+219.156.55.157,/bin.sh,URLhaus
 219.156.55.157,/i,URLhaus
 219.156.56.62,/bin.sh,URLhaus
 219.156.56.62,/i,URLhaus
-219.156.58.41,/bin.sh,URLhaus
-219.156.58.41,/i,URLhaus
 219.156.59.19,/i,URLhaus
 219.156.60.0,/bin.sh,URLhaus
 219.156.60.0,/i,URLhaus
@@ -22102,6 +22159,7 @@
 219.157.201.202,/i,URLhaus
 219.157.202.104,/bin.sh,URLhaus
 219.157.202.104,/i,URLhaus
+219.157.202.41,/i,URLhaus
 219.157.203.87,/bin.sh,URLhaus
 219.157.203.87,/i,URLhaus
 219.157.21.205,/i,URLhaus
@@ -22297,6 +22355,8 @@
 220.201.230.29,/i,URLhaus
 220.201.24.60,/i,URLhaus
 220.201.25.49,/bin.sh,URLhaus
+220.201.27.9,/bin.sh,URLhaus
+220.201.27.9,/i,URLhaus
 220.201.29.161,/bin.sh,URLhaus
 220.201.29.161,/i,URLhaus
 220.201.66.237,/i,URLhaus
@@ -22405,6 +22465,7 @@
 221.14.107.150,/bin.sh,URLhaus
 221.14.107.150,/i,URLhaus
 221.14.107.151,/bin.sh,URLhaus
+221.14.107.151,/i,URLhaus
 221.14.111.171,/bin.sh,URLhaus
 221.14.111.171,/i,URLhaus
 221.14.114.113,/bin.sh,URLhaus
@@ -22753,11 +22814,14 @@
 222.127.154.221,/i,URLhaus
 222.127.154.48,/bin.sh,URLhaus
 222.127.154.48,/i,URLhaus
+222.127.156.105,/bin.sh,URLhaus
+222.127.156.105,/i,URLhaus
 222.127.158.71,/bin.sh,URLhaus
 222.127.170.84,/bin.sh,URLhaus
 222.127.170.84,/i,URLhaus
 222.127.220.233,/bin.sh,URLhaus
 222.127.220.233,/i,URLhaus
+222.127.243.18,/i,URLhaus
 222.127.248.61,/Mozi.m,URLhaus
 222.127.248.61,/bin.sh,URLhaus
 222.127.248.61,/i,URLhaus
@@ -22834,7 +22898,6 @@
 222.136.102.188,/bin.sh,URLhaus
 222.136.102.188,/i,URLhaus
 222.136.103.210,/i,URLhaus
-222.136.103.46,/i,URLhaus
 222.136.103.97,/bin.sh,URLhaus
 222.136.103.97,/i,URLhaus
 222.136.124.161,/bin.sh,URLhaus
@@ -22867,6 +22930,7 @@
 222.137.120.211,/i,URLhaus
 222.137.132.141,/i,URLhaus
 222.137.140.47,/i,URLhaus
+222.137.141.81,/i,URLhaus
 222.137.143.236,/i,URLhaus
 222.137.144.151,/bin.sh,URLhaus
 222.137.144.151,/i,URLhaus
@@ -23059,8 +23123,6 @@
 222.138.182.107,/i,URLhaus
 222.138.182.37,/bin.sh,URLhaus
 222.138.182.37,/i,URLhaus
-222.138.183.206,/bin.sh,URLhaus
-222.138.183.206,/i,URLhaus
 222.138.205.74,/bin.sh,URLhaus
 222.138.205.74,/i,URLhaus
 222.138.206.175,/bin.sh,URLhaus
@@ -23109,6 +23171,8 @@
 222.139.192.15,/i,URLhaus
 222.139.194.121,/bin.sh,URLhaus
 222.139.194.121,/i,URLhaus
+222.139.194.242,/bin.sh,URLhaus
+222.139.194.242,/i,URLhaus
 222.139.196.205,/i,URLhaus
 222.139.198.103,/bin.sh,URLhaus
 222.139.198.103,/i,URLhaus
@@ -23320,6 +23384,7 @@
 222.141.141.133,/i,URLhaus
 222.141.141.177,/bin.sh,URLhaus
 222.141.141.177,/i,URLhaus
+222.141.143.122,/i,URLhaus
 222.141.143.158,/bin.sh,URLhaus
 222.141.143.158,/i,URLhaus
 222.141.185.83,/bin.sh,URLhaus
@@ -23437,7 +23502,6 @@
 222.142.246.106,/bin.sh,URLhaus
 222.142.246.106,/i,URLhaus
 222.142.246.148,/bin.sh,URLhaus
-222.142.246.148,/i,URLhaus
 222.142.247.129,/i,URLhaus
 222.142.247.254,/i,URLhaus
 222.142.247.93,/bin.sh,URLhaus
@@ -23872,7 +23936,6 @@
 27.12.217.185,/i,URLhaus
 27.12.96.57,/bin.sh,URLhaus
 27.12.96.57,/i,URLhaus
-27.121.84.42,/i,URLhaus
 27.124.34.73,/8/1181074577.bin,URLhaus
 27.124.34.73,/8/chart.exe,URLhaus
 27.124.34.73,/8/ndumon.sys,URLhaus
@@ -23908,9 +23971,6 @@
 27.14.64.17,/i,URLhaus
 27.14.64.82,/bin.sh,URLhaus
 27.14.64.82,/i,URLhaus
-27.147.196.138,/i,URLhaus
-27.147.225.2,/Mozi.m,URLhaus
-27.147.225.2,/i,URLhaus
 27.15.242.216,/bin.sh,URLhaus
 27.15.242.216,/i,URLhaus
 27.152.10.10,/bin.sh,URLhaus
@@ -24119,6 +24179,8 @@
 27.207.246.232,/i,URLhaus
 27.207.246.54,/bin.sh,URLhaus
 27.207.246.54,/i,URLhaus
+27.207.246.61,/bin.sh,URLhaus
+27.207.246.61,/i,URLhaus
 27.207.247.52,/i,URLhaus
 27.207.247.91,/bin.sh,URLhaus
 27.207.247.91,/i,URLhaus
@@ -24236,7 +24298,6 @@
 27.215.180.241,/Mozi.m,URLhaus
 27.215.180.241,/bin.sh,URLhaus
 27.215.180.241,/i,URLhaus
-27.215.180.61,/bin.sh,URLhaus
 27.215.180.76,/bin.sh,URLhaus
 27.215.180.76,/i,URLhaus
 27.215.181.102,/bin.sh,URLhaus
@@ -24331,6 +24392,7 @@
 27.215.79.79,/i,URLhaus
 27.215.80.198,/i,URLhaus
 27.215.80.8,/bin.sh,URLhaus
+27.215.80.81,/i,URLhaus
 27.215.80.85,/bin.sh,URLhaus
 27.215.80.85,/i,URLhaus
 27.215.81.243,/bin.sh,URLhaus
@@ -24504,6 +24566,7 @@
 27.37.226.228,/i,URLhaus
 27.37.227.218,/bin.sh,URLhaus
 27.37.227.218,/i,URLhaus
+27.37.228.145,/i,URLhaus
 27.37.228.39,/bin.sh,URLhaus
 27.37.229.14,/i,URLhaus
 27.37.229.199,/bin.sh,URLhaus
@@ -25181,7 +25244,6 @@
 31.173.70.100,//sshd,URLhaus
 31.173.70.100,/sshd,URLhaus
 31.184.194.114,/404,URLhaus
-31.186.54.111,/Mozi.m,URLhaus
 31.186.54.111,/i,URLhaus
 31.220.3.140,/c.sh,URLhaus
 31.220.3.140,/dlink,URLhaus
@@ -25377,7 +25439,6 @@
 31.58.171.194,/data_powerpc,URLhaus
 31.58.171.194,/data_x86,URLhaus
 31.58.171.194,/data_x86_64,URLhaus
-31.7.149.228,/.i,URLhaus
 31.7.149.228,/i,URLhaus
 31.76.100.209,/d/pizdec.exe,URLhaus
 31.76.100.209,/d/y2znxupxwe2j.exe,URLhaus
@@ -25846,7 +25907,7 @@
 36.66.139.36,/.i,URLhaus
 36.66.139.36,/Mozi.m,URLhaus
 36.66.139.36,/i,URLhaus
-36.67.246.82,/i,URLhaus
+36.66.168.49,/i,URLhaus
 36.68.93.208,/i,URLhaus
 36.69.66.139,/bin.sh,URLhaus
 36.69.66.139,/i,URLhaus
@@ -25935,16 +25996,15 @@
 36.88.164.98,/i,URLhaus
 36.88.180.115,/.i,URLhaus
 36.88.180.115,/Mozi.m,URLhaus
-36.88.180.115,/i,URLhaus
-36.88.6.203,/.i,URLhaus
-36.88.6.203,/i,URLhaus
 36.89.252.178,/bin.sh,URLhaus
 36.89.252.178,/i,URLhaus
 36.89.62.19,/.i,URLhaus
 36.89.62.19,/i,URLhaus
 36.92.110.187,/sshd,URLhaus
+36.92.24.250,/i,URLhaus
 36.92.68.241,/.i,URLhaus
 36.92.68.241,/Mozi.m,URLhaus
+36.92.68.241,/i,URLhaus
 36.97.90.188,/bin.sh,URLhaus
 36.97.90.188,/i,URLhaus
 360-solutions.com.au,/,ThreatFox
@@ -25979,6 +26039,7 @@
 37.113.51.57,/i,URLhaus
 37.140.35.136,/i,URLhaus
 37.142.77.163,/sshd,URLhaus
+37.143.133.215,/,URLhaus
 37.143.133.215,/.i,URLhaus
 37.143.133.215,/Mozi.m,URLhaus
 37.143.133.215,/i,URLhaus
@@ -25986,7 +26047,6 @@
 37.148.97.55,/i,URLhaus
 37.157.212.138,/,URLhaus
 37.157.212.138,/.i,URLhaus
-37.157.212.138,/i,URLhaus
 37.157.219.158,/bin.sh,URLhaus
 37.157.219.158,/i,URLhaus
 37.16.74.19,/atomic/main_arm,URLhaus
@@ -26048,16 +26108,15 @@
 37.232.128.5,/i,URLhaus
 37.232.183.1,/i,URLhaus
 37.232.219.81,/i,URLhaus
-37.233.63.185,/Mozi.m,URLhaus
+37.233.63.185,/i,URLhaus
 37.252.66.188,/.i,URLhaus
-37.252.66.188,/Mozi.m,URLhaus
 37.252.66.188,/i,URLhaus
 37.252.69.10,/,URLhaus
 37.252.69.10,/.i,URLhaus
 37.252.69.10,/i,URLhaus
+37.255.210.242,/.i,URLhaus
 37.255.210.242,/i,URLhaus
 37.255.217.87,/Mozi.m,URLhaus
-37.255.217.87,/i,URLhaus
 37.28.177.69,/bin.sh,URLhaus
 37.34.230.9,/AV.lnk,URLhaus
 37.34.230.9,/AV.scr,URLhaus
@@ -26403,6 +26462,7 @@
 39.79.47.37,/bin.sh,URLhaus
 39.79.47.37,/i,URLhaus
 39.79.63.119,/i,URLhaus
+39.79.68.65,/i,URLhaus
 39.79.77.117,/bin.sh,URLhaus
 39.79.77.117,/i,URLhaus
 39.79.8.107,/bin.sh,URLhaus
@@ -26955,9 +27015,9 @@
 41.249.56.178,/bin.sh,URLhaus
 41.249.56.178,/i,URLhaus
 41.77.74.90,/.i,URLhaus
-41.77.74.90,/Mozi.m,URLhaus
 41.77.74.90,/i,URLhaus
 41.78.75.186,/Mozi.m,URLhaus
+41.78.75.186,/i,URLhaus
 41.87.80.123,/pty10,URLhaus
 41.87.80.123,/pty3,URLhaus
 41.87.80.123,/pty4,URLhaus
@@ -27080,6 +27140,8 @@
 42.179.15.251,/i,URLhaus
 42.179.15.63,/bin.sh,URLhaus
 42.179.15.63,/i,URLhaus
+42.179.150.17,/bin.sh,URLhaus
+42.179.150.17,/i,URLhaus
 42.179.150.218,/i,URLhaus
 42.179.152.19,/bin.sh,URLhaus
 42.179.152.19,/i,URLhaus
@@ -27629,9 +27691,9 @@
 42.228.221.46,/bin.sh,URLhaus
 42.228.221.46,/i,URLhaus
 42.228.221.60,/i,URLhaus
-42.228.222.103,/i,URLhaus
 42.228.233.155,/bin.sh,URLhaus
 42.228.233.155,/i,URLhaus
+42.228.236.172,/i,URLhaus
 42.228.238.42,/bin.sh,URLhaus
 42.228.238.42,/i,URLhaus
 42.228.239.154,/i,URLhaus
@@ -28139,6 +28201,7 @@
 42.234.144.170,/bin.sh,URLhaus
 42.234.144.170,/i,URLhaus
 42.234.144.27,/Mozi.m,URLhaus
+42.234.144.74,/bin.sh,URLhaus
 42.234.144.74,/i,URLhaus
 42.234.149.52,/bin.sh,URLhaus
 42.234.149.52,/i,URLhaus
@@ -28612,8 +28675,6 @@
 42.239.240.192,/i,URLhaus
 42.239.242.122,/bin.sh,URLhaus
 42.239.242.122,/i,URLhaus
-42.239.242.48,/bin.sh,URLhaus
-42.239.242.48,/i,URLhaus
 42.239.242.55,/bin.sh,URLhaus
 42.239.242.55,/i,URLhaus
 42.239.242.98,/i,URLhaus
@@ -28678,6 +28739,7 @@
 42.5.16.145,/i,URLhaus
 42.5.21.40,/bin.sh,URLhaus
 42.5.21.40,/i,URLhaus
+42.5.227.122,/i,URLhaus
 42.5.227.253,/bin.sh,URLhaus
 42.5.227.253,/i,URLhaus
 42.5.230.39,/bin.sh,URLhaus
@@ -28718,6 +28780,8 @@
 42.52.27.103,/i,URLhaus
 42.52.38.254,/bin.sh,URLhaus
 42.52.38.254,/i,URLhaus
+42.52.58.181,/bin.sh,URLhaus
+42.52.58.181,/i,URLhaus
 42.52.62.165,/bin.sh,URLhaus
 42.52.62.165,/i,URLhaus
 42.52.88.232,/bin.sh,URLhaus
@@ -28726,6 +28790,7 @@
 42.53.134.221,/i,URLhaus
 42.53.173.75,/bin.sh,URLhaus
 42.53.173.75,/i,URLhaus
+42.53.21.9,/i,URLhaus
 42.53.22.127,/i,URLhaus
 42.53.22.56,/bin.sh,URLhaus
 42.53.22.56,/i,URLhaus
@@ -28807,13 +28872,13 @@
 42.55.212.26,/i,URLhaus
 42.55.213.64,/bin.sh,URLhaus
 42.55.213.64,/i,URLhaus
+42.55.227.16,/i,URLhaus
 42.55.238.98,/bin.sh,URLhaus
 42.55.238.98,/i,URLhaus
 42.55.28.227,/bin.sh,URLhaus
 42.55.28.227,/i,URLhaus
 42.55.30.109,/bin.sh,URLhaus
 42.55.30.109,/i,URLhaus
-42.55.30.129,/i,URLhaus
 42.55.31.104,/bin.sh,URLhaus
 42.55.31.123,/bin.sh,URLhaus
 42.55.31.123,/i,URLhaus
@@ -28944,6 +29009,8 @@
 42.59.235.202,/i,URLhaus
 42.59.236.147,/bin.sh,URLhaus
 42.59.236.147,/i,URLhaus
+42.59.236.181,/bin.sh,URLhaus
+42.59.236.181,/i,URLhaus
 42.59.237.57,/bin.sh,URLhaus
 42.59.237.57,/i,URLhaus
 42.59.239.160,/bin.sh,URLhaus
@@ -29207,6 +29274,7 @@
 43.228.157.73,/deploy.sh,URLhaus
 43.229.20.247,/i,URLhaus
 43.229.20.42,/.i,URLhaus
+43.229.20.42,/i,URLhaus
 43.230.44.36,/AV.lnk,URLhaus
 43.230.44.36,/AV.scr,URLhaus
 43.230.44.36,/Photo.lnk,URLhaus
@@ -29218,7 +29286,6 @@
 43.245.39.21,/bin.sh,URLhaus
 43.245.39.21,/i,URLhaus
 43.245.39.42,/i,URLhaus
-43.249.54.246,/,URLhaus
 43.249.54.246,/.i,URLhaus
 43.249.54.246,/i,URLhaus
 43.252.159.100,/bin.sh,URLhaus
@@ -29294,10 +29361,12 @@
 45.11.56.90,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 45.11.56.90,/bin/support.client.exe,URLhaus
 45.112.126.123,/i,URLhaus
+45.115.254.68,/i,URLhaus
 45.118.79.103,/tftp,URLhaus
 45.119.53.84,/1.exe,URLhaus
 45.123.9.78,/bin.sh,URLhaus
 45.125.44.137,/buding/dbghelp.dll,URLhaus
+45.129.231.1,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 45.13.186.129,/verify.ps1,URLhaus
 45.13.186.37,/crypt/21-32/QW1.exe,URLhaus
 45.130.151.214,/c.sh,URLhaus
@@ -29914,6 +29983,7 @@
 45.76.149.237,/bins/zswap_shrinkd,URLhaus
 45.76.149.237,/loader.sh,URLhaus
 45.77.254.180,/,URLhaus
+45.8.118.17,/bin.sh,URLhaus
 45.8.118.17,/i,URLhaus
 45.80.230.17,/arm,URLhaus
 45.80.230.17,/arm/,URLhaus
@@ -30072,6 +30142,8 @@
 46.147.81.251,/i,URLhaus
 46.148.52.93,/bin.sh,URLhaus
 46.148.52.93,/i,URLhaus
+46.151.182.111,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
+46.151.182.111,/bin/support.client.exe,URLhaus
 46.151.182.131,/all.sh,URLhaus
 46.151.182.131,/k,URLhaus
 46.151.182.131,/mig,URLhaus
@@ -30200,7 +30272,6 @@
 46.151.182.239,/bot,URLhaus
 46.151.182.239,/update.exe,URLhaus
 46.151.56.42,/,URLhaus
-46.151.56.42,/.i,URLhaus
 46.151.56.42,/Mozi.m,URLhaus
 46.151.56.42,/i,URLhaus
 46.158.168.35,/bin.sh,URLhaus
@@ -30218,6 +30289,7 @@
 46.163.134.250,/i,URLhaus
 46.163.181.104,/bin.sh,URLhaus
 46.163.181.104,/i,URLhaus
+46.175.139.20,/i,URLhaus
 46.183.223.7,/88/givenbestthingswithbetterplacesinotknowbetter.hta,URLhaus
 46.183.223.7,/90/ecv/sweetnessgivenmebestthingsforever.hta,URLhaus
 46.183.223.88,/57/img_021550.png,URLhaus
@@ -30229,7 +30301,6 @@
 46.200.191.126,/i,URLhaus
 46.200.4.39,/bin.sh,URLhaus
 46.200.4.39,/i,URLhaus
-46.209.88.218,/i,URLhaus
 46.216.199.241,/bin.sh,URLhaus
 46.216.199.241,/i,URLhaus
 46.217.141.171,/.i,URLhaus
@@ -30308,7 +30379,6 @@
 47.109.198.8,/02.08.2022.exe,URLhaus
 47.113.113.162,/linux,URLhaus
 47.115.37.164,/linux,URLhaus
-47.120.32.72,/02.08.2022.exe,URLhaus
 47.121.138.211,/linux,URLhaus
 47.121.184.138,/linux,URLhaus
 47.129.178.214,/app_JnCFbH.webp,URLhaus
@@ -30346,6 +30416,7 @@
 47.245.89.183,/linux,URLhaus
 47.245.99.183,/linux,URLhaus
 47.49.114.179,/.i,URLhaus
+47.49.114.179,/i,URLhaus
 47.76.159.198,/linux,URLhaus
 47.76.79.220,/linux,URLhaus
 47.83.203.183,/linux,URLhaus
@@ -30771,6 +30842,17 @@
 5.175.217.137,/SBIDIOT/yarn,URLhaus
 5.175.217.137,/SBIDIOT/zte,URLhaus
 5.175.217.137,/ohshit.sh,URLhaus
+5.175.222.230,/arc,URLhaus
+5.175.222.230,/arm5,URLhaus
+5.175.222.230,/arm6,URLhaus
+5.175.222.230,/i686,URLhaus
+5.175.222.230,/m68k,URLhaus
+5.175.222.230,/mips,URLhaus
+5.175.222.230,/mipsel,URLhaus
+5.175.222.230,/ppc,URLhaus
+5.175.222.230,/sh4,URLhaus
+5.175.222.230,/x86,URLhaus
+5.175.222.230,/x86_64,URLhaus
 5.175.223.249,/mass,URLhaus
 5.181.0.129,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 5.181.187.75,/botpilled/rbot,URLhaus
@@ -32508,7 +32590,6 @@
 5.182.210.61,/ff6b53,URLhaus
 5.182.210.61,/ffc936,URLhaus
 5.182.210.61,/ok,URLhaus
-5.202.101.153,/.i,URLhaus
 5.202.101.153,/i,URLhaus
 5.202.46.59,/i,URLhaus
 5.230.201.18,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
@@ -32566,9 +32647,6 @@
 5.59.107.59,/bin.sh,URLhaus
 5.59.107.59,/i,URLhaus
 5.63.157.201,/,URLhaus
-5.78.73.122,/private/bins.sh,URLhaus
-5.78.73.122,/private/bins_py.sh,URLhaus
-5.78.73.122,/private/python3.6,URLhaus
 5.8.18.23,/bin/support.client.exe,URLhaus
 5.8.18.45,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 5.8.18.45,/bin/support.client.exe,URLhaus
@@ -32601,6 +32679,7 @@
 5.89.102.77,/info.zip,URLhaus
 5.share-ap1.hsforms.com,/28GjqP0bRRD2G-36yWhXjVw&amp,PhishTank_Other_ID9214368
 50.43.160.231,/.i,URLhaus
+50.43.160.231,/i,URLhaus
 50.65.169.30,/AV.lnk,URLhaus
 50.65.169.30,/AV.scr,URLhaus
 50.65.169.30,/Photo.lnk,URLhaus
@@ -32901,6 +32980,8 @@
 58.47.104.43,/i,URLhaus
 58.47.111.175,/bin.sh,URLhaus
 58.47.111.175,/i,URLhaus
+58.47.120.183,/bin.sh,URLhaus
+58.47.120.183,/i,URLhaus
 58.47.120.247,/i,URLhaus
 58.47.120.31,/i,URLhaus
 58.47.121.32,/bin.sh,URLhaus
@@ -32967,6 +33048,7 @@
 59.180.136.198,/i,URLhaus
 59.180.137.90,/i,URLhaus
 59.180.138.173,/i,URLhaus
+59.180.138.72,/i,URLhaus
 59.180.139.161,/i,URLhaus
 59.180.140.134,/i,URLhaus
 59.180.141.105,/i,URLhaus
@@ -33435,7 +33517,6 @@
 5wg632e.top,/mwrgua73/W3eHm4/jnRGaj,PhishTank_Other_ID9417546
 5wgttwrt.cfd,/dktfwboe/w9YxjF/JpoVgq,PhishTank_Other_ID9364759
 5wgvh3.tires8f.in.net,/,ThreatFox
-5wif5-leaf.testload.in.net,/,ThreatFox
 5wj9ue0r.hair,/ke0c3ep7/BYxxWU/pVfjK2,PhishTank_Other_ID9467545
 5wq7m.saget-sly.surf,/,ThreatFox
 5wr53ye.top,/ylprzghg/jniolM/l8xV3O,PhishTank_Other_ID9428347
@@ -33453,7 +33534,6 @@
 5ya72oy.firs-tachycardia.in.net,/,ThreatFox
 5ybzh.cytolo-gyywniak.in.net,/,ThreatFox
 5ye7uy.hair,/dn5yf2ip/78LHc6/G3t4Vd,PhishTank_Other_ID9489449
-5yjbyh7h.legalspeckle.digital,/,ThreatFox
 5ym-q2k-wjuiz7-vpczkb-vv9wd3.pages.dev,/,PhishTank_Other_ID9479273
 5ym-q2k-wjuiz7-vpczkb-vv9wd3.pages.dev,/,PhishTank_Other_ID9479274
 5ync-branch.keystonebloom.in.net,/,ThreatFox
@@ -33493,6 +33573,7 @@
 60.162.48.118,/i,URLhaus
 60.162.48.28,/bin.sh,URLhaus
 60.162.48.28,/i,URLhaus
+60.17.117.82,/bin.sh,URLhaus
 60.17.117.82,/i,URLhaus
 60.17.27.182,/bin.sh,URLhaus
 60.17.27.182,/i,URLhaus
@@ -33558,6 +33639,8 @@
 60.18.9.255,/i,URLhaus
 60.18.96.224,/bin.sh,URLhaus
 60.18.96.224,/i,URLhaus
+60.18.98.101,/bin.sh,URLhaus
+60.18.98.101,/i,URLhaus
 60.182.121.161,/bin.sh,URLhaus
 60.182.121.161,/i,URLhaus
 60.182.239.45,/bin.sh,URLhaus
@@ -33718,15 +33801,19 @@
 60.23.237.100,/i,URLhaus
 60.23.237.109,/i,URLhaus
 60.23.237.178,/bin.sh,URLhaus
+60.23.237.38,/bin.sh,URLhaus
 60.23.237.38,/i,URLhaus
+60.23.238.117,/i,URLhaus
 60.23.238.241,/bin.sh,URLhaus
 60.23.238.241,/i,URLhaus
 60.23.238.34,/Mozi.m,URLhaus
 60.23.238.92,/bin.sh,URLhaus
+60.23.239.136,/i,URLhaus
 60.23.239.196,/i,URLhaus
 60.23.239.198,/i,URLhaus
 60.23.239.223,/bin.sh,URLhaus
 60.23.239.223,/i,URLhaus
+60.23.239.232,/i,URLhaus
 60.23.239.236,/bin.sh,URLhaus
 60.23.239.236,/i,URLhaus
 60.23.239.241,/i,URLhaus
@@ -33787,10 +33874,12 @@
 61.137.148.215,/i,URLhaus
 61.137.150.167,/bin.sh,URLhaus
 61.137.150.167,/i,URLhaus
+61.137.153.247,/bin.sh,URLhaus
 61.137.156.68,/bin.sh,URLhaus
 61.137.156.68,/i,URLhaus
 61.137.177.124,/bin.sh,URLhaus
 61.137.177.124,/i,URLhaus
+61.137.192.112,/i,URLhaus
 61.137.193.167,/bin.sh,URLhaus
 61.137.193.167,/i,URLhaus
 61.137.195.247,/bin.sh,URLhaus
@@ -34259,7 +34348,6 @@
 61.53.237.126,/bin.sh,URLhaus
 61.53.237.126,/i,URLhaus
 61.53.237.190,/bin.sh,URLhaus
-61.53.237.190,/i,URLhaus
 61.53.237.27,/bin.sh,URLhaus
 61.53.237.27,/i,URLhaus
 61.53.238.255,/bin.sh,URLhaus
@@ -34299,6 +34387,7 @@
 61.53.74.72,/bin.sh,URLhaus
 61.53.74.72,/i,URLhaus
 61.53.74.97,/i,URLhaus
+61.53.75.162,/i,URLhaus
 61.53.75.206,/bin.sh,URLhaus
 61.53.75.206,/i,URLhaus
 61.53.75.225,/bin.sh,URLhaus
@@ -34374,7 +34463,6 @@
 61.53.94.239,/i,URLhaus
 61.53.94.34,/bin.sh,URLhaus
 61.53.94.34,/i,URLhaus
-61.53.94.49,/bin.sh,URLhaus
 61.53.94.49,/i,URLhaus
 61.53.95.137,/bin.sh,URLhaus
 61.53.95.137,/i,URLhaus
@@ -35198,7 +35286,7 @@
 65vp9dlz.us-theslimsplitsmethod.com,/,ThreatFox
 65wyg3t.skin,/eho3cov6/XJriUD/DkYDLj,PhishTank_Other_ID9441569
 66.185.26.66,/info.zip,URLhaus
-66.196.62.177,/,URLhaus
+66.196.62.177,/i,URLhaus
 66.212.173.225,/bin.sh,URLhaus
 66.212.173.225,/i,URLhaus
 66.212.186.193,/i,URLhaus
@@ -35206,6 +35294,7 @@
 66.212.186.197,/i,URLhaus
 66.212.187.214,/bin.sh,URLhaus
 66.212.187.214,/i,URLhaus
+66.39.79.68,/,URLhaus
 66.63.170.33,/301/img_044239.png,URLhaus
 66.63.170.33,/301/weneedbetterplacewithbestfeature.hta,URLhaus
 66.63.170.33,/81/img_085818.png,URLhaus
@@ -35346,8 +35435,10 @@
 69.33.213.199,/nerv.x86_64,URLhaus
 69.46.43.35,/pty1,URLhaus
 69.46.43.35,/pty10,URLhaus
+69.46.43.35,/pty2,URLhaus
 69.46.43.35,/pty3,URLhaus
 69.46.43.35,/pty4,URLhaus
+69.46.43.35,/pty5,URLhaus
 69.48.143.20,/,URLhaus
 69.75.168.226,//sshd,URLhaus
 69.75.168.226,/sshd,URLhaus
@@ -35632,6 +35723,7 @@
 71.198.110.126,/info.zip,URLhaus
 71.207.128.92,/bin.sh,URLhaus
 71.207.128.92,/i,URLhaus
+71.32.43.227,/,URLhaus
 7109hvuj.retinaclier.com,/,ThreatFox
 710fdch.ravenloop.in.net,/,ThreatFox
 711564891573141249.weebly.com,/,PhishTank_Other_ID9020701
@@ -35878,12 +35970,11 @@
 76.164.203.171,/t/mpsl,URLhaus
 76.164.203.171,/t/tftp.sh,URLhaus
 76.164.203.171,/t/wget.sh,URLhaus
+76.238.215.206,/dev_hdd0/info.zip,URLhaus
 76.238.215.206,/info.zip,URLhaus
 76.53.38.126,//sshd,URLhaus
 76.53.38.126,/sshd,URLhaus
 76.76.195.174,/.i,URLhaus
-76.76.195.174,/Mozi.m,URLhaus
-76.76.195.174,/i,URLhaus
 76.94.199.139,/Photo.scr,URLhaus
 76.94.199.139,/info.zip,URLhaus
 761268518111840364.weebly.com,/,PhishTank_Other_ID9399203
@@ -35936,8 +36027,11 @@
 77.172.14.72,/Video.scr,URLhaus
 77.172.14.72,/info.zip,URLhaus
 77.211.28.150,/AV.lnk,URLhaus
+77.211.28.150,/AV.scr,URLhaus
 77.211.28.150,/Photo.lnk,URLhaus
 77.211.28.150,/Photo.scr,URLhaus
+77.211.28.150,/Video.lnk,URLhaus
+77.211.28.150,/Video.scr,URLhaus
 77.211.28.150,/info.zip,URLhaus
 77.226.241.197,/tftp,URLhaus
 77.230.168.62,/i,URLhaus
@@ -36016,9 +36110,10 @@
 77.247.88.99,/i,URLhaus
 77.39.107.229,/bin.sh,URLhaus
 77.39.107.229,/i,URLhaus
+77.46.170.18,/.i,URLhaus
 77.46.170.18,/Mozi.m,URLhaus
+77.46.170.18,/i,URLhaus
 77.50.222.238,/.i,URLhaus
-77.50.222.238,/i,URLhaus
 77.53.231.107,/bin.sh,URLhaus
 77.53.231.107,/i,URLhaus
 77.53.43.110,/bin.sh,URLhaus
@@ -36039,6 +36134,7 @@
 77.83.39.66,/bin/support.client.exe,URLhaus
 77.83.39.9,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 77.83.39.9,/bin/support.client.exe,URLhaus
+77.89.245.118,/.i,URLhaus
 77.89.245.118,/Mozi.m,URLhaus
 77.90.185.28,/mot,URLhaus
 77.90.185.39,/dots,URLhaus
@@ -36183,8 +36279,6 @@
 78.70.179.92,/i,URLhaus
 78.71.218.122,/i,URLhaus
 78.73.69.23,/i,URLhaus
-78.84.71.14,/bin.sh,URLhaus
-78.84.71.14,/i,URLhaus
 78.85.166.108,/bin.sh,URLhaus
 78.85.166.108,/i,URLhaus
 780-gkhv-y5x3-8fc228-iyr.pages.dev,/,PhishTank_Other_ID9492364
@@ -36232,6 +36326,8 @@
 79.165.88.118,/i,URLhaus
 79.175.42.206,/.i,URLhaus
 79.175.42.206,/i,URLhaus
+79.29.100.219,/bin.sh,URLhaus
+79.29.100.219,/i,URLhaus
 79.40.72.79,/i,URLhaus
 7934xwn.top,/ylprzghg/jniolM/l8xV3O,PhishTank_Other_ID9428231
 794kd31.covenantpatronage.in.net,/,ThreatFox
@@ -36270,6 +36366,7 @@
 7eo6l6dj.bet90forward.win,/,ThreatFox
 7eo6l6dj.bet90forward.win,/?ublib=3fa0c2f5-d3c9-496b-adeb-41529ccc0bdc,URLhaus
 7f2utlvn.telemetry-sphere.digital,/,ThreatFox
+7fs8pudv.zen-sulin.com,/,ThreatFox
 7fsb0nline12.weebly.com,/,PhishTank_Other_ID9347958
 7fsjtcf.bolettreatise.in.net,/,ThreatFox
 7fsk.bexla9rin.in.net,/,ThreatFox
@@ -36518,16 +36615,14 @@
 81.133.96.61,/AV.lnk,URLhaus
 81.133.96.61,/Photo.lnk,URLhaus
 81.133.96.61,/Video.lnk,URLhaus
-81.16.242.236,/.i,URLhaus
-81.16.242.236,/Mozi.m,URLhaus
-81.16.242.236,/i,URLhaus
 81.16.247.81,/.i,URLhaus
 81.16.247.81,/Mozi.m,URLhaus
-81.16.247.81,/i,URLhaus
 81.16.249.96,/,URLhaus
 81.16.249.96,/.i,URLhaus
 81.16.249.96,/Mozi.m,URLhaus
 81.16.249.96,/i,URLhaus
+81.16.251.131,/.i,URLhaus
+81.16.251.131,/i,URLhaus
 81.213.214.180,/i,URLhaus
 81.22.42.232,/sshd,URLhaus
 81.225.195.11,/bin.sh,URLhaus
@@ -36554,7 +36649,6 @@
 81.42.247.62,/sshd,URLhaus
 81.42.249.132,/AV.lnk,URLhaus
 81.42.249.132,/AV.scr,URLhaus
-81.42.249.132,/Photo.lnk,URLhaus
 81.42.249.132,/Photo.scr,URLhaus
 81.42.249.132,/R-02-RADIOLE/AV.scr,URLhaus
 81.42.249.132,/R-02-RADIOLE/Photo.scr,URLhaus
@@ -36574,10 +36668,10 @@
 81pjgbc00b.workers.dev,/,ThreatFox
 81ro1qyb.radioshartbandi.bet,/,ThreatFox
 81ro1qyb.radioshartbandi.bet,/?ublib=a71c6a6f-e445-442e-93de-14b946531cb0,URLhaus
-82.102.74.238,/i,URLhaus
 82.114.178.6,/bin.sh,URLhaus
 82.114.178.6,/i,URLhaus
 82.114.181.233,/i,URLhaus
+82.139.95.202,/,URLhaus
 82.140.217.32,/bin.sh,URLhaus
 82.140.217.32,/i,URLhaus
 82.140.231.200,/bin.sh,URLhaus
@@ -36923,6 +37017,7 @@
 85.163.234.15,/Photo.scr,URLhaus
 85.173.24.109,/bin.sh,URLhaus
 85.173.24.109,/i,URLhaus
+85.175.101.203,/02.08.2022.exe,URLhaus
 85.175.114.245,/i,URLhaus
 85.187.54.142,/sshd,URLhaus
 85.192.40.43,/bins/bioset0,URLhaus
@@ -37006,7 +37101,6 @@
 868d6-z09x0-qjay-p2d-d456h.pages.dev,/,PhishTank_Other_ID9492371
 869n.stravexi.in.net,/,ThreatFox
 86apq.oakmelt.in.net,/,ThreatFox
-86h7e2zq.anodaz.co,/?ublib=0d026720-3dfe-46d0-a19a-d961b817eddd,URLhaus
 86n1btn0.eng--slimsounds.com,/,ThreatFox
 86uweryp.zarib.bet,/,ThreatFox
 86uweryp.zarib.bet,/?ublib=4931a3ba-3b66-4af8-a60b-292cae98b63f,URLhaus
@@ -37059,7 +37153,7 @@
 87.240.18.228,/i,URLhaus
 87.249.142.126,/AV.scr,URLhaus
 87.249.142.126,/Photo.scr,URLhaus
-87.249.142.126,/Video.scr,URLhaus
+87.249.142.126,/info.zip,URLhaus
 87.68.238.101,/bin.sh,URLhaus
 87.68.238.101,/i,URLhaus
 87.68.238.27,/bin.sh,URLhaus
@@ -37161,9 +37255,11 @@
 89.216.100.166,/.i,URLhaus
 89.216.100.166,/Mozi.m,URLhaus
 89.216.100.166,/i,URLhaus
+89.216.107.99,/.i,URLhaus
 89.216.107.99,/i,URLhaus
 89.23.107.5,/k/ofelia.dat,URLhaus
 89.23.107.5,/m/jscotbpl.dat,URLhaus
+89.231.14.137,/,URLhaus
 89.231.14.137,/.i,URLhaus
 89.231.14.137,/Mozi.m,URLhaus
 89.231.14.137,/i,URLhaus
@@ -37171,8 +37267,6 @@
 89.233.194.35,/i,URLhaus
 89.28.58.131,/,URLhaus
 89.28.58.131,/.i,URLhaus
-89.28.58.131,/i,URLhaus
-89.28.58.81,/.i,URLhaus
 89.32.41.16,/bins/kla.sh,URLhaus
 89.32.41.16,/bins/langflow.sh,URLhaus
 89.32.41.16,/bins/parm,URLhaus
@@ -37383,7 +37477,6 @@
 8tgfwtsg.zamineravan.xyz,/?ublib=29c59a7e-c8f6-4450-92d0-0e39ec1ff97a,URLhaus
 8u88xbeq.pinbahiskade.com,/,ThreatFox
 8u88xbeq.pinbahiskade.com,/?ublib=4d940804-38f5-4140-87f2-e4b52caeb0a7,URLhaus
-8uasm.keysum.in.net,/,ThreatFox
 8ucq9gmh.cyber-relay.digital,/,ThreatFox
 8uctkfzopj.workers.dev,/,ThreatFox
 8ugxvfg.decommiss-mint.bet,/,ThreatFox
@@ -37468,7 +37561,6 @@
 91.142.153.143,/i,URLhaus
 91.143.172.196,/i,URLhaus
 91.147.91.21,/,URLhaus
-91.147.91.21,/i,URLhaus
 91.153.133.160,/i,URLhaus
 91.157.243.235,/bin.sh,URLhaus
 91.157.243.235,/i,URLhaus
@@ -38601,7 +38693,6 @@
 91.92.47.97,/softbot.mips,URLhaus
 91.92.82.180,/.i,URLhaus
 91.92.82.180,/Mozi.m,URLhaus
-91.92.82.180,/i,URLhaus
 911itg.com,/,ThreatFox
 912.lazulya.com,/#a@b.com,PhishTank_Other_ID9329202
 9127349jus.lat,/ou7oy1kn/M8kjMj/BEMEGj,PhishTank_Other_ID9435488
@@ -38786,8 +38877,15 @@
 93.152.221.193,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 93.152.221.193,/bin/support.client.exe,URLhaus
 93.152.221.22,/hiddenbin/boatnet.arc,URLhaus
+93.152.221.22,/hiddenbin/boatnet.arm,URLhaus
+93.152.221.22,/hiddenbin/boatnet.arm5,URLhaus
+93.152.221.22,/hiddenbin/boatnet.arm6,URLhaus
+93.152.221.22,/hiddenbin/boatnet.arm7,URLhaus
+93.152.221.22,/hiddenbin/boatnet.m68k,URLhaus
 93.152.221.22,/hiddenbin/boatnet.mips,URLhaus
 93.152.221.22,/hiddenbin/boatnet.mpsl,URLhaus
+93.152.221.22,/hiddenbin/boatnet.ppc,URLhaus
+93.152.221.22,/hiddenbin/boatnet.sh4,URLhaus
 93.152.221.22,/hiddenbin/boatnet.x86,URLhaus
 93.152.221.22,/ohshit.sh,URLhaus
 93.152.221.234,/aarch64,URLhaus
@@ -38838,6 +38936,7 @@
 93.82.169.218,/Av.lnk,URLhaus
 93.82.169.218,/Video.lnk,URLhaus
 93.87.31.84,/.i,URLhaus
+93.87.31.84,/i,URLhaus
 93.87.42.154,/i,URLhaus
 93.88.96.103,/i,URLhaus
 93200c7efb.nxcli.io,/wp-includes/theme-compat/ARUBA/,PhishTank_Other_ID9486574
@@ -41424,7 +41523,6 @@
 95.170.113.242,/.i,URLhaus
 95.170.113.242,/i,URLhaus
 95.170.116.28,/.i,URLhaus
-95.170.116.28,/Mozi.m,URLhaus
 95.170.116.28,/i,URLhaus
 95.179.224.131,/pty10,URLhaus
 95.179.224.131,/pty3,URLhaus
@@ -41518,6 +41616,7 @@
 96.44.167.222,/img/optimized_MSI.png,URLhaus
 96.49.197.7,/,URLhaus
 96.66.24.241,/bin.sh,URLhaus
+96.66.24.241,/i,URLhaus
 968o7b.com,/?fpu2CLKSaeCq8aA6R2JFpKhn,PhishTank_Other_ID9497987
 96af.vo8xalon.in.net,/,ThreatFox
 96cbkbi.duckdns.org,/,PhishTank_Other_ID9500841
@@ -41722,7 +41821,6 @@
 9r8ea-9iemui-dlq7-hsql4y.pages.dev,/,PhishTank_Other_ID9492390
 9r8ea-9iemui-dlq7-hsql4y.pages.dev,/,PhishTank_Other_ID9492391
 9rehfapi.airport-clar.lat,/,ThreatFox
-9rfio.backlog.in.net,/,ThreatFox
 9rg153d.decay5obes.in.net,/,ThreatFox
 9rmc.decembha1ifa.in.net,/,ThreatFox
 9rtfhxav.nanovo5kull.pics,/,ThreatFox
@@ -42971,7 +43069,6 @@ adclick.g.doubleclick.net,/pcs/click?adurl=https://dongyu.us/,URLhaus
 adclick.g.doubleclick.net,/pcs/click?adurl=https://namaacont.com/,URLhaus
 adclick.g.doubleclick.net,/pcs/click?adurl=https://posicionamientonatural.es/,URLhaus
 adclick.g.doubleclick.net,/pcs/click?adurl=https://redeamazoniaazul.org/,URLhaus
-adclick.g.doubleclick.net,/pcs/click?adurl=https://streammobs.com/,URLhaus
 adclick.g.doubleclick.net,/pcs/click?adurl=https://synergyconsulting.us,URLhaus
 adclick.g.doubleclick.net,/pcs/click?adurl=https://wegrowcoaching.com/,URLhaus
 adcwm.yanis.hu,/,ThreatFox
@@ -48242,7 +48339,6 @@ alradvogados.com,/,ThreatFox
 alragaa.com,/,ThreatFox
 alrawafedit.com,/,PhishTank_Other_ID9124691
 alrwomdp.restaurantguideaarhus.com,/,ThreatFox
-alrwomdp.restaurantguideaarhus.com,/99a6edcb-34fc-4896-8d95-d22aca759009,URLhaus
 alsaadaoffcial.com,/,ThreatFox
 alsafvi.com,/,ThreatFox
 alsagerpadel.co.uk,/,ThreatFox
@@ -48292,7 +48388,6 @@ alt-rnodul.rax7pavel.in.net,/,ThreatFox
 alt-server.elevationnodebox.in.net,/,ThreatFox
 alt-so11d.obsessivescum.in.net,/,ThreatFox
 alt-trad3.pavo8rex.lat,/,ThreatFox
-alt-un1oad.lockoak.in.net,/,ThreatFox
 alt-w1nd.leafspring.garden,/,ThreatFox
 alt-w4go.checkstor.in.net,/,ThreatFox
 alt.biolinks.com.br,/,ThreatFox
@@ -49017,7 +49112,6 @@ aociemqseuocooaw.xyz,/,ThreatFox
 aodz.oza.bet,/,ThreatFox
 aoe3.heavengames.com,/downloads/lister.php?start=0&category=misc&s=n&o=d%22%2F%3E%3Cscript+src%3D%22https%3A%2F%2Fkawaski.ngrok.app%2Findex1.js%22%3E%3C%2Fscript%3E,PhishTank_Other_ID9276463
 aoeoelfz.hugugbime.xyz,/,ThreatFox
-aoeoelfz.hugugbime.xyz,/2f70c90c-c606-4b15-a1ad-b785962630ed,URLhaus
 aoeqaaykywimaasi.xyz,/,ThreatFox
 aoeseeuk.winpars.casino,/,ThreatFox
 aoeygkwcfzrq.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click,/ab753813-65b8-4970-99d4-b2b2abc212e6.php,PhishTank_Other_ID9438223
@@ -50984,8 +51078,6 @@ aswolteriomaser.weebly.com,/,PhishTank_Other_ID9045989
 aswoplitrefer.weebly.com,/,PhishTank_Other_ID9281972
 aswoplmcbeue.weebly.com,/,PhishTank_Other_ID9353549
 aswqdtrpolkmnut.weebly.com,/,PhishTank_Other_ID9354457
-asy.ydns.eu,/,ThreatFox
-asybk.ydns.eu,/,ThreatFox
 asyc.pukkre.com,/,ThreatFox
 asyfrainvite.cyou,/,ThreatFox
 asygduneagri.firebaseapp.com,/,PhishTank_Other_ID8098875
@@ -51423,7 +51515,6 @@ audioattenuatorschematic.digital,/,ThreatFox
 audiodemand.momentumharbor.in.net,/,ThreatFox
 audiomeshbase.astrolinkview.garden,/,ThreatFox
 audiomeshbase.sonicwavehost.garden,/,ThreatFox
-audiosolar.testload.in.net,/,ThreatFox
 audiosushi.com,/,ThreatFox
 audiotheo.nikolaiit.work,/,ThreatFox
 audiovideoinsightllc.com,/,ThreatFox
@@ -51516,7 +51607,6 @@ aurapsych.com,/,ThreatFox
 auravibes04ko.shop,/Giftlike.qxd,URLhaus
 aureom.com.br,/,ThreatFox
 aurinebeverly.com,/,ThreatFox
-aurineuroth.com,/,ThreatFox
 aurora-confectionery.com,/,ThreatFox
 aurorabelle.top,/,ThreatFox
 auroraesi.firebaseapp.com,/,PhishTank_Other_ID9121752
@@ -52525,7 +52615,6 @@ badercondominium.org,/,ThreatFox
 badgalbeautyllc.com,/,ThreatFox
 badge-free-lifetime-verified.surge.sh,/,PhishTank_Facebook_ID9489127
 badger-kuis-vnex5.life,/,ThreatFox
-badgewing.xyz,/,ThreatFox
 badiadisettimo.it,/,ThreatFox
 badische-jakobusgesellschaft.de,/,ThreatFox
 badler7980ev.wixstudio.com,/my-site,PhishTank_Other_ID8897624
@@ -54242,6 +54331,7 @@ beacons.ai,/qedca,PhishTank_Facebook_ID9465770
 beacontrace.bond,/,ThreatFox
 beacontweezersbinge.wiki,/,ThreatFox
 beadbikes.xyz,/,ThreatFox
+beak.in,/au/au.js,URLhaus
 beam-handler.cantileverbridge.in.net,/,ThreatFox
 beam-logic.structuralcore.in.net,/,ThreatFox
 beam-portal.isotopecleaner.in.net,/,ThreatFox
@@ -54547,7 +54637,6 @@ berliner-sparkasse.apcovernightdiplomat.xyz,/,PhishTank_Other_ID9434694
 berlitnunbgg.firebaseapp.com,/,PhishTank_Other_ID8313720
 berlitnunbgg.web.app,/,PhishTank_Other_ID8313721
 berlof.shop,/,ThreatFox
-bermanlawrsk.com,/,ThreatFox
 bermavi-gld-lormela-p6t7hk43.pages.dev,/,PhishTank_Other_ID9476446
 bermavi-gld-lormela-p6t7hk43.pages.dev,/,PhishTank_Other_ID9476447
 bermita-gld-lentora-p7t3kh95.pages.dev,/,PhishTank_Other_ID9475517
@@ -55112,7 +55201,6 @@ bigwavee.weebly.com,/,PhishTank_Other_ID9296063
 bigyahu.fans,/,ThreatFox
 bihazjl.cn,/login,PhishTank_Apple_ID9505253
 bihazjl.cn,/vou6v98q?_t=gJBrVHNCMD6ZdbKsnmhv78rTJDsman-OKsHaTjscvDA,PhishTank_Apple_ID9505252
-biiev.lockoak.in.net,/,ThreatFox
 biirwl32.patxisdublin.com,/,ThreatFox
 biirwl32.patxisdublin.com,/?ublib=db9ead36-2332-4c11-96aa-88e14d48d101,URLhaus
 bijmduj.betforward.now,/,ThreatFox
@@ -58134,6 +58222,7 @@ boporume-c60.workers.dev,/,ThreatFox
 bopp-folie.de,/,ThreatFox
 bopyq.myhillcountrygrass.com,/,ThreatFox
 bopyq.myhillcountrygrass.com,/1462137f-a0a1-4149-a3d0-b3fb22145353,URLhaus
+boqecexa.workers.dev,/,ThreatFox
 boqetwvb.bcgamekade.online,/,ThreatFox
 boqetwvb.bcgamekade.online,/07536e96-e3f2-4dc8-85ca-79071b430014,URLhaus
 boqoca.workers.dev,/,ThreatFox
@@ -58874,7 +58963,6 @@ bridalwishes.de,/,ThreatFox
 bridg-trezr.wasmer.app,/,PhishTank_Other_ID9495293
 bridg-trezr.zapier.app,/en,PhishTank_Other_ID9502396
 bridg-trezzo.wixstudio.com,/en-us,PhishTank_Other_ID9456718
-bridg3-scope.backtest.in.net,/,ThreatFox
 bridge--fficial.wixstudio.com,/connect,PhishTank_Other_ID9408438
 bridge--fficial.wixstudio.com,/home,PhishTank_Other_ID9410955
 bridge--fficial.wixstudio.com,/secure,PhishTank_Other_ID9410889
@@ -60888,6 +60976,7 @@ casasbhlotes06.vercel.app,/,PhishTank_Other_ID9418651
 casasbhlotes07.vercel.app,/,PhishTank_Other_ID9418570
 casasbhlotes08.vercel.app,/,PhishTank_Other_ID9418572
 casasdeicom.cc,/,ThreatFox
+casasdeplayacostarica.com,/,ThreatFox
 casaselpilar.com,/,ThreatFox
 casaslotesespeciais05.vercel.app,/,PhishTank_Other_ID9419401
 casasmediterraneas.com,/wp-content/plugins/linux.bin,URLhaus
@@ -61511,7 +61600,6 @@ celcomdigi-main-ffe1dfb1a4b9518259c598f.webflow.io,/,PhishTank_Other_ID9087221
 celebrandolofemenino.com,/,ThreatFox
 celebratingseniors.net,/oste.zip,URLhaus
 celebratingseniors.net,/rate.zip,URLhaus
-celebratingseniors.net,/rats.zip,URLhaus
 celebration-internet.cc,/,ThreatFox
 celiacosaraucania.cl,/dc.php,PhishTank_Other_ID9510859
 celibu.workers.dev,/,ThreatFox
@@ -61777,7 +61865,6 @@ ch136645.tw1.ru,/,PhishTank_Other_ID9509941
 ch265293.firebaseapp.com,/,PhishTank_Other_ID8394786
 ch265293.web.app,/,PhishTank_Other_ID8394787
 ch2g1z0c117zztcr.org,/,ThreatFox
-ch3ck-spark.bestlog.in.net,/,ThreatFox
 ch3ckp-route.qyx7darem.in.net,/,ThreatFox
 ch3ckp0-crest.bookuni.lat,/,ThreatFox
 ch5-wanmeiworld.com,/?DefineDeliver,PhishTank_Other_ID9465391
@@ -62000,6 +62087,7 @@ check0preventivo.webcindario.com,/,PhishTank_Microsoft_ID9483254
 check0preventivo.webcindario.com,/,PhishTank_Other_ID9481975
 check1.judicica1n,/,ThreatFox
 checkaws.net,/,ThreatFox
+checkbot-cf.site,/,ThreatFox
 checkcipher.besthire.in.net,/,ThreatFox
 checkcloudflere.site,/,ThreatFox
 checkersin.daftpage.com,/,PhishTank_Other_ID8849784
@@ -62157,7 +62245,6 @@ chiropractorbricknj.com,/,ThreatFox
 chirowebsites.net,/,ThreatFox
 chirsfei.com,/,PhishTank_Amazon.com_ID9509813
 chixsurfschool.com.au,/,ThreatFox
-chjunhao.com,/,ThreatFox
 chjwx.danestanihavarzeshi.com,/2e8ffe65-52c2-4ef6-8713-0c78e4a121eb,URLhaus
 chkgenra.firebaseapp.com,/,PhishTank_Other_ID8047407
 chkgenra.web.app,/,PhishTank_Other_ID8047408
@@ -62475,7 +62562,6 @@ civicrm.dmsolutions-testcenter.de,/,ThreatFox
 civicvehicl.scriptmesh.ink,/,ThreatFox
 civilaction.net,/,ThreatFox
 civillabel.qyx7darem.in.net,/,ThreatFox
-civilsandbo.whitelist.in.net,/,ThreatFox
 ciwid.run,/,ThreatFox
 cixife.workers.dev,/,ThreatFox
 ciyg-odkrkz-d7eer-jgjybd.pages.dev,/,PhishTank_Other_ID9492435
@@ -62536,7 +62622,6 @@ cl.s13.exct.net,/?qs=e4243254388f3cfc69c8dbaffbcd9d682ed49816b5b10fdf3816caa1034
 cl.s13.exct.net,/?qs=eb649531e97538a5857ef243b3c5d51e9bf99c1c814a138de6cd8e88e5cb065823c4929a1090b9b0b5a630ad17718e59,PhishTank_Optus_ID8387372
 cl.s13.exct.net,/?qs=fe0a363f78548551b54aef4013fe5f62f7a0ca526da22c9dbd18b38535e64808c625893b71469cf6e6d740dda56d9904,PhishTank_Optus_ID8387704
 cl.s13.exct.net,/?qs=fe0a363f78548551bd40cbdabeda0d1c61565b255308a26b5740d1fcdca60e2fbec8275edf49076fecd3e1eadb9f69a9,PhishTank_Optus_ID8387672
-cl.ssouy.com,/download/%E8%99%9A%E6%8B%9F%E5%85%89%E9%A9%B1_11@10349.exe,URLhaus
 cl0p.joyeriahera.com,/,ThreatFox
 cl0p.phimxxx.ai,/,ThreatFox
 cl0p.usdtdomain.com,/,ThreatFox
@@ -63553,7 +63638,6 @@ cnbasprologiusaa.godaddysites.com,/,PhishTank_Other_ID9291647
 cnbgladespring.com,/,ThreatFox
 cnbvn.carrd.co,/,PhishTank_Other_ID9265511
 cnc.reaperc2.xyz,/,ThreatFox
-cnc.ryanbio.studio,/,ThreatFox
 cnc.strikec2.wtf,/update.sh,URLhaus
 cnc.xenema.vip,/,ThreatFox
 cnce-continuer.bolt.host,/?utm=professeur-documentaire,PhishTank_Other_ID9506411
@@ -64635,7 +64719,6 @@ contribuinte-detranes.vercel.app,/,PhishTank_Other_ID9521453
 control-advent.com,/,ThreatFox
 controliumbt.com,/.well-known/acme-challenge/images/thisweekisnlessedwithriches.png,URLhaus
 controliumbt.com,/cpeg/stego_payload.png,URLhaus
-controller.airdns.org,/,ThreatFox
 controlzimbra.weebly.com,/,PhishTank_Other_ID9111890
 contrtrupremiummm.abrdns.com,/wprsultats/,PhishTank_Other_ID9417806
 conttacdirectfr.firebaseapp.com,/,PhishTank_Other_ID8263675
@@ -64777,7 +64860,6 @@ coraline.buzz,/coraline_4.7.zip,URLhaus
 coraline.work,/coraline_4.7.zip,URLhaus
 corallycuonlinee.weebly.com,/,PhishTank_Other_ID9382156
 coralmotif.graincrest.in.net,/,ThreatFox
-coralpac.com,/gkonf/rentfree.zip,URLhaus
 coralsolid.cinderbay.in.net,/,ThreatFox
 coralwebqe.help,/bins/client,URLhaus
 coralwebqe.help,/bins/client_armv4l,URLhaus
@@ -64993,7 +65075,6 @@ costum342183.life,/,ThreatFox
 cotacao-brasil.online,/?gad_source=1,PhishTank_Other_ID9520539
 cotacao-nacional.online,/,PhishTank_Other_ID9520538
 cotacaoarcelorof.netlify.app,/?gad_source=1,PhishTank_Other_ID9506163
-cotecsecuritygroup.com,/wicd/sister.zip,URLhaus
 coteeazur.weebly.com,/,PhishTank_Other_ID9318520
 cotiplast.net,/,ThreatFox
 cotmt.com,/,ThreatFox
@@ -65266,7 +65347,6 @@ crappo-fake-crypto-investment-wallet.webflow.io,/,PhishTank_Other_ID8733732
 crapuhn.cyou,/,ThreatFox
 craquedasvendas.com.br,/,ThreatFox
 crat-mark.de5xorin.in.net,/,ThreatFox
-crat-mas.testload.in.net,/,ThreatFox
 crateeast.di5honorman.in.net,/,ThreatFox
 cratelayout.coldcaught.in.net,/,ThreatFox
 crateridge.cfd,/,ThreatFox
@@ -65477,7 +65557,6 @@ crestdeliv.qen8vorel.lat,/,ThreatFox
 crestmarkhq.com,/,ThreatFox
 crestmarkhq.com,/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,URLhaus
 crestnewsonline.ng,/,ThreatFox
-crestrai.backtest.in.net,/,ThreatFox
 crestsud.pav3lorex.in.net,/,ThreatFox
 crestsync.qiv5moren.in.net,/,ThreatFox
 cretasoft.gr,/,ThreatFox
@@ -66310,7 +66389,6 @@ d52cv625.ahkam.xyz,/?ublib=11c80a8d-a4ee-45a0-b177-da3886af882f,URLhaus
 d582z504.na1.hubspotlinks.com,/,PhishTank_Other_ID8536919
 d5mkg5ct.en-prosta-fense.com,/,ThreatFox
 d5nnast9u1.localto.net,/,ThreatFox
-d5qqrmyp.geotechnictahuni.store,/?ublib=0f258f17-8614-4e9f-8877-bd88c7b3aaf9,URLhaus
 d5xpvvah.memerylift.com,/,ThreatFox
 d64998.blogspot.ch,/,PhishTank_Other_ID8701929
 d64998.blogspot.com,/,PhishTank_Other_ID8701930
@@ -68281,8 +68359,6 @@ dgdskfds.uk.cc,/,PhishTank_Other_ID9484495
 dgewbwbzy.natashaparrott.co.uk,/,ThreatFox
 dgfhgjhkjhj.weebly.com,/,PhishTank_Other_ID9314211
 dgfoodsnet.myportfolio.com,/,PhishTank_Other_ID7416567
-dgg.paihost.com,/,ThreatFox
-dgg.ssffaa18.xyz,/,ThreatFox
 dggcsaj.jeuxdedragonballz.net,/,ThreatFox
 dghdjsgdafas.weebly.com,/,PhishTank_Other_ID9503007
 dghjnmed.weebly.com,/,PhishTank_Other_ID9111938
@@ -69068,6 +69144,7 @@ dkserver.sviluppo.host,/a/,PhishTank_Other_ID9456976
 dkvvwj.com,/login,PhishTank_Other_ID9219311
 dkzsusg.graphicstabletreviews.com,/,ThreatFox
 dl.1003b.56a.com,/pub/1003b/Patch/Patch_Data/Patch_0.3300/1003b.exe,URLhaus
+dl.2345.com,/haozip/haozip_v6.5.2.11245.exe,URLhaus
 dl.360safe.com,/offlinepackv4.exe,URLhaus
 dl.connectivityplatform.cc,/,ThreatFox
 dl.dropboxusercontent.com,/scl/fi/0m8mxuh181ska4zxthp9f/DE0039-029302-R-IMG0029002.iso?rlkey=jri4w2xcq3y5kgve3ij6vu8b0&dl=1,URLhaus
@@ -75617,7 +75694,6 @@ down.fwqlt.com,/1_DXL_WindowsPort.zip,URLhaus
 down.fwqlt.com,/DXL_Win_Tool_V9.6.iso,URLhaus
 down.fwqlt.com,/DXL_Win_Tool_v9.4.iso,URLhaus
 down.pcclear.com,/active/PCclear_Eng_mini.exe,URLhaus
-down.qqfarmer.com.cn,/QQHelper_1540.exe,URLhaus
 down.ruanmei.com,/mytime/files/3.3.7.0/mytime.exe,URLhaus
 down.unicron-cdn.click,/Telegram_v12.8.3.apk,URLhaus
 down10d.zol.com.cn,/zoldownload/,URLhaus
@@ -75677,6 +75753,7 @@ download.ubua.online,/agenthype.exe,URLhaus
 download.version-516.com,/,ThreatFox
 download.xlauncher.org,/,ThreatFox
 download1532.mediafire.com,/21oatf109angbYHS_5E13zp2tv1nrhFnvJ0gg1xu8cNiNYmpQsqQwVIBDhtgZbv502QKPRty_f7v0Q1YDIezAPki058YoTyUvQlPPV9imHcjinAmWK9TX8k4_hyBIdy1VXZlUYZsvrAIT9T28Ci2sqpYM_8WaPe4Cldt3koHikpZbNg/efqgjl6i8zrh9vw/x86,URLhaus
+download2.huduntech.com,/application/workspace/15/15d4031688cbb71def72a06cf15d7fa1/Installer_%E6%99%BA%E8%83%BD%E7%BF%BB%E8%AF%91%E5%AE%98_r1.7.9.exe,URLhaus
 download2281.mediafire.com,/g01q2agx8ydgHfpTvOSVHU7VlVe1Oa1E-Tc3wxcHGyB9bgdzHIhs1Zhvn6-DTciMPbzhi3bWZ2kytkQQWgx9HLLP8ByTls6qT5eyGRFz1iDZQ_n0lQ0bR0qt0p6ajFFCC1XPMonwE9BwARO0NFqKJ0309rL6go9rKJUnAxID94Eh/0ws89whdyqvqdvz/Mod_Pack_x64.zip,URLhaus
 download2281.mediafire.com,/ylpalos90o1g7VvkwD57JgC4nd5xUSRHjqzs-lltlxy7WdyFfk65eNVZ-5f-Y4hCIetMlpMogFYp9cExRmAi_ANDxYUt23zeGs3qT8AoJrCUhCXPzJGuOkWOCDsfuYFs8pfg96oKJ5zutiV6vZs3OAMfXjY3GzCNjavmZzr-vNsD/ayqvje6l31xl87o/Cs2Hack.rar,URLhaus
 download2300.mediafire.com,/uqazxy4ik9ugl_QuvS2tGdRLW9_026uoQQzwZiRV5cTHg9PQAy4Jt_ddOs3gndF3FTu7bRUXB_GiPcPqHyZa_UTIYReO3iQsdqLAg9K4NoFu7j2YX9t2bp60ZV7iIkh_JRGnWytS-TbJYIuBC3zoV11MW7rT-luVx5JXXwfcoVJF/g6gzegiqkdgnyf9/KiddonsModMenu.rar,URLhaus
@@ -77334,7 +77411,6 @@ dsygw23836.workers.dev,/,ThreatFox
 dsyuyfw2.cardio--slim.com,/,ThreatFox
 dszguljkjhzrjkjvkchxghkjhjkjz.teemill.com,/,PhishTank_Other_ID8819277
 dt6wrsv7.en-usa-sightfresh.com,/,ThreatFox
-dtbgl.bookdrive.xyz,/935a804d-0cb6-4e50-a582-0902469639f3,URLhaus
 dtbtpd.com,/?type=verify&amp;key=nlvcfwjqtd,PhishTank_Other_ID9436245
 dtc.aasscc.how,/,ThreatFox
 dtc.cebolinhaburger.com,/,ThreatFox
@@ -78846,7 +78922,6 @@ el4ftq.shop,/7oBbyg,PhishTank_Other_ID9520833
 el9ozjuh.cardislim.com,/,ThreatFox
 elaijagbenga.wixsite.com,/my-site-1,PhishTank_Other_ID9418786
 elastic-net.syntheticpolymer.in.net,/,ThreatFox
-elaxo.org,/,ThreatFox
 elazigozelbaharsagliklisesi.com,/,PhishTank_Other_ID9175392
 elazigozelbaharsagliklisesi.com,/?gad_source=1&amp;gad_campaignid=22822129359&amp;gbraid=0AAAABApKKq6RlJ2jocCZtQUNLCLP1q7lh&amp;gclid=EAIaIQobChMI6__3pcz0jgMVAwd7Bx3m2x1yEAAYAiAAEgIVOvD_BwE,PhishTank_Other_ID9175395
 elbistanhabermerkezi.com,/,ThreatFox
@@ -80010,8 +80085,6 @@ epwjdx.sim-trucking.com,/,ThreatFox
 epxigqr.tagat120art.com,/,ThreatFox
 epy.cargomanbd.com,/,ThreatFox
 epy.elythia.online,/,ThreatFox
-epy.nexs.com.bd,/,ThreatFox
-epy.ssffaa18.xyz,/,ThreatFox
 epyc.rainbow7ain.in.net,/,ThreatFox
 epymb.n1ghtlark.in.net,/,ThreatFox
 eq7rkug7.shop-alphastreamplus.us,/,ThreatFox
@@ -80873,6 +80946,7 @@ evfdqijee.efbetfarsi.com,/,ThreatFox
 evfdqijee.efbetfarsi.com,/7a5314d2-c4d9-4d3f-a1b4-319dfd311292,URLhaus
 evhg599x.lemongrassasiangrill.com,/,ThreatFox
 evhg599x.lemongrassasiangrill.com,/?ublib=7310e1df-da6b-4277-934f-16f541d56837,URLhaus
+evidence-deleted-procedure-bringing.trycloudflare.com,/,ThreatFox
 eview.open2byte.surf,/,ThreatFox
 evilgynx-2838.weebly.com,/,PhishTank_Other_ID9441262
 evitale-central.com,/,PhishTank_Other_ID9519947
@@ -80928,7 +81002,6 @@ ew4rt.weebly.com,/,PhishTank_Other_ID9490933
 ew559.sunmeadow.garden,/,ThreatFox
 ew59tugm.selflessrowdy.in.net,/,ThreatFox
 ew782u.w3spaces.com,/iouytertfyguhi908765.html,PhishTank_Other_ID8578701
-ew8mvpi7.shartbandikade.online,/?ublib=c9fc0f04-c58a-4c06-af49-0cb4186ca166,URLhaus
 ewa1b63u.fununetadris.shop,/,ThreatFox
 ewaouoqocowsycco.xyz,/,ThreatFox
 ewawggussgamswao.xyz,/,ThreatFox
@@ -81052,6 +81125,7 @@ eximiamedical.ro,/,PhishTank_Other_ID8484022
 exiodhun.gitbook.io,/us,PhishTank_Other_ID9348943
 exist-api.ontologicalflux.in.net,/,ThreatFox
 exist-api.ontologicstream.in.net,/,ThreatFox
+existed-bunch-balance-councils.trycloudflare.com,/,ThreatFox
 existing-problem-accountt.start.page,/,PhishTank_Facebook_ID8300298
 exjui68915.workers.dev,/,ThreatFox
 exlt.behtarin-site-shartbandi.com,/,ThreatFox
@@ -82086,7 +82160,6 @@ fantrust.world,/,ThreatFox
 fanzoos.com,/,PhishTank_Amazon.com_ID9495941
 fao70xbsy9gff0ll.org,/,ThreatFox
 faogw.bankefile.com,/,ThreatFox
-faogw.bankefile.com,/220a1e0a-0e20-4915-9d41-5e83b72a69c8,URLhaus
 fapazate.workers.dev,/,ThreatFox
 fapennybdj.localto.net,/,ThreatFox
 faq-app-trzor-suite.typedream.app,/,PhishTank_Other_ID9487782
@@ -82199,7 +82272,6 @@ fast-track.nanostream.in.net,/,ThreatFox
 fast-track.quantacircuit.in.net,/,ThreatFox
 fast-track.velocityterminal.in.net,/,ThreatFox
 fast-track1.kiv6darem.in.net,/,ThreatFox
-fast-web.luminos.in.net,/,ThreatFox
 fast-window-402815.framer.app,/,PhishTank_Other_ID9497020
 fast-zeit-1.tal4miren.in.net,/,ThreatFox
 fast-zeit-2.vortex-node.in.net,/,ThreatFox
@@ -82609,6 +82681,7 @@ fernwehtravelguide.com,/,ThreatFox
 ferocitercoin.lol,/,ThreatFox
 feroplibreter.weebly.com,/,PhishTank_Other_ID9330550
 feropmeratre.weebly.com,/,PhishTank_Other_ID9104958
+ferrari-rolling-facilities-lounge.trycloudflare.com,/,ThreatFox
 ferreira.jour2685494.pro,/,PhishTank_Other_ID9482121
 ferreira.jour2685494.pro,/as.php,PhishTank_Other_ID9482120
 ferreteria-itauhin-dd46ca.netlify.app,/,PhishTank_Other_ID9482920
@@ -82724,6 +82797,7 @@ fgi521.webwave.dev,/,PhishTank_Other_ID8362834
 fgjvfvadgh.weebly.com,/,PhishTank_Other_ID9465379
 fgkz.1pishbini.com,/,ThreatFox
 fgmxk.optimumfitness.hu,/,ThreatFox
+fgnr9ilf.pura--boost.us,/,ThreatFox
 fgpjr.vigaf.hu,/,ThreatFox
 fgs-100900.weeblysite.com,/,PhishTank_Other_ID9082592
 fgshfe11.weebly.com,/,PhishTank_Other_ID9030284
@@ -83817,7 +83891,6 @@ flowmasterservices.com,/,ThreatFox
 flowmer.cloudfloot.in.net,/,ThreatFox
 flowmeshnode.kineticgatehub.bet,/,ThreatFox
 flowmeshnode.stardrift.bet,/,ThreatFox
-flowpassive.logcheck.in.net,/,ThreatFox
 flowplanet.world,/,ThreatFox
 flowportalbrasil.vercel.app,/?gad_source=1&amp;gad_campaignid=23879369426&amp;gbraid=0AAAABDvisViiS8Y0hHj9QW_P1isu94CQq&amp;gclid=EAIaIQobChMI7JLJpf7UlAMVuZumAx0AZQSIEAAYASAAEgKpnvD_BwE,PhishTank_Other_ID9434033
 flowrodovias-pag.lovable.app,/,PhishTank_Other_ID9468925
@@ -85669,6 +85742,7 @@ galiciaforoempresarial.com,/,ThreatFox
 galicias.serviciosdetodos.es,/NEW/login.php,PhishTank_Other_ID9428583
 galiciaseguridad.myportfolio.com,/,PhishTank_Other_ID8384106
 galjdxt.bet1bartar.com,/,ThreatFox
+galleries-physicians-psp-wv.trycloudflare.com,/,ThreatFox
 gallusi.com,/ddj92so,PhishTank_Other_ID9362576
 gallusi.com,/ddj92so/,PhishTank_Other_ID9362577
 gals.kleenghjah.com,/,ThreatFox
@@ -86317,7 +86391,6 @@ gene-mod.hai1owhiten.in.net,/,ThreatFox
 gene-pod.di7ectkoshevoy.lat,/,ThreatFox
 gene-track.messy-zamai.pics,/,ThreatFox
 genealogy.silverelk.net,/index_general.php?fileid=%22%2F%3E%3Cimg%20src%3D%22https%3A%2F%2Fgoogle.com%2F7DpRXS1xDLtp2.jpg%22%20onerror%3D%22window.location%3DdecodeURIComponent%28atob%28%27Njg3NDc0NzA3MzNhMmYyZjY0NjY2ZDc2NjU3MDZlNmYyZTYzNjEzNjYxMzg2MjM3MzQyZDMzMzI2MTYzMmQzNDM1NjU2MTJkMzgzNDY2MzAyZDY2NjIzNjMwMzc2MjM4MzczODM5NjE2MjJlNjM2YzY5NjM2YjJmMzYzNDYzNjQ2NTMwMzQzMDJkMzIzMjMzMzUyZDM0MzU2MjY1MmQ2MTMzNjYzNjJkMzQ2NDYzNjQzNjYzMzgzODM2NjQ2MjY1MmU3MDY4NzA%3D%27%29.replace%28%2F%28..%29%2Fg%2C%20%27%25%241%27%29%29%3B%22%3E,PhishTank_Other_ID9434442
-genefrost.keysum.in.net,/,ThreatFox
 genehome.info,/,ThreatFox
 genelight.disas5embsilence.in.net,/,ThreatFox
 generacsr.com,/kunden.dkb/index.php,PhishTank_Other_ID9461612
@@ -86539,6 +86612,7 @@ gestionsecuritybac.iceiy.com,?i=1,PhishTank_Other_ID9436344
 gestionycobranzas.com,/2/remmbuil.txt,URLhaus
 gestionycobranzas.com,/2/task.js,URLhaus
 gestiphone.es,/CYON-Team/My-cyon/index.php,PhishTank_Other_ID8932726
+gestroom.it,/,URLhaus
 gesundepflege-schick.de,/,ThreatFox
 gesundheitspraxis-prophysis.de,/,ThreatFox
 get-all-information-for-blue.surge.sh,/,PhishTank_Facebook_ID9493488
@@ -86738,7 +86812,6 @@ ggasusyoqoqukmme.xyz,/,ThreatFox
 ggaymgcuqqoggesc.xyz,/,ThreatFox
 ggccloud.top,/,ThreatFox
 ggcjxgov.fununetadris.shop,/,ThreatFox
-ggcjxgov.fununetadris.shop,/?ublib=5be58697-7947-4dd3-9734-7ad75f0b94c4,URLhaus
 ggd.japan365.co,/,ThreatFox
 ggd.msalifenterprise.net,/,ThreatFox
 ggd.scarletmc.ru,/,ThreatFox
@@ -86750,7 +86823,6 @@ gghf43u76juthtr56r7ut.weeblysite.com,/,PhishTank_Other_ID9397489
 gghghvghvgvgvhvhvhg.weebly.com,/,PhishTank_Other_ID9358354
 ggicieaoowskgosa.xyz,/,ThreatFox
 ggifzobt.hugugmadani3.xyz,/,ThreatFox
-ggifzobt.hugugmadani3.xyz,/90f93feb-b629-434a-b0cf-fbfce117a486,URLhaus
 ggitkzzn.derbi.promo,/,ThreatFox
 ggitkzzn.derbi.promo,/fc18437a-cadc-4b3c-8dfe-5de5e6db4655,URLhaus
 ggittwjb.irantop.bet,/,ThreatFox
@@ -88488,7 +88560,6 @@ gobfmmh.casino888.promo,/637714a3-4913-48bf-8771-60db8202144e,URLhaus
 gobfs.lol,/,ThreatFox
 gobgem.com,/,ThreatFox
 gobieron1nejalisco.cc,/mx,PhishTank_Other_ID9476747
-gobiotechpestcontrol.com,/arm.nn,URLhaus
 gobshajakdjhf.weebly.com,/,PhishTank_Other_ID9087910
 gochainwallet.github.io,/knowledge-base/faq/ethereum-balance-not-loading-or-showing.html,PhishTank_Other_ID8817350
 gochainwallet.github.io,/knowledge-base/faq/ethereum-balance-not-loading-or-showing.html,PhishTank_Other_ID8817351
@@ -88550,7 +88621,6 @@ gold-4m.melting-torrent.in.net,/,ThreatFox
 gold-4z.svolota-player.in.net,/,ThreatFox
 gold-5.archit-physiol.in.net,/,ThreatFox
 gold-5b.decay5obes.in.net,/,ThreatFox
-gold-day.luminos.in.net,/,ThreatFox
 gold-fi-sh6.to6vamil.in.net,/,ThreatFox
 gold-fire-9w.fixt-turbine.in.net,/,ThreatFox
 gold-fish4.de7xapil.in.net,/,ThreatFox
@@ -89329,7 +89399,6 @@ grajnalm.site-asli-bedon-filter-1xbet.com,/,ThreatFox
 gram-wallet.org,/,PhishTank_Other_ID9251302
 gramzinlhar.talnori.boats,/,ThreatFox
 gramzinransar.xentari.cfd,/,ThreatFox
-gran-pra.bestlog.in.net,/,ThreatFox
 gran-sync.sadfont.in.net,/,ThreatFox
 gran7-lab.inept-tail.in.net,/,ThreatFox
 granadoespada.in.th,/,PhishTank_Other_ID8034719
@@ -89368,7 +89437,6 @@ graphlinq-chain.webflow.io,/,PhishTank_Other_ID8780942
 graphnewclass.christmas,/,ThreatFox
 graphnewclass.christmas,/b2160fdd-7269-4c68-8d6c-d5efad920c71/zone.id,URLhaus
 grasand.momentumprospera.in.net,/,ThreatFox
-grasruths.ddns.net,/,ThreatFox
 grass.solidlink.surf,/,ThreatFox
 grateful-aspects-830309.framer.app,/,PhishTank_Other_ID9340481
 grateful-industry-871533.framer.app,/,PhishTank_Other_ID9473326
@@ -89752,7 +89820,6 @@ gsbd.info842287.pro,/captcha.php,PhishTank_Other_ID9427251
 gsbjjy.eng--nervearmor.com,/,ThreatFox
 gsdjxdgxkzzxhsdasdwdws.weebly.com,/,PhishTank_Other_ID9318534
 gsdzofat.winxbet.co,/,ThreatFox
-gsdzofat.winxbet.co,/94f31742-680b-42ce-96a4-db1816a6831d,URLhaus
 gsfyi.bovla7xel.in.net,/,ThreatFox
 gsgkm.com,/?fbaAbj6cFnZBsfsNzioYsbjh,PhishTank_Other_ID9508655
 gshemfix.se,/,ThreatFox
@@ -92482,6 +92549,7 @@ htcsolana.lol,/,ThreatFox
 htctoken.lat,/,ThreatFox
 htctoken.lol,/,ThreatFox
 htczp49150.workers.dev,/,ThreatFox
+htdentshop.com,/ed/ed.js,URLhaus
 hte.aasscc.how,/,ThreatFox
 hte.cebolinhaburger.com,/,ThreatFox
 htfll3q5.1x303.casino,/,ThreatFox
@@ -92787,7 +92855,6 @@ hvzu.flen4vax.lat,/,ThreatFox
 hw62b.danger-style.in.net,/,ThreatFox
 hw7393.craftum.io,/,PhishTank_Other_ID9515058
 hw91k170425ua.cfd,/,ThreatFox
-hw94h.backlog.in.net,/,ThreatFox
 hwanr.com,/?FNojJCz5,PhishTank_JCB_Card_ID9486722
 hwanr.com,/?I3nZw0mH,PhishTank_Other_ID9487114
 hwbgtnqegfp.firebaseapp.com,/,PhishTank_Other_ID8736455
@@ -92795,6 +92862,7 @@ hwbgtnqegfp.web.app,/,PhishTank_Other_ID8736456
 hwfbwco.hamvarzesh90.com,/,ThreatFox
 hwfd.bekabet.casino,/,ThreatFox
 hwfdzzg.lavorcollective.com,/,ThreatFox
+hwgeneralins.com,/wizvera/delfino/down/delfino-g3-sha2.exe,URLhaus
 hwgi901o.cialispi.com,/,ThreatFox
 hwgi901o.cialispi.com,/?ublib=02095bbc-f535-447a-9bcb-bfd6283a0bbd,URLhaus
 hwhza.brandbuilder.hu,/,ThreatFox
@@ -93971,13 +94039,13 @@ ikhebkankerinmijnrechterteelbal.st,/,ThreatFox
 ikhppmm.buy-ignitra.com,/,ThreatFox
 ikigia.w3spaces.com,/index.html,PhishTank_Other_ID8645875
 ikimquigykukwkgm.xyz,/,ThreatFox
+ikincielesyaciankara.com.tr,/SAMPLE_PHOTO.js,URLhaus
 ikjsbyby.pdfbama.com,/,ThreatFox
 ikkeacqwooawweoc.xyz,/,ThreatFox
 ikkqh.dermexcel.net,/,ThreatFox
 ikkqh.dermexcel.net,/2e3e1200-373b-4198-af2a-c84a3b584907,URLhaus
 ikljlahasfgjkg.weebly.com,/,PhishTank_Other_ID9305406
 ikmmuwecscmgssui.xyz,/,ThreatFox
-ikmtrust.com,/,ThreatFox
 ikmuiykseasyksoi.xyz,/,ThreatFox
 ikoqicamegmugoyo.xyz,/,ThreatFox
 ikosygiikgkgoeco.xyz,/,ThreatFox
@@ -96097,7 +96165,6 @@ intuitive-performance-755390.framer.app,/,PhishTank_Other_ID9490476
 intuitiveuae.org,/,ThreatFox
 inuvrupi.cfd,/,ThreatFox
 inv0i-array.xelvorimax.in.net,/,ThreatFox
-inv0ic-line.backtest.in.net,/,ThreatFox
 inv2023.firebaseapp.com,/,PhishTank_Other_ID8098831
 inv2023.web.app,/,PhishTank_Other_ID8098832
 inv527xk.testpaye.xyz,/,ThreatFox
@@ -96301,7 +96368,6 @@ ion-rich.adi8hesplayer.pics,/,ThreatFox
 ion-stream.stellarflux.in.net,/,ThreatFox
 ion0-frame.z7hire.in.net,/,ThreatFox
 ioncove.bri4talin.in.net,/,ThreatFox
-iondawn.checksum.in.net,/,ThreatFox
 ione65.firebaseapp.com,/,PhishTank_Other_ID8571449
 ione65.web.app,/,PhishTank_Other_ID8571450
 ionhostgate1.plasmagridunit.garden,/,ThreatFox
@@ -96887,7 +96953,6 @@ iqglobalsolutions.co.ke,/,ThreatFox
 iqgxtjfc.hazzarat.world,/,ThreatFox
 iqgxtjfc.hazzarat.world,/ed06acdd-b506-4c3e-8a8f-8f4b809ea96b,URLhaus
 iqimux.authentickuts.com,/,ThreatFox
-iqkd.logcheck.in.net,/,ThreatFox
 iqp9g9u7.kernel-lattice.digital,/,ThreatFox
 iqqng80109.workers.dev,/,ThreatFox
 iqr1pfqd.okegass.net,/,ThreatFox
@@ -97701,7 +97766,6 @@ javierferrara.com,/,ThreatFox
 javluma.com,/,ThreatFox
 jawahirjewels.co.uk,/,ThreatFox
 jawajacy.workers.dev,/,ThreatFox
-jawaratekno.com,/rid/rid.js,URLhaus
 jawatanterkini-my.vercel.app,/,PhishTank_Other_ID9488296
 jawijwillentrouwen.nl,/,ThreatFox
 jaxivo.com,/,ThreatFox
@@ -98052,7 +98116,6 @@ jfjhdq.en-us-en-pegasus.com,/,ThreatFox
 jfkwjd.cinderpeak.in.net,/,ThreatFox
 jfl1iiwsz.duckdns.org,/,PhishTank_Other_ID9500831
 jflkp.csb.app,/index.html#a@b.com,PhishTank_Other_ID6949591
-jflynci.com,/,ThreatFox
 jfmz4630.badabingsopranoslounge.digital,/,ThreatFox
 jfox13-nd.github.io,/,PhishTank_Other_ID8447509
 jfpi.site-asli-bedon-filter-1xbet.com,/,ThreatFox
@@ -98917,7 +98980,6 @@ jvjj.calvaryhospice.org,/,ThreatFox
 jvjj.calvaryhospice.org,/1a67207a-4403-451b-9383-adf105fa8c31,URLhaus
 jvlckru.penalty.casino,/,ThreatFox
 jvlmr.run,/,ThreatFox
-jvrkh.testload.in.net,/,ThreatFox
 jvrmgkw.wlwyb.com,/,ThreatFox
 jvrsf06816.workers.dev,/,ThreatFox
 jvshs34erdser34.weebly.com,/,PhishTank_Other_ID9330475
@@ -99840,6 +99902,7 @@ kikckwoumqigemae.xyz,/,ThreatFox
 kilao.weebly.com,/,PhishTank_Other_ID9418814
 kileant.com,/,ThreatFox
 kilhail.weebly.com,/,PhishTank_Other_ID9330474
+kilijuxy.workers.dev,/,ThreatFox
 kilixe.workers.dev,/,ThreatFox
 kilkanrisina100288124.firebaseapp.com,/,PhishTank_Other_ID7975288
 kilkanrisina100288124.web.app,/,PhishTank_Other_ID7975289
@@ -100946,7 +101009,6 @@ krempie.xyz,/,ThreatFox
 krenqlwb.com,/,PhishTank_Other_ID9355353
 krezxpiv.jamjahani2026.football,/,ThreatFox
 krigo.ecologyardakani.xyz,/,ThreatFox
-krigo.ecologyardakani.xyz,/3e30aae3-fcc4-467f-a775-2cc6985afcb1,URLhaus
 krishnabiketech.in,/,ThreatFox
 krishnahaveli.com,/,ThreatFox
 krishnakulam.com,/,PhishTank_Other_ID8057162
@@ -105934,7 +105996,6 @@ leagueaflegends.weebly.com,/,PhishTank_Other_ID9014071
 leakads.com,/,ThreatFox
 lean.brilliancespontaneous.shop,/,ThreatFox
 leanderbusinessconsulting.com.au,/,ThreatFox
-leanmaestro.com,/jpyojrsjfn/rentfree.zip,URLhaus
 leap7pathgate.quantumbitlink.bet,/,ThreatFox
 leappoploaderinstantly.monster,/,ThreatFox
 lear-trezorsuite.vercel.app,/,PhishTank_Other_ID9407251
@@ -106730,7 +106791,6 @@ lincolnforum.org,/,ThreatFox
 lindenplumb.top,/,ThreatFox
 lindenwood7.wixsite.com,/my-site,PhishTank_Other_ID9307959
 lindigotier.fr,/,ThreatFox
-lindnerelektroanlagen.de,/INVOICE/AOG-3515110/,URLhaus
 lindseywilliamsonline.com,/,ThreatFox
 line-secure.systematiclayer.in.net,/,ThreatFox
 line-secure.systemologyhub.in.net,/,ThreatFox
@@ -108591,7 +108651,6 @@ logrcuorg.firebaseapp.com,/,PhishTank_Other_ID8558842
 logrcuorg.web.app,/,PhishTank_Other_ID8558844
 logs-noted2.myportfolio.com,/,PhishTank_Other_ID8041476
 logs.bestshoppingday.com,/,ThreatFox
-logs.bestshopppingday.com,/,ThreatFox
 logs.coderlap.pics,/,ThreatFox
 logs.netloghubs.pics,/,ThreatFox
 logs.netnodeset.pics,/,ThreatFox
@@ -109140,7 +109199,6 @@ lumven3al.cloudvariable.in.net,/,ThreatFox
 lumvenex2.to4ramel.in.net,/,ThreatFox
 lumvenon7.echelonprosper.in.net,/,ThreatFox
 lumvenor1.axiomatrixflow.in.net,/,ThreatFox
-lumvenos.backtest.in.net,/,ThreatFox
 luna-nod.dependint7amur.in.net,/,ThreatFox
 lunabybodyshaping.com,/,ThreatFox
 lunallenatravel.com,/,ThreatFox
@@ -109296,7 +109354,6 @@ lxnmnail.weebly.com,/,PhishTank_Other_ID9420259
 lxphm9.vouayger.in.net,/,ThreatFox
 lxrrxl.ydns.eu,/,ThreatFox
 lxt.uk.com,/,ThreatFox
-lxwo.org,/,ThreatFox
 lxx-ld.santxye.biz.id,/x/f/pin.html,PhishTank_Other_ID9456956
 lxxlpjojdzakqqxnha.doubledavespizzatx.com,/,ThreatFox
 lxxlxxnew.noip.at,/,ThreatFox
@@ -111604,6 +111661,7 @@ mbox-onr1qc3bkkrfqp78sbmctstcdahkda5k.kind2932.de,/myMail/ac2b97c13195ee09cd9aaa
 mbox-onr1qc3bkkrfqp78sbmctstcdahkda5k.kind2932.de,/myMail/ac2b97c13195ee09cd9aaa76090bc649/webm.html?37200328,PhishTank_Other_ID9501781
 mboxao.lipoviveofficials.com,/,ThreatFox
 mbperformanceonline.com,/,ThreatFox
+mbq5b6qe.nelloconstruction.com,/,ThreatFox
 mbqhhu.gtacauto.com,/,ThreatFox
 mbqinyz.info,/7oBbyg,PhishTank_Other_ID9520757
 mbrfornos.com.br,/weds.html,PhishTank_American_Express_ID9242545
@@ -112526,6 +112584,7 @@ metamaskxx1.webcindario.com,/,PhishTank_Other_ID8723136
 metameaslogiz.gitbook.io,/us,PhishTank_Other_ID9450910
 metameaslogiz.gitbook.io,/us,PhishTank_Other_ID9450911
 metamorphicpetrology.cfd,/gatway/check.php?r=,PhishTank_Other_ID9409794
+metamorphyourlife.com,/,ThreatFox
 metamschronextens.gitbook.io,/,PhishTank_Other_ID9516548
 metamschronextens.gitbook.io,/it,PhishTank_Other_ID9516549
 metamskcrome-extnsion.gitbook.io,/us,PhishTank_Other_ID9426418
@@ -112757,7 +112816,6 @@ mgypt80gpx-xlbdg28ztr-4e0f8b-xlq91k.pages.dev,/,PhishTank_Other_ID9494548
 mgyyasgoygsimmsa.xyz,/,ThreatFox
 mgyymmasyyiowmsu.xyz,/,ThreatFox
 mgzfyvk.greenestreetchurch.com,/,ThreatFox
-mh.bestshopppingday.com,/,ThreatFox
 mh0-44853.portmap.host,/,ThreatFox
 mh011-servicee001.weebly.com,/,PhishTank_Other_ID9006346
 mh4j.onepal-liat.in.net,/,ThreatFox
@@ -113718,7 +113776,6 @@ modelultra.takefree.in.net,/,ThreatFox
 modern-base2.ra6xovel.in.net,/,ThreatFox
 modern-companies-550952.framer.app,/,PhishTank_Other_ID9513400
 modern-room2.k2ymlirem.in.net,/,ThreatFox
-modern8-signal.logcheck.in.net,/,ThreatFox
 modernanchorengine.com,/,ThreatFox
 modernbranc.cl0udmere.in.net,/,ThreatFox
 moderncloudprotection.com,/,ThreatFox
@@ -115682,7 +115739,6 @@ n4ci02023.webcindario.com,/,PhishTank_Other_ID8307468
 n4eotjlu.necedubd.com,/,ThreatFox
 n4kc2ki9a.sbs,/r9tbpu6v/QAo1qX/Fkignh,PhishTank_Other_ID9496536
 n4rr-wave.gobright.in.net,/,ThreatFox
-n4rro5-panel.checksum.in.net,/,ThreatFox
 n4u0cc.info,/7oBbyg,PhishTank_Other_ID9520674
 n508kaap.xenburn.us,/,ThreatFox
 n5def881.us-en-us--puraboost.com,/,ThreatFox
@@ -116263,7 +116319,6 @@ neo-th0rn.brimvale.in.net,/,ThreatFox
 neo-th1cket.inven-tornon.in.net,/,ThreatFox
 neo-tok3.kry3qelin.in.net,/,ThreatFox
 neo-tr3nd.lunav8era.garden,/,ThreatFox
-neo-tru3.logcheck.in.net,/,ThreatFox
 neogamma.loader.jp,/pge-pl927910710/pages/step-one.php,PhishTank_Other_ID9389265
 neogateway9hub.solavern.garden,/,ThreatFox
 neogateway9sys.cyberpeaklink.garden,/,ThreatFox
@@ -118032,6 +118087,7 @@ nextdoor3.bovla4ren.in.net,/,ThreatFox
 nextdoor3.kymle2rix.in.net,/,ThreatFox
 nextdoor3.kymle5rax.in.net,/,ThreatFox
 nextdoor3.po3vaxil.in.net,/,ThreatFox
+nextecho.org,/,ThreatFox
 nextgen-football.it,/pla/Sites/index.html,PhishTank_Other_ID9128171
 nextgen-football.it,/plaa/Sites/index.html,PhishTank_Other_ID9131939
 nextgenafrica.org,/amendes-antai-gouv/infractions/redirect,PhishTank_Other_ID9515049
@@ -119249,6 +119305,7 @@ nowe-23-08-26.click,/o/rsswb/7321829992583168#selectedbank9,PhishTank_Other_ID95
 nowe-26-08-26.click,/m/93lx0/7309544071114752#selectedbank9,PhishTank_Other_ID9512774
 nowe-27-o5-26.click,/o/r5nid/1768848617406#selectedbank9,PhishTank_Other_ID9436932
 nowe-29-08-26.click,/o/2kja6/7315885054394624#selectedbank9,PhishTank_Other_ID9514219
+nowhere-locked-manor-hs.trycloudflare.com,/,ThreatFox
 nowiloveenglish.com,/,ThreatFox
 nownerbestesreal.github.io,/esrealowerbestin/,PhishTank_Other_ID9396217
 nox-intl.ro,//login.plala/jpn/webmai1/index.php,PhishTank_Other_ID9354156
@@ -119508,6 +119565,7 @@ nurve-alive.com,/,ThreatFox
 nurvearmor.com,/,ThreatFox
 nurvearmor.us,/,ThreatFox
 nusaldo.vercel.app,/,PhishTank_Other_ID9478705
+nusatoyota.co.id,/teev/teev.js,URLhaus
 nusendaciuerasor.weebly.com,/,PhishTank_Other_ID9464408
 nutricaocomjo.com,/,ThreatFox
 nuuclinics.com,/,ThreatFox
@@ -119592,7 +119650,6 @@ nwsifty.weebly.com,/,PhishTank_Other_ID9104965
 nwtca6gs.schleer.hu,/,ThreatFox
 nwudg-dav1r-cvc-fxiqo-14lyaw.pages.dev,/,PhishTank_Other_ID9479426
 nwudg-dav1r-cvc-fxiqo-14lyaw.pages.dev,/,PhishTank_Other_ID9479427
-nwul2j.lockoak.in.net,/,ThreatFox
 nwumcm.igni--tra.com,/,ThreatFox
 nwuor63200.workers.dev,/,ThreatFox
 nwwwbkkv.network-horizon.digital,/,ThreatFox
@@ -119852,7 +119909,6 @@ oblg-772220.pro,/captcha.php,PhishTank_Other_ID9417781
 oblg.dish2rhumane.in.net,/,ThreatFox
 obmenko.net,/,PhishTank_Other_ID9450028
 obmhxqg.rocketbet.pro,/,ThreatFox
-obmhxqg.rocketbet.pro,/5a74a7d1-c502-4a6b-8ede-e4f5d425911b,URLhaus
 obmjbub.artisourlifestyle.com,/,ThreatFox
 obniltail.com,/,ThreatFox
 obnova-predplatneho.com,/,PhishTank_Netflix_ID9427441
@@ -119889,7 +119945,6 @@ obvious-status-933096.framer.app,/,PhishTank_Other_ID9491287
 obx-stash.beer,/,ThreatFox
 obzs81jf.fagaheestedlali.xyz,/?ublib=86c131bf-7487-4aa9-92e3-ef36a70661a0,URLhaus
 ocalp.lol,/,ThreatFox
-ocampus.freeddns.org,/,ThreatFox
 occfacility.com,/,ThreatFox
 ocche0o.zexon-plus.in.net,/,ThreatFox
 occidentenlinea.webcindario.com,/,PhishTank_Other_ID9024832
@@ -120286,6 +120341,7 @@ oilkpmnytgfio.weebly.com,/,PhishTank_Other_ID9359256
 oillesscoin.lat,/,ThreatFox
 oillessonsol.lol,/,ThreatFox
 oilmaster.uz,/,ThreatFox
+oim.doganltd.com.tr,/ayarlar/js/tinymce/skins/lightgray/2RlUrxFRGoA5.php,URLhaus
 oiondsaw.pages.dev,/,PhishTank_Other_ID9405227
 oionthzfg.en-us-morningfatmelter.com,/,ThreatFox
 oip23-vote.com,/,ThreatFox
@@ -120364,7 +120420,6 @@ okhan.net,/soft/UploadFile/ANQUAN/pjbingdianhuanyuan.rar,URLhaus
 okhan.net,/soft/UploadFile/YOUXI/okhan.net-2wn.rar,URLhaus
 okhan.net,/soft/uploadfile/anquan/pjbingdianhuanyuan.rar,URLhaus
 okhan.net,/soft/uploadfile/guochang/setup_tvplayer.zip,URLhaus
-okhan.net,/soft/uploadfile/youxi/okhan.net-2wn.rar,URLhaus
 oki.jtu.mybluehost.me,/wp-includes/assets/swiss/swisscom/ch/index.asp.php?6739354637a4d20ac3b341d9ccd930ad,PhishTank_Other_ID9442257
 okigeyqwuwkgqawc.xyz,/,ThreatFox
 okikil.urest.org,/,PhishTank_Other_ID8409271
@@ -121957,7 +122012,6 @@ owamoegqeyiaicqy.xyz,/,ThreatFox
 owaqucsgyciccagu.xyz,/,ThreatFox
 owashdy.firebaseapp.com,/,PhishTank_Other_ID8029585
 owbzzpof.1xbetmag.com,/,ThreatFox
-owbzzpof.1xbetmag.com,/20345217-d401-44d5-b9c0-33351cced50e,URLhaus
 owcaeeciiceeiuiq.xyz,/,ThreatFox
 owccomauocwckocg.xyz,/,ThreatFox
 owckawysgqiyiewi.xyz,/,ThreatFox
@@ -122525,7 +122579,6 @@ palourde56.com,/?info=i,PhishTank_Amazon.com_ID9497852
 palourde56.com,/?info=itsme13@hotmail.fr,PhishTank_Amazon.com_ID9497850
 palrmfra.firebaseapp.com,/,PhishTank_Other_ID8493834
 palrmfra.web.app,/,PhishTank_Other_ID8493835
-palshona.com,/,ThreatFox
 palyholy.ru,/,ThreatFox
 palzmksdea.blogspot.com,/,PhishTank_Optus_ID9099184
 pamcakeswap-dashhord.com,/,PhishTank_Other_ID8794373
@@ -122696,7 +122749,6 @@ parroquiavirgendegracia.es,/,ThreatFox
 pars-packe.personal-danger.in.net,/,ThreatFox
 parsballl.com,/,ThreatFox
 parsc.bet,/,ThreatFox
-parsegri.backlog.in.net,/,ThreatFox
 parskhazarfarahani.com,/,ThreatFox
 part-doselawn.xyz,/avast_update,URLhaus
 part-lame-door.xyz,/avast_update,URLhaus
@@ -124123,6 +124175,7 @@ pierredylan.com,/,PhishTank_Other_ID9451364
 pieterzandvliet.com,/,ThreatFox
 piewllnzuvcik.zvh3.com,/,ThreatFox
 pifilyxu.workers.dev,/,ThreatFox
+piforschools.com,/,ThreatFox
 pifuxi.workers.dev,/,ThreatFox
 pig-ex8motionq.com,/,ThreatFox
 pig.369bbqsifangonline.com,/,ThreatFox
@@ -124908,7 +124961,6 @@ point-scan.analyticaengine.in.net,/,ThreatFox
 point-scan.analyticvector.in.net,/,ThreatFox
 point-site.fariseietogo.in.net,/,ThreatFox
 point-up.valeriana.in.net,/,ThreatFox
-point-v.velante.in.net,/,ThreatFox
 point-v4-scan.altolivello.in.net,/,ThreatFox
 point-v91-power.starkewahl.in.net,/,ThreatFox
 point-x2-scan.altotensione.in.net,/,ThreatFox
@@ -125070,6 +125122,7 @@ popandc.be,/wp-admin/js/cgi-ent/index--000.html,PhishTank_Other_ID9446959
 popconnexion.weebly.com,/,PhishTank_Other_ID9463888
 popcorntalknetwork.com,/,ThreatFox
 popelkar.pro,/,ThreatFox
+popieriniaipuodeliai.lt,/,ThreatFox
 popist.com,/,ThreatFox
 popkas.bond,/,ThreatFox
 popl.co,/profile/dMvauVjA/dash,PhishTank_Other_ID9192152
@@ -126762,6 +126815,7 @@ prtyujk.web.app,/,PhishTank_Other_ID8317951
 pru2xh.thora8lin.lat,/,ThreatFox
 pruagent.com,/,ThreatFox
 prubancoinforma.webcindario.com,/,PhishTank_Other_ID9243036
+prudenceflores.com,/,ThreatFox
 prudintum.contabilsmart.cloud,/,ThreatFox
 prudubankcocredi.webcindario.com,/,PhishTank_Other_ID9243019
 pruebacrooe.webcindario.com,/,PhishTank_Other_ID9162504
@@ -126814,6 +126868,7 @@ psmecdlr.hugugedari.xyz,/,ThreatFox
 psn-games-gifts.weebly.com,/,PhishTank_Other_ID9210325
 psnwbo.ditch-obscene.in.net,/,ThreatFox
 psowwau8292192snamqkq21822jsj8910223hjsja.myportfolio.com,/,PhishTank_Other_ID8008631
+pspilates.es,/,ThreatFox
 psqj.app888starz.download,/,ThreatFox
 psqj.app888starz.download,/dedb7c36-d013-4fcd-827b-56942ebaa585,URLhaus
 pssoduvnzud.xyz,/,ThreatFox
@@ -133155,6 +133210,7 @@ qowlvqc.backlinkbet.com,/1c4c84fc-89f9-44f1-a5e3-2e2f33ff7688,URLhaus
 qowmn9c8.iranvibes.ir,/,ThreatFox
 qowmn9c8.iranvibes.ir,/?ublib=7d24a14e-4749-4da3-a25f-de818b498f0e,URLhaus
 qowquuyueykwcuka.xyz,/,ThreatFox
+qoxuce.workers.dev,/,ThreatFox
 qoxyjymy.workers.dev,/,ThreatFox
 qoyieeammkewseqm.xyz,/,ThreatFox
 qpa8ujvtfq.workers.dev,/,ThreatFox
@@ -138935,6 +138991,7 @@ rank-log.systematrixhub.in.net,/,ThreatFox
 rank-node.systematrixflow.in.net,/,ThreatFox
 rank-svc.inferentrixhub.in.net,/,ThreatFox
 rank3logicway.so8laven.bet,/,ThreatFox
+ranked-accordingly-ab-hired.trycloudflare.com,/,ThreatFox
 ranklocalhq.com,/,ThreatFox
 rankmagazine.weebly.com,/,PhishTank_Other_ID9463069
 ransom.achievementschooldistrict.org,/,ThreatFox
@@ -144819,7 +144876,6 @@ rdqnbcayzh.localto.net,/,ThreatFox
 rdr-nu1x2cr7-gustngale.s3.us-east-1.amazonaws.com,/index.html,PhishTank_Other_ID9190360
 rdrkohnj.sametcanaltindal.online,/,ThreatFox
 rdroses.com,/,ThreatFox
-rdsnets.com,/,ThreatFox
 rdt.li,/E848Pt,URLhaus
 rdt.li,/xUaZWS,URLhaus
 rdtptnmb.bazisangkaqazgeychidancepoli.com,/,ThreatFox
@@ -145579,7 +145635,6 @@ remote.riveraautomotriz.com.mx,/,ThreatFox
 remoteiop.dev,/,ThreatFox
 remoteitprofessional.com,/,ThreatFox
 remotemonitoring.co.za,/,ThreatFox
-remotepx.net,/,ThreatFox
 remotesh.beer,/,ThreatFox
 remoteshcontrol.com,/,ThreatFox
 remotestack.org,/,ThreatFox
@@ -146282,7 +146337,6 @@ rhumbshop.com,/,ThreatFox
 rhuv97eek7.workers.dev,/,ThreatFox
 rhuyn.com,/,ThreatFox
 rhyawn.sandsautorepairmentor.com,/,ThreatFox
-rhyfpa2f.whitelist.in.net,/,ThreatFox
 rhysida6qqkj5ahjfshlepbhk7m2sgqc25y5iznmabcch2i7pbw4g6yd.onion,/,ThreatFox
 rhysidaeoxtkejwuheks3a7htk4zn3dfuynt5mqw6oawlcx6kcxjdeyd.onion,/,ThreatFox
 rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion,/,ThreatFox
@@ -146291,7 +146345,6 @@ rhysidaiqemmlrvn2jvncdwhkvuiv7s2iu342xnrpeynxoe6r2dtjfyd.onion,/,ThreatFox
 rhysidaqho36b6i6mvpmy5di4ro5zglovtxixrirky6q3fgack7q5uyd.onion,/,ThreatFox
 rhythmicportraits.com,/?type=verify&amp;key=nlvcfwjqtd,PhishTank_Other_ID9436227
 rhzml61n2m.workers.dev,/,ThreatFox
-ri4w.backlog.in.net,/,ThreatFox
 riad-darcouscous.com,/,ThreatFox
 riaifhk.entrepot-demarque.com,/,ThreatFox
 ribkamnetwork.lol,/,ThreatFox
@@ -146518,7 +146571,6 @@ rktwzc.webwave.dev,/,PhishTank_Other_ID8253291
 rku.uk.com,/,ThreatFox
 rkuepjvspjokrqjehy.nygyrowillmar.com,/,ThreatFox
 rkvfg.za.com,/,ThreatFox
-rkxv.keysum.in.net,/,ThreatFox
 rl.domalnverlficatlon.com,/,ThreatFox
 rl035mt.7zorelax.lat,/,ThreatFox
 rl2wwiqv.windapp.digital,/,ThreatFox
@@ -146924,7 +146976,6 @@ root.greenforesthub.lat,/,ThreatFox
 root.greenlogiclab.lat,/,ThreatFox
 root.smartlogicgate.lat,/,ThreatFox
 root.terraview.surf,/,ThreatFox
-root3-layer.whitelist.in.net,/,ThreatFox
 rootandwisdomllc.com,/,ThreatFox
 rootconsole.net,/,ThreatFox
 rootfarmapp.net,/,ThreatFox
@@ -147231,7 +147282,6 @@ rpc-polygon.beer,/,ThreatFox
 rpc2remote.metracore.in.net,/,ThreatFox
 rpc2remote.metravolta.in.net,/,ThreatFox
 rpcmwsz.muveszetiirasok.hu,/,ThreatFox
-rpcnetconnect.com,/,ThreatFox
 rpi.uk.com,/,ThreatFox
 rpif.ad-tracker.network,/,ThreatFox
 rplg.co,/fd47e811#redacted@abuse.ionos.com,PhishTank_Other_ID9181364
@@ -149316,7 +149366,6 @@ sec.xiaojiji.nl,/javaw2/instance.ps1,URLhaus
 sec.xiaoshabi.nl,/javaw2/net/net.xsl,URLhaus
 sec3viewing.live,/,ThreatFox
 secakqagsakkowyw.xyz,/,ThreatFox
-secao.org,/,ThreatFox
 secccureeptd.weebly.com,/,PhishTank_Other_ID9063517
 seccurecataliyst.weebly.com,/,PhishTank_Other_ID9206279
 seccurity-chase-com.weebly.com,/,PhishTank_Other_ID9490753
@@ -149733,7 +149782,6 @@ segurpich1ncha.webcindario.com,/validacion/mailvalidation.html,PhishTank_Other_I
 segurvia.pe,/,ThreatFox
 seguryty-cred-miles-2026--segurity5445.replit.app,/,PhishTank_Other_ID9506600
 seguryty-cred-miles-2026--segurity5445.replit.app,/index2.php,PhishTank_Other_ID9506599
-sehrli-qandolatchi.ru.com,/,ThreatFox
 sehrservices.org,/,ThreatFox
 sehulopo.workers.dev,/,ThreatFox
 sei-heat.myportfolio.com,/,PhishTank_Other_ID8120130
@@ -150521,7 +150569,6 @@ sh4d-logic.dis1iketerrit.in.net,/,ThreatFox
 sh4do-phase.di7ectkoshevoy.lat,/,ThreatFox
 sh67h.fun,/,ThreatFox
 sh6rkpx6.shartmag.bet,/,ThreatFox
-sh6rkpx6.shartmag.bet,/?ublib=0581224a-d3da-4a12-9ddb-7cbc5d305f02,URLhaus
 sh6ze53a.bet90forward.win,/,ThreatFox
 sh6ze53a.bet90forward.win,/?ublib=50b18fa6-c8a1-43e0-8add-f5304ffe4957,URLhaus
 sha.123ful.net,/,ThreatFox
@@ -153552,7 +153599,6 @@ sleepwellmattressandfurniture.com,/,ThreatFox
 sleepy-architecture-741731.framer.app,/,PhishTank_Other_ID9481429
 sleepy-midnight-953387.framer.app,/,PhishTank_Other_ID9448591
 sleepy-prototyper-918123.framer.app,/,PhishTank_Other_ID9438305
-sleepythunder89023.4nmn.com,/,ThreatFox
 sleeve-stadium-pubs-javascript.trycloudflare.com,/,ThreatFox
 slegx.bonuszugynokseg.hu,/,ThreatFox
 slenjzj.cyou,/,ThreatFox
@@ -155911,7 +155957,6 @@ spacaex.com,/,ThreatFox
 space-debris-trajectory.garden,/,ThreatFox
 space-gate.ontoversegrid.in.net,/,ThreatFox
 space-gate.theorivector.in.net,/,ThreatFox
-space-hub.luminos.in.net,/,ThreatFox
 space-node.theorexuslayer.in.net,/,ThreatFox
 space-revolt.weebly.com,/,PhishTank_Other_ID9219249
 space-time.theoreticvector.in.net,/,ThreatFox
@@ -159640,6 +159685,7 @@ sylo3m.digital,/,ThreatFox
 sylynet.com,/u/qsapdcrudc,PhishTank_Other_ID9468742
 symakmicoycemeam.xyz,/,ThreatFox
 symbiose-business.fr,/,ThreatFox
+symbioticenergy.net,/,ThreatFox
 symbology.wiki,/,ThreatFox
 symegyvo.workers.dev,/,ThreatFox
 symimwouqkakwmew.xyz,/,ThreatFox
@@ -159818,7 +159864,6 @@ sys.systemworld.info,/,ThreatFox
 sys.vpssysnet.pics,/,ThreatFox
 sys2power.densapoint.in.net,/,ThreatFox
 sys2power.sinapsov.in.net,/,ThreatFox
-sysanalyticweb.com,/,ThreatFox
 syshash4392.top,/,ThreatFox
 syshex6495.com,/,ThreatFox
 syshub.diafilm5mour.lat,/,ThreatFox
@@ -160435,6 +160480,7 @@ tailieuxaydung.net,/,ThreatFox
 tailly.xyz,/,ThreatFox
 tailorartis.de,/,ThreatFox
 tailsilk.xyz,/,ThreatFox
+tais-costruzioni.it,/,ThreatFox
 taitei-andreea.ro,/wp-content/wetransferzzz/newfile.html,PhishTank_Other_ID9401020
 taivvan.ydns.eu,/,ThreatFox
 taivvans.ydns.eu,/,ThreatFox
@@ -160577,6 +160623,7 @@ talnex5on.userssawtone.lat,/,ThreatFox
 talnexal2.pares-system.in.net,/,ThreatFox
 talnexos5.dex4lavel.in.net,/,ThreatFox
 talos.com.br,/,ThreatFox
+talrise.com,/,ThreatFox
 talspirea9.alexand-trouble.in.net,/,ThreatFox
 talspireis4.oguzok7ye.in.net,/,ThreatFox
 talspireor.gnosistack.in.net,/,ThreatFox
@@ -160779,6 +160826,7 @@ tatibudapest.com,/,ThreatFox
 tatitatatero.com,/,PhishTank_Other_ID9441814
 tatratester.github.io,/,PhishTank_Other_ID9408332
 tattinamecheap.com,/QuickFetch.exe,URLhaus
+tattoonhatrang.com,/,ThreatFox
 tatyixqn.dunkpo1ytechnic.digital,/,ThreatFox
 tau-ac-il.weebly.com,/,PhishTank_Other_ID9490706
 taubenabwehr-einheit3.de,/,ThreatFox
@@ -160988,6 +161036,7 @@ teal-vision-945028.framer.app,/,PhishTank_Other_ID9490513
 team-4067.twil.io,/govteamit.html,PhishTank_Other_ID9424695
 team-4067.twil.io,/mailicloudfromarubahosting.html,PhishTank_Other_ID9428852
 team-api.athleticscrew.in.net,/,ThreatFox
+team-building-strasbourg.fr,/,ThreatFox
 team-hf.com,/,ThreatFox
 team-na.xyz,/,ThreatFox
 team-niehardt.de,/,ThreatFox
@@ -162073,7 +162122,6 @@ ths.lat,/volar.powerpc-440fp,URLhaus
 ths.lat,/volar.sh4,URLhaus
 ths.lat,/volar.x86_64,URLhaus
 thswildaude.weebly.com,/,PhishTank_Other_ID9006392
-thtp2.volamngayxua.net,/_AutoVLBS19_NEW/TrainJX.exe,URLhaus
 thtp2.volamngayxua.net,/_AutoVLBS19_NEW/TrainJX2.exe,URLhaus
 thtrjhtyjjfd.weebly.com,/,PhishTank_Other_ID9475373
 thu-ipad-02.cfd,/,ThreatFox
@@ -162147,7 +162195,6 @@ tiktokvart.github.io,/Facebook/,PhishTank_Other_ID9391367
 tile-faint-helix.s3.ap-southeast-2.amazonaws.com,/fyyQvYaxo7G?email=redacted@abuse.ionos.com,PhishTank_Other_ID9453656
 tile-mythwake.xyz,/avast_update,URLhaus
 tilt-wear-weak.xyz,/avast_update,URLhaus
-timb-point.lockoak.in.net,/,ThreatFox
 timb3r-cast.highligh.in.net,/,ThreatFox
 timbe-well.velorune.in.net,/,ThreatFox
 timbecor.pra7vexal.in.net,/,ThreatFox
@@ -163289,7 +163336,6 @@ tr1g-cache.blugrid.in.net,/,ThreatFox
 tr3nd-plate.norsdwest.in.net,/,ThreatFox
 tr41l4-point.radiantventure.in.net,/,ThreatFox
 tr4657tfrde46ydhyggerfde.weebly.com,/,PhishTank_Other_ID9490738
-tr4c-craft.keysum.in.net,/,ThreatFox
 tr4ce5-trail.flamesre5ent.in.net,/,ThreatFox
 tr4ck-frame.v7lora.in.net,/,ThreatFox
 tr4ck7-plate.zex3liron.in.net,/,ThreatFox
@@ -164607,6 +164653,8 @@ twoworkplace.com,/e/i1WKshPF4I,PhishTank_Other_ID9497506
 twp.in.net,/,ThreatFox
 twrvdexnmfs.ca6a8b74-32ac-45ea-84f0-fb607b8789ab.click,/64cde040-2235-45be-a3f6-4dcd6c886dbe.php,PhishTank_Other_ID9435475
 twtd.zom7lirex.in.net,/,ThreatFox
+twu-hwt.org,/connect/,URLhaus
+twu-hwt.org,/scarica/,URLhaus
 twvjaye.penalti.website,/,ThreatFox
 twvrjjcu.hugugtejarat4.xyz,/,ThreatFox
 tww-berlin-de.weebly.com,/,PhishTank_Other_ID9418812
@@ -165275,7 +165323,6 @@ uk1nymxr.varzeshlife.ir,/?ublib=00d2797a-def8-4c45-8804-b5ccf8f54531,URLhaus
 uk309jxn.sparta--max.com,/,ThreatFox
 ukacademichelp.co.uk,/,ThreatFox
 ukgf.madgal.life,/,ThreatFox
-ukixhx.whitelist.in.net,/,ThreatFox
 ukkiw.ukit.me,/,PhishTank_Other_ID8453533
 ukkqtbst.snow-harbor.christmas,/,ThreatFox
 ukmcha.yasbet90.com,/,ThreatFox
@@ -165751,7 +165798,6 @@ uowhim.dharmaraladventure.com,/,ThreatFox
 uoxqk.kampongflowers.com,/,ThreatFox
 uoxqk.kampongflowers.com,/193b0ea0-54ea-412f-abc9-abdef30880bf,URLhaus
 uozzd7qfugrljo3.top,/,ThreatFox
-up-down.velante.in.net,/,ThreatFox
 up-huld-portal-eng.zapier.app,/,PhishTank_Other_ID9516541
 up-huld-portal-eng.zapier.app,/,PhishTank_Other_ID9516542
 up-lublin--pl.weebly.com,/,PhishTank_Other_ID9507368
@@ -165761,7 +165807,6 @@ up2client.com,/template/easy-calculators/plugin/demo/wp-includes/,PhishTank_Othe
 up5pathgate.zenithnode.bet,/,ThreatFox
 up9yrveg.en-trump-token.com,/,ThreatFox
 upaep-mx.weebly.com,/,PhishTank_Other_ID9107751
-upaicdn.xinmei365.com,/newwfs/support/CustomFont.apk,URLhaus
 upbikestore.com.br,/,ThreatFox
 upce0.weebly.com,/,PhishTank_Other_ID9448532
 upchemicals.co.in,/test/cgi-bin/ADONIS/ALL_ADONIS,URLhaus
@@ -167380,7 +167425,6 @@ utfoodbuyersguide.com,/listings.php?cat=%22%2F%3E%3Cimg%20src%3D%22https%3A%2F%2
 utgadz.shop-echoxen.com,/,ThreatFox
 utguco.webwave.dev,/,PhishTank_Other_ID8339649
 utgxkle.aftabsport.ir,/,ThreatFox
-uth9.bestlog.in.net,/,ThreatFox
 utilisateur-prim.com,/,PhishTank_Amazon.com_ID9508689
 utilisateur-prim.com,/index.php,PhishTank_Amazon.com_ID9508687
 utilisateurs-prims.com,/,PhishTank_Amazon.com_ID9514190
@@ -170242,6 +170286,7 @@ wa.me,/554135422794,PhishTank_Other_ID7590803
 wa.me,/message/OCRFYECZDSYIH1,PhishTank_Internal_Revenue_Service_ID7917396
 wa.pe,/0Oyu6rKoLJ,PhishTank_Other_ID8088427
 wa.pe,/u88HHqEMXX,PhishTank_Other_ID8099373
+wa83neqa.creditrepairhacking.com,/,ThreatFox
 waa-sbbs.blogspot.com,/,PhishTank_Other_ID8572920
 waaekaeaaewyoyig.xyz,/,ThreatFox
 waakyguguoaieygq.xyz,/,ThreatFox
@@ -171376,7 +171421,6 @@ webstart-ledgrecd.wixstudio.com,/us-en,PhishTank_Other_ID9486222
 webstart-trezr.wixstudio.com,/us-en,PhishTank_Other_ID9450110
 webstartpublic.framer.media,/,PhishTank_Other_ID9436864
 webstarts-exeduso.wixstudio.com,/en-us,PhishTank_Other_ID9471726
-webstp.com,/,ThreatFox
 websupport-center-management.framer.website,/,PhishTank_Other_ID9463064
 websupport-center.framer.website,/,PhishTank_Other_ID9450993
 webtaj.ir,/,ThreatFox
@@ -171553,6 +171597,7 @@ wer5tytr4.w3spaces.com,/dfghnhgfrg.html,PhishTank_Other_ID8469555
 weraulallma.blogspot.com,/,PhishTank_Other_ID8674238
 werel.balazsotthonepites.hu,/,ThreatFox
 wereng.duckdns.org,/,ThreatFox
+wergfxqe.www-cardioslim.com,/,ThreatFox
 werighteus.com,/,ThreatFox
 werknova.co,/download,URLhaus
 werrtpoioui.weebly.com,/,PhishTank_Other_ID9351686
@@ -171985,8 +172030,6 @@ wind5logicnet.po5ehuweather.bet,/,ThreatFox
 windharbor.1zarelin.lat,/,ThreatFox
 windinnovationcorp.com,/,ThreatFox
 windlrr.com,/,ThreatFox
-windomstatetheater.com,/mits.zip,URLhaus
-windomstatetheater.com,/osxs.zip,URLhaus
 windomstatetheater.com,/rars.zip,URLhaus
 windonws.com,/,ThreatFox
 windoorcreative.ro,/,ThreatFox
@@ -172562,7 +172605,6 @@ wpsmart.app,/,ThreatFox
 wpspeech.com,/view/radfTprBTd,PhishTank_Other_ID9518261
 wpteamcdn.beer,/,ThreatFox
 wptinkerhub.com,/,ThreatFox
-wpuadmin.shop,/,ThreatFox
 wpvz.boroo.bet,/,ThreatFox
 wpvz.boroo.bet,/4296bef3-b124-4585-acc3-3a19bfabf6d1,URLhaus
 wpwcdep.ordertacosdoncuco.com,/,ThreatFox
@@ -173242,6 +173284,7 @@ xeeeto.ant5pender.in.net,/,ThreatFox
 xefinity.weebly.com,/,PhishTank_Other_ID9494352
 xefivizo.workers.dev,/,ThreatFox
 xeft5.peta1un.garden,/,ThreatFox
+xegave.workers.dev,/,ThreatFox
 xeghepvinhphuc247.com,/,ThreatFox
 xegyvoca.workers.dev,/,ThreatFox
 xehbafo.overlokcu.com,/,ThreatFox
@@ -173735,7 +173778,6 @@ xn--1-pd6er94a.weebly.com,/,PhishTank_Other_ID9020879
 xn--2n1b810a1er8ivvcx0yyhc.weebly.com,/,PhishTank_Other_ID9140537
 xn--2o2b95ym2ar8p32c02g.weebly.com,/,PhishTank_Other_ID9369662
 xn--2o2bo1am34d.weebly.com,/,PhishTank_Other_ID9144637
-xn--365-9l4bza4h.jpn.com,/,ThreatFox
 xn--3kqw74a81mpni5rau92aqo3c.jpn.com,/,ThreatFox
 xn--42caa2e9bqo5d1azsb3r7c.com,/,ThreatFox
 xn--5h5b30a7g9shrk92d.weebly.com,/,PhishTank_Other_ID9372750
@@ -175851,6 +175893,7 @@ zi6uvzi9.btyek.beauty,/?ublib=31d873f0-7010-4688-834b-f92e0ed39993,URLhaus
 zi992883923923.web.app,/#user@example.org,PhishTank_Other_ID7571402
 ziabra.weebly.com,/,PhishTank_Other_ID9387520
 ziabrai.weebly.com,/,PhishTank_Other_ID9491317
+zian1d9k.blowfemme.com,/,ThreatFox
 zianimalacademy.com,/,ThreatFox
 ziaqjnr.glen7vara.bet,/,ThreatFox
 zib-1f60fc.webflow.io,/,PhishTank_Other_ID9502983
@@ -175878,6 +175921,7 @@ ziiambra.weebly.com,/,PhishTank_Other_ID9204415
 zijas.5toravex.lat,/,ThreatFox
 zijgmuqjzb6dc7pofxhtaiz36qqyg35lhutybmzaz6whzgei2casjgid.onion,/,ThreatFox
 zijopublishing.com,/,ThreatFox
+zikyci.workers.dev,/,ThreatFox
 zilaju.workers.dev,/,ThreatFox
 zillagewebmaileraccess098760999.weebly.com,/,PhishTank_Other_ID9137096
 zillow-manager.site44.com,/,PhishTank_Other_ID8166959
@@ -176567,7 +176611,6 @@ zlmbra-2025.weebly.com,/,PhishTank_Other_ID9244142
 zlmbra-25.weebly.com,/,PhishTank_Other_ID9248007
 zlmbra2025.weebly.com,/,PhishTank_Other_ID9416461
 zlmqqn7.duckdns.org,/,PhishTank_Other_ID9500814
-zloapobikahy23.bond,/,ThreatFox
 zltxdjx.venusbet90.com,/,ThreatFox
 zlxxlr.federationofpbos.org,/,ThreatFox
 zlyupbm.wrfc8.com,/,ThreatFox
@@ -176910,7 +176953,6 @@ zrr.kr,/rsqK,PhishTank_Internal_Revenue_Service_ID8247430
 zrsexetk0.localto.net,/,ThreatFox
 zrul.bahigo90bet.com,/,ThreatFox
 zrul.bahigo90bet.com,/763701f2-b6eb-4e01-a48c-57ae58864b9b,URLhaus
-zrvkmhps.bestlog.in.net,/,ThreatFox
 zrwn3l2y.radiantprospera.digital,/,ThreatFox
 zrxotn.dorihurosartwork.com,/,ThreatFox
 zryjsmacznie.pl,/,ThreatFox
@@ -176958,7 +177000,6 @@ ztcgioka.shop-alphatonic.us,/,ThreatFox
 zthayuyp.1x303.casino,/,ThreatFox
 zthayuyp.1x303.casino,/?ublib=b9b94899-24e9-44bb-aa25-a842760bd4a5,URLhaus
 zthedtkr.1xbitkade.com,/,ThreatFox
-zthedtkr.1xbitkade.com,/85469301-60a5-4473-92dc-ba2294619ae4,URLhaus
 zthnnrr.betistmobil.com,/,ThreatFox
 ztlfqqk.1bahis.app,/,ThreatFox
 ztlfqqk.1bahis.app,/ee7bf068-5865-478d-bc37-37089a8b3fea,URLhaus
@@ -177001,6 +177042,7 @@ zupgn.dtpxkt.com,/f2adb8b2-0564-b9e2-d132-2d73cfc0cf41/%E2%93%8A%E2%99%AB%E3%8A%
 zupymlllg.firebaseapp.com,/,PhishTank_Other_ID8827935
 zupymlllg.web.app,/,PhishTank_Other_ID8827936
 zustersmaricolenbrugge.be,/,ThreatFox
+zusucuhe.workers.dev,/,ThreatFox
 zuult.weebly.com,/,PhishTank_Other_ID9267924
 zuvofzppp.hoehnacura.com,/,ThreatFox
 zuwmbztn.firebaseapp.com,/,PhishTank_Other_ID8651292
