@@ -735,6 +735,7 @@
 103.163.119.220,/Aqua.sh4,URLhaus
 103.163.119.220,/Aqua.x86,URLhaus
 103.163.119.220,/Aqua.x86_64,URLhaus
+103.164.117.74,/,URLhaus
 103.164.117.74,/i,URLhaus
 103.164.128.184,/bin.sh,URLhaus
 103.164.128.184,/i,URLhaus
@@ -845,6 +846,7 @@
 103.229.53.84,/update.ps1,URLhaus
 103.231.13.161,/client.exe,URLhaus
 103.240.211.121,/AV.lnk,URLhaus
+103.240.211.121,/AV.scr,URLhaus
 103.240.211.121,/Photo.lnk,URLhaus
 103.240.211.121,/Photo.scr,URLhaus
 103.240.211.121,/Video.lnk,URLhaus
@@ -1547,8 +1549,6 @@
 105.224.29.237,/i,URLhaus
 105.224.32.139,/i,URLhaus
 105.224.33.137,/i,URLhaus
-105.224.33.217,/bin.sh,URLhaus
-105.224.33.217,/i,URLhaus
 105.224.34.139,/bin.sh,URLhaus
 105.224.34.139,/i,URLhaus
 105.224.36.90,/i,URLhaus
@@ -1658,6 +1658,7 @@
 105.225.5.139,/i,URLhaus
 105.225.53.52,/bin.sh,URLhaus
 105.225.53.52,/i,URLhaus
+105.225.6.143,/i,URLhaus
 105.225.76.225,/i,URLhaus
 105.225.76.83,/bin.sh,URLhaus
 105.225.76.83,/i,URLhaus
@@ -2645,6 +2646,7 @@
 111.59.254.165,/20250703/AV.lnk,URLhaus
 111.59.254.165,/20250703/AV.scr,URLhaus
 111.59.254.165,/20250703/Photo.lnk,URLhaus
+111.59.254.165,/20250703/Photo.scr,URLhaus
 111.59.254.165,/20250703/Video.lnk,URLhaus
 111.59.254.165,/20250703/Video.scr,URLhaus
 111.59.254.165,/20250708/AV.lnk,URLhaus
@@ -2858,8 +2860,6 @@
 112.239.102.100,/i,URLhaus
 112.239.102.112,/bin.sh,URLhaus
 112.239.102.112,/i,URLhaus
-112.239.102.152,/bin.sh,URLhaus
-112.239.102.152,/i,URLhaus
 112.239.102.153,/bin.sh,URLhaus
 112.239.102.153,/i,URLhaus
 112.239.102.87,/bin.sh,URLhaus
@@ -3500,6 +3500,8 @@
 113.231.229.97,/bin.sh,URLhaus
 113.231.229.97,/i,URLhaus
 113.231.230.20,/i,URLhaus
+113.231.232.203,/bin.sh,URLhaus
+113.231.232.203,/i,URLhaus
 113.231.233.199,/bin.sh,URLhaus
 113.231.233.199,/i,URLhaus
 113.231.233.62,/bin.sh,URLhaus
@@ -3612,6 +3614,7 @@
 113.237.109.86,/i,URLhaus
 113.237.133.146,/bin.sh,URLhaus
 113.237.133.146,/i,URLhaus
+113.237.229.123,/i,URLhaus
 113.237.229.195,/bin.sh,URLhaus
 113.237.229.195,/i,URLhaus
 113.237.242.144,/i,URLhaus
@@ -4014,6 +4017,7 @@
 115.48.140.54,/i,URLhaus
 115.48.141.171,/bin.sh,URLhaus
 115.48.141.171,/i,URLhaus
+115.48.142.169,/i,URLhaus
 115.48.142.20,/bin.sh,URLhaus
 115.48.142.20,/i,URLhaus
 115.48.143.40,/i,URLhaus
@@ -4111,7 +4115,6 @@
 115.48.162.39,/i,URLhaus
 115.48.162.93,/bin.sh,URLhaus
 115.48.162.93,/i,URLhaus
-115.48.163.18,/i,URLhaus
 115.48.163.180,/bin.sh,URLhaus
 115.48.163.180,/i,URLhaus
 115.48.163.214,/bin.sh,URLhaus
@@ -4445,6 +4448,7 @@
 115.50.206.131,/i,URLhaus
 115.50.21.177,/bin.sh,URLhaus
 115.50.21.177,/i,URLhaus
+115.50.216.143,/i,URLhaus
 115.50.217.45,/i,URLhaus
 115.50.217.82,/bin.sh,URLhaus
 115.50.217.82,/i,URLhaus
@@ -4667,6 +4671,7 @@
 115.51.97.245,/Mozi.m,URLhaus
 115.51.97.51,/i,URLhaus
 115.51.97.58,/i,URLhaus
+115.51.98.26,/i,URLhaus
 115.52.111.131,/i,URLhaus
 115.52.121.91,/bin.sh,URLhaus
 115.52.121.91,/i,URLhaus
@@ -4820,6 +4825,7 @@
 115.53.45.31,/i,URLhaus
 115.54.103.243,/i,URLhaus
 115.54.104.9,/i,URLhaus
+115.54.108.137,/bin.sh,URLhaus
 115.54.108.137,/i,URLhaus
 115.54.108.81,/bin.sh,URLhaus
 115.54.108.81,/i,URLhaus
@@ -4880,6 +4886,7 @@
 115.54.191.64,/i,URLhaus
 115.54.224.69,/bin.sh,URLhaus
 115.54.224.69,/i,URLhaus
+115.54.233.226,/i,URLhaus
 115.54.234.24,/bin.sh,URLhaus
 115.54.234.24,/i,URLhaus
 115.54.250.140,/bin.sh,URLhaus
@@ -5053,6 +5060,7 @@
 115.55.221.28,/i,URLhaus
 115.55.222.169,/bin.sh,URLhaus
 115.55.222.169,/i,URLhaus
+115.55.223.110,/i,URLhaus
 115.55.223.170,/bin.sh,URLhaus
 115.55.223.170,/i,URLhaus
 115.55.223.175,/bin.sh,URLhaus
@@ -6131,7 +6139,6 @@
 115.63.228.64,/bin.sh,URLhaus
 115.63.228.64,/i,URLhaus
 115.63.230.109,/bin.sh,URLhaus
-115.63.230.109,/i,URLhaus
 115.63.230.144,/i,URLhaus
 115.63.230.195,/bin.sh,URLhaus
 115.63.230.195,/i,URLhaus
@@ -6226,6 +6233,7 @@
 115.63.86.151,/i,URLhaus
 115.63.97.247,/i,URLhaus
 115.96.128.94,/i,URLhaus
+115.96.229.130,/bin.sh,URLhaus
 115.97.187.121,/i,URLhaus
 115.97.191.65,/bin.sh,URLhaus
 115.97.191.65,/i,URLhaus
@@ -6246,6 +6254,8 @@
 116.136.142.2,/download/kedadecoder.zip,URLhaus
 116.138.106.171,/bin.sh,URLhaus
 116.138.106.171,/i,URLhaus
+116.138.107.166,/bin.sh,URLhaus
+116.138.107.166,/i,URLhaus
 116.138.107.171,/i,URLhaus
 116.138.107.198,/bin.sh,URLhaus
 116.138.107.198,/i,URLhaus
@@ -6266,6 +6276,7 @@
 116.138.189.67,/bin.sh,URLhaus
 116.138.189.67,/i,URLhaus
 116.138.191.211,/bin.sh,URLhaus
+116.138.191.211,/i,URLhaus
 116.138.234.238,/bin.sh,URLhaus
 116.138.234.238,/i,URLhaus
 116.138.235.185,/bin.sh,URLhaus
@@ -6329,6 +6340,7 @@
 116.140.191.128,/i,URLhaus
 116.140.72.57,/i,URLhaus
 116.140.74.235,/i,URLhaus
+116.149.147.99,/i,URLhaus
 116.149.19.3,/bin.sh,URLhaus
 116.15.188.27,/bin.sh,URLhaus
 116.15.188.27,/i,URLhaus
@@ -6700,6 +6712,7 @@
 116.68.162.210,/bin.sh,URLhaus
 116.68.162.210,/i,URLhaus
 116.72.151.234,/i,URLhaus
+116.72.16.185,/Video.scr,URLhaus
 116.73.133.132,/i,URLhaus
 116.74.82.93,/bin.sh,URLhaus
 116.74.82.93,/i,URLhaus
@@ -8305,7 +8318,6 @@
 123.12.239.4,/bin.sh,URLhaus
 123.12.239.4,/i,URLhaus
 123.12.24.225,/i,URLhaus
-123.12.240.37,/i,URLhaus
 123.12.241.56,/bin.sh,URLhaus
 123.12.241.56,/i,URLhaus
 123.12.244.28,/bin.sh,URLhaus
@@ -8412,6 +8424,7 @@
 123.129.32.65,/bin.sh,URLhaus
 123.129.32.65,/i,URLhaus
 123.13.0.125,/bin.sh,URLhaus
+123.13.0.143,/bin.sh,URLhaus
 123.13.0.143,/i,URLhaus
 123.13.1.8,/bin.sh,URLhaus
 123.13.1.8,/i,URLhaus
@@ -9267,6 +9280,7 @@
 123.7.222.188,/i,URLhaus
 123.7.222.46,/bin.sh,URLhaus
 123.7.222.46,/i,URLhaus
+123.7.222.8,/bin.sh,URLhaus
 123.7.223.208,/bin.sh,URLhaus
 123.7.223.208,/i,URLhaus
 123.7.223.22,/bin.sh,URLhaus
@@ -9367,8 +9381,6 @@
 123.8.90.59,/i,URLhaus
 123.8.95.95,/i,URLhaus
 123.9.102.198,/i,URLhaus
-123.9.104.69,/bin.sh,URLhaus
-123.9.104.69,/i,URLhaus
 123.9.122.84,/bin.sh,URLhaus
 123.9.122.84,/i,URLhaus
 123.9.126.171,/i,URLhaus
@@ -9681,6 +9693,8 @@
 124.94.244.203,/bin.sh,URLhaus
 124.94.244.212,/Mozi.a,URLhaus
 124.94.244.77,/i,URLhaus
+124.94.246.227,/bin.sh,URLhaus
+124.94.246.227,/i,URLhaus
 124.94.247.89,/i,URLhaus
 124.95.10.220,/bin.sh,URLhaus
 124.95.10.220,/i,URLhaus
@@ -10058,6 +10072,7 @@
 125.41.76.32,/i,URLhaus
 125.41.77.229,/bin.sh,URLhaus
 125.41.77.229,/i,URLhaus
+125.41.77.54,/i,URLhaus
 125.41.77.70,/bin.sh,URLhaus
 125.41.78.139,/bin.sh,URLhaus
 125.41.78.139,/i,URLhaus
@@ -10446,6 +10461,7 @@
 125.45.146.56,/i,URLhaus
 125.45.148.93,/bin.sh,URLhaus
 125.45.148.93,/i,URLhaus
+125.45.17.175,/i,URLhaus
 125.45.19.146,/bin.sh,URLhaus
 125.45.19.146,/i,URLhaus
 125.45.19.215,/i,URLhaus
@@ -12184,7 +12200,6 @@
 154.201.66.125,/kinst7.sh,URLhaus
 154.201.66.125,/kinst8.sh,URLhaus
 154.201.66.125,/xmrig.tgz,URLhaus
-154.217.249.247,/bot.sh,URLhaus
 154.217.251.226,/beacon-cron,URLhaus
 154.219.116.177,/Mddos/Mddos.arm5,URLhaus
 154.223.128.215,/bin.sh,URLhaus
@@ -16925,6 +16940,7 @@
 181.129.100.123,/i,URLhaus
 181.129.177.162,/.i,URLhaus
 181.129.177.162,/i,URLhaus
+181.129.182.138,/,URLhaus
 181.143.114.106,/Mozi.m,URLhaus
 181.174.231.21,/bin.sh,URLhaus
 181.174.231.21,/i,URLhaus
@@ -17022,6 +17038,7 @@
 182.112.30.71,/i,URLhaus
 182.112.31.18,/bin.sh,URLhaus
 182.112.31.18,/i,URLhaus
+182.112.31.192,/bin.sh,URLhaus
 182.112.31.192,/i,URLhaus
 182.112.31.29,/i,URLhaus
 182.112.34.219,/bin.sh,URLhaus
@@ -17073,6 +17090,7 @@
 182.113.199.122,/i,URLhaus
 182.113.2.97,/bin.sh,URLhaus
 182.113.2.97,/i,URLhaus
+182.113.200.36,/i,URLhaus
 182.113.200.66,/i,URLhaus
 182.113.201.103,/bin.sh,URLhaus
 182.113.201.103,/i,URLhaus
@@ -17983,6 +18001,7 @@
 182.120.183.186,/bin.sh,URLhaus
 182.120.2.255,/bin.sh,URLhaus
 182.120.2.255,/i,URLhaus
+182.120.3.227,/i,URLhaus
 182.120.3.94,/bin.sh,URLhaus
 182.120.3.94,/i,URLhaus
 182.120.32.245,/bin.sh,URLhaus
@@ -18061,6 +18080,7 @@
 182.121.137.203,/bin.sh,URLhaus
 182.121.138.136,/bin.sh,URLhaus
 182.121.138.136,/i,URLhaus
+182.121.139.213,/i,URLhaus
 182.121.14.155,/i,URLhaus
 182.121.141.211,/i,URLhaus
 182.121.141.220,/bin.sh,URLhaus
@@ -18118,6 +18138,7 @@
 182.121.16.108,/i,URLhaus
 182.121.16.139,/bin.sh,URLhaus
 182.121.16.139,/i,URLhaus
+182.121.16.69,/i,URLhaus
 182.121.162.111,/i,URLhaus
 182.121.168.51,/i,URLhaus
 182.121.17.189,/i,URLhaus
@@ -18390,7 +18411,6 @@
 182.124.119.64,/i,URLhaus
 182.124.12.91,/bin.sh,URLhaus
 182.124.12.91,/i,URLhaus
-182.124.126.196,/i,URLhaus
 182.124.127.129,/i,URLhaus
 182.124.129.1,/bin.sh,URLhaus
 182.124.129.1,/i,URLhaus
@@ -18540,6 +18560,7 @@
 182.126.124.244,/i,URLhaus
 182.126.125.52,/i,URLhaus
 182.126.126.115,/i,URLhaus
+182.126.126.199,/i,URLhaus
 182.126.126.202,/bin.sh,URLhaus
 182.126.126.202,/i,URLhaus
 182.126.126.236,/bin.sh,URLhaus
@@ -19434,7 +19455,6 @@
 185.248.15.35,/i,URLhaus
 185.253.75.188,/a.sh,URLhaus
 185.253.75.188,/allbnc.jpg,URLhaus
-185.253.75.188,/auto.jpg,URLhaus
 185.29.10.11,/AFrlKy223.bin,URLhaus
 185.29.10.11,/Menneskevrdige.csv,URLhaus
 185.29.10.11,/Supersensitizing.hhk,URLhaus
@@ -19605,6 +19625,7 @@
 188.234.94.61,/i,URLhaus
 188.243.36.33,/sshd,URLhaus
 188.246.178.42,/i,URLhaus
+188.254.255.246,/Mozi.m,URLhaus
 188.38.158.163,/i,URLhaus
 188.44.110.215,/.i,URLhaus
 188.44.110.215,/i,URLhaus
@@ -20106,8 +20127,6 @@
 194.150.166.178,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 194.150.166.178,/bin/support.client.exe,URLhaus
 194.164.29.150,/arm7,URLhaus
-194.183.186.164,/Mozi.m,URLhaus
-194.183.186.164,/i,URLhaus
 194.238.57.124,/dp.sh,URLhaus
 194.238.57.124,/gg11,URLhaus
 194.238.57.124,/pito.arm4,URLhaus
@@ -20997,7 +21016,6 @@
 2.gp,/vzufzj8c,PhishTank_Facebook_ID9309940
 20-215-235-144.cprapid.com,/ch/,PhishTank_Other_ID9399057
 20-215-49-139.cprapid.com,/ch/,PhishTank_Other_ID9454383
-20-215-49-139.cprapid.com,/ch/update.php,PhishTank_Other_ID9454381
 20-215-49-139.cprapid.com,/ch/update.php?o5352z6w1uh5cb2gifbr,PhishTank_Other_ID9454384
 20-228-132-238.cpanel.site,/login,PhishTank_Other_ID9465465
 20-251-144-161.cprapid.com,/eu/,PhishTank_Other_ID9425919
@@ -21608,7 +21626,6 @@
 202.1.26.70,/bin.sh,URLhaus
 202.1.26.70,/i,URLhaus
 202.105.196.30,/Mozi.m,URLhaus
-202.105.196.30,/i,URLhaus
 202.107.0.250,/bin.sh,URLhaus
 202.107.0.250,/i,URLhaus
 202.107.5.110,/bin.sh,URLhaus
@@ -21638,10 +21655,12 @@
 202.131.244.202,/i,URLhaus
 202.137.141.244,/am.html,PhishTank_Amazon.com_ID9426468
 202.139.20.12,/sshd,URLhaus
+202.148.18.218,/i,URLhaus
 202.148.20.138,/,URLhaus
 202.148.20.138,/Mozi.m,URLhaus
 202.148.20.138,/i,URLhaus
 202.148.5.34,/.i,URLhaus
+202.148.5.34,/Mozi.m,URLhaus
 202.148.5.34,/i,URLhaus
 202.163.107.168,/i,URLhaus
 202.163.107.242,/bin.sh,URLhaus
@@ -22074,6 +22093,7 @@
 211.75.38.154,/i,URLhaus
 211.93.92.3,/bin.sh,URLhaus
 211.93.92.3,/i,URLhaus
+212.107.232.167,/,URLhaus
 212.156.106.146,/sshd,URLhaus
 212.164.115.235,/bin.sh,URLhaus
 212.164.115.235,/i,URLhaus
@@ -22092,6 +22112,7 @@
 212.3.211.157,//sshd,URLhaus
 212.3.211.157,/sshd,URLhaus
 212.50.57.143,/Mozi.m,URLhaus
+212.55.98.177,/.i,URLhaus
 212.69.61.19,/i,URLhaus
 212.73.75.82,/i,URLhaus
 212.73.75.84,/.i,URLhaus
@@ -22171,9 +22192,9 @@
 213.242.30.74,/bin.sh,URLhaus
 213.242.30.74,/i,URLhaus
 213.33.204.186,/.i,URLhaus
+213.33.204.186,/i,URLhaus
 213.5.194.56,/i,URLhaus
 213.6.101.83,/i,URLhaus
-213.6.196.230,/.i,URLhaus
 213.6.196.230,/i,URLhaus
 213.6.74.138,/.i,URLhaus
 213.6.74.138,/Mozi.m,URLhaus
@@ -22191,6 +22212,7 @@
 213.87.112.128,/i,URLhaus
 213.91.236.237,/.i,URLhaus
 213.91.236.237,/Mozi.m,URLhaus
+213.91.236.237,/i,URLhaus
 213.96.13.100,/sshd,URLhaus
 213eiojdk4n35kheje-wqasnd4o3iho-u.webflow.io,/,PhishTank_Other_ID9379992
 2149lka.sbs,/1ul311yx/G0trut/ovlzZZ,PhishTank_Other_ID9422688
@@ -23815,6 +23837,7 @@
 221.200.166.125,/i,URLhaus
 221.200.209.25,/bin.sh,URLhaus
 221.200.209.25,/i,URLhaus
+221.200.211.78,/bin.sh,URLhaus
 221.200.211.78,/i,URLhaus
 221.200.211.94,/bin.sh,URLhaus
 221.200.211.94,/i,URLhaus
@@ -24192,6 +24215,8 @@
 222.137.93.50,/bin.sh,URLhaus
 222.137.93.50,/i,URLhaus
 222.137.94.15,/i,URLhaus
+222.137.97.203,/bin.sh,URLhaus
+222.137.97.203,/i,URLhaus
 222.138.101.120,/bin.sh,URLhaus
 222.138.101.120,/i,URLhaus
 222.138.101.202,/bin.sh,URLhaus
@@ -24429,7 +24454,6 @@
 222.140.183.120,/i,URLhaus
 222.140.183.127,/bin.sh,URLhaus
 222.140.183.127,/i,URLhaus
-222.140.183.170,/bin.sh,URLhaus
 222.140.183.170,/i,URLhaus
 222.140.183.206,/i,URLhaus
 222.140.183.208,/i,URLhaus
@@ -24463,6 +24487,7 @@
 222.140.190.133,/i,URLhaus
 222.140.195.133,/bin.sh,URLhaus
 222.140.195.133,/i,URLhaus
+222.140.196.83,/i,URLhaus
 222.140.196.94,/bin.sh,URLhaus
 222.140.196.94,/i,URLhaus
 222.140.197.114,/bin.sh,URLhaus
@@ -24505,6 +24530,7 @@
 222.141.122.247,/i,URLhaus
 222.141.122.254,/bin.sh,URLhaus
 222.141.122.254,/i,URLhaus
+222.141.122.53,/i,URLhaus
 222.141.122.76,/bin.sh,URLhaus
 222.141.127.225,/bin.sh,URLhaus
 222.141.127.225,/i,URLhaus
@@ -24539,6 +24565,7 @@
 222.141.21.106,/bin.sh,URLhaus
 222.141.21.106,/i,URLhaus
 222.141.21.208,/bin.sh,URLhaus
+222.141.21.208,/i,URLhaus
 222.141.214.75,/bin.sh,URLhaus
 222.141.214.75,/i,URLhaus
 222.141.22.9,/bin.sh,URLhaus
@@ -24849,6 +24876,8 @@
 222.246.109.105,/i,URLhaus
 222.246.111.174,/bin.sh,URLhaus
 222.246.111.174,/i,URLhaus
+222.246.12.105,/bin.sh,URLhaus
+222.246.12.105,/i,URLhaus
 222.246.15.246,/i,URLhaus
 222.246.20.224,/i,URLhaus
 222.246.23.153,/i,URLhaus
@@ -25578,8 +25607,6 @@
 27.215.176.150,/i,URLhaus
 27.215.176.245,/bin.sh,URLhaus
 27.215.176.245,/i,URLhaus
-27.215.176.9,/bin.sh,URLhaus
-27.215.176.9,/i,URLhaus
 27.215.177.183,/i,URLhaus
 27.215.179.208,/bin.sh,URLhaus
 27.215.179.208,/i,URLhaus
@@ -25593,11 +25620,13 @@
 27.215.180.241,/i,URLhaus
 27.215.181.102,/bin.sh,URLhaus
 27.215.181.102,/i,URLhaus
+27.215.181.136,/i,URLhaus
 27.215.181.39,/bin.sh,URLhaus
 27.215.181.39,/i,URLhaus
 27.215.181.9,/i,URLhaus
 27.215.182.105,/bin.sh,URLhaus
 27.215.182.105,/i,URLhaus
+27.215.182.212,/i,URLhaus
 27.215.183.207,/i,URLhaus
 27.215.208.135,/bin.sh,URLhaus
 27.215.208.135,/i,URLhaus
@@ -25783,6 +25812,7 @@
 27.222.232.88,/i,URLhaus
 27.222.243.52,/bin.sh,URLhaus
 27.222.243.52,/i,URLhaus
+27.222.45.79,/bin.sh,URLhaus
 27.222.45.79,/i,URLhaus
 27.222.47.36,/bin.sh,URLhaus
 27.222.48.192,/Mozi.a,URLhaus
@@ -26017,7 +26047,6 @@
 2907pygnb.z13.web.core.windows.net,/,PhishTank_Other_ID9517388
 29223qf.baptis-midwife.in.net,/,ThreatFox
 295ivovdik.workers.dev,/,ThreatFox
-29831-icloud.com,/,PhishTank_Other_ID9493026
 29cc9-qum3w-tcqk-ch1-9vj.pages.dev,/,PhishTank_Other_ID9479247
 29cc9-qum3w-tcqk-ch1-9vj.pages.dev,/,PhishTank_Other_ID9479248
 29jpudxc.geotechnictahuni.store,/,ThreatFox
@@ -27254,6 +27283,7 @@
 36.89.62.19,/.i,URLhaus
 36.89.62.19,/i,URLhaus
 36.92.110.187,/sshd,URLhaus
+36.92.24.250,/i,URLhaus
 36.92.68.241,/Mozi.m,URLhaus
 36.92.68.241,/i,URLhaus
 36.95.77.138,/i,URLhaus
@@ -27292,6 +27322,7 @@
 37.13.199.103,/i,URLhaus
 37.142.77.163,/sshd,URLhaus
 37.143.133.215,/,URLhaus
+37.143.133.215,/.i,URLhaus
 37.143.133.215,/Mozi.m,URLhaus
 37.143.133.215,/i,URLhaus
 37.156.8.131,/.i,URLhaus
@@ -27569,7 +27600,6 @@
 38eua6rh.lat,/tuzz3uyk/gOmFRM/1qzRcb,PhishTank_Other_ID9388116
 38hue73.top,/lix17mi3/w7UgIK/sooYDF,PhishTank_Other_ID9418314
 38p59cql.primordialsoupevolution.digital,/,ThreatFox
-38sprosnowmeprona.za.com,/,ThreatFox
 39.100.33.142,/cen22.php,URLhaus
 39.105.223.127,/er/1212.bin,URLhaus
 39.105.223.127,/er/326.bin,URLhaus
@@ -27649,7 +27679,6 @@
 39.71.202.105,/i,URLhaus
 39.71.204.117,/bin.sh,URLhaus
 39.73.108.18,/bin.sh,URLhaus
-39.73.108.18,/i,URLhaus
 39.73.120.163,/i,URLhaus
 39.73.126.17,/bin.sh,URLhaus
 39.73.126.17,/i,URLhaus
@@ -27819,7 +27848,6 @@
 39.87.255.120,/bin.sh,URLhaus
 39.87.255.120,/i,URLhaus
 39.87.30.92,/bin.sh,URLhaus
-39.87.30.92,/i,URLhaus
 39.87.36.107,/bin.sh,URLhaus
 39.87.36.107,/i,URLhaus
 39.87.37.33,/bin.sh,URLhaus
@@ -27848,6 +27876,8 @@
 39.90.144.112,/i,URLhaus
 39.90.144.140,/bin.sh,URLhaus
 39.90.144.140,/i,URLhaus
+39.90.144.60,/bin.sh,URLhaus
+39.90.144.60,/i,URLhaus
 39.90.144.82,/bin.sh,URLhaus
 39.90.144.82,/i,URLhaus
 39.90.145.143,/bin.sh,URLhaus
@@ -28105,7 +28135,6 @@
 41.160.234.219,/i,URLhaus
 41.162.188.251,/.i,URLhaus
 41.162.188.251,/i,URLhaus
-41.190.69.6,/,URLhaus
 41.190.69.6,/i,URLhaus
 41.201.226.25,/i,URLhaus
 41.216.189.157,/bins/xnxnxnxnxnxnxnxnaarch64xnxn,URLhaus
@@ -28241,6 +28270,7 @@
 41.252.58.224,/i,URLhaus
 41.38.56.232,/i,URLhaus
 41.63.163.119,/i,URLhaus
+41.77.74.90,/.i,URLhaus
 41.77.74.90,/Mozi.m,URLhaus
 41.77.74.90,/i,URLhaus
 41.78.75.186,/Mozi.m,URLhaus
@@ -28511,6 +28541,8 @@
 42.224.150.179,/i,URLhaus
 42.224.151.118,/bin.sh,URLhaus
 42.224.151.118,/i,URLhaus
+42.224.151.147,/bin.sh,URLhaus
+42.224.151.147,/i,URLhaus
 42.224.156.3,/bin.sh,URLhaus
 42.224.156.3,/i,URLhaus
 42.224.156.56,/bin.sh,URLhaus
@@ -29095,6 +29127,8 @@
 42.229.90.24,/i,URLhaus
 42.229.94.150,/bin.sh,URLhaus
 42.229.94.150,/i,URLhaus
+42.230.131.69,/bin.sh,URLhaus
+42.230.131.69,/i,URLhaus
 42.230.154.214,/bin.sh,URLhaus
 42.230.154.214,/i,URLhaus
 42.230.157.187,/bin.sh,URLhaus
@@ -29400,7 +29434,6 @@
 42.232.228.135,/i,URLhaus
 42.232.228.172,/bin.sh,URLhaus
 42.232.228.172,/i,URLhaus
-42.232.228.31,/bin.sh,URLhaus
 42.232.229.148,/i,URLhaus
 42.232.229.33,/bin.sh,URLhaus
 42.232.229.33,/i,URLhaus
@@ -29749,6 +29782,7 @@
 42.237.102.123,/bin.sh,URLhaus
 42.237.102.123,/i,URLhaus
 42.237.110.126,/bin.sh,URLhaus
+42.237.110.126,/i,URLhaus
 42.237.110.194,/bin.sh,URLhaus
 42.237.110.194,/i,URLhaus
 42.237.122.145,/i,URLhaus
@@ -29884,7 +29918,6 @@
 42.238.248.174,/bin.sh,URLhaus
 42.238.248.174,/i,URLhaus
 42.238.250.245,/bin.sh,URLhaus
-42.238.254.190,/i,URLhaus
 42.238.254.71,/bin.sh,URLhaus
 42.238.254.71,/i,URLhaus
 42.238.68.10,/bin.sh,URLhaus
@@ -29932,8 +29965,6 @@
 42.239.154.159,/i,URLhaus
 42.239.156.211,/bin.sh,URLhaus
 42.239.156.211,/i,URLhaus
-42.239.157.9,/bin.sh,URLhaus
-42.239.157.9,/i,URLhaus
 42.239.158.155,/bin.sh,URLhaus
 42.239.158.155,/i,URLhaus
 42.239.159.117,/bin.sh,URLhaus
@@ -30216,6 +30247,7 @@
 42.53.84.170,/i,URLhaus
 42.54.103.36,/bin.sh,URLhaus
 42.54.103.36,/i,URLhaus
+42.54.110.21,/i,URLhaus
 42.54.13.17,/bin.sh,URLhaus
 42.54.13.17,/i,URLhaus
 42.54.144.76,/bin.sh,URLhaus
@@ -30672,7 +30704,6 @@
 43.156.0.130,/v3/signin/identifier?dsh=S1828805109:1679335270368208&amp;continue=https://accounts.google.com/&amp;followup=https://accounts.google.com&amp;ifkv=AWnogHfblDoqW1Lv_lD89hCa__X5mQnegj02OtAh4NuX_bBKNgT-OauYlhJ9XWd9u8sCYzdtKvfThA&amp;passive=1209600&amp;flowName=WebLiteSignIn&amp;flowEntry=ServiceLogin,PhishTank_Other_ID8085420
 43.156.0.130,/v3/signin/identifier?dsh=S536876283%3A1679130036497906&amp%3Bfollowup=https%3A%2F%2Faccounts.google.com%2F&amp%3Bifkv=AWnogHfrcMjMJOA5-x4JjU2A_H62FL5Ipip8qUn0FfsVqhu1vrUBPxBl4JpnqCjPGKNrTfaShVnNJQ&amp%3Bpassive=1209600&continue=https%3A%2F%2Faccounts.google.com%2F&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AWnogHc4PeFX33yvdiAFBtaL-JBAffuk5JoQQy_Mh2pwQ3Vm2WZDrUszOnx40Wo5cx_v0Tn-km5KAw,PhishTank_Other_ID8080759
 43.156.0.130,/v3/signin/identifier?dsh=S536876283:1679130036497906&amp;followup=https://accounts.google.com/&amp;ifkv=AWnogHfrcMjMJOA5-x4JjU2A_H62FL5Ipip8qUn0FfsVqhu1vrUBPxBl4JpnqCjPGKNrTfaShVnNJQ&amp;passive=1209600&amp;continue=https://accounts.google.com/&amp;flowName=WebLiteSignIn&amp;flowEntry=ServiceLogin&amp;ifkv=AWnogHc4PeFX33yvdiAFBtaL-JBAffuk5JoQQy_Mh2pwQ3Vm2WZDrUszOnx40Wo5cx_v0Tn-km5KAw,PhishTank_Other_ID8081686
-43.156.63.124,/02.08.2022.exe,URLhaus
 43.156.7.24,/InteractiveLogin?continue=https://accounts.google.com/?&amp;followup=https://accounts.google.com/?&amp;passive=1209600&amp;xrealip=107.178.231.251&amp;ifkv=AQMjQ7TdVEMEouDxvt3s_4uucY5r71TLwAAQUv1o_fc9ju1H25uMyLGVirY5TMO4qo4XsPm64IHYPw,PhishTank_Other_ID8106475
 43.156.7.24,/v3/signin/identifier?dsh=S-251016829%3A1679356907090944&amp%3Bfollowup=https%3A%2F%2Faccounts.google.com%2F%3F&amp%3Bifkv=AWnogHc7pOe0dpglcsJWxo1uQU-HWLXjw7_sAPoDIqCVG4XvJaWjXCLCRXlubyT-zAlezfnO-suz9Q&amp%3Bpassive=1209600&amp%3Bxrealip=107.178.236.5&continue=https%3A%2F%2Faccounts.google.com%2F%3F&xrealip=107.21.207.171&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AWnogHchoyrgHBJhCib60x8jnU1S3qwqRpq3TBOZ8D2MGvDcjD5yZHwN0QEI_V9Tvp3uSYFJ_i6L,PhishTank_Other_ID8083996
 43.156.7.24,/v3/signin/identifier?dsh=S-805113994:1662814406464633&amp;continue=https://accounts.google.com/?&amp;xrealip=178.162.209.129&amp;followup=https://accounts.google.com/?&amp;xrealip=178.162.209.129&amp;passive=1209600&amp;xrealip=178.162.209.129&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin&amp;ifkv=AQDHYWpS3KePIJjxVe9GUIMY9sfGdalrmMnlsX7vDtSzt4i___e-SiccH2-9JRhu7nXyI6B710IPSA,PhishTank_Other_ID8083551
@@ -32069,7 +32100,6 @@
 4yl6u62i.pdfbama.com,/,ThreatFox
 4yl6u62i.pdfbama.com,/?ublib=fd9f4cee-541f-49bf-8dc2-b8a07559cc06,URLhaus
 4z0tdlyo.calvaryhospice.org,/,ThreatFox
-4z0tdlyo.calvaryhospice.org,/?ublib=f0a461af-70f7-4907-b701-98ef305590eb,URLhaus
 4z4tzb9w.portman-photos.com,/,ThreatFox
 4zf0849k.www-genesisrevival.com,/,ThreatFox
 4zhzg-ii0vp-jvsu3m-efl-jcg.pages.dev,/,PhishTank_Other_ID9492340
@@ -32100,7 +32130,6 @@
 5.166.76.110,/bin.sh,URLhaus
 5.166.76.110,/i,URLhaus
 5.167.213.113,/bin.sh,URLhaus
-5.167.229.94,/i,URLhaus
 5.167.233.232,/bin.sh,URLhaus
 5.167.233.232,/i,URLhaus
 5.167.65.75,/bin.sh,URLhaus
@@ -33797,6 +33826,7 @@
 59.180.159.200,/bin.sh,URLhaus
 59.180.159.200,/i,URLhaus
 59.180.159.83,/i,URLhaus
+59.180.162.153,/i,URLhaus
 59.180.162.251,/i,URLhaus
 59.180.169.243,/bin.sh,URLhaus
 59.180.169.61,/i,URLhaus
@@ -33973,6 +34003,7 @@
 59.96.142.124,/bin.sh,URLhaus
 59.96.142.150,/bin.sh,URLhaus
 59.96.142.159,/bin.sh,URLhaus
+59.96.142.159,/i,URLhaus
 59.96.142.171,/bin.sh,URLhaus
 59.96.142.171,/i,URLhaus
 59.96.142.189,/bin.sh,URLhaus
@@ -34215,7 +34246,6 @@
 5jsdebh3.backgammon.download,/?ublib=5ef23ea6-ab91-463b-a597-89df868fa0ed,URLhaus
 5jtpv8ur.planus.store,/,ThreatFox
 5jwn1ww9.binary-dock.digital,/,ThreatFox
-5jyzer.info,/7oBbyg,PhishTank_Other_ID9520874
 5k9i5e.skin,/xv8bimu7/IcNNZr/Lmq4oK,PhishTank_Other_ID9484078
 5k9iblva.ace90bet1.bet,/,ThreatFox
 5kbm8nkr.foodpapajobs.com,/,ThreatFox
@@ -34406,8 +34436,7 @@
 60.176.10.219,/bin.sh,URLhaus
 60.176.252.170,/bin.sh,URLhaus
 60.176.252.170,/i,URLhaus
-60.176.4.229,/bin.sh,URLhaus
-60.176.4.229,/i,URLhaus
+60.176.8.34,/bin.sh,URLhaus
 60.176.8.34,/i,URLhaus
 60.177.1.123,/bin.sh,URLhaus
 60.177.1.123,/i,URLhaus
@@ -34745,6 +34774,7 @@
 60.23.238.24,/bin.sh,URLhaus
 60.23.238.24,/i,URLhaus
 60.23.238.248,/bin.sh,URLhaus
+60.23.238.248,/i,URLhaus
 60.23.238.92,/bin.sh,URLhaus
 60.23.238.95,/i,URLhaus
 60.23.239.10,/bin.sh,URLhaus
@@ -34816,6 +34846,8 @@
 61.137.141.220,/i,URLhaus
 61.137.148.215,/bin.sh,URLhaus
 61.137.148.215,/i,URLhaus
+61.137.150.107,/bin.sh,URLhaus
+61.137.150.107,/i,URLhaus
 61.137.153.247,/bin.sh,URLhaus
 61.137.153.247,/i,URLhaus
 61.137.156.68,/bin.sh,URLhaus
@@ -35101,7 +35133,6 @@
 61.52.60.101,/bin.sh,URLhaus
 61.52.60.101,/i,URLhaus
 61.52.60.150,/i,URLhaus
-61.52.61.209,/i,URLhaus
 61.52.62.249,/bin.sh,URLhaus
 61.52.62.249,/i,URLhaus
 61.52.63.2,/bin.sh,URLhaus
@@ -35933,6 +35964,7 @@
 66.212.187.214,/i,URLhaus
 66.212.188.150,/bin.sh,URLhaus
 66.39.79.68,/,URLhaus
+66.58.168.70,/i,URLhaus
 66.71.242.67,/curl,URLhaus
 66.71.242.68,/curl,URLhaus
 66.71.242.69,/curl,URLhaus
@@ -36059,6 +36091,7 @@
 69.33.213.199,/nerv.x86,URLhaus
 69.33.213.199,/nerv.x86_32,URLhaus
 69.33.213.199,/nerv.x86_64,URLhaus
+69.46.43.35,/pty1,URLhaus
 69.46.43.35,/pty10,URLhaus
 69.46.43.35,/pty2,URLhaus
 69.46.43.35,/pty4,URLhaus
@@ -36564,6 +36597,7 @@
 77.83.39.9,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
 77.83.39.9,/bin/support.client.exe,URLhaus
 77.89.245.118,/.i,URLhaus
+77.89.245.118,/Mozi.m,URLhaus
 77.89.245.118,/i,URLhaus
 77.90.185.107,/main_arm,URLhaus
 77.90.185.107,/main_arm5,URLhaus
@@ -37190,7 +37224,6 @@
 83.168.69.95,/x86_64,URLhaus
 83.177.220.128,/Mozi.a,URLhaus
 83.217.16.24,/.i,URLhaus
-83.217.16.24,/i,URLhaus
 83.219.1.198,/bin.sh,URLhaus
 83.219.1.198,/i,URLhaus
 83.228.109.209,/bin.sh,URLhaus
@@ -37240,6 +37273,7 @@
 84.236.147.129,/sshd,URLhaus
 84.243.234.56,/,URLhaus
 84.244.11.29,/i,URLhaus
+84.51.204.125,/i,URLhaus
 84.53.221.6,/bin.sh,URLhaus
 84.53.221.6,/i,URLhaus
 84.54.33.128,/Bin/ScreenConnect.ClientSetup.exe,URLhaus
@@ -37544,6 +37578,7 @@
 87.15.9.134,/i,URLhaus
 87.202.82.19,/i,URLhaus
 87.227.140.66,/AV.lnk,URLhaus
+87.227.140.66,/AV.scr,URLhaus
 87.227.140.66,/Photo.lnk,URLhaus
 87.227.140.66,/Photo.scr,URLhaus
 87.227.140.66,/Video.lnk,URLhaus
@@ -37557,6 +37592,7 @@
 87.247.202.34,/i,URLhaus
 87.249.142.126,/Photo.scr,URLhaus
 87.249.142.126,/Video.scr,URLhaus
+87.249.142.126,/info.zip,URLhaus
 87.58.201.21,/arm4,URLhaus
 87.58.201.21,/arm6,URLhaus
 87.58.201.21,/arm7,URLhaus
@@ -37657,6 +37693,7 @@
 88.88.191.25,/i,URLhaus
 8800chrtrtwc.weebly.com,/,PhishTank_Other_ID8924941
 8802pay.com,/,PhishTank_Other_ID9501750
+880cris.workers.dev,/,ThreatFox
 8836pay.com,/,PhishTank_Other_ID9501759
 884undo.braveclo.bet,/,ThreatFox
 88518dd.com,/?ty9my8LF20fnFo9hO0HzRwp7,PhishTank_Sumitomo_Mitsui_Banking_Corporation_ID9500640
@@ -38331,7 +38368,6 @@
 91.92.242.236,/files-129312398/files/file_5513ab74e8b43371.exe,URLhaus
 91.92.242.236,/files-129312398/files/file_5531355e31758cd9.exe,URLhaus
 91.92.242.236,/files-129312398/files/file_559588a728983686.exe,URLhaus
-91.92.242.236,/files-129312398/files/file_55c1b708fcd2591a.exe,URLhaus
 91.92.242.236,/files-129312398/files/file_5607a34d16e59914.cmd,URLhaus
 91.92.242.236,/files-129312398/files/file_563d9411d8da8c10.cmd,URLhaus
 91.92.242.236,/files-129312398/files/file_56a54f3ee74d7c37.exe,URLhaus
@@ -38448,7 +38484,6 @@
 91.92.242.236,/files-129312398/files/file_8a1ac3d8be0488af.exe,URLhaus
 91.92.242.236,/files-129312398/files/file_8a7c2cae7ca4b114.exe,URLhaus
 91.92.242.236,/files-129312398/files/file_8ac875068d3697e5.exe,URLhaus
-91.92.242.236,/files-129312398/files/file_8ae360959a1933a5.exe,URLhaus
 91.92.242.236,/files-129312398/files/file_8b0de4fcc07257ed.exe,URLhaus
 91.92.242.236,/files-129312398/files/file_8b191269d0a8fd0c.exe,URLhaus
 91.92.242.236,/files-129312398/files/file_8b4782335952b88e.exe,URLhaus
@@ -38534,7 +38569,6 @@
 91.92.242.236,/files-129312398/files/file_b51b4703e727923f.exe,URLhaus
 91.92.242.236,/files-129312398/files/file_b584670f7ec2f317.exe,URLhaus
 91.92.242.236,/files-129312398/files/file_b62641dda3bccec6.msi,URLhaus
-91.92.242.236,/files-129312398/files/file_b66749d846629102.exe,URLhaus
 91.92.242.236,/files-129312398/files/file_b6eb436102b82c86.exe,URLhaus
 91.92.242.236,/files-129312398/files/file_b725112f82065785.exe,URLhaus
 91.92.242.236,/files-129312398/files/file_b74843ad95bef0e9.exe,URLhaus
@@ -41178,7 +41212,6 @@
 94.249.230.216,/rondo,URLhaus
 94.249.230.216,/rondo.jbt,URLhaus
 94.251.5.51,/.i,URLhaus
-94.251.5.51,/Mozi.m,URLhaus
 94.251.5.51,/i,URLhaus
 94.26.106.206,/c.sh,URLhaus
 94.26.106.206,/cat.sh,URLhaus
@@ -41237,6 +41270,7 @@
 94.45.34.166,/bin.sh,URLhaus
 94.45.34.166,/i,URLhaus
 94.76.156.101,/AV.lnk,URLhaus
+94.76.156.101,/AV.scr,URLhaus
 94.76.156.101,/Photo.scr,URLhaus
 94.76.156.101,/Video.lnk,URLhaus
 94.76.156.101,/Video.scr,URLhaus
@@ -41553,6 +41587,7 @@
 97zz1.casmex.at,/cnbcard/,PhishTank_Coinbase_ID9532093
 98.103.171.36,/.i,URLhaus
 98.103.171.36,/i,URLhaus
+98.197.230.147,/,URLhaus
 98.252.87.232,/bin.sh,URLhaus
 98.252.87.232,/i,URLhaus
 98.36.141.73,/bin.sh,URLhaus
@@ -41968,7 +42003,6 @@ aacredltvnlan-online.top,/?secure_connect=f523c*&_subid=3rpb3ti.4c.25jrv&_token=
 aacredltvnlon-onllne.xyz,/?secure_connect=f523c*&_subid=15ld5h3.4c.27iv8&_token=6h6hi51p3b5nc.1783804150.15.4838f32f01a29875684bae2f606034ed,PhishTank_Other_ID9474847
 aadvanttagemilesair.weebly.com,/,PhishTank_Other_ID9393664
 aaeterata.firebaseapp.com,/,PhishTank_Other_ID8290754
-aaeterata.web.app,/,PhishTank_Other_ID8290755
 aafnojwq.megashart.blog,/,ThreatFox
 aafvpzegxwqmti.firebaseapp.com,/,PhishTank_Other_ID8634656
 aafvpzegxwqmti.web.app,/,PhishTank_Other_ID8634657
@@ -42045,6 +42079,7 @@ abc.woopami.com,/,ThreatFox
 abc100129649142326123541.start.page,/,PhishTank_Facebook_ID8271810
 abc888.it.com,/,ThreatFox
 abcappsiteinst.azurewebsites.net,/,PhishTank_Other_ID8227135
+abcasdb.study,/KnaeByNf/,PhishTank_Other_ID9539294
 abcpartners.tech,/,ThreatFox
 abcsgftr.cc,/,ThreatFox
 abcstudyguide.com,/,PhishTank_Other_ID9445379
@@ -42500,7 +42535,6 @@ acessodigitalpj.site,/,PhishTank_Bradesco_ID9433850
 acessodigitalprasuaempresa.online,/,PhishTank_Other_ID9507322
 acessointernoapp.digital,/,PhishTank_Other_ID9467745
 acessojuridicointerno.digital,/,PhishTank_Bradesco_ID9469373
-acessojuridicopj.digital,/,PhishTank_Bradesco_ID9463595
 acessonetempresaexclusivo.digital,/chegue.php?token=13670049246a7c6ae3455964.07033790&amp;h=317a601536ae51fa8ed81dc05e29e37154e07192c577605463861ea902d4fa68,PhishTank_Other_ID9503619
 acessonetempresaexclusivo.online,/,PhishTank_Other_ID9499558
 acessonetempresasapp.digital,/,PhishTank_Other_ID9517541
@@ -42785,7 +42819,6 @@ addin-fita.digital,/,ThreatFox
 addlzim.weebly.com,/,PhishTank_Other_ID9242342
 addoughty.wixsite.com,/eeve,PhishTank_Other_ID9258628
 addyu.sreiiohstammsouwvvqeytzuyoqmisq.club,/index.html,PhishTank_Other_ID9529248
-adebisix.com,/,PhishTank_Other_ID9468465
 adebisix.com,/index.php,PhishTank_Other_ID9468463
 adeccotraining.peexprod.com,/ksx.html,PhishTank_Other_ID8062412
 adecoco.us,/,ThreatFox
@@ -42871,7 +42904,6 @@ adminmailruh8uqngpb32.weebly.com,/,PhishTank_Other_ID9312222
 adminnfupanel-dpg54ztfrzuf.edgeone.dev,/,PhishTank_Other_ID9517635
 adminnnnnwebb.weebly.com,/,PhishTank_Other_ID9490780
 adminportalsolution.weebly.com,/,PhishTank_Other_ID9318510
-adminreservation.com,/,ThreatFox
 admins.mzzrj.com,/gateway.php?token=2b68b49637b06a774f9ee33ce32092565b54ac37a4cbaaffda54a0b228b8f4c9,PhishTank_Other_ID9508462
 adminsecuremyinfuzefcudata.weebly.com,/,PhishTank_Other_ID9014085
 adminsecurityserver3784kjrjrwh.weebly.com,/,PhishTank_Other_ID9310052
@@ -43348,7 +43380,6 @@ aiacwsyguwmiquie.xyz,/,ThreatFox
 aiaikqkmoyomaigw.xyz,/,ThreatFox
 aiaufdwh.masirpayambari.xyz,/,ThreatFox
 aiaugaiggciaoekg.xyz,/,ThreatFox
-aib.it.com,/,ThreatFox
 aibot.casacam.net,/,ThreatFox
 aibox.co.id,/,ThreatFox
 aicawckmgkkccuou.xyz,/,ThreatFox
@@ -43647,14 +43678,11 @@ alebilet.pl-oferta7891241924.sbs,/,PhishTank_Allegro_ID9531444
 alebilet.pl-ogloszenie01291471940.shop,/,PhishTank_Allegro_ID9537002
 alebilet.pl-platnosci53853.cyou,/telefon-samsung-galaxy-s26-ult/44618,PhishTank_Allegro_ID9529703
 alebilet.pl6542627.lat,/opony-zimowe-4x-d%C4%99bica-frigo-2/11273,PhishTank_Allegro_ID9525030
-alebox.com.br,/paenel/roundcube/index.html?email=info@mup.cz,PhishTank_Other_ID9534323
 alegriadefimdeano.vercel.app,/,PhishTank_Other_ID9507566
 alegro.id7369.click,/248880545,PhishTank_Allegro_ID9472795
-alegro.verify-id.click,/207115802,PhishTank_Allegro_ID9436867
 alehejebi.accesscam.org,/cemez/,PhishTank_Other_ID9537888
 alellc.com,/,ThreatFox
 alenservice.ir,/,ThreatFox
-alert-node.exhortshelk.in.net,/,ThreatFox
 alert.livewave47.one,/,ThreatFox
 alertabarural.webcindario.com,/,PhishTank_Other_ID8285265
 alertadecuentas.webcindario.com,/,PhishTank_Other_ID8319061
@@ -44024,7 +44052,6 @@ allegro-lokalnie.ofert34592512-509.lat,/,PhishTank_Allegro_ID9426817
 allegro-lokalnie.ofert83481.shop,/,PhishTank_Allegro_ID9458554
 allegro-lokalnie.ofert83481.shop,/,PhishTank_Allegro_ID9466730
 allegro-lokalnie.ofert943819020.baby,/lokalnie/?id=3v7s9x2n4a3r5g7t2c2z5d2c5a4m0w5g,PhishTank_Allegro_ID9458043
-allegro-lokalnie.ofert943819020.baby,/lokalnie?id=3v7s9x2n4a3r5g7t2c2z5d2c5a4m0w5g,PhishTank_Allegro_ID9458042
 allegro-lokalnie.oferta1758691.click,/,PhishTank_Allegro_ID9507776
 allegro-lokalnie.oferta37654208.shop,/,PhishTank_Allegro_ID9468731
 allegro-lokalnie.oferta37654208.shop,/,PhishTank_Allegro_ID9468869
@@ -44254,7 +44281,6 @@ allegro.1000gg4.casa,/,PhishTank_Allegro_ID9509331
 allegro.1000h5g4g4.casa,/,PhishTank_Allegro_ID9504360
 allegro.10209j8j8.shop,/,PhishTank_Allegro_ID9463861
 allegro.1020smart9381.baby,/,PhishTank_Allegro_ID9455904
-allegro.1023128h4.lol,/,PhishTank_Allegro_ID9470097
 allegro.102391hj655.buzz,/,PhishTank_Allegro_ID9525082
 allegro.10239h899.help,/,PhishTank_Allegro_ID9529791
 allegro.10239h899.help,/lokalnie/?id=0t3h0c7a4s3x8p7q1c6c3v7u7u1j0b8f,PhishTank_Allegro_ID9529795
@@ -44294,7 +44320,6 @@ allegro.12200h0592.xyz,/,PhishTank_Allegro_ID9463036
 allegro.12300120h9j8ji.buzz,/,PhishTank_Allegro_ID9528254
 allegro.1230093.qpon,/,PhishTank_Allegro_ID9489949
 allegro.12300g459g54823.lol,/,PhishTank_Allegro_ID9529636
-allegro.12300g459g54823.lol,/,PhishTank_Allegro_ID9529701
 allegro.12300h945b4vnj.best,/,PhishTank_Allegro_ID9529666
 allegro.12300hhbbcc.study,/lokalnie/?id=1o9C7U5T7R3F6P7G2B6Z9a0s5P0Z6R7H,PhishTank_Allegro_ID9506260
 allegro.12301028g.qpon,/,PhishTank_Allegro_ID9487668
@@ -44450,7 +44475,6 @@ allegro.338667.top,/,PhishTank_Allegro_ID9396868
 allegro.34-908n495.click,/,PhishTank_Allegro_ID9470099
 allegro.340549j5.shop,/,PhishTank_Allegro_ID9470177
 allegro.343984y398h.bond,/,PhishTank_Allegro_ID9383268
-allegro.345093093fi23o.lat,/,PhishTank_Allegro_ID9419981
 allegro.345093093fi23o.lat,/,PhishTank_Allegro_ID9419982
 allegro.3453499hh.pl,/,PhishTank_Allegro_ID9479824
 allegro.3453639.click,/,PhishTank_Allegro_ID9418771
@@ -44473,7 +44497,6 @@ allegro.364934g8934.sbs,/,PhishTank_Allegro_ID9374747
 allegro.365345230132f.beauty,/,PhishTank_Allegro_ID9519168
 allegro.38128y9349182.qpon,/,PhishTank_Allegro_ID9478321
 allegro.382378237532134.lol,/lokalnie/?id=3b4f7e9x8z9h5d5g6d5t1w6x4b0d3k6i,PhishTank_Allegro_ID9390708
-allegro.382378237532134.lol,/lokalnie?id=3b4f7e9x8z9h5d5g6d5t1w6x4b0d3k6i,PhishTank_Allegro_ID9390707
 allegro.38472829263932972.click,/,PhishTank_Allegro_ID9374785
 allegro.384t348g34ug.lat,/,PhishTank_Allegro_ID9417908
 allegro.3883191920234871.cfd,/,PhishTank_Allegro_ID9471827
@@ -44968,7 +44991,6 @@ allegro.ofetalokalana547838972523.lol,/,PhishTank_Allegro_ID9484093
 allegro.ofie8123910h.beer,/,PhishTank_Allegro_ID9538144
 allegro.ogloszenie-19215169-dla-ciebie.lat,/,PhishTank_Allegro_ID9428084
 allegro.ogloszenie62191.shop,/,PhishTank_Allegro_ID9486657
-allegro.ogloszenie8167.shop,/,PhishTank_Allegro_ID9491581
 allegro.ok3927812899.biz,/,PhishTank_Allegro_ID9504806
 allegro.okazja-na-lato-2026-34igvr.sbs,/,PhishTank_Allegro_ID9457683
 allegro.okazja-na-lato-2026-34ogv.sbs,/,PhishTank_Allegro_ID9464883
@@ -45223,6 +45245,7 @@ allegro.sma4837h3422.shop,/,PhishTank_Allegro_ID9470474
 allegro.sma9218732g934.cfd,/,PhishTank_Allegro_ID9399278
 allegro.smar0t329283102-s.lat,/,PhishTank_Allegro_ID9417948
 allegro.smar1029638.lat,/,PhishTank_Allegro_ID9422325
+allegro.smar2829.casa,/,PhishTank_Allegro_ID9539267
 allegro.smar3465.shop,/,PhishTank_Allegro_ID9464861
 allegro.smar3465.shop,/,PhishTank_Allegro_ID9464862
 allegro.smar8218910.casa,/,PhishTank_Allegro_ID9538466
@@ -45348,7 +45371,6 @@ allegrolokainie.pl-7543235678.click,/,PhishTank_Allegro_ID9517220
 allegrolokainie.pl-7826385818735.biz,/,PhishTank_Allegro_ID9472682
 allegrolokainie.pl-83012.sbs,/,PhishTank_Allegro_ID9468683
 allegrolokainie.pl-83345.click,/,PhishTank_Allegro_ID9456020
-allegrolokainie.pl-83712.sbs,/,PhishTank_Allegro_ID9468676
 allegrolokainie.pl-841pav5.sbs,/,PhishTank_Allegro_ID9531368
 allegrolokainie.pl-84382.click,/,PhishTank_Allegro_ID9455996
 allegrolokainie.pl-847261842.lol,/,PhishTank_Allegro_ID9509333
@@ -45442,7 +45464,6 @@ allegrolokalne.10209j8j8.shop,/,PhishTank_Allegro_ID9463856
 allegrolokalne.1020smart9381.baby,/,PhishTank_Allegro_ID9455917
 allegrolokalne.1023010h04.shop,/,PhishTank_Allegro_ID9463847
 allegrolokalne.1039837h53.shop,/,PhishTank_Allegro_ID9521100
-allegrolokalne.121she131.xyz,/,PhishTank_Allegro_ID9464696
 allegrolokalne.126325g2.sbs,/,PhishTank_Allegro_ID9421568
 allegrolokalne.12gg92701aaaa.cfd,/,PhishTank_Allegro_ID9533097
 allegrolokalne.12gg92701bbbb.cfd,/,PhishTank_Allegro_ID9534558
@@ -45569,7 +45590,6 @@ allegrolokalne.smar3465.shop,/,PhishTank_Allegro_ID9464867
 allegrolokalne.smar8t473291.shop,/,PhishTank_Allegro_ID9458731
 allegrolokalne.smar8t473291.shop,/,PhishTank_Allegro_ID9458732
 allegrolokalne.smart0298391243.bond,/,PhishTank_Allegro_ID9427739
-allegrolokalne.smart93818192.xyz,/,PhishTank_Allegro_ID9455913
 allegrolokalne.smart93818192.xyz,/,PhishTank_Allegro_ID9455914
 allegrolokalne.smart9438237.xyz,/,PhishTank_Allegro_ID9464774
 allegrolokalne.sonet-id37295014729.shop,/,PhishTank_Allegro_ID9495815
@@ -45585,7 +45605,6 @@ allegrolokalnie.01384921634.shop,/,PhishTank_Allegro_ID9426406
 allegrolokalnie.0138717645325.xyz,/oferta/id-5lrj0-zageszczarka-dpu6555heh-17rok-sprawna-ladna,PhishTank_Allegro_ID9451798
 allegrolokalnie.01836431344.surf,/,PhishTank_Allegro_ID9471051
 allegrolokalnie.0198969230.cfd,/oferta/sprzedam-motocykl-wsk-1983r/03690/dostawa,PhishTank_Allegro_ID9470162
-allegrolokalnie.0213233.cfd,/logowanie/01531,PhishTank_Allegro_ID9417180
 allegrolokalnie.0592812.lol,/logowanie,PhishTank_Allegro_ID9514551
 allegrolokalnie.07032.lat,/,PhishTank_Allegro_ID9375408
 allegrolokalnie.0734819.lat,/oferta/klucz-milwaukee-m18fhiw2f12-502x-nowy/49961?fbclid=iwy2xjawto-_nlehrua2flbqixmabzcnrjbmfwcf9pzbaymjiwmzkxnzg4mjawodkyaaeek7ihflj5g3fcwzhhl-vi2nwot55qahydilqhhrpzhvpkfbovfzntadatnea_aem_-wmxpaqym9boxjiou9h8yw,PhishTank_Allegro_ID9486781
@@ -45684,7 +45703,6 @@ allegrolokalnie.465896ee.top,/oferta/id-eiqayv6d-voucher-na-wakacje-pl-o-wartosc
 allegrolokalnie.465896ee.top,/oferta/id-sb6mthuoq-xbox-series-x-1tb,PhishTank_Allegro_ID9509663
 allegrolokalnie.4754767463483.click,/,PhishTank_Allegro_ID9483475
 allegrolokalnie.479127.top,/,PhishTank_Allegro_ID9536363
-allegrolokalnie.4856564fh.top,/,PhishTank_Allegro_ID9437022
 allegrolokalnie.4856994g.top,/oferta/Zaciskarka-Rothenberger-Romax-4000-yoimovw,PhishTank_Allegro_ID9435918
 allegrolokalnie.487812489.lat,/garmin-fenix-8-pro-47mm-amoled/79712,PhishTank_Allegro_ID9533318
 allegrolokalnie.4892k67.lol,/,PhishTank_Allegro_ID9464736
@@ -45741,6 +45759,7 @@ allegrolokalnie.63963724261563.sbs,/oferta/odkurzacz-pioracy-karcher-puzzi-101-n
 allegrolokalnie.642312fg.top,/oferta/id-unlhh-jacuzzi-intex-pure-spa-nowe,PhishTank_Allegro_ID9464726
 allegrolokalnie.6446383265321.sbs,/,PhishTank_Allegro_ID9477865
 allegrolokalnie.645286yyf.top,/,PhishTank_Allegro_ID9452238
+allegrolokalnie.647813401.lol,/,PhishTank_Allegro_ID9539268
 allegrolokalnie.64839029.xyz,/oferta/lego-technics-12-kg-silnik-zestawy-529608,PhishTank_Allegro_ID9455497
 allegrolokalnie.653462347.lol,/,PhishTank_Allegro_ID9489004
 allegrolokalnie.6583og.top,/,PhishTank_Allegro_ID9431175
@@ -45838,6 +45857,8 @@ allegrolokalnie.8643275.pl,/playstation-5-pro-2tb-pami%C4%99ci/33393,PhishTank_A
 allegrolokalnie.8647835.top,/komputer-gamingowy-nvidia-gefo/57978,PhishTank_Allegro_ID9533333
 allegrolokalnie.8647835.top,/komputer-gamingowy-nvidia-gefo/99709,PhishTank_Allegro_ID9533337
 allegrolokalnie.8653464.lat,/ps5-slim-z-nap%C4%99dem-2-pady-gry-akcesoria/61352,PhishTank_Allegro_ID9519981
+allegrolokalnie.8657453.lat,/iphone-16-pro-512-gb-bateria-9/14392,PhishTank_Allegro_ID9539336
+allegrolokalnie.8657453.lat,/komputer-gamingowy-rtx-5070-ti/86335,PhishTank_Allegro_ID9539344
 allegrolokalnie.867534.lol,/konsola-sony-ps5-zestaw/59206,PhishTank_Allegro_ID9505715
 allegrolokalnie.8695og.top,/,PhishTank_Allegro_ID9435641
 allegrolokalnie.875434.lat,/,PhishTank_Allegro_ID9388959
@@ -45849,6 +45870,7 @@ allegrolokalnie.8841821248.lat,/logowanie?referrer=http://allegrolokalnie.884182
 allegrolokalnie.88434.top,/,PhishTank_Allegro_ID9484467
 allegrolokalnie.888casino26.com,/,PhishTank_Allegro_ID9530607
 allegrolokalnie.88989702073.cfd,/oferta/sprzedam-motocykl-wsk-1983r/11842,PhishTank_Allegro_ID9472263
+allegrolokalnie.89235823.lol,/,PhishTank_Allegro_ID9539329
 allegrolokalnie.89435.top,/,PhishTank_Allegro_ID9462878
 allegrolokalnie.89623.top,/,PhishTank_Allegro_ID9487619
 allegrolokalnie.89643.top,/,PhishTank_Allegro_ID9486645
@@ -45864,6 +45886,8 @@ allegrolokalnie.920302.click,/oferta/steam-deck-oled-1-tb-czarny-2,PhishTank_All
 allegrolokalnie.923568325.cfd,/oferta/Rower-Woom-2-w-kolorze-czerwonym,PhishTank_Allegro_ID9539083
 allegrolokalnie.923568325.sbs,/,PhishTank_Allegro_ID9539203
 allegrolokalnie.9237657235.cfd,/,PhishTank_Allegro_ID9539204
+allegrolokalnie.9237657235.sbs,/,PhishTank_Allegro_ID9539266
+allegrolokalnie.92378235.sbs,/,PhishTank_Allegro_ID9539328
 allegrolokalnie.92399560237-32.icu,/oferta/1996-fiat-ducato-kamper-uszkodzony-silnik/42806,PhishTank_Allegro_ID9453788
 allegrolokalnie.9260325109725.click,/,PhishTank_Allegro_ID9423124
 allegrolokalnie.9260475109817.click,/,PhishTank_Allegro_ID9370987
@@ -45969,6 +45993,7 @@ allegrolokalnie.htmll.sbs,/,PhishTank_Allegro_ID9488171
 allegrolokalnie.htmls.sbs,/,PhishTank_Allegro_ID9502092
 allegrolokalnie.htmml.sbs,/,PhishTank_Allegro_ID9487578
 allegrolokalnie.httpl.sbs,/oferta/Xbox-Series-X-1TB-kontroler-komplet-kabli-stan-jak-nowy/888540713,PhishTank_Allegro_ID9487872
+allegrolokalnie.i-zakupy.sbs,/,PhishTank_Allegro_ID9539289
 allegrolokalnie.id-23843ms432.click,/oferta/hulajnoga-kukirin-g2-master/398166809,PhishTank_Allegro_ID9483631
 allegrolokalnie.id-2384msd354.click,/,PhishTank_Allegro_ID9475406
 allegrolokalnie.id-283ns834s2.club,/oferta/Samsung-s25-ultra-szuka-nowego-w%C5%82a%C5%9Bciciela/985176083,PhishTank_Allegro_ID9477986
@@ -46099,7 +46124,6 @@ allegrolokalnie.lokalna-29182.sbs,/oferta/KuKirin-G3-Pro-Hulajnoga-Elektryczna-2
 allegrolokalnie.lokalna-312328.sbs,/,PhishTank_Allegro_ID9477985
 allegrolokalnie.lokalna-3215.sbs,/oferta/kukirin-g2-max-hulajnoga-elektryczna/149504684,PhishTank_Allegro_ID9476625
 allegrolokalnie.lokalna-3289.sbs,/,PhishTank_Allegro_ID9473739
-allegrolokalnie.lokalna-381.sbs,/,PhishTank_Allegro_ID9492197
 allegrolokalnie.lokalna-3887012.sbs,/oferta/Jacuzzi-ogrodowe-ca%C5%82oroczne-HotSpring-Sovereign-USA/815724073,PhishTank_Allegro_ID9464649
 allegrolokalnie.lokalna-4019.sbs,/,PhishTank_Allegro_ID9523929
 allegrolokalnie.lokalna-4019.sbs,/socket.io?eio=4&amp;transport=polling&amp;t=q2qjdxp,PhishTank_Allegro_ID9523931
@@ -46202,6 +46226,7 @@ allegrolokalnie.lokalna-oferta135573678.lat,/oferta/traktorek-kosiarka-yard-pro-
 allegrolokalnie.lokalna-oferta153573618.lat,/,PhishTank_Allegro_ID9438763
 allegrolokalnie.lokalna-oferta189.top,/,PhishTank_Allegro_ID9500452
 allegrolokalnie.lokalna-oferta23761.lol,/,PhishTank_Allegro_ID9510681
+allegrolokalnie.lokalna-oferta34784242.sbs,/procesor-amd-ryzen-7-7800x3d-8/89848,PhishTank_Allegro_ID9539257
 allegrolokalnie.lokalna-oferta3y7j4.cfd,/,PhishTank_Allegro_ID9456401
 allegrolokalnie.lokalna-oferta56894.shop,/oferta/Logitech-G29-+-peda%C5%82y-i-shifter/873423856,PhishTank_Allegro_ID9443748
 allegrolokalnie.lokalna-oferta57521.sbs,/,PhishTank_Allegro_ID9484982
@@ -46546,7 +46571,6 @@ allegrolokalnie.oferta5647209s.sbs,/,PhishTank_Allegro_ID9532789
 allegrolokalnie.oferta57815810.shop,/,PhishTank_Allegro_ID9468712
 allegrolokalnie.oferta582718.sbs,/,PhishTank_Allegro_ID9386842
 allegrolokalnie.oferta5927.cfd,/oferta/johnathannscloudflarecom-katenscloudflarecom/yret8grru7jzj2ukj5?fbclid=iwcgrvzgnlehrua2flbqixmqbzcnrjbmfwcf9pza80mzc2mjyzmty5nzm3odgaar4l2bi3_s4qcpzm9cp5kplch3caxdcdzwj7nzet3f2qekj5ikre0h5-hpb-kw_aem_rd2hmcpozasdl4rirk4e6w,PhishTank_Allegro_ID9523652
-allegrolokalnie.oferta594060.lat,/,PhishTank_Allegro_ID9460143
 allegrolokalnie.oferta62783.cfd,/hulajnoga-elektryczna-kukirin-/95243,PhishTank_Allegro_ID9527555
 allegrolokalnie.oferta628926.sbs,/,PhishTank_Allegro_ID9435818
 allegrolokalnie.oferta632273848492.sbs,/kukirin-g2-master-2025-w-dobry/78554,PhishTank_Allegro_ID9489176
@@ -46722,6 +46746,7 @@ allegrolokalnie.pi-ofeta089139.shop,/,PhishTank_Allegro_ID9509344
 allegrolokalnie.pi-ofeta201737.shop,/xbox-series-x-1tb-sprawny/88277,PhishTank_Allegro_ID9537567
 allegrolokalnie.pi-ogioszenie3287467121.shop,/,PhishTank_Allegro_ID9536865
 allegrolokalnie.pi-ogioszenie3287467121.shop,/,PhishTank_Allegro_ID9537290
+allegrolokalnie.pi-ogioszenie8932467815483.shop,/,PhishTank_Allegro_ID9539261
 allegrolokalnie.pi85185812.lat,/poco-f8-pro-512gb/67318,PhishTank_Allegro_ID9537587
 allegrolokalnie.pk18zna629.cyou,/,PhishTank_Allegro_ID9534303
 allegrolokalnie.pl-00414-oferta.shop,/baga%C5%BCnik-rowerowy-thule-easyfo/80457,PhishTank_Allegro_ID9399769
@@ -46788,7 +46813,6 @@ allegrolokalnie.pl-4375674.sbs,/,PhishTank_Allegro_ID9432494
 allegrolokalnie.pl-438392.sbs,/,PhishTank_Allegro_ID9478182
 allegrolokalnie.pl-443793.sbs,/,PhishTank_Allegro_ID9482193
 allegrolokalnie.pl-444732.sbs,/,PhishTank_Allegro_ID9477249
-allegrolokalnie.pl-445462.sbs,/,PhishTank_Allegro_ID9478181
 allegrolokalnie.pl-447382.sbs,/,PhishTank_Allegro_ID9476919
 allegrolokalnie.pl-44738382.sbs,/,PhishTank_Allegro_ID9475906
 allegrolokalnie.pl-447393.sbs,/,PhishTank_Allegro_ID9479029
@@ -46999,7 +47023,6 @@ allegrolokalnie.pl-aibt8.sbs,/oferta/apple-macbook-air-13-inch-m2-8gb-ram-256gb-
 allegrolokalnie.pl-aukcja-241367.icu,/,PhishTank_Allegro_ID9534841
 allegrolokalnie.pl-aukcja-354987.icu,/,PhishTank_Allegro_ID9537084
 allegrolokalnie.pl-aukcja.cfd,/oferta/podrecznik-nowa-matematyka-1-edycja-2024-nowa-era-0e5b9e57,PhishTank_Allegro_ID9527038
-allegrolokalnie.pl-aukcja823134.sbs,/,PhishTank_Allegro_ID9524843
 allegrolokalnie.pl-aukcja83472547.sbs,/,PhishTank_Allegro_ID9524137
 allegrolokalnie.pl-aukcja834736245.shop,/,PhishTank_Allegro_ID9520899
 allegrolokalnie.pl-bh5k.sbs,/ipad-11-wersja-czip-a16/11800,PhishTank_Allegro_ID9539190
@@ -47344,7 +47367,6 @@ allegrolokalnie.pl-ticketnumber2094.lat,/,PhishTank_Allegro_ID9482706
 allegrolokalnie.pl-ticketnumber7129312193912.com,/,PhishTank_Allegro_ID9481687
 allegrolokalnie.pl-ticketnumber8231923.lat,/,PhishTank_Allegro_ID9470970
 allegrolokalnie.pl-wbsd.shop,/,PhishTank_Allegro_ID9511829
-allegrolokalnie.pl-wbsd.shop,/allegro,PhishTank_Allegro_ID9511830
 allegrolokalnie.pl-wfde.shop,/,PhishTank_Allegro_ID9514043
 allegrolokalnie.pl-wfde.shop,/allegro,PhishTank_Allegro_ID9514044
 allegrolokalnie.pl-x37yq.sbs,/oferta/super-stan-tablet-apple-ipad-11-a16-128gb-srebrny-gwarancja-apple-pencil-e-4pllw,PhishTank_Allegro_ID9515184
@@ -48009,7 +48031,6 @@ amed.bdll-273312.pro,/captcha.php,PhishTank_Other_ID9411159
 amed.form500013.pro,/captcha.php,PhishTank_Other_ID9401192
 ameiifrsec.kuposhkojme.com,/index.php,PhishTank_Other_ID9440438
 ameknc.com,/,PhishTank_American_Express_ID9524655
-ameknc.com,/amex_tgmail202609,PhishTank_American_Express_ID9524654
 ameknc.com,/amex_tgmail202609/,PhishTank_American_Express_ID9524651
 ameknc.com,/amex_tgmail202609/turnstile-check,PhishTank_American_Express_ID9524649
 ameknxbrebobo.com,/account/,PhishTank_American_Express_ID9508243
@@ -48880,7 +48901,6 @@ app.bonificacaoresgate.pro,/,PhishTank_Other_ID9265186
 app.box.com,/notes/1979373409553?s=hf0m1q56q7pb2shw1ziynzjxckt1607e,PhishTank_Other_ID9206147
 app.box.com,/s/x6agocx9zvj049azirk4aw3xrqdedqhl,PhishTank_Microsoft_ID6188382
 app.box.com,/s/ymr0ltw3hmn8icxebz16gjhcyhqa49w4,PhishTank_Other_ID6367182
-app.campanhapontos.click,/,PhishTank_Bradesco_ID9409086
 app.cc-coins.xyz,/,ThreatFox
 app.centrocomercialmontereoi.com,/login/,PhishTank_Other_ID9537154
 app.centrocomercialmontereoi.com,/logine/,PhishTank_Other_ID9537153
@@ -49506,7 +49526,6 @@ appvax.com,/,ThreatFox
 appvirtuals.webcindario.com,/,PhishTank_Other_ID8442883
 appwalletconnect.wixstudio.com,/us-en,PhishTank_Other_ID9405858
 appwallt-trexez.wixstudio.com,/us-en,PhishTank_Other_ID9445613
-appxfin.com,/xfinity-connecting/authen,PhishTank_Internal_Revenue_Service_ID9511584
 appysalons.com,/,PhishTank_Other_ID8566323
 aprendicesdeapostoles.com,/,ThreatFox
 apricotrun.cc,/,ThreatFox
@@ -49558,7 +49577,6 @@ aquaburnweb.us,/,ThreatFox
 aquamarine-operation-225872.framer.app,/,PhishTank_Comcast_ID9460162
 aquasidra.com,/,ThreatFox
 aquaticpoolsandspas.com,/,ThreatFox
-aquatitewaterproofing.com,/thence.php,URLhaus
 aquaveil.net,/wp/cy/,PhishTank_Other_ID8152898
 aquent-opportunities.com,/,PhishTank_Other_ID9244721
 aqui-cancelar9.webcindario.com,/,PhishTank_Other_ID8376404
@@ -49714,7 +49732,6 @@ argvlidcheck.co,/,ThreatFox
 arhn.in,/,ThreatFox
 ariash.art,/,ThreatFox
 ariaspro.com,/,ThreatFox
-aricomsemmrvicess.weebly.com,/,PhishTank_Other_ID9038706
 aridlogicnode.canyonsyncgate.garden,/,ThreatFox
 arifbhattiministries.com,/,ThreatFox
 arigatodomen.sbs,/,ThreatFox
@@ -50481,7 +50498,6 @@ atualizacaoecontratos.digital,/,PhishTank_Other_ID9469340
 atualizacaomodulopj.digital,/,PhishTank_Other_ID9469332
 atualizacaonetempresas.live,/,PhishTank_Bradesco_ID9463578
 atualizacaoparanetempresas.digital,/,PhishTank_Bradesco_ID9502647
-atualizacaopj-topaz.com,/,PhishTank_Other_ID9467761
 atualizacaopjtopaz.com,/,PhishTank_Other_ID9469339
 atualizacaotopaznetempresa.com,/,PhishTank_Bradesco_ID9469376
 atualizacoesbradescopj.com,/,PhishTank_Other_ID9503617
@@ -50656,7 +50672,6 @@ auspost.customerserviceqd.com,/,PhishTank_Other_ID9461449
 auspost.customerserviceqh.com,/,PhishTank_Other_ID9461452
 auspost.customerserviceqi.com,/,PhishTank_Other_ID9457561
 auspost.customerserviceqp.com,/,PhishTank_Other_ID9457564
-auspost.customerserviceqr.com,/,PhishTank_Other_ID9457565
 auspost.customerserviceqs.com,/,PhishTank_Other_ID9457562
 ausshopit.com.au,/,ThreatFox
 aussiebroadband.framer.website,/,PhishTank_Other_ID9445265
@@ -50886,6 +50901,7 @@ autocitypeninsula.com,/,ThreatFox
 autocont--cz.weebly.com,/,PhishTank_Other_ID9503011
 autocontratacao.indiky.com,/?agx_hash=643e4b3f149a500002a91c6f&amp;code=contapicpay,PhishTank_Other_ID8207387
 autocorebuyer.com,/Es51zI0pMh.co.jp?vpass.ne.jp/index.jsp,PhishTank_Sumitomo_Mitsui_Banking_Corporation_ID9340360
+autoescolaaraucaria.vercel.app,/,PhishTank_Other_ID9539262
 autoescolacnhdigital.vercel.app,/,PhishTank_Other_ID9532928
 autoescolapremium-brown.vercel.app,/,PhishTank_Other_ID9530831
 autoescuelacalderon.com,/,ThreatFox
@@ -51002,6 +51018,7 @@ avistahomes.com.au,/,ThreatFox
 avivtech.org,/,ThreatFox
 aviyanmscs.com,/,ThreatFox
 avjquzsd.seresniki.com,/,ThreatFox
+avkqcf.cfd,/pages/#/index,PhishTank_Other_ID9539258
 avnt7293.pro,/abonnements.php,PhishTank_Amazon.com_ID9531853
 avnt7293.pro,/loading.php,PhishTank_Amazon.com_ID9531863
 avocent.netlify.app,/,PhishTank_Other_ID9504723
@@ -51072,6 +51089,7 @@ aweubyemm.boroo.bet,/e825a402-4c35-47d5-96ef-fa527eb1df5f,URLhaus
 awewerxcvfdthju.eu.cc,/es,PhishTank_Other_ID9434821
 awilddream.com,/,ThreatFox
 awin1.com,/cread.php?awinmid=10178&awinaffid=346289&clickref&p=https://qrco.de/server-side,PhishTank_Other_ID9157234
+awkwardjanette.workers.dev,/,ThreatFox
 awningsdc.com,/,PhishTank_Other_ID8039515
 awpqfbnkjnks.p5yjlf31w6hve12yktuwmenkyz07nk.lat,/erneuern.php,PhishTank_Other_ID9425758
 awqhnjewqjkl.icu,/,ThreatFox
@@ -51467,7 +51485,6 @@ bac-vmckf.com,/,PhishTank_Other_ID9479097
 bac-vnqern.com,/search,PhishTank_Other_ID9467192
 bac.canjepuntos.help,/pa,PhishTank_Other_ID9480916
 bacacceder.help,/pa,PhishTank_Other_ID9431747
-bacaccesoseguro.help,/pa,PhishTank_Other_ID9469297
 bacauifsahf.com,/,PhishTank_Other_ID9454202
 bacbancaenlinea.life,/pa/,PhishTank_Other_ID9478203
 bacbeneficiosplus.lat,/pa,PhishTank_Other_ID9507297
@@ -51597,7 +51614,6 @@ bafkreiab5ysapcxpauuoce6ypqazweq3ipo3nfbx7kbg272tkl4ovublke.ipfs.dweb.link,/,Phi
 bafkreiabbfal5b7xe6kev7pbkz4lw5hd3sppzmvwyj4ea2g5i375xoaet4.ipfs.dweb.link,/,PhishTank_Other_ID9173024
 bafkreiabjfkelqyup4fdgu5c4tdbtjuvsz7fjn2ilzmoplfoq6wh7t5fhi.ipfs.dweb.link,/,PhishTank_Other_ID9165342
 bafkreiabk43pwcagfsbttbzbithukxefexw2k4zigsnynafxqui3lv7pcu.ipfs.dweb.link,/,PhishTank_Other_ID9185541
-bafkreiacjkvslenenm5uci7r2ebbc3ftw2ha7ddzuotf4dcslgs4zxrnmy.ipfs.dweb.link,/,PhishTank_Other_ID9173025
 bafkreiacysuszrparyqho7voecxxehmfptt4au2pgucdfooeocuegwhhti.ipfs.dweb.link,/,PhishTank_Other_ID9185543
 bafkreiacz2ofrisja6jiwr4rcjs543lp2dhqgwistj77ydte3yhcobo5pe.ipfs.dweb.link,/,PhishTank_Other_ID9171936
 bafkreiadcovz6c7jhyjoaxijohptkzswkhrefcrjdbpvuzbarbmb4ekzq4.ipfs.dweb.link,/,PhishTank_Other_ID9183457
@@ -51849,7 +51865,6 @@ bafkreictzdizf7ydk7ndidaobm7fn4bsdrmbyjfpc7usvf6r2nbfcx7zk4.ipfs.dweb.link,/,Phi
 bafkreicubr3jdvx2rojfw4oifvydxcrwg3xfazhcx7txbmjiglwlxxi5mm.ipfs.dweb.link,/,PhishTank_Other_ID9176480
 bafkreicula357ejhihppkyygjhiuqrtjzimpehbk4vuwcic235ps27fgxa.ipfs.dweb.link,/,PhishTank_Other_ID9419102
 bafkreicula357ejhihppkyygjhiuqrtjzimpehbk4vuwcic235ps27fgxa.ipfs.dweb.link,/,PhishTank_Other_ID9419103
-bafkreicv4z4zcu27qo476oomxjv2pixq4gvadfkni2okucx6ymzl4j5t2e.ipfs.dweb.link,/,PhishTank_Other_ID9176482
 bafkreicvguiqi4l3tthsth3momsgsvtbsaibn2szv65z46vaohimz7gaa4.ipfs.dweb.link,/,PhishTank_Other_ID9183528
 bafkreicvku6e3istqbpzmcchmatn2fif45tkdkwk47bgnik6ardryh4tjy.ipfs.dweb.link,/,PhishTank_Other_ID9176485
 bafkreicvq2khbgparyt2mmltuq2b663kvjiom46vpfyglbhttphxa752pe.ipfs.dweb.link,/,PhishTank_Other_ID9176488
@@ -51941,7 +51956,6 @@ bafkreidur2dpezcnekkwha5kv74acmmhvvgnpk7qdinqpyglztndum55hq.ipfs.dweb.link,/,Phi
 bafkreidv6owezbhd3thzqbq474zzqdwdqzxe3finbfngycqhslugm44z3i.ipfs.dweb.link,/,PhishTank_Other_ID9183553
 bafkreidvlysryw5yoqcbn54doikyzmkqrqf55lzjlgl4gxwqyn54yt3bbe.ipfs.dweb.link,/,PhishTank_Other_ID9273690
 bafkreidvnzuvdeh4o7d3codkxtd67k4mpex3i4f253mh27eehywlv44l7e.ipfs.dweb.link,/,PhishTank_Other_ID9176511
-bafkreidwrnulehzgdmht77ikzmpnyjb4rabnectve5pmsplzsnrur3szue.ipfs.dweb.link,/,PhishTank_Other_ID9185590
 bafkreidx3ydhyisvhwztz76vszcpycaoxzjhha5a2dzi2ybrx4h5oiudze.ipfs.dweb.link,/,PhishTank_Other_ID9183554
 bafkreidy4eqjhmleiccnig3wm37odpdgdai7om37f5thvphim755alutd4.ipfs.dweb.link,/,PhishTank_Other_ID9176514
 bafkreidy5c64ytlowv3t4z7etozvkgpzqwz5bqi5cxfqtgg67jrnzwkgoi.ipfs.dweb.link,/,PhishTank_Other_ID9277592
@@ -52641,7 +52655,6 @@ base-matrix.axiomatrix.in.net,/,ThreatFox
 base-point.fastidmatrix.in.net,/,ThreatFox
 base-point.ministobelisk.in.net,/,ThreatFox
 base-point.shapeprimrose.in.net,/,ThreatFox
-base-support.structuralcore.in.net,/,ThreatFox
 base-svc.bereathfertil.in.net,/,ThreatFox
 base-theory.epistemologycore.in.net,/,ThreatFox
 base-vault.epistemegrid.in.net,/,ThreatFox
@@ -52962,6 +52975,8 @@ bdyt.shop,/soFbneFy/,PhishTank_Other_ID9515592
 bdyze.wilhelmglobal.com,/,ThreatFox
 be-duolinguo.bolt.host,/index.html,PhishTank_Other_ID9504176
 be-etic.com,/,ThreatFox
+be-livraison-info.com,/,PhishTank_Other_ID9539331
+be-livraison-info.com,/index.php,PhishTank_Other_ID9539330
 be4yji.firebaseapp.com,/,PhishTank_Other_ID7694421
 be6-extranet.cfd,/,ThreatFox
 be6pec.webwave.dev,/,PhishTank_Other_ID8630810
@@ -52988,7 +53003,6 @@ beacontrace.bond,/,ThreatFox
 beacontweezersbinge.wiki,/,ThreatFox
 beadbikes.xyz,/,ThreatFox
 beak.in,/au/au.js,URLhaus
-beam-logic.structuralcore.in.net,/,ThreatFox
 beam.brightsunray.lat,/,ThreatFox
 beam1-point.praxo6lin.in.net,/,ThreatFox
 beam3meshsite.xenonraypoint.garden,/,ThreatFox
@@ -53235,7 +53249,6 @@ beqbfjhnf.deepspaceparker.com,/,ThreatFox
 beqbfjhnf.deepspaceparker.com,/cb71c505-7ad3-4f95-a83b-b242574ab590,URLhaus
 beqfw.com,/yHoyHLkg/,PhishTank_Other_ID9513977
 beradrome-claim.pages.dev,/,PhishTank_Other_ID9396179
-beragere.tjcr5781135.pro,/,PhishTank_Other_ID9499354
 berakasalon.com,/,ThreatFox
 beranger.tjcr5781135.pro,/,PhishTank_Other_ID9499352
 berasopliber.weebly.com,/,PhishTank_Other_ID9346900
@@ -53499,6 +53512,7 @@ bg-transparency.online,/,ThreatFox
 bg0381.weebly.com,/,PhishTank_Other_ID9503034
 bg678.tamilkamaveri.pro,/,ThreatFox
 bgabrasivi.com,/dag/wogd,PhishTank_Other_ID9508652
+bgbnb88715.workers.dev,/,ThreatFox
 bgcinqcbb3.firebaseapp.com,/,PhishTank_Other_ID8651350
 bgcinqcbb3.web.app,/,PhishTank_Other_ID8651351
 bgclubofnems.org,/,ThreatFox
@@ -53556,7 +53570,6 @@ bhcglobal-1d831.firebaseapp.com,/,PhishTank_Other_ID9121744
 bhcglobal-1d831.web.app,/,PhishTank_Other_ID9121745
 bhcivpxh.derbi.football,/,ThreatFox
 bhcivpxh.derbi.football,/5978b0a2-3018-4bc8-9a77-e6f8309068f3,URLhaus
-bhd-accesde-aqui.weebly.com,/,PhishTank_Other_ID9526974
 bhd-acreditacion-creditos.iceiy.com,/,PhishTank_Bradesco_ID9469390
 bhd-aqui-acceso-2026.weebly.com,/,PhishTank_Other_ID9525688
 bhd-aqui-comprobar-17.iceiy.com,/?i=1,PhishTank_Other_ID9398999
@@ -55397,7 +55410,6 @@ bit.ly,/4fH9Z8j,PhishTank_Other_ID8709160
 bit.ly,/4fHJqzU,PhishTank_Other_ID8712731
 bit.ly,/4fHYwWb,PhishTank_Other_ID8709161
 bit.ly,/4fHbXof,PhishTank_Other_ID8925429
-bit.ly,/4fJBChg,PhishTank_Other_ID8719241
 bit.ly,/4fJN9wM,PhishTank_Other_ID8865965
 bit.ly,/4fJUTis,PhishTank_Other_ID8709163
 bit.ly,/4fJhAD3,PhishTank_Other_ID8876875
@@ -55985,13 +55997,11 @@ blank-iq5vj.in,/,ThreatFox
 blank-jknks.in,/,ThreatFox
 blank-page-redirect-gvai.bolt.host,/JOk~e5gd/okc6Bdru/I9RqR/xcs.php?bbre=ac1407693a#/Q1PZ3K-@&amp;!dxglKienp57fqAVotO1WkSb!@LTFMp4uSReC7Of8aAnBlc3E&amp;!@-SILENTCODERSEMAIL-WIuKzhvsPME0W5012/GkNfI0,PhishTank_Barclays_Bank_PLC_ID9266472
 blank-rfhww.in,/,ThreatFox
-blank-space.abstractlogic.in.net,/,ThreatFox
 blank-vm1ir.in,/,ThreatFox
 blankeneser-buergerverein.de,/,ThreatFox
 blankeyeo.com,/Hinda/Arabelle/Mirabella/Dinah/Staci?Theresa=Benni_rp,URLhaus
 blaold.indebud.hu,/,ThreatFox
 blarneycastle.mom,/,ThreatFox
-blast-zone.explosionjunip.in.net,/,ThreatFox
 blatnoitovar.xyz,/,ThreatFox
 blaxllantas.com,/Chrome.exe,URLhaus
 blaxllantas.com,/google.exe,URLhaus
@@ -56033,7 +56043,6 @@ bleuzeit8zone.dexisnetflow.garden,/,ThreatFox
 blfxuiixplane.icu,/,ThreatFox
 blh.slotmacau188e.top,/,ThreatFox
 blhs.20sport.ir,/,ThreatFox
-blhs.20sport.ir,/e4f17ac4-8903-4ec0-aa5f-85aa252a42bc,URLhaus
 blick-auf-heute.click,/c/de/52_merzchrupalla/?method=pop,PhishTank_Other_ID9520299
 blindajeschile.com,/,ThreatFox
 blindbargains.com,/bargains.php?feed=%22%2F%3E%3Cimg%20src%3D%22https%3A%2F%2Fgoogle.com%2FA9mr10Hg2SMzo.jpg%22%20onerror%3D%22window.location%3DdecodeURIComponent%28atob%28%27Njg3NDc0NzA3MzNhMmYyZjdhNzc3YTZhNmE3MjY5NjUyZTYzNjEzNjYxMzg2MjM3MzQyZDMzMzI2MTYzMmQzNDM1NjU2MTJkMzgzNDY2MzAyZDY2NjIzNjMwMzc2MjM4MzczODM5NjE2MjJlNjM2YzY5NjM2YjJmMzYzNDYzNjQ2NTMwMzQzMDJkMzIzMjMzMzUyZDM0MzU2MjY1MmQ2MTMzNjYzNjJkMzQ2NDYzNjQzNjYzMzgzODM2NjQ2MjY1MmU3MDY4NzA%3D%27%29.replace%28%2F%28..%29%2Fg%2C%20%27%25%241%27%29%29%3B%22%3E,PhishTank_Other_ID9440364
@@ -56303,7 +56312,6 @@ bnimail-owa.vercel.app,/,PhishTank_Microsoft_ID9528360
 bnlbancfs5.blogspot.com,/,PhishTank_Other_ID9508748
 bnlbancfs5.blogspot.com,/?m=1,PhishTank_Other_ID9508747
 bnlbnpb.blogspot.com,/,PhishTank_Other_ID9508593
-bnlfosf.com,/,ThreatFox
 bnmperc.firebaseapp.com,/,PhishTank_Other_ID8013039
 bnmperc.web.app,/,PhishTank_Other_ID8013040
 bnms-mpts.duckdns.org,/new/,PhishTank_Microsoft_ID9440849
@@ -56341,7 +56349,6 @@ boa-user.firebaseapp.com,/,PhishTank_Other_ID7918937
 boa-user.web.app,/,PhishTank_Other_ID7918938
 boafiles.weebly.com,/,PhishTank_Other_ID9456642
 board-browse.com,/captcha,PhishTank_Other_ID9503609
-board-whop.netlify.app,/verify/,PhishTank_Other_ID9267743
 board.go-frame89.one,/,ThreatFox
 board8.creekpath.lol,/,ThreatFox
 boardgamelinks.com,/,ThreatFox
@@ -56471,6 +56478,7 @@ bonemiv812.wixsite.com,/outlook,PhishTank_Other_ID9345239
 bonfwldgaovmxvvza.footstepsdaycare.com,/,ThreatFox
 bonheurterrirose.firebaseapp.com,/,PhishTank_Other_ID8786875
 bonheurterrirose.web.app,/,PhishTank_Other_ID8786876
+bonjourmarket.shop,/content/epcfenbbdh,PhishTank_Other_ID9539318
 bonkbox-claim.web.app,/,PhishTank_Other_ID8010131
 bonnechance.today,/,ThreatFox
 bonniesfolio.com,/,ThreatFox
@@ -56912,7 +56920,6 @@ bradesco.habilitanetempresabr.site,/,PhishTank_Bradesco_ID9502642
 bradesco.hubclientepjs.online,/,PhishTank_Other_ID9451508
 bradesco.ipcadastro.com,/,PhishTank_Other_ID9424271
 bradesco.juridicochat.click,/,PhishTank_Other_ID9423729
-bradesco.modulo-netempresas.com,/,PhishTank_Bradesco_ID9433831
 bradesco.negocioscontapj.click,/,PhishTank_Bradesco_ID9440692
 bradesco.net-empresas.click,/inicio,PhishTank_Bradesco_ID9399226
 bradesco.netatendimentocorporativo.click,/,PhishTank_Bradesco_ID9433845
@@ -56966,7 +56973,6 @@ bradesco.sistemajuridico.live,/,PhishTank_Other_ID9423712
 bradesco.suporteagil.info,/,PhishTank_Bradesco_ID9417989
 bradesco.suporteagil.xyz,/,PhishTank_Bradesco_ID9417993
 bradesco.suporteappempresa.com,/login.php?hash=11895754326a511a3726aee7.94958730,PhishTank_Other_ID9474552
-bradesco.suporteavancado.info,/,PhishTank_Bradesco_ID9409094
 bradesco.suportebr.pro,/,PhishTank_Bradesco_ID9417995
 bradesco.suportecorporativonet.info,/,PhishTank_Other_ID9444065
 bradesco.suportejapj.click,/,PhishTank_Other_ID9441085
@@ -57023,7 +57029,6 @@ bradtkr.com,/,ThreatFox
 bragerfitness.com,/,ThreatFox
 brahmalihvc.online,/,ThreatFox
 brain-api.cognifabric.in.net,/,ThreatFox
-brain-api.cognitivematrix.in.net,/,ThreatFox
 brain-bright.net,/,ThreatFox
 brain-game.cc,/,ThreatFox
 brain-gate.cogniversehub.in.net,/,ThreatFox
@@ -58532,7 +58537,6 @@ californialstateunivrsitylosangeles.ukit.me,/,PhishTank_Other_ID8540432
 californialstateunivrsitylosangeles.ukit.me,/,PhishTank_Other_ID8541590
 californiasmallbusinesslaw.com,/,ThreatFox
 call-back4.dex9taren.in.net,/,ThreatFox
-call-center.exhortshelk.in.net,/,ThreatFox
 call-history-7cda4-default-rtdb.firebaseio.com,/,ThreatFox
 call-history-ecc1e-default-rtdb.firebaseio.com,/,ThreatFox
 call-sign.beckonuncert.in.net,/,ThreatFox
@@ -58743,8 +58747,10 @@ canjepuntoslbac.help,/pa,PhishTank_Other_ID9507176
 canjepuntosrbac.help,/pa,PhishTank_Other_ID9507803
 canjepuntossbac.help,/pa,PhishTank_Other_ID9507175
 canjepuntostbac.help,/pa,PhishTank_Other_ID9507180
+canjepuntostotal.click,/pa,PhishTank_Other_ID9539295
 canjepuntosubac.help,/pa,PhishTank_Other_ID9507801
 canjepuntosvbac.help,/pa,PhishTank_Other_ID9507805
+canjepuntosvip.click,/pa,PhishTank_Other_ID9539296
 canjepuntosxbac.help,/pa,PhishTank_Other_ID9507798
 canjerecompensa.help,/pa,PhishTank_Other_ID9504274
 canjevpuntosbac.help,/pa,PhishTank_Other_ID9507800
@@ -60184,7 +60190,6 @@ chorusportail.web.app,/,PhishTank_Other_ID8459042
 chouhdf.com,/,PhishTank_Other_ID9514084
 chouhdfcom.com,/,PhishTank_Other_ID9514085
 chr-nis.org.rs,/,ThreatFox
-chrisbekner001.duckdns.org,/,ThreatFox
 chrisbrowndetroit.com,/,ThreatFox
 chriskentravel.com,/,ThreatFox
 chrisparrycollection.com,/,ThreatFox
@@ -60241,7 +60246,6 @@ chuyestadare.firebaseapp.com,/,PhishTank_Other_ID8062870
 chuyestadare.web.app,/,PhishTank_Other_ID8062871
 chx.nl,/,ThreatFox
 chyeselq.betpublic.casino,/,ThreatFox
-chylzy.com,/login/smbc-card/lndex.htmi/entathl/jsp,PhishTank_Other_ID9528444
 chyoxppm.bet1xindia.com,/,ThreatFox
 chzkvv.panthertowingfl.com,/,ThreatFox
 chzldmh3.parsbet90.com,/,ThreatFox
@@ -60416,6 +60420,7 @@ cjn37-uyaaa-aaaac-qgnva-cai.raw.icp0.io,/,ThreatFox
 cjree.brinoxal.in.net,/,ThreatFox
 cjsbilliardandsportbar.com,/,ThreatFox
 cjslakesidegrill.com,/,PhishTank_Amazon.com_ID9495942
+cjwdj7hx.roseanne.id,/,ThreatFox
 cjxgcinln.firebaseapp.com,/,PhishTank_Other_ID8352401
 cjxj9gkn.betropol.bet,/,ThreatFox
 cjyssde.eng-eng-eng-synaptigen.com,/,ThreatFox
@@ -60778,7 +60783,6 @@ cliedrift.vori7nex.surf,/,ThreatFox
 cliens143.webcindario.com,/,PhishTank_Other_ID8859514
 client-desktop.wixstudio.com,/us-en,PhishTank_Other_ID9440896
 client-essais-primes.com,/g7GgFaHztFepM/?yujen=marlin48@free.fr&amp;eej=yhoxQkC59KytFq0omTGEKW7s8bKcV5M3-6BX8xapr2YMeN6GgMBuV3K8_Pyc,PhishTank_Amazon.com_ID9527529
-client-gate.howaskfor.in.net,/,ThreatFox
 client-gro.learnstingray.in.net,/,ThreatFox
 client-locker.com,/as.php,PhishTank_Other_ID9116416
 client.appsketch.ai,/,PhishTank_Amazon.com_ID9496410
@@ -60878,7 +60882,6 @@ clnsdns.beer,/,ThreatFox
 clob-polymarket.com,/,ThreatFox
 clockurl.com,/QID,PhishTank_Other_ID7535923
 clodflare.info,/,ThreatFox
-clone-picpay.vercel.app,/,PhishTank_Other_ID9518063
 clos-aut.dis9ualescapes.bet,/,ThreatFox
 close-desktop.wixstudio.com,/desktop-en,PhishTank_Other_ID9406257
 closedfistllc.com,/,ThreatFox
@@ -60895,7 +60898,6 @@ cloud-appsuite.wixstudio.com,/us-en,PhishTank_Other_ID9412832
 cloud-atlas.digital,/,ThreatFox
 cloud-beacon.digital,/,ThreatFox
 cloud-bridge-intro.wixstudio.com,/us-en,PhishTank_Other_ID9409523
-cloud-draft.conceptmatrix.in.net,/,ThreatFox
 cloud-ed980.firebaseapp.com,/,PhishTank_Other_ID8882468
 cloud-ed980.web.app,/,PhishTank_Other_ID8882469
 cloud-fix-ppp7.nyc3.digitaloceanspaces.com,/inbox-f9ll-v7.8-secsiteshield-contin2.html?cep=zjC_7_GT1UXVcrbxIc30WuAn7TLeG1YemaUmVcr1KOlF_813JmBfTUFnIDqHcZlvHj8r9dZsbFcmeWxoohkFLbjZZPMPBuh_BPbe8SFvAN7i6r3oOLsO_UKKVCrPZc6Y9mnR0lVB90HYUsmqMtU7VTQ-KklIdtvshJNhFd1-xeYVZ5NqtQqzIhMBVotGyaJ5pnAYzaaaptN7dpjrf7tr0hoENSrFWivyq9qiiNMn-eEA-OV78_esRw4t6RPjCoe3olE3x_Far1OhhsBsA3OMGIrZIRn5vbkoF-FUU_1Djfi9KLgVZ1EJgApLQFessg7rwiq1uQpaMQvjqxkoD8ngtQtwtsK6ctMN76vTO6W8_74DKd3A9FBB9YJU8bz9-JfuJ7Glv04Lz0aSJ9pf2WtCBS5m6cc2wvh36SdIh1ff-8jtt-DwYXyplWuelfXOhX7ilsAUv0iVraTZbeOHGgmQEShIDx7spcD92WgOu-Rf4bhmDJikPUj_viNE0axjgYEbVHFeCjQ8G8HYmvOnnPgKng&lptoken=174d84ba79d800c01837&affid=10727&sub1=2909&sub2=8eff1030f65845c68d76721a0ce3275d&sub3=&sub4=&sub5=&clickid=932087718,PhishTank_Other_ID9485912
@@ -61046,6 +61048,7 @@ clubinho.assessoriasalus.com.br,/,ThreatFox
 clubmasn.com,/ec,PhishTank_Other_ID9463537
 clubmasx.com,/ec,PhishTank_Other_ID9463633
 clubmiiles.com,/ec,PhishTank_Other_ID9462810
+clubmile.net,/,PhishTank_Other_ID9539256
 clubmiles-vip.top,/com,PhishTank_Other_ID9538772
 clubmilesc.com,/ec,PhishTank_Other_ID9463798
 clubrunning.es,/clasificaciones.php?modalidad=%22%2F%3E%3Cimg%20src%3D%22https%3A%2F%2Fgoogle.com%2FQ04QHYvlKiTVq.jpg%22%20onerror%3D%22window.location%3DdecodeURIComponent%28atob%28%27Njg3NDc0NzA3MzNhMmYyZjYxNmY2NzZkNmI3MDZjNjE3NDcxNjQ3OTJlNzAzNTc5NmE2YzY2MzMzMTc3MzY2ODc2NjUzMTMyNzk2Yjc0NzU3NzZkNjU2ZTZiNzk3YTMwMzc2ZTZiMmU2YzYxNzQyZjY1NzI2ZTY1NzU2NTcyNmUyZTcwNjg3MA%3D%3D%27%29.replace%28%2F%28..%29%2Fg%2C%20%27%25%241%27%29%29%3B%22%3E,PhishTank_Other_ID9425771
@@ -61242,7 +61245,6 @@ coalesce-construction.com,/,ThreatFox
 coalfact-tear.xyz,/avast_update,URLhaus
 coalwork.info,/,ThreatFox
 coat-check.selzovestments.in.net,/,ThreatFox
-coat-logic.enameledtack.in.net,/,ThreatFox
 coat-svc.covercotehour.in.net,/,ThreatFox
 cobalt.walnutrivet.sbs,/,ThreatFox
 cobaltwave.cc,/,ThreatFox
@@ -61395,7 +61397,6 @@ cognitoforms.com,/Treasury2/_,PhishTank_Internal_Revenue_Service_ID8429501
 cognitoforms.com,/TrentLogan1/AttService,PhishTank_Other_ID8622901
 cogv.bet90forward.win,/,ThreatFox
 cohesrc.cyou,/,ThreatFox
-coiintrkr-connect.wixstudio.com,/login-en,PhishTank_Other_ID9447392
 coin.magicgoldlogic.lat,/,ThreatFox
 coin.puregoldkey.lat,/,ThreatFox
 coin4taskhub.verd7loka.bet,/,ThreatFox
@@ -61902,8 +61903,6 @@ confirms-account-disable.start.page,/,PhishTank_Facebook_ID8309529
 confirms-account-problems.start.page,/,PhishTank_Facebook_ID8183139
 confirmsaccount.start.page,/,PhishTank_Facebook_ID8001847
 confirmsubscription.com,/h/y/B6733BEC265EB698,PhishTank_Other_ID7487077
-confirmwebde6935-verify.webflow.io,/,PhishTank_Other_ID9411301
-confirmyouraccountdetails.firebaseapp.com,/,PhishTank_Other_ID8598458
 confirmyouraccountdetails.web.app,/,PhishTank_Other_ID8598457
 confix-centrepages.pages.dev,/,PhishTank_Other_ID8936996
 conflrmacct.weebly.com,/,PhishTank_Other_ID9421503
@@ -62261,7 +62260,6 @@ coolstone6.wi2sorim.in.net,/,ThreatFox
 cooltool.jp.net,/,ThreatFox
 coop-fresh.com,/,ThreatFox
 coopaltoviterbese.it,/,ThreatFox
-cooperative-lifecycle-077926.framer.app,/,PhishTank_Other_ID9490564
 cooperative-transform-527387.framer.app,/,PhishTank_Other_ID9430127
 cooperative-ways-450863.framer.app,/,PhishTank_Other_ID9490554
 coordinadorc5i.weebly.com,/,PhishTank_Other_ID9333047
@@ -62830,7 +62828,6 @@ credit-pichincha-hub.lovable.app,/,PhishTank_Other_ID9369390
 credit-pichincha-prestamos.lovable.app,/,PhishTank_Other_ID9368536
 credit-portalpichinc.lovable.app,/,PhishTank_Other_ID9363191
 credit-quick-wish.lovable.app,/,PhishTank_Other_ID9381495
-credit-securipass.xyz,/,PhishTank_Other_ID9469861
 credit-securipass.xyz,/,PhishTank_Other_ID9469862
 credit-seguro-pichincha.lovable.app,/,PhishTank_Other_ID9361501
 credit.agricole-aide.com,/,PhishTank_Other_ID9501605
@@ -62906,7 +62903,6 @@ creitic.online,/contact/,PhishTank_Other_ID9538024
 creitic.online,/de/,PhishTank_Other_ID9538924
 crejizo.auction,/lxR2jtTWdKz92f!YltbA/,PhishTank_Other_ID9419133
 cremola.com.ro,/,ThreatFox
-creneau-mrelay13.com,/as.php,PhishTank_Other_ID9370238
 creneaumondlal.com,/,PhishTank_Other_ID9370494
 crenosquickfire.com,/,ThreatFox
 creoantofagasta.cl,/,ThreatFox
@@ -62997,7 +62993,6 @@ crtscpewxi.firebaseapp.com,/,PhishTank_Other_ID8263671
 crtscpewxi.web.app,/,PhishTank_Other_ID8263672
 cruahop.shop,/,ThreatFox
 cruch.online,/,ThreatFox
-crucial-black-tporkft5.edgeone.dev,/,PhishTank_Other_ID9508543
 cruisevacationhq.com,/,ThreatFox
 crushanytics.duckdns.org,/,ThreatFox
 crustandcream.com,/,ThreatFox
@@ -63472,7 +63467,6 @@ cwlmkkbiw.firebaseapp.com,/,PhishTank_Other_ID8171432
 cwlmkkbiw.web.app,/,PhishTank_Other_ID8171434
 cwlzmg.lillafunfit.hu,/,ThreatFox
 cwngs51lkwg-pxqzvpli-9ce26c-cwn77c-cku.pages.dev,/,PhishTank_Other_ID9494541
-cwpanama-migration.weebly.com,/,PhishTank_Other_ID9504534
 cwpanama-update.weebly.com,/,PhishTank_Other_ID9467921
 cwpeuz.info,/7oBbyg,PhishTank_Other_ID9520829
 cwpjb6yk.arch-vivarium.lat,/,ThreatFox
@@ -63821,6 +63815,7 @@ dagasm.com,/read/sibhxwacij,PhishTank_Other_ID9537132
 dagasy.com,/content/epcfenbbdh,PhishTank_Other_ID9537113
 dagatructiep.fashion,/,ThreatFox
 dagavf.com,/content/epcfenbbdh,PhishTank_Other_ID9537117
+dagawb.com,/content/epcfenbbdh,PhishTank_Other_ID9539317
 dagayg.com,/content/epcfenbbdh,PhishTank_Other_ID9537131
 dagayk.com,/content/epcfenbbdh,PhishTank_Other_ID9537122
 dagayq.com,/content/epcfenbbdh,PhishTank_Other_ID9537121
@@ -64086,7 +64081,6 @@ data-collection-neon.vercel.app,/,PhishTank_Other_ID9351280
 data-collection-neon.vercel.app,/,PhishTank_Other_ID9351281
 data-core-logic-resource-center.wiki,/,ThreatFox
 data-flow-ops-mgr.co,/,ThreatFox
-data-form.howaskfor.in.net,/,ThreatFox
 data-glow.thora8lin.lat,/,ThreatFox
 data-hub-2312.com,/,ThreatFox
 data-image-svg--base64.b-cdn.net,/,ThreatFox
@@ -64946,7 +64940,6 @@ desktop-unknown.wixstudio.com,/home,PhishTank_Other_ID9405928
 desktop-update-en.wixstudio.com,/en-us,PhishTank_Other_ID9458869
 desktop-us-ledgre.wixstudio.com,/live,PhishTank_Other_ID9411464
 desktop-used.wixstudio.com,/desktop-en,PhishTank_Other_ID9402905
-desktop-used.wixstudio.com,/enus,PhishTank_Other_ID9399775
 desktop-version.com,/,ThreatFox
 desktop.ch,/,ThreatFox
 desktopap-live.wixstudio.com,/us-en,PhishTank_Other_ID9446645
@@ -65204,7 +65197,6 @@ dghjnmed.weebly.com,/,PhishTank_Other_ID9111938
 dghomes.properties,/,ThreatFox
 dgjxatg.jimmieleeautosales.com,/,ThreatFox
 dgl7533w.melbetir.bet,/,ThreatFox
-dgl7533w.melbetir.bet,/?ublib=bdca0d5f-c783-454c-9977-b1b1f243c1bf,URLhaus
 dglambert1.wixsite.com,/my-site-2,PhishTank_Other_ID9220778
 dgmik.snydersflowershop.com,/,ThreatFox
 dgmnroa.elpatronrestaurantbar.com,/,ThreatFox
@@ -65353,7 +65345,6 @@ did.li,/Gov-co-IL,PhishTank_Other_ID9494964
 did.li,/Gov-co-he,PhishTank_Other_ID9492295
 did.li,/GvWaa,PhishTank_Other_ID9102729
 did.li,/GwVOf,PhishTank_Other_ID9508250
-did.li,/H1gsl,PhishTank_Other_ID9475821
 did.li,/H63rl,PhishTank_Other_ID9286869
 did.li,/HYrUY,PhishTank_Other_ID9475831
 did.li,/Hd6TY,PhishTank_Other_ID9146023
@@ -65797,6 +65788,7 @@ dizzy-ocelot-025652.framer.app,/,PhishTank_Other_ID9473339
 djaczx9h.btyek.online,/,ThreatFox
 djaloliddinovasaodat345-alt.github.io,/instabot,PhishTank_Other_ID9430930
 djbouche.net,/,ThreatFox
+djbpmstudio.com,/,ThreatFox
 djdfav.villas-restaurant.com,/,ThreatFox
 djdfopslmcueo.weebly.com,/,PhishTank_Other_ID9346899
 djdjdjdjdjdjdjjdjdjdjdjdjjddjdkhkjhk.weebly.com,/,PhishTank_Other_ID9318525
@@ -65912,7 +65904,6 @@ dlekwhcfggfq.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click,/ab753813-65b8-4970-99d4
 dlglamy.uk.cc,/my/,PhishTank_Other_ID9452858
 dlglhsuajw.uk.cc,/my/home.html,PhishTank_Other_ID9465500
 dlied6.bytes.tcdnos.com,/invc/xfspeed/qqpcmgr/module_update/fid1747209335_RunQMhunt.exe.zip,URLhaus
-dlied6.bytes.tcdnos.com,/invc/xfspeed/qqpcmgr/module_update/fid1747308966_RunQMhunt.exe.zip,URLhaus
 dlied6.bytes.tcdnos.com,/invc/xfspeed/qqpcmgr/module_update/fid1747640975_RunQMhunt.exe.zip,URLhaus
 dlied6.bytes.tcdnos.com,/invc/xfspeed/qqpcmgr/module_update/fid1747732120_RunQMhunt.exe.zip,URLhaus
 dlied6.yz.tcdnos.com,/invc/xfspeed/qqpcmgr/module_update/fid1746669868_RunQMhunt.exe.zip,URLhaus
@@ -66429,7 +66420,6 @@ docs.google.com,/document/d/e/2PACX-1vTEcBRofm9hcrdMzZ8G7KtNeypnRPR1s7BvYoIT3r8j
 docs.google.com,/document/d/e/2PACX-1vTPhoLmraa4dir0Lg8Z5YHQlJWbZp0qkYpC3jax6d3L0Hs6n23KPm2IQgCCjvBvug5Th443jjBzs2uv/pub,URLhaus
 docs.google.com,/document/d/e/2PACX-1vTXbzc1uqdFYATGorLKpuLcUUNxtYE_rkpoA8Rf_VV71GJtPJxL4VDc9eHP7wSEdUyWE38CEGv4bxLh/pub,PhishTank_Other_ID8601510
 docs.google.com,/document/d/e/2PACX-1vTcfDv_0SrlqbMtFzi6HIVmiKKNsFqd5bubueM-s-MzPZFsva62ZYnCOy-PHkZysUhuDDL0YHlYAjYE/pub,URLhaus
-docs.google.com,/document/d/e/2PACX-1vTh3iya0ov7P49Rk9eJOZGqnUEUk8FNa2mkY389heRtlwx4MNOyHl1MlhnWBZ8sxnsqTk8i5uySMQ68/pub?embedded=true,PhishTank_Royal_Bank_of_Canada_ID7206938
 docs.google.com,/document/d/e/2PACX-1vTyg409rJv4Omi3OuJyjsc6AjZfllUuz37ofzBpJJiHmrewoH2EHp2PwbflLGYy_YZQDRLdwcaeJVD5/pub,URLhaus
 docs.google.com,/drawings/d/1-19PPcI1aedKASy2zS-fHsb2_sR3GWHaaIz4M3BcRk4/edit,PhishTank_Other_ID9401245
 docs.google.com,/drawings/d/1-2qA7X9WPRGzRrspXeitkn-yks1zrik84aiTnfWzzmE/edit,PhishTank_Other_ID9498884
@@ -66680,7 +66670,6 @@ docs.google.com,/drawings/d/1THgmIw-9rr1IhCwjcB3R1hYVEtESwUQPpXNMXPwx5UM/edit,Ph
 docs.google.com,/drawings/d/1TOiZC5OA4qlRp_FrreGrftxRX3jCKSnocxBLvGHXDe0/edit,PhishTank_Other_ID9475786
 docs.google.com,/drawings/d/1TPZ8mZKuod4sj532TIVwR6G_EfCgnPG103EAhBNmeDE/edit,PhishTank_Other_ID9123548
 docs.google.com,/drawings/d/1TSuw3jCDuGXgxnnxmEPsBQCvyuVem_cJp172HW4XZ0U/edit,PhishTank_Other_ID9464948
-docs.google.com,/drawings/d/1TZZQQC9y_SBR_pmZOsnwYbMXvEsN66X8M5UJj55Cpdo/edit,PhishTank_Other_ID9498858
 docs.google.com,/drawings/d/1TbjmgMas2HdnDSmI2RnjuONW8E100YEzp67cIgPp--U/edit,PhishTank_Other_ID9475743
 docs.google.com,/drawings/d/1TmN6cfD4OZchQXObui2i16fh_0YA3X6WUPca48zH96c/edit,PhishTank_Other_ID9405203
 docs.google.com,/drawings/d/1Tpw2rZ2T5Ol_LOLokAQzc-NMiAiFWxVnltvJj_3qxfg/edit,PhishTank_Other_ID9380521
@@ -67932,7 +67921,6 @@ docs.google.com,/presentation/d/e/2PACX-1vQMWOm8yYZoAEkuP7ZawdQR8lTUXWxwhoDfZG8L
 docs.google.com,/presentation/d/e/2PACX-1vQMZqI5s3Z2WCadLEhv6gpGJHeGHJBMSlahzuxoouyBhwbXpi5Mzhw9q86iqKCGzX9uWywwXQxwelks/pub?start=false&loop=false&delayms=3000,PhishTank_Other_ID8267280
 docs.google.com,/presentation/d/e/2PACX-1vQMfKkD9UVBW7kC9pjSANNREQIgDK3W7w4ihNCqhDPqTJDJpnYAg0AEXjfXcu-j_r0waYTUPJwPmQOf/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p,PhishTank_Other_ID9280731
 docs.google.com,/presentation/d/e/2PACX-1vQMfKkD9UVBW7kC9pjSANNREQIgDK3W7w4ihNCqhDPqTJDJpnYAg0AEXjfXcu-j_r0waYTUPJwPmQOf/pub?start=false&loop=false&delayms=3000&slide=id.p,PhishTank_Other_ID9280732
-docs.google.com,/presentation/d/e/2PACX-1vQMnU4RG_PABLwnSDhRqGE7zxgY05TMcCyO6AtQW-xrMYpb-jqcSEUaUQsr270PStywRzr1KfMP6fRb/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID9059277
 docs.google.com,/presentation/d/e/2PACX-1vQMtmG353tIbHFbPxd3OQENHylWwQtvAiVh-YiUNGYr6E0GH-SH2xYjAWlgzzDhZk6FzMQ2ieYhTbrC/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p,PhishTank_Other_ID8438353
 docs.google.com,/presentation/d/e/2PACX-1vQMvBIM2DykcmAsGh5whN6elak9E9A0aL68fyqP9DNzf22TqbzpFqN1LKyjC6JiIhA3MTZfq2xGnS3T/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8791292
 docs.google.com,/presentation/d/e/2PACX-1vQMxtNr_6CoYMWPsC4-zXPjZIpt0EWIbkwdmfhLkvJ22ztxYnWfdphGFPb6zkaoNa8Us3MODCtvWpx-/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8377761
@@ -68024,7 +68012,6 @@ docs.google.com,/presentation/d/e/2PACX-1vQRJLsYfrx1b5mIwtndaqDhrw-7s628tmjVxvHQ
 docs.google.com,/presentation/d/e/2PACX-1vQRMynTthKZeInCVCGJt83erK7AeEE2oK58rG9JmyHzUDMBMjTnrbHcm71l-3BGVdekYulRrW3vcmq0/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8445869
 docs.google.com,/presentation/d/e/2PACX-1vQRbwStMcnXAmJ6xcnLuPrv0wIatwLp15umK3u71slJ8-bC8hfmj5HN6nfEyrqdcaj0xoIiIxQR2i1k/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8699909
 docs.google.com,/presentation/d/e/2PACX-1vQRbyggPobp-OX8bcrhWEpVmC1T0PBZG-h4xrdP0IfAE-dosqAn6XzWpjh_rbTH1Nc6kOXfj5Am1ESw/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p,PhishTank_Other_ID8596667
-docs.google.com,/presentation/d/e/2PACX-1vQRiCRnMBGEeU9geoC6pBujgKRO-qBW9vG-QnIZ0deREmZAGRaRRWCYohx59TP69AyRbNghbM_ahloM/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8977488
 docs.google.com,/presentation/d/e/2PACX-1vQRjMKRH8D4QFc2V5tKjcDG46YCH_oI2zprINEZAaohYtbacib-8XGbMhnvJDFeEA96ApikoYK_3OSp/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p,PhishTank_Other_ID8333604
 docs.google.com,/presentation/d/e/2PACX-1vQRjMKRH8D4QFc2V5tKjcDG46YCH_oI2zprINEZAaohYtbacib-8XGbMhnvJDFeEA96ApikoYK_3OSp/pub?start=false&loop=false&delayms=3000&slide=id.p,PhishTank_Other_ID8334749
 docs.google.com,/presentation/d/e/2PACX-1vQRlbmI8D38qaAvwnUeBPIUz3qQ6evZqDTezcDsRsapJafSOKl3CtofwE_CmEX18M_Vs7lfaoKcTWkn/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID9068890
@@ -68102,7 +68089,6 @@ docs.google.com,/presentation/d/e/2PACX-1vQW6njIl5-q8gZFLYKAzWH_RBe9NOMGk95UPGhg
 docs.google.com,/presentation/d/e/2PACX-1vQWDxpuCnwVZc-b0XJzGL__BhSWHdvjAmK5kZKaiWE8eZd9URyEb9ydk0zWtBayXF8XonGhbobOSkt2/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8613218
 docs.google.com,/presentation/d/e/2PACX-1vQWI7PUv8tC4yEB-ib0-A9047752gy5RPseyKeF_FyHV9GuWqf8RaK5f1i50RXgsJUv6sQTjbWeX7fS/pub?start=false&loop=false&delayms=3000,PhishTank_Other_ID8698136
 docs.google.com,/presentation/d/e/2PACX-1vQWJwYhimSRLKTT3bzk2DdkbFHIPiAMRskt_YwlqxOjl-JDSXM0PpDvpfDFaNDxqbicXU35Z5jbw6vP/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8964448
-docs.google.com,/presentation/d/e/2PACX-1vQWMRju2GktNaaqQLWnwg6pnUeg23PhlbjVKCQOU9uGTPknRQANLd9iXO-ArJot_um0wVBYt_83ivuz/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p,PhishTank_Other_ID8382110
 docs.google.com,/presentation/d/e/2PACX-1vQWO4hw7ASLvLpyQLqnMuQk7xBb-FvPayk3MoBktFdxAhMT7tUD60tXoNvFwrSvW14vxqAbEtN7liYA/pub?start=true&amp;loop=true&amp;delayms=3000&amp;slide=id.p,PhishTank_Other_ID8848141
 docs.google.com,/presentation/d/e/2PACX-1vQWO4hw7ASLvLpyQLqnMuQk7xBb-FvPayk3MoBktFdxAhMT7tUD60tXoNvFwrSvW14vxqAbEtN7liYA/pub?start=true&loop=true&delayms=3000&slide=id.p%3E,PhishTank_Other_ID8848140
 docs.google.com,/presentation/d/e/2PACX-1vQWWvPeeaeHhIRADwtE86IXs_h_HtwQLYc9D2utV4pGOmNYWw9jYzk9yv_07-bFZsAjbIxlq2rc-2iv/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8969887
@@ -69968,7 +69954,6 @@ docs.google.com,/presentation/d/e/2PACX-1vSKzol-6WMEo3UNgiDgTu250CiVlOwfOWySrn-K
 docs.google.com,/presentation/d/e/2PACX-1vSL6eapzsucTejK3PaApMkl9wucUHOzcva3Z1ZueNuRR64BvqIdRciRPXNCjNRf7qAumkIKOBAoSLrM/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p,PhishTank_Other_ID8383544
 docs.google.com,/presentation/d/e/2PACX-1vSL9_FiL-6yyXQTXWlf4aGsmr6XqBhuiOZBwKj3DNrurkSN00lSUJcnbNzBb4ISdzmyBJbKhm3WP8ZU/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8992945
 docs.google.com,/presentation/d/e/2PACX-1vSLO5XXjTBfVei4CC2dHsMh6GZ9OA_KG9KNuaDVxCUcp6XHs64XXgYGt0LMWiRPDq3RxWF18-YbMw0I/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8674281
-docs.google.com,/presentation/d/e/2PACX-1vSLP3vAGjWvhW8T2oXygudfpFZRK9HkdpXdeUK1EgtPlM1eooM3xCZAljuh28gpB6AtNa5aexN9VCvt/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8628075
 docs.google.com,/presentation/d/e/2PACX-1vSLQq0bMjoepG3uLbegnRMrw930A2N9nde_ILZHo9M2xXeAUzoJ_oDTxdxAxGdycV3vHLXkPb0l7a_T/pub,PhishTank_Other_ID9227134
 docs.google.com,/presentation/d/e/2PACX-1vSLQq0bMjoepG3uLbegnRMrw930A2N9nde_ILZHo9M2xXeAUzoJ_oDTxdxAxGdycV3vHLXkPb0l7a_T/pub?start=false&loop=false&delayms=3000,PhishTank_Other_ID9227135
 docs.google.com,/presentation/d/e/2PACX-1vSLSv4N6OwK4W_CBI6nICXS6B6qxhOOOk5Af6_rESlc7TNz7J3VTV9ekiPcXqyvo4ju-Iz23qiVQqs5/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8317631
@@ -70486,7 +70471,6 @@ docs.google.com,/presentation/d/e/2PACX-1vSqe03oekKEbFF5Q_N0qmtfzg7H4bhM9lhcR4rh
 docs.google.com,/presentation/d/e/2PACX-1vSqh5-K5jDewWipOxB6zcrq59d4I5z2mLN8kkwNs1DpH8J4WqhWbR8zcizD3SznWj8ch8m0tvahe3dZ/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8497046
 docs.google.com,/presentation/d/e/2PACX-1vSqh7zTUVvIwBo1o5p04X96sHmNFoNO56cLTmR44-UTViL1CV5sfRwTfL_iULW8PKfdWluGJaGAcqD4/pub?start=false&amp;loop=false&amp;delayms=1000,PhishTank_Other_ID8329663
 docs.google.com,/presentation/d/e/2PACX-1vSqm0wPYy8wsuEZLaraeaO_Vmmi9if1YDJfSSPfv30phhmQJFAxTiF1DJjxrOBZeuAwJAn5VMQrVOdX/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8445049
-docs.google.com,/presentation/d/e/2PACX-1vSqtzLdtuXKNT02ZzE0DA0rR9QlogVriptOaR34bQdxQN6v4pI-NQgIFmDIrGkjViV1Og25bgTdpwlQ/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8620130
 docs.google.com,/presentation/d/e/2PACX-1vSquud-rEdK9ZP_6PXzGPF7H65-Av35VchkHCopcfHxJC0Ip-cECCa1WC5lrveH6vI2hVlpK2hW804R/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8470801
 docs.google.com,/presentation/d/e/2PACX-1vSqv9pHU4C8ozuI37rIq7zjjehWFa-Yj-B8oho7hViG8pGV7RE-zaxKYa1JJxXXWvKh_XjhWi82KpJO/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8444380
 docs.google.com,/presentation/d/e/2PACX-1vSr-d5qooXxWjSMWsJBobcvj_761Y5o3IOefaSp_eemkxoHE_UlBV-5kZWwq6p_tKBQcNZGAhNwRbEp/pub?start=false&amp;loop=false&amp;delayms=3000,PhishTank_Other_ID8565469
@@ -71814,7 +71798,6 @@ domicilerelais.pro,/74946779,PhishTank_Other_ID9383156
 domini.aruba101.online,/MbPFU9A2JA0%26list%3DRDMbPFU9A2JA0%26start_radio%3D1/,PhishTank_Other_ID9525446
 domini.aruba101.online,/MbPFU9A2JA0&amp;list=RDMbPFU9A2JA0&amp;start_radio=1/captcha.php,PhishTank_Other_ID9525442
 domini.aruba101.online,/MbPFU9A2JA0&amp;list=RDMbPFU9A2JA0&amp;start_radio=1/login2.php,PhishTank_Other_ID9525445
-domini.comunicazionistaff.cc,/MbPFU9A2JA0&amp;list=RDMbPFU9A2JA0&amp;start_radio=1/captcha.php,PhishTank_Other_ID9536628
 dominikcaco.sk,/control/panel/index.php,PhishTank_Other_ID8101820
 dominikcaco.sk,/control/panel/login.php,PhishTank_Other_ID8101821
 domirunway.com,/,ThreatFox
@@ -71920,6 +71903,7 @@ dop-servicesdop-bhdpspps.weebly.com,/,PhishTank_Other_ID9450388
 dop0l-ya22.s7pfuk.sbs,/d/n77za/1779373028659#selectedbank15,PhishTank_Other_ID9430303
 dopomoeys.com,/,ThreatFox
 doppe.io,/,ThreatFox
+doppio-click.it,/,ThreatFox
 doppiozero-biella.it,/,ThreatFox
 dopz07hy.rewardbet.bet,/,ThreatFox
 doqr.behtarin-site-shartbandi-football.bet,/,ThreatFox
@@ -72002,6 +71986,7 @@ download.doumaibiji.cn,/doumai/tips/v1.0.1.11/tips_01.exe,URLhaus
 download.get-version.com,/,ThreatFox
 download.globalprotection.services,/,ThreatFox
 download.haozip.com,/haozip.100021.exe,URLhaus
+download.haozip.com,/uniondown/haozip_tiny.201805.exe,URLhaus
 download.kaobeitu.com,/kaobeitu/mini/v1.0.7.16/mini_04.exe,URLhaus
 download.kaobeitu.com,/kaobeitu/news/v1.0.7.31/news_01.exe,URLhaus
 download.kbcard.com,/security/wizvera/delfino-g3/delfino-g3.exe,URLhaus
@@ -72157,7 +72142,6 @@ dpdlocakj.top,/com/,PhishTank_Other_ID9410445
 dpdlocakk.shop,/com/,PhishTank_Other_ID9410525
 dpdlocakl.cyou,/com/,PhishTank_Other_ID9410607
 dpdlocakm.shop,/com/,PhishTank_Other_ID9410522
-dpdlocakn.cyou,/com/,PhishTank_Other_ID9410614
 dpdlocakn.shop,/com/,PhishTank_Other_ID9410523
 dpdlocakp.cyou,/com/,PhishTank_Other_ID9410373
 dpdlocakq.top,/com/,PhishTank_Other_ID9410440
@@ -74773,7 +74757,6 @@ ee-help-account.firebaseapp.com,/,PhishTank_Other_ID8736476
 ee-help-account.web.app,/,PhishTank_Other_ID8736477
 ee-info-update.web.app,/,PhishTank_Other_ID8721012
 ee-manage-account.web.app,/,PhishTank_Other_ID8669727
-ee-new-payment.web.app,/,PhishTank_Other_ID8443354
 ee-payment-error.web.app,/,PhishTank_Other_ID8708465
 ee-payment-issue.web.app,/,PhishTank_Other_ID8421106
 ee-payment-method-issue.firebaseapp.com,/,PhishTank_Other_ID8425793
@@ -75866,7 +75849,6 @@ enterprise-solution-buffer-utility-log.wiki,/,ThreatFox
 entertainment.zincgroup.com,/,ThreatFox
 enterthechangeroom.com,/,ThreatFox
 enthusiastic-cassava-092831.framer.app,/,PhishTank_Other_ID9459283
-entity-hub.conceptmatrix.in.net,/,ThreatFox
 entity-hub.ontofluxion.in.net,/,ThreatFox
 entity-map.ontologicalflux.in.net,/,ThreatFox
 entity-node.ontocorex.in.net,/,ThreatFox
@@ -76221,7 +76203,6 @@ errxxcnl.gamee.bet,/,ThreatFox
 ersenwe-43257.firebaseapp.com,/,PhishTank_Other_ID8201612
 ersenwe-43257.web.app,/,PhishTank_Other_ID8201613
 ersfilter-my.sharepoint.com,/:x:/r/personal/nradonich_ersfilter_com/_layouts/15/WopiFrame.aspx?guestaccesstoken=t6T%2fHN1dKbYHlYX%2beIMbaZufA43rrGZ6%2faAAewNocDI%3d&docid=1_18168db23429e45f29fdf2e7be120efc4&wdFormId=%7BB9970F62%2D44C3%2D4D09%2D9929%2D6E1EB652DA57%7D&action=formsubmit,PhishTank_Other_ID6379541
-ersfrtiolmnytred.weebly.com,/,PhishTank_Other_ID9275641
 erst.foersteron.work,/,ThreatFox
 erstkommunion-beckum.de,/101/0102/index.php,PhishTank_Other_ID9260060
 erstsetes-redaaajja.info,/,PhishTank_Amazon.com_ID9539154
@@ -76288,6 +76269,7 @@ escrowbank.co,/nuthatch.php,URLhaus
 escrowbank.co,/spathe.php,URLhaus
 escrowbank.co,/wallet/plugins/raphael/dev/test/apall.php,URLhaus
 escrowbank.co,/wallet/plugins/raphael/dev/test/undecisive.php,URLhaus
+escuelaloca.it,/,ThreatFox
 escuelasuniversitariasgimbernat-eug.weebly.com,/,PhishTank_Other_ID9092375
 esdjhbosd.komi.io,/,PhishTank_Other_ID8495905
 esdjhgfghj.weebly.com,/,PhishTank_Other_ID9010414
@@ -77185,7 +77167,6 @@ extension-io-trustt.wixstudio.com,/us-en,PhishTank_Other_ID9424719
 extension-iocdn.wixstudio.com,/extension,PhishTank_Other_ID9466209
 extension-metamask.wixstudio.com,/en-us,PhishTank_Other_ID9413836
 extension-wellt-exodsu.zapier.app,/,PhishTank_Other_ID9342638
-extensionatumic.wixstudio.com,/enus,PhishTank_Other_ID9391769
 extensionmetmask.wixstudio.com,/us-en,PhishTank_Other_ID9401114
 extensions14718.sytes.net,/,ThreatFox
 extensionscoinbaisus.wixstudio.com,/en-ext,PhishTank_Other_ID9454665
@@ -77197,12 +77178,10 @@ exteriorenlinea.z13.web.core.windows.net,/empresas.html,PhishTank_Other_ID953179
 exteriorenlinea.z13.web.core.windows.net,/personas.html,PhishTank_Other_ID9531793
 exteriornexo.z13.web.core.windows.net,/,PhishTank_Other_ID9484974
 exteriorprueba23.webcindario.com,/,PhishTank_Other_ID9116663
-exteriorr.webcindario.com,/empresas/index1.html,PhishTank_Other_ID9116629
 exteriorr.webcindario.com,/indexp.html,PhishTank_Other_ID9116619
 exteriorr.webcindario.com,/personas/,PhishTank_Other_ID9116622
 exteriorve.webcindario.com,/,PhishTank_Other_ID9116632
 extern.portal.paymentrails.com,/,PhishTank_Internal_Revenue_Service_ID9280981
-exteroavx.com,/,ThreatFox
 extmsions-rubby.wixstudio.com,/apps,PhishTank_Other_ID9450435
 extn-attomyc-eng.wixstudio.com,/en-us,PhishTank_Other_ID9391799
 extnet.openapiserv.pics,/,ThreatFox
@@ -77330,7 +77309,6 @@ f.yourl.jp,/670e4d8d,PhishTank_Other_ID8165677
 f.yourl.jp,/d7072995,PhishTank_Other_ID8165680
 f.yourl.jp,/f6fddc04,PhishTank_Other_ID8165682
 f.yourl.jp,/f6fddc04/,PhishTank_Other_ID8165683
-f003.backblazeb2.com,/file/uindox/index.html,PhishTank_Other_ID9537790
 f005.backblazeb2.com,/b2api/v1/b2_download_file_by_id?fileId=4_z5a673c42fc7f1b7590f90e12_f11503d6d9d520b09_d20260708_m130755_c005_v0501046_t0057_u01783516075435,PhishTank_Other_ID9485808
 f005.backblazeb2.com,/b2api/v1/b2_download_file_by_id?fileId=4_z6c9cdd961ab4a990a60f051f_f104ca9b3e34cb341_d20260916_m074724_c005_v0501045_t0028_u01789544844853#a@b.com,PhishTank_Other_ID9535105
 f005.backblazeb2.com,/b2api/v1/b2_download_file_by_id?fileId=4_z76c40f2263c8ecc3a2070313_f10058d7805fa5bb9_d20260929_m091036_c005_v0501038_t0013_u01790673036754,PhishTank_Optus_ID9534908
@@ -77457,7 +77435,6 @@ fa.windows32.men,/fa.txt,URLhaus
 fa.windows32.men,/tk.txt,URLhaus
 fa1th3-wave.decommiss-mint.bet,/,ThreatFox
 fa1thf6-gate.oasis-reimburse.in.net,/,ThreatFox
-fa3rcq.info,/7oBbyg,PhishTank_Other_ID9520653
 fa91c3ker16sq4k.top,/,ThreatFox
 fa9n.mistbr1a.garden,/,ThreatFox
 fabbricastorie.it,/,ThreatFox
@@ -77573,7 +77550,6 @@ facturealo157.top,/,PhishTank_Other_ID9465016
 facturealo157.top,/,PhishTank_Other_ID9465090
 facturealo159.top,/,PhishTank_Other_ID9465017
 facturealo161.top,/,PhishTank_Other_ID9465108
-facturealo162.top,/,PhishTank_Other_ID9465063
 facturealo163.top,/,PhishTank_Other_ID9465064
 facturealo164.top,/,PhishTank_Other_ID9465065
 facturealo164.top,/,PhishTank_Other_ID9465096
@@ -77986,7 +77962,6 @@ fbbzh.mango-sushi.com,/2032cbfe-57e1-4cce-9e7e-b32defe543b9,URLhaus
 fbc3c0.webwave.dev,/,PhishTank_Other_ID9242320
 fbcenter-case100510563211.firebaseapp.com,/,PhishTank_Other_ID8075668
 fbcenter-case100510563211.web.app,/,PhishTank_Other_ID8075669
-fbcenters-businesspage.pages.dev,/,PhishTank_Other_ID9308693
 fbcheck-errorpages.pages.dev,/,PhishTank_Other_ID8878354
 fbciowa.org,/,ThreatFox
 fbclid8123471236748129583.firebaseapp.com,/,PhishTank_Other_ID8123850
@@ -78458,7 +78433,6 @@ fidelityworkplacefz.one,/uta3fzp/,PhishTank_Other_ID9343681
 fidell-tyc.one,/tpl4z97/page.html,PhishTank_Other_ID9382299
 fidell-tyd.one,/zn6ppn?ysr=0u1SYD,PhishTank_Other_ID9382433
 fidelltyac.cyou,/h6s2bs/page.html,PhishTank_Other_ID9476611
-fidelltyaf.one,/,PhishTank_Other_ID9382369
 fidelltyan.cyou,/6v9kc1/page.html,PhishTank_Other_ID9494979
 fidelltyao.cyou,/xepqf7e/page.html,PhishTank_Other_ID9494980
 fidipodiatry.com,/,ThreatFox
@@ -78717,7 +78691,6 @@ firdgorl.restaurantguideaarhus.com,/,ThreatFox
 fire-02k6.raxen-tech.in.net,/,ThreatFox
 fire-2m.greecesco7es.in.net,/,ThreatFox
 fire-grass12.life,/,ThreatFox
-fire-wall.explosionjunip.in.net,/,ThreatFox
 fire.andipfs.lat,/,ThreatFox
 fire.anythin8weaned.surf,/,ThreatFox
 fire.boldfirestep.lat,/,ThreatFox
@@ -78828,7 +78801,6 @@ fitnessstudiopk.com,/,ThreatFox
 fituwzg.yek.autos,/,ThreatFox
 fitwellscaffolding.com,/,ThreatFox
 five-star-si.webflow.io,/,PhishTank_Other_ID9500369
-five661.com,/alph/,PhishTank_Other_ID9444554
 fiveminuteschess.com,/,ThreatFox
 fivepibe.workers.dev,/,ThreatFox
 fiverr-clone-mauve.vercel.app,/,PhishTank_Other_ID9429934
@@ -78844,7 +78816,6 @@ fix-3rivers-fcu-live-e22b8.web.app,/,PhishTank_Other_ID8100088
 fix-error-page.firebaseapp.com,/,PhishTank_Other_ID8518493
 fix-error-page.web.app,/,PhishTank_Other_ID8518494
 fix-foesal.weebly.com,/,PhishTank_Other_ID9354462
-fix-node.enameledtack.in.net,/,ThreatFox
 fix.cloudviewtop.pics,/,ThreatFox
 fix.cryptowave.ink,/,ThreatFox
 fix.datasrvhub.pics,/,ThreatFox
@@ -78867,6 +78838,7 @@ fiysou.hanovereyephotography.com,/,ThreatFox
 fiznail.weebly.com,/,PhishTank_Other_ID9320592
 fj0r8-chain.so6lavern.garden,/,ThreatFox
 fjagjlhm.psgnewsiran.com,/,ThreatFox
+fjallnascastle.se,/,ThreatFox
 fjaoi5is.megaparibet.vip,/,ThreatFox
 fjawda.com,/,ThreatFox
 fjdk-onet.weebly.com,/,PhishTank_Other_ID9335458
@@ -80025,6 +79997,7 @@ fotosa.net,/fd/buykorea.html,PhishTank_Other_ID9465356
 fotrclinic.com,/,ThreatFox
 fouad-94.myq-see.com,/,ThreatFox
 foundation-firelight.com,/,ThreatFox
+foundationforwomenshealth.com,/rooming.hta,URLhaus
 foundersunfound.com,/,ThreatFox
 foundrysourcings.co.uk,/Ad0be/download.php,URLhaus
 fourdigs.cyou,/,ThreatFox
@@ -80163,7 +80136,6 @@ fraitas.lol,/,ThreatFox
 fralinmenkil.solvia.rest,/,ThreatFox
 fram-branch.byerottin8.lat,/,ThreatFox
 frame-api.theoristack.in.net,/,ThreatFox
-frame-build.structuralcore.in.net,/,ThreatFox
 frame-facet.com,/,ThreatFox
 frame-hub.shapeprimrose.in.net,/,ThreatFox
 frame-inn.bovlare6n.in.net,/,ThreatFox
@@ -80799,7 +80771,6 @@ fvkyh2up.testpaye.xyz,/,ThreatFox
 fvn1910.de,/,ThreatFox
 fvnxmnaz.karbordriyaziyat.xyz,/,ThreatFox
 fvo5vl1w.everythingisephemere.com,/,ThreatFox
-fvqro5kllu.localto.net,/,ThreatFox
 fvrfq4s8.us-slimsplitsmethod.com,/,ThreatFox
 fvwjh.butoralberlet.com,/,ThreatFox
 fvz58dzt.memerylift.com,/,ThreatFox
@@ -81116,7 +81087,6 @@ ganzheitlichselbststaendig.de,/,ThreatFox
 gaoaigioyocckkey.xyz,/,ThreatFox
 gaode11223.oss-ap-southeast-7.aliyuncs.com,/111a.zip,URLhaus
 gaojiangdianli.com,/content/rpsfhubkea,PhishTank_Other_ID9518366
-gaowvdoxh.com,/,ThreatFox
 gapdevelopments.co.za,/,ThreatFox
 gapo.rako9jabus1.com,/,ThreatFox
 gaqcskwuoowsmomo.xyz,/,ThreatFox
@@ -81369,7 +81339,6 @@ gcdplagas.com,/,ThreatFox
 gcif61zz.belly--flush.com,/,ThreatFox
 gciluz.richardcorfield.org,/,ThreatFox
 gclz.futboliran.ir,/,ThreatFox
-gclz.futboliran.ir,/77c4da64-1937-40b4-b2ed-870b021fd591,URLhaus
 gcobdr.get-thyrafemmebalance.com,/,ThreatFox
 gcpaexp.my.site.com,/signin,PhishTank_Other_ID8420828
 gcpydqb.airtechmedical.com,/,ThreatFox
@@ -82006,7 +81975,6 @@ ghjkl-17a52.firebaseapp.com,/,PhishTank_Other_ID8381277
 ghjkl-17a52.firebaseapp.com,/,PhishTank_Other_ID8382032
 ghjkl-17a52.web.app,/,PhishTank_Other_ID8382033
 ghkkya.purefunsurfboards.com,/,ThreatFox
-ghost-api.abstractlogic.in.net,/,ThreatFox
 ghost-loader.com,/,ThreatFox
 ghostc2.thesmith.online,/,ThreatFox
 ghostclient.net,/GhostClient-26.2.jar,URLhaus
@@ -84806,7 +84774,6 @@ gloryhaven.org,/bvbhfhdfb/obduktioners.lzh,URLhaus
 gloryhaven.org,/bvbhfhdfb/ozTdkGeYgnmG211.bin,URLhaus
 glos-rep.to2varon.in.net,/,ThreatFox
 gloss-branch.bolettreatise.in.net,/,ThreatFox
-gloss-check.enameledtack.in.net,/,ThreatFox
 glossink.blackbirdr0ot.in.net,/,ThreatFox
 glosuppl.family-man.surf,/,ThreatFox
 gloumvuza.cfd,/,ThreatFox
@@ -84931,7 +84898,6 @@ gmxaccount053.weebly.com,/,PhishTank_Other_ID9030249
 gmxadmin-de.weebly.com,/,PhishTank_Other_ID9030248
 gmxauthe.vercel.app,/,PhishTank_Other_ID9383274
 gmxchi.weebly.com,/,PhishTank_Other_ID9030247
-gmxclassic.weebly.com,/,PhishTank_Other_ID9030246
 gmxcx.weebly.com,/,PhishTank_Other_ID9030245
 gmxde-eup.weebly.com,/,PhishTank_Other_ID9370290
 gmxdeaktualisieren.weebly.com,/,PhishTank_Other_ID9030244
@@ -85590,7 +85556,6 @@ gov-parkingsl.top,/com,PhishTank_Other_ID9443563
 gov-parkingsu.top,/com,PhishTank_Other_ID9443566
 gov-parkingtg.cyou,/com/,PhishTank_Other_ID9458613
 gov-parkingtj.cyou,/com/,PhishTank_Other_ID9458615
-gov-parkingtk.top,/com,PhishTank_Other_ID9458618
 gov-parkingtk.top,/com/,PhishTank_Other_ID9458617
 gov-parkingto.top,/com/,PhishTank_Other_ID9458619
 gov-parkingtq.cyou,/com,PhishTank_Other_ID9456928
@@ -85887,7 +85852,6 @@ greatxil3010.duckdns.org,/,ThreatFox
 greececommerce.com,/wp-acess/login.php,PhishTank_Swiss_Post_ID9509576
 greekxwl3010.duckdns.org,/,ThreatFox
 green-bhd-welcome.lovable.app,/,PhishTank_Other_ID9374531
-green-core.explosionjunip.in.net,/,ThreatFox
 green-dot-web.netlify.app,/,PhishTank_Other_ID9513973
 green-forest1.lucernemo7al.in.net,/,ThreatFox
 green-grass2.wi9msorin.in.net,/,ThreatFox
@@ -86096,7 +86060,6 @@ grundwesterl.web.app,/,PhishTank_Other_ID8550482
 grunonmanvel.contabilsmart.cloud,/,ThreatFox
 grupandreu.net,/,ThreatFox
 grupnou.cat,/,ThreatFox
-grupo-davivienda.webcindario.com,/,PhishTank_Other_ID9362805
 grupo-imar.com,/,ThreatFox
 grupo-ormeno.com.pe,/,PhishTank_TSB_ID8159506
 grupo-promerica.webcindario.com,/,PhishTank_Other_ID9395380
@@ -86193,7 +86156,6 @@ gt.234-e.com,/,ThreatFox
 gt5kq695.die-reformer.digital,/,ThreatFox
 gtbgun0w.seoclerck.ir,/,ThreatFox
 gtconligt.z38.web.core.windows.net,/,PhishTank_Other_ID9508266
-gtcontientals.webcindario.com,/,PhishTank_Other_ID8480014
 gtcymxsv.onjabet1.com,/,ThreatFox
 gtcymxsv.onjabet1.com,/6679a7fe-5909-4912-88d1-936fa987938c,URLhaus
 gte.majusm188.top,/,ThreatFox
@@ -86222,7 +86184,6 @@ gtttv.top,/jp,PhishTank_Other_ID9508506
 gtuemailvalidatr.weebly.com,/,PhishTank_Other_ID8956709
 gtv.uk.com,/,ThreatFox
 gtv6eszx.riskybet.casino,/,ThreatFox
-gtv6eszx.riskybet.casino,/?ublib=c153430f-e97d-44f8-900b-5ae7b49d91be,URLhaus
 gtvinerti.com,/,PhishTank_Other_ID8363628
 gtwywiopiockdmn.weebly.com,/,PhishTank_Other_ID9382180
 gtxmywh35.ukit.me,/,PhishTank_Other_ID8440351
@@ -86393,6 +86354,7 @@ gwcs.bolesfarms.com,/d0376c85-7693-477c-90a0-f5aa8ba10847,URLhaus
 gwenet.org,/,PhishTank_Other_ID8555927
 gwenet.org,/office,PhishTank_Other_ID8555928
 gwenet.org,/office/,PhishTank_Microsoft_ID9141987
+gwfsiev0.kubis.store,/,ThreatFox
 gwfsj.ski123.net,/,ThreatFox
 gwg-neustadt.de,/,ThreatFox
 gwgsl6k1.en-belly--flush.com,/,ThreatFox
@@ -86724,7 +86686,6 @@ harcar.xano4mel.lat,/,ThreatFox
 hard-box5.ra2telsylo.in.net,/,ThreatFox
 hard-bridge.wixstudio.com,/en-us,PhishTank_Other_ID9408785
 hard-check.drillobjection.in.net,/,ThreatFox
-hard-point.enameledtack.in.net,/,ThreatFox
 hard-svc.dictatessullen.in.net,/,ThreatFox
 hard-work5.kiv6darem.in.net,/,ThreatFox
 hard.cryptobase.surf,/,ThreatFox
@@ -86850,7 +86811,6 @@ hay-4o5j263olj73k.weebly.com,/,PhishTank_Other_ID9307955
 hayedi.sa.com,/,ThreatFox
 hayleymarienorman.com,/,ThreatFox
 haytmyo.alternatifdekorasyon.com,/,ThreatFox
-hazdbkllam.blogspot.com,/,PhishTank_Other_ID8804188
 hazebleeeft.web.app,/,PhishTank_Other_ID8794182
 hazelcolonnade.net,/,ThreatFox
 hazljiamana.blogspot.com,/,PhishTank_Other_ID8678714
@@ -87084,7 +87044,6 @@ help-blockfe-docs-com.gitbook.io,/en-us/,PhishTank_Other_ID9159319
 help-blockfe-en-docs.gitbook.io,/en-us/,PhishTank_Other_ID9199872
 help-centre-resolve-restrictions-review-point.surge.sh,/,PhishTank_Facebook_ID9486217
 help-coinbase.beer,/login.php,PhishTank_Coinbase_ID9509963
-help-desk.howaskfor.in.net,/,ThreatFox
 help-desk0926.com,/,ThreatFox
 help-exods-wallet.wasmer.app,/,PhishTank_Other_ID9368854
 help-exods-wallet.wasmer.app,/,PhishTank_Other_ID9508434
@@ -87147,7 +87106,6 @@ helpdesk1026.com,/,ThreatFox
 helpdesk1509.com,/,ThreatFox
 helpdeskdpt1.weebly.com,/,PhishTank_Other_ID9335444
 helpdeskpilot.onrender.com,/,PhishTank_DocuSign_ID9483246
-helpdmswkrhdesk.weebly.com,/,PhishTank_Other_ID9432823
 helper.zulipchat.com,/,ThreatFox
 helpful-snapdragon-7b1.notion.site,/Log-in-to-access-your-email-20df07647b5180d8a037d5a8ccaf6774,PhishTank_Optus_ID9122249
 helpful-teal-wemfvl3j.edgeone.dev,/,PhishTank_Other_ID9443346
@@ -87222,7 +87180,6 @@ helpus-desktop.wixstudio.com,/en-live,PhishTank_Other_ID9440910
 helpus-desktop.wixstudio.com,/en-us,PhishTank_Other_ID9440906
 helpus-desktop.wixstudio.com,/us-en,PhishTank_Other_ID9440868
 helsan.com,/vendor/phpunit/phpunit/src/Util/PHP/wp-css/processbondjp.php,PhishTank_Other_ID9422602
-helsingborg-se.weebly.com,/,PhishTank_Other_ID9467929
 hemalas.cl,/,ThreatFox
 hemiuavip.com,/,ThreatFox
 hemlockbay.cc,/,ThreatFox
@@ -87238,7 +87195,6 @@ henglong228.com,/uid_4924443545?ticket=GSHxdrfbnZ,PhishTank_Other_ID9517576
 hengmanrui.com,/u/uhncfarstt,PhishTank_Other_ID9482989
 henofrl.cyou,/,ThreatFox
 henreques.lol,/,ThreatFox
-henriette43.wixstudio.com,/phantom-extension,PhishTank_Other_ID9451823
 henrikscheelandersen.dk,/,ThreatFox
 henriqueq.xyz,/,ThreatFox
 henrydegenhart.com,/,ThreatFox
@@ -87428,7 +87384,6 @@ high-hi-ll3.to6vamil.in.net,/,ThreatFox
 high-hill3.po9vtaren.in.net,/,ThreatFox
 high-hill3.wi5sarpo1v.in.net,/,ThreatFox
 high-mount3.lucernemo7al.in.net,/,ThreatFox
-high-prototyper-051858.framer.app,/,PhishTank_Other_ID9490496
 high-roof5.hai1owhiten.in.net,/,ThreatFox
 high-speed4.blasph-nimalo.in.net,/,ThreatFox
 high-stem4.firs-tachycardia.in.net,/,ThreatFox
@@ -87825,7 +87780,6 @@ home-105626-109000.weeblysite.com,/,PhishTank_Other_ID9082662
 home-105812.square.site,/,PhishTank_Other_ID8606469
 home-109995.square.site,/,PhishTank_Other_ID8209251
 home-app-trexor.wixstudio.com,/us-en,PhishTank_Other_ID9467785
-home-apps-suite.wixstudio.com,/en-suite,PhishTank_Other_ID9467789
 home-apps-trexzor.wixstudio.com,/us-en,PhishTank_Other_ID9471700
 home-base1.bovla4ren.in.net,/,ThreatFox
 home-base1.de8trevarm.in.net,/,ThreatFox
@@ -89208,7 +89162,6 @@ iddsedded.w3spaces.com,/ikidyyes.html,PhishTank_Other_ID8673165
 idea-e.net,/,ThreatFox
 idea-nickdoor.xyz,/avast_update,URLhaus
 idea-sport.it,/,ThreatFox
-idea-vault.abstractlogic.in.net,/,ThreatFox
 ideal-node.theoristack.in.net,/,ThreatFox
 idealautoac.com,/,ThreatFox
 idealcapper.com,/,ThreatFox
@@ -89445,7 +89398,6 @@ ihmmkvkaiwnilneauhfn.supabase.co,/storage/v1/object/public/hold/image.jpg?127113
 ihmmkvkaiwnilneauhfn.supabase.co,/storage/v1/object/public/hold/image.jpg?12711343h,URLhaus
 ihmqfsm.arabicbet.casino,/,ThreatFox
 ihnx.footbalpersian.ir,/,ThreatFox
-ihnx.footbalpersian.ir,/906ff932-3c62-4c96-8fd9-59ba0cec2529,URLhaus
 ihosymvc.behtarin-site-shartbandi.com,/,ThreatFox
 ihrydwg.dru6moxin.in.net,/,ThreatFox
 ihsk.de8xamel.in.net,/,ThreatFox
@@ -91244,7 +91196,6 @@ ingresar-tarjeta.webcindario.com,/,PhishTank_Other_ID8847752
 ingresarbdv2024.webcindario.com,/,PhishTank_Other_ID8791559
 ingresarbhd1.webcindario.com,/,PhishTank_Other_ID9289489
 ingresarquibhd.iceiy.com,/,PhishTank_Other_ID9423685
-ingreseaqui365.webcindario.com,/,PhishTank_Microsoft_ID9505739
 ingreso-empresarial.onrender.com,/,PhishTank_Other_ID9525000
 ingreso-servicio.webcindario.com,/,PhishTank_Other_ID9324383
 ingreso-servicio.webcindario.com,/,PhishTank_Other_ID9324384
@@ -91311,7 +91262,6 @@ inlead.dk,/,ThreatFox
 inloggning-uppdatera.webflow.io,/,PhishTank_Other_ID9469241
 inmjycz.olabahiskayit.com,/,ThreatFox
 inmoarc.com,/,ThreatFox
-inmobiliaraplaza.netlify.app,/,PhishTank_Other_ID9449457
 inmobiliariamarycampo.com,/,ThreatFox
 inmobles.com,/,ThreatFox
 inn35-dock.tul2qorin.in.net,/,ThreatFox
@@ -91514,7 +91464,6 @@ international.webcindario.com,/,PhishTank_Other_ID9396030
 internationaltreeservice.com,/,ThreatFox
 internationlaozonef1.myportfolio.com,/,PhishTank_Other_ID8014437
 internetserchinkas.co,/,ThreatFox
-internetzoomediaplsll.weebly.com,/,PhishTank_Other_ID9465580
 interpella005e0.firebaseapp.com,/,PhishTank_Other_ID8419742
 interpella005e0.web.app,/,PhishTank_Other_ID8419743
 interpretationaudiosupport.com,/,ThreatFox
@@ -93030,7 +92979,6 @@ jaxonknightmusic.com,/,ThreatFox
 jaxwjs.com,/home,PhishTank_Other_ID9457462
 jaxx-eng.wixstudio.com,/us-en,PhishTank_Other_ID9402207
 jaxxliberrty.wixstudio.com,/en-us,PhishTank_Other_ID9450770
-jay3jay3.github.io,/ig,PhishTank_Other_ID9421958
 jay3jay3.github.io,/ig/,PhishTank_Other_ID9421959
 jaybhavaniwoodworks.com,/,ThreatFox
 jaybless02.myportfolio.com,/,PhishTank_Other_ID8011062
@@ -93859,7 +93807,6 @@ jrrjmarketing.com,/?_scpr=SW5XVe1cVIJNLZUYNt0GHy1n,PhishTank_Other_ID9386411
 jrszz.popi999.net,/,ThreatFox
 jru0oejl.forms.app,/ipko-oprosnik?fbclid=IwY2xjawFvy91leHRuA2FlbQEwAAEdKNolDCIDNDckiMkWqdl9aPaPxhA8zoF3mJr0OqhzBl-qOpMdQGXQI4zt_aem_mEHoePXx6-rgR948L_oE7g,PhishTank_Other_ID8796728
 jrudq.ganj.bet,/,ThreatFox
-jrudq.ganj.bet,/34a03c7c-ee45-4baa-8ba5-4c07ee06d1a5,URLhaus
 jrux1a1x.rsfoodproducts.com,/,ThreatFox
 jrxciw2.xyz,/,ThreatFox
 jrym.snydersflowershop.com,/,ThreatFox
@@ -93882,7 +93829,6 @@ jshdhjs.weebly.com,/,PhishTank_Other_ID9030161
 jshreqm.arayeshkhas.ir,/,ThreatFox
 jsioekd-s-school.teachable.com,/p/home?utm_source=sniply&utm_campaign=sniply&utm_medium=sniply,PhishTank_Other_ID8940878
 jsk-platzhirsch.de,/,ThreatFox
-jskeowgo.com,/,ThreatFox
 jskhjdioshfiodsmdsd.weeblysite.com,/,PhishTank_Other_ID9397507
 jskxw.run,/,ThreatFox
 jslcom.weebly.com,/,PhishTank_Other_ID9358330
@@ -93927,7 +93873,6 @@ jtdi6w23.biabet90.com,/,ThreatFox
 jtdi6w23.biabet90.com,/?ublib=9f42af5c-3d6f-4b23-b426-842f3fec2051,URLhaus
 jtechnet.com.br,/DigitalToken/DBS/DBS/,PhishTank_Other_ID9515981
 jtemlhyz.enfej.casino,/,ThreatFox
-jtemlhyz.enfej.casino,/7a94b3d0-8fc5-4e83-b97c-6dbd7523c06c,URLhaus
 jteqecd8.en-flashbrn.com,/,ThreatFox
 jtexpress.mwkqbr.club,/com/#/index,PhishTank_Other_ID9507334
 jtgj.interventionalpainmanagement.net,/,ThreatFox
@@ -94089,7 +94034,6 @@ justtransitionafrica.org,/,ThreatFox
 justturtle.com,/indie.exe,URLhaus
 jusuniplixcommunity.weebly.com,/,PhishTank_Other_ID9448540
 jut.slj.mybluehost.me,/it.php,PhishTank_Other_ID9421774
-jut.slj.mybluehost.me,/login,PhishTank_Other_ID9418395
 jut.slj.mybluehost.me,/login/,PhishTank_Other_ID9418320
 jut.slj.mybluehost.me,/login/app/index.php,PhishTank_Other_ID9417600
 jut.slj.mybluehost.me,/m.php,PhishTank_Other_ID9417599
@@ -94336,7 +94280,6 @@ kaliop-weda.club,/,ThreatFox
 kall4234ribk3assa.pw,/,ThreatFox
 kalmirven.cfd,/pages/#/index,PhishTank_Other_ID9537767
 kaloed.pro,/,ThreatFox
-kaloed.pro,/1e523332.exe,URLhaus
 kalooms.com,/,ThreatFox
 kalpapharm.net,/,ThreatFox
 kalpatropin.com,/,ThreatFox
@@ -95407,7 +95350,6 @@ klelnanzeigen-deutch.ccqce.com,/q07XfQpuxa?m=1,PhishTank_Other_ID9476768
 klelnanzeigen-deutch.cqblzx.com,/IfYS7SgNHQ?m=8&__cf_chl_rt_tk=OpNjMsQjAVdixqMe6FqK2KYqoXO.RUxR6ZnY_8QbqOc-1781804996-1.0.1.1-AuMmgGZM2LNyuO9.0C_7znelzQKE3GI0pGS5KdA.OAM,PhishTank_Other_ID9456898
 klelnanzeigen-deutch.cqblzx.com,/IfYS7SgNHQ?m=8,PhishTank_Other_ID9456897
 klelnanzeigen-deutch.cytx1118.com,/KoQuZ1Fkw9?m=8&__cf_chl_rt_tk=Ctnj80tj_CfohFg.omo6gArHNgJvpDSgmvNfJxtgMJk-1781380909-1.0.1.1-sQaAdddDGIRgtaIiXa06uW2K83_tha4aGv9RnwIfb7I,PhishTank_Other_ID9452414
-klelnanzeigen-deutch.cytx1118.com,/KoQuZ1Fkw9?m=8&__cf_chl_rt_tk=Nt0VIz71QETmZ2RQqmJWivlydti_VpUsuc7E9r.cB5g-1781381183-1.0.1.1-YmsXekPwKBpsgSDDP5VqGtSSPcs4NuOty69hn4WvKYA,PhishTank_Other_ID9452411
 klelnanzeigen-deutch.cytx1118.com,/KoQuZ1Fkw9?m=8,PhishTank_Other_ID9452410
 klelnanzeigen-deutch.czjszp.com,/iq3A1FLB24?m=8&__cf_chl_rt_tk=82NmX18_EkAvzfRUwgTz9TufWmeSGB_TceyFVR5JFg4-1781524996-1.0.1.1-k3bhsOKHuQatObPVRvhqemAj8d542cyTDUlFwz628zQ,PhishTank_Other_ID9453929
 klelnanzeigen-deutch.d1ga9t.cfd,/receive/order/ZGWNSwfwew?r=0x14&__cf_chl_rt_tk=m94n0FbnYp2M31fIZAvAMrWofX8CbREQL6AotHUJCuA-1777315767-1.0.1.1-Z3sSyCsjY3xF8ndhTonWx1.iAPQzjmXWlUd16_2A7Wc,PhishTank_Other_ID9406285
@@ -95705,7 +95647,6 @@ koinbase-home.wixstudio.com,/us-en,PhishTank_Other_ID9478281
 koinlogein.gitbook.io,/info/,PhishTank_Other_ID9322915
 koiwmmsceicqaweg.xyz,/,ThreatFox
 kojiohigyuhjhiojoijiok.weebly.com,/,PhishTank_Other_ID8921636
-kokatat.weebly.com,/,PhishTank_Other_ID9404338
 kokkegioigaeggyu.xyz,/,ThreatFox
 kokkpxut.jadoobet.vip,/,ThreatFox
 kokkpxut.jadoobet.vip,/461abad7-ea0d-4211-a8b0-261fd4a5754f,URLhaus
@@ -99561,7 +99502,6 @@ l.ead.me,/unlovk,PhishTank_Other_ID8911916
 l.ead.me,/us4-scrtycoinbase,PhishTank_Other_ID8755235
 l.ead.me,/wc4iacjwp0yz,PhishTank_Other_ID8767691
 l.ead.me,/xma2z4hnu01j,PhishTank_Other_ID8759087
-l.linklyhq.com,/l=/1u7Lf,PhishTank_Other_ID8343561
 l.wl.co,/l?u%3Dhttps://qr-codes.io/F67rwa&amp;sa=D&amp;source=editors&amp;ust=1736891936914271&amp;usg=AOvVaw1Bhh-BluJi_mQgwZdQ_FqX,PhishTank_Amazon.com_ID8938582
 l.wl.co,/l?u%3Dhttps://qr-codes.io/i6thcM&amp;sa=D&amp;source=editors&amp;ust=1778600363996738&amp;usg=AOvVaw0LrGmBP-cW8I9hzjNoWtF9,PhishTank_Amazon.com_ID9422877
 l.wl.co,/l?u%3Dhttps://qrco.de/bewscY&amp;sa=D&amp;source=editors&amp;ust=1712601575874603&amp;usg=AOvVaw3oUzp5B0zFFWoly0JMT8wt,PhishTank_Amazon.com_ID8527389
@@ -100196,7 +100136,6 @@ ladger--live.wixstudio.com,/web-en,PhishTank_Other_ID9407842
 ladger-enus.wixstudio.com,/en-us,PhishTank_Other_ID9405737
 ladger-enus.wixstudio.com,/login,PhishTank_Other_ID9407477
 ladger-live.wixstudio.com,/usen,PhishTank_Other_ID9385213
-ladger-liveus.wixstudio.com,/en-download,PhishTank_Other_ID9414114
 ladgerlive--en-us.wixstudio.com,/en-us,PhishTank_Other_ID9407475
 ladgr-livedesktop.wixstudio.com,/us-en,PhishTank_Other_ID9457706
 ladgrliveapps.wixstudio.com,/us-en,PhishTank_Other_ID9397311
@@ -100285,7 +100224,6 @@ landem.noven-sys.in.net,/,ThreatFox
 landersauto3.screenconnect.com,/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest,URLhaus
 landgforce.duckdns.org,/,ThreatFox
 landhaus-restaurant-hamburg-schaaf.eduthinker.phd,/level-one~foto/leyens-mks~ohliger/licht~profis-cc~rohrbach-php/ret_url/364062b616b4fa56195afab7146a830a/login.php,PhishTank_Other_ID9414237
-landiemi.com,/content/qebabzkcoz,PhishTank_Other_ID9523248
 landimageslandscaping.com,/,ThreatFox
 landing.delichev.com,/-,PhishTank_Other_ID9472809
 landing.delichev.com,/-/,PhishTank_Other_ID9472808
@@ -100599,7 +100537,6 @@ lcizmbo.tinybet.bio,/,ThreatFox
 lckcdnjs.beer,/,ThreatFox
 lckd.store,/,ThreatFox
 lcloud-lforgetmaps.click,/isignesp.php,PhishTank_Apple_ID9528521
-lcloud-lforgetmaps.click,/isignesp.php,PhishTank_Apple_ID9528529
 lcloudfindmy-devices-location.click,/ICL266/,PhishTank_Apple_ID9530108
 lclsettings-vxds.firebaseapp.com,/,PhishTank_Other_ID8197093
 lclsettings-vxds.web.app,/,PhishTank_Other_ID8197094
@@ -100616,7 +100553,6 @@ ldbrrvwc.hugugmadani6.xyz,/,ThreatFox
 lddger-live-us.wixstudio.com,/en-us,PhishTank_Other_ID9414599
 lddger-live-us.wixstudio.com,/us-en,PhishTank_Other_ID9412410
 lddwegnb.ketabworld.ir,/,ThreatFox
-lddwegnb.ketabworld.ir,/?ublib=f5a9f75c-5ba4-4f9f-a0f8-f2d044dc3b13,URLhaus
 ldebgt.suger-mute.com,/,ThreatFox
 ldeml.buborekjatszohaz.hu,/,ThreatFox
 ldentid5s.weebly.com,/,PhishTank_Other_ID9265696
@@ -101495,7 +101431,6 @@ link-node.systematrixhub.in.net,/,ThreatFox
 link-novobanco.com,/,PhishTank_Other_ID9508241
 link-redirect-8be18.firebaseapp.com,/,PhishTank_Other_ID8911188
 link-redirect-8be18.web.app,/,PhishTank_Other_ID8911189
-link-trace.semanticvector.in.net,/,ThreatFox
 link-twint.web.app,/,PhishTank_Other_ID8533346
 link.agilelid.lat,/,ThreatFox
 link.anythin8weaned.surf,/,ThreatFox
@@ -102036,7 +101971,6 @@ live-feed6.to3vamil.in.net,/,ThreatFox
 live-feed6.to3varem.in.net,/,ThreatFox
 live-fled-slam.xyz,/avast_update,URLhaus
 live-helpinfo.xyz,/avast_update,URLhaus
-live-hotmail.com,/,PhishTank_Microsoft_ID9394205
 live-hotmail.com,/index.html,PhishTank_Microsoft_ID9394204
 live-iive.com,/,PhishTank_Microsoft_ID9429427
 live-ldggr.wixstudio.com,/view,PhishTank_Other_ID9470503
@@ -102115,7 +102049,6 @@ livelaughfite.com,/,ThreatFox
 liveldgr.zapier.app,/support,PhishTank_Other_ID9400105
 liveledger.created.app,/,PhishTank_Other_ID9491904
 liveledgr-doc.wixstudio.com,/en-us,PhishTank_Other_ID9470492
-liveledgr.framer.media,/us-en,PhishTank_Other_ID9437884
 liveledgre-aap-en.weebly.com,/,PhishTank_Other_ID9406535
 livelegber.wixstudio.com,/en-us,PhishTank_Other_ID9416031
 livelo-promo.vercel.app,/,PhishTank_Other_ID9498446
@@ -102328,7 +102261,6 @@ ln.run,/80M2n,PhishTank_Other_ID9421903
 ln.run,/8y8x9,PhishTank_Other_ID9475841
 ln.run,/91mn6,PhishTank_Other_ID9476748
 ln.run,/9PShW,PhishTank_Other_ID9502913
-ln.run,/9QebV,PhishTank_Other_ID9386710
 ln.run,/9Rg8w,PhishTank_Other_ID9475843
 ln.run,/CiZOH,PhishTank_Other_ID9475845
 ln.run,/EIMnW,PhishTank_Other_ID9434818
@@ -102389,7 +102321,6 @@ lndosnr743.shop,/o/rsswb/7321829992583168#selectedbank9,PhishTank_Other_ID951017
 lnfcdnclad.beer,/,ThreatFox
 lnfl.behtarin-site-shartbandi.com,/,ThreatFox
 lnft14.info,/7oBbyg,PhishTank_Other_ID9520831
-lngresarbhd.webcindario.com,/,PhishTank_Other_ID9285218
 lngresarbhd.webcindario.com,/,PhishTank_Other_ID9285314
 lngrlau.asyabet303.bet,/,ThreatFox
 lnhygd.com,/zstHpnKj/verify,PhishTank_JCB_Card_ID9495317
@@ -102439,7 +102370,6 @@ lo-barnechea-6a202.web.app,/,PhishTank_Other_ID8247590
 lo.332toto.net,/,ThreatFox
 lo.369jk.org,/,ThreatFox
 loacascad.morphinve8et.in.net,/,ThreatFox
-load-api.structuralcore.in.net,/,ThreatFox
 load-array.qi4morxel.in.net,/,ThreatFox
 load-array.sprutte5t.lat,/,ThreatFox
 load-hermes--kmdyrv47.dev.autobricksai.run,/,PhishTank_Other_ID9481920
@@ -102518,6 +102448,7 @@ loan-bd.com,/,ThreatFox
 loandinvaliti.fwh.is,/,PhishTank_Other_ID9451662
 loandirect.us,/,ThreatFox
 loanfixer.io,/,ThreatFox
+loanoffer.co.in,/abashed.php,URLhaus
 loanratepal.com,/,ThreatFox
 loansome-rare.xyz,/avast_update,URLhaus
 lobicon.com,/fonts/webexflaticon/dorthwa.php,PhishTank_Other_ID9406762
@@ -102572,7 +102503,6 @@ locker-4309.relaysign.in,/pac/calcul.php,PhishTank_Other_ID9072765
 locker-pickup.com,/,PhishTank_Other_ID9247875
 lockhostunit.lumi4ren.bet,/,ThreatFox
 locmyparcel.com,/pl,PhishTank_Other_ID8818486
-loctiteg.com,/uid_2153574972?ticket=M1D9XoPZik,PhishTank_Other_ID9513407
 locus-lantern-nudge.s3.us-west-2.amazonaws.com,/yo7RxcPp?email=redacted@abuse.ionos.com,PhishTank_Other_ID9450923
 lodalasan22wwee.duckdns.org,/,ThreatFox
 lodbandbfr.firebaseapp.com,/,PhishTank_Other_ID8263660
@@ -102691,6 +102621,7 @@ login-1acessbhd.iceiy.com,/,PhishTank_Other_ID9474561
 login-2-8dbe91.webflow.io,/,PhishTank_Other_ID8494453
 login-anahuac.weebly.com,/,PhishTank_Other_ID9440046
 login-app-web.bubbleapps.io,/version-test,PhishTank_Other_ID8936163
+login-bancoctt.com,/,PhishTank_Other_ID9539297
 login-bhd.iceiy.com,/,PhishTank_Other_ID9440935
 login-btconnect.w3spaces.com,/,PhishTank_Other_ID8697171
 login-bulbank.firebaseapp.com,/,PhishTank_Other_ID8168351
@@ -102784,7 +102715,6 @@ login.bfkclqwz.com,/kjxstoq9?_t=2ufVhg5Kc1oVp4BG9DvIdemPomnJO72LroIKsrE-ZSw#/hom
 login.bfkclqwz.com,/kjxstoq9?_t=ToR23_w7wP56tMqU7kgPVFwQMdZYgdsgqlklwfQ7pk8#/home,PhishTank_Other_ID9442894
 login.bfkcnqwz.com,/o2djhqix?_t=gyI7P0bRW1cy2LMwoaiFN3G0KYz4z2l0QWcJx5EXdwA#/home,PhishTank_Other_ID9439495
 login.bggkpsh.com,/,PhishTank_Other_ID9501748
-login.biguojg.com,/,PhishTank_Other_ID9501763
 login.bimin1.com,/,PhishTank_Other_ID9501762
 login.bimulet.com,/,PhishTank_Other_ID9501761
 login.bitbrowserw.cn,/login,PhishTank_Other_ID9497928
@@ -102881,7 +102811,6 @@ login.pc-hupuesport.com,/?W0D4iVrfYVcQk7aojZ7fDRYI,PhishTank_Other_ID9451198
 login.pc-oubogame.com,/?C7kb1NMEbAG00JaRwHtOjXHk,PhishTank_Other_ID9451201
 login.pjacesso.ink,/,PhishTank_Other_ID9437098
 login.pp-center.eu.cc,/,PhishTank_Other_ID9465297
-login.pv12351.com,/?JplD8dY6FytU,PhishTank_Other_ID9444255
 login.qgzxpm.com,/?kLVPtwt9Lmdm,PhishTank_Other_ID9442907
 login.raaglpfplzp.top,/login,PhishTank_Other_ID9497011
 login.rrrxxw.com,/,PhishTank_Other_ID9491636
@@ -102922,7 +102851,6 @@ login.zsyjfs.com,/?eJTBKE7YJKA6&amp;type=vpoint,PhishTank_Other_ID9430985
 login.zydsyl.com,/?dm08hIQwx9x0mF7XGpqgq2A7,PhishTank_Other_ID9425514
 login2mailo.weebly.com,/,PhishTank_Other_ID9309461
 loginaccont.wixsite.com,/my-site-3,PhishTank_Other_ID8426145
-loginaccorleanstoursfridpprofleoidcauthorizeexecutione1s2ds.weebly.com,/,PhishTank_Other_ID9281991
 loginaccorleanstoursfridpprzdcauthorizeexecutione1s2.weebly.com,/,PhishTank_Other_ID9322751
 loginaccountheree.start.page,/,PhishTank_Facebook_ID8297146
 loginaclimogesfrpprofilecauthorizeexecutione3s29.weebly.com,/,PhishTank_Other_ID9360122
@@ -103006,7 +102934,6 @@ logmanagementsys.stackpulse.ink,/,ThreatFox
 logmansys.open-system-infra-logic-base.wiki,/,ThreatFox
 logmedo.com,/logmedo/,PhishTank_Facebook_ID7509720
 logmedo.com,/logmedo/frmeGKjlX5JMPWJ,PhishTank_Facebook_ID7509628
-logn-trezr-en.blogspot.com,/,PhishTank_Other_ID9337371
 logn-trezr-en.blogspot.com,/,PhishTank_Other_ID9337372
 logn909.nachrichtvvois.nachrichtsmsoivc.cyou,/lfeoriles/,PhishTank_Swiss_Post_ID9530105
 logne-trezr.blogspot.com,/,PhishTank_Other_ID9337374
@@ -103511,6 +103438,7 @@ lunopen.hisslytori.in.net,/,ThreatFox
 lunveta-gld-korqumi-c8t7hc15.pages.dev,/,PhishTank_Other_ID9475589
 lunvok.courses,/lli/,PhishTank_Other_ID9465347
 lunyrax.com,/,ThreatFox
+luofix.com,/,ThreatFox
 lurobike.com.ar,/,ThreatFox
 lurstudio.com,/,ThreatFox
 lurxrx.spirosnet.com,/,ThreatFox
@@ -103613,7 +103541,6 @@ lxkedtm4.lunav8era.garden,/,ThreatFox
 lxlwn.nextbahis.one,/,ThreatFox
 lxlwn.nextbahis.one,/00a99672-f781-4f27-811f-8b413a9037d0,URLhaus
 lxnfayp0.onexfa.com,/,ThreatFox
-lxnmnail.weebly.com,/,PhishTank_Other_ID9420259
 lxrrxl.ydns.eu,/,ThreatFox
 lxt.uk.com,/,ThreatFox
 lxx-ld.santxye.biz.id,/x/f/pin.html,PhishTank_Other_ID9456956
@@ -103686,6 +103613,7 @@ lyrikkommentar.de,/,ThreatFox
 lyrp.radioshartbandi.bet,/,ThreatFox
 lyuhconsulting.com,/,ThreatFox
 lyve-leger.zapier.app,/connect,PhishTank_Other_ID9419744
+lyvuze.workers.dev,/,ThreatFox
 lywetogx.qul2marox.in.net,/,ThreatFox
 lz20mzr5.duckdns.org,/,PhishTank_Other_ID9500860
 lz96krml.shim-windless.digital,/,ThreatFox
@@ -105164,7 +105092,6 @@ massstat.co,/,ThreatFox
 massungold.byethost7.com,/,PhishTank_Other_ID9170438
 mast.smartlogicgate.lat,/,ThreatFox
 master-core-system-date-slink.wiki,/,ThreatFox
-master-index.conceptmatrix.in.net,/,ThreatFox
 master-planting-logic-manual.garden,/,ThreatFox
 master-system-data-core-wiki.wiki,/,ThreatFox
 master-voivo-system-shop-slink.wiki,/,ThreatFox
@@ -105401,7 +105328,6 @@ mbeo.studiofourfitnessnv.com,/,ThreatFox
 mbgoqhu.soba-udon.com,/,ThreatFox
 mbhofdf.kortalanmuveszet.hu,/,ThreatFox
 mbifcxdz.careeriran.ir,/,ThreatFox
-mbifcxdz.careeriran.ir,/37bb9b34-9138-47ee-a6bc-bc4ba8156633,URLhaus
 mbigpi.pishbinifoori.com,/,ThreatFox
 mbimh.com,/dnqTePLY,PhishTank_Other_ID9518981
 mbinfras.com,/,ThreatFox
@@ -105452,7 +105378,6 @@ mcdonalds-a39a2.web.app,/,PhishTank_Other_ID8286814
 mcdowellsemporium.com,/,ThreatFox
 mcfupmvl.vex8talin.in.net,/,ThreatFox
 mcguinnessandassociates.com,/,ThreatFox
-mchajyd.us.cc,/5g/home.html,PhishTank_Other_ID9489886
 mcharraire.fr,/wp-content/mu-plugins/,PhishTank_Other_ID9312226
 mchiajsi.us.cc,/5g/home.html,PhishTank_Other_ID9501663
 mcinbooks.com,/,ThreatFox
@@ -105544,7 +105469,6 @@ meadowworkflowframework.garden,/92649efe-7014-4314-8cb5-1d4b8517f4b2/google.cl,U
 meadowworkflowplatform.garden,/,ThreatFox
 meaning-antai-traitement.es,/amendes-fr/payment-antai/payment-antai/amendes/,PhishTank_Other_ID9420068
 meaning-antai-traitement.es,/amendes-fr/payment-antai/payment-antai/amendes/details.php,PhishTank_Other_ID9420069
-meaning-svc.semanticvector.in.net,/,ThreatFox
 meaningza.com,/,ThreatFox
 means-3657fmefilesdown.com,/,ThreatFox
 meansbusinessbt.m-pages.com,/RTIagM/meansbusiness,PhishTank_Other_ID9154143
@@ -105808,7 +105732,6 @@ mencid.es,/,ThreatFox
 mendingheartsformason.com,/,ThreatFox
 mendocs-opera-shub-cowddos.garden,/,ThreatFox
 menez.tjcr5781135.pro,/,PhishTank_Other_ID9499358
-menez.tjcr5781135.pro,/captcha.php,PhishTank_Other_ID9499357
 mengotti-couture.com,/IONOS_webmail_2_stage/0/IONOS_webmail/index1.html,PhishTank_Other_ID9485460
 meniu.online,/data/gggg/nepaaa/arubaaufix/web/authen.php,PhishTank_Other_ID9280435
 menomou.shop,/,ThreatFox
@@ -106032,7 +105955,6 @@ meta-maskloig.godaddysites.com,/,PhishTank_Other_ID9172388
 meta-maskloig.godaddysites.com,/,PhishTank_Other_ID9172389
 meta-mconnect.web.app,/,PhishTank_Other_ID8049542
 meta-narr0.sorix7el.lat,/,ThreatFox
-meta-point.semanticvector.in.net,/,ThreatFox
 meta-recovery2023.start.page,/,PhishTank_Facebook_ID8338316
 meta-rn0du.through7esid.in.net,/,ThreatFox
 meta-rnass1v.petalu1ne.garden,/,ThreatFox
@@ -106858,10 +106780,10 @@ mirosoftaccount.webcindario.com,/,PhishTank_Other_ID9359981
 mirqics.hesabdariosmani.xyz,/,ThreatFox
 mirroflobsny.sytes.net,/,ThreatFox
 mirt.bondbrandingco.com,/,ThreatFox
+mirtope.cfd,/sbishinse/#/index,PhishTank_Other_ID9539301
 misacanjesbac.click,/pa,PhishTank_Other_ID9536306
 misamario1.dynuddns.com,/,ThreatFox
 misarchivos12.duckdns.org,/,ThreatFox
-misccanjesbac.click,/pa,PhishTank_Other_ID9536307
 mise-a-jour-securepass.com,/,PhishTank_SociÃ©tÃ©_GÃ©nÃ©rale_ID9469907
 mise-a-jour-securepass.com,/,PhishTank_SociÃ©tÃ©_GÃ©nÃ©rale_ID9469908
 misecanjesbac.click,/pa,PhishTank_Other_ID9532600
@@ -107013,7 +106935,6 @@ mk-1400.firebaseapp.com,/,PhishTank_Other_ID8176129
 mk-1400.web.app,/,PhishTank_Other_ID8176130
 mk65yui45876l.cyou,/,ThreatFox
 mkaey.caesarresidence.hu,/,ThreatFox
-mkapsubhv.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click,/ab753813-65b8-4970-99d4-b2b2abc212e6.php,PhishTank_Other_ID9440363
 mkconstructions.net,/ofiltytuerutyueiioo/Docusign-8901123adobe-reader07zuillnirusi.bat,URLhaus
 mkcontracting.net,/,ThreatFox
 mkd7d4.info,/7oBbyg,PhishTank_Other_ID9520861
@@ -107036,7 +106957,6 @@ mksjidux.us.cc,/5g/home.html,PhishTank_Other_ID9502408
 mkspkafs.4030bet.app,/,ThreatFox
 mkszunli.flopstin-gymcargo.cyou,/,ThreatFox
 mkt.alfatransportes.site,/,ThreatFox
-mkwew.weebly.com,/,PhishTank_Other_ID9475336
 mkyoyoywyisyaqsi.xyz,/,ThreatFox
 ml3faw.casa,/o/f6n3a/1770655276808#merchantpay,PhishTank_Other_ID9457502
 ml4ghwbq.sensa138.pro,/,ThreatFox
@@ -107315,7 +107235,6 @@ mode.techdriftway.lat,/,ThreatFox
 mode.urbanflowbase.lat,/,ThreatFox
 modedapk.net,/,ThreatFox
 model-api.theorexuslayer.in.net,/,ThreatFox
-model-check.abstractlogic.in.net,/,ThreatFox
 model-check.theoriconhub.in.net,/,ThreatFox
 model-check.theoristack.in.net,/,ThreatFox
 model-node.theorivector.in.net,/,ThreatFox
@@ -108665,7 +108584,6 @@ mycomhubcomcastifinlity7696373788.weebly.com,/,PhishTank_Other_ID9490811
 mycreditqueen.com,/,PhishTank_Other_ID9432453
 mydhl-express-dhl-login.baixingdajiudian.com,/,PhishTank_DHL_ID9491268
 mydhl-express-dhl-login.baixingdajiudian.com,/details.php,PhishTank_DHL_ID9491267
-mydhl-express-dhl-login.baixingdajiudian.com,/details.php?lang=en,PhishTank_DHL_ID9491264
 mydhl-express-dhl-login.baixingdajiudian.com,/details.php?lang=hu,PhishTank_DHL_ID9491265
 mydhltracking.com,/index.php,PhishTank_DHL_ID9444116
 mydirectfi.firebaseapp.com,/,PhishTank_Other_ID8550457
@@ -109104,7 +109022,6 @@ namuvpn.com,/install/back/namuvpnx2.exe,URLhaus
 namuvpn.com,/install/back/namuvpnx2.zip,URLhaus
 namuvpn.com,/install/back/namuvpnx2/namuvpnx2.exe,URLhaus
 namuvpn.com,/install/back/namuvpnxp.exe,URLhaus
-namuvpn.com,/install/namu832.exe,URLhaus
 namuvpn.com,/install/namu864.exe,URLhaus
 namuvpn.com,/install/namuxp.zip,URLhaus
 nanabread.net,/,ThreatFox
@@ -109129,7 +109046,6 @@ nardtakhte.app,/,ThreatFox
 nareshvastu.com,/,ThreatFox
 narkobetxin.space,/,ThreatFox
 narodoboronprom.org,/,ThreatFox
-narovexina.com,/l/lknbrhdzbk,PhishTank_Other_ID9481839
 narr-isl.bytegrid.lat,/,ThreatFox
 narr-que.identify-celebrate.in.net,/,ThreatFox
 nasbt.com,/,ThreatFox
@@ -109376,7 +109292,6 @@ ne12netempresas.com,/,PhishTank_Other_ID9507321
 ne2mfrw1604259fi.cfd,/,ThreatFox
 ne6nzi7r.1shart.bet,/,ThreatFox
 ne777empresa.com,/,PhishTank_Other_ID9526616
-near-intenst.wixstudio.com,/us-en,PhishTank_Other_ID9447390
 neartail.com,/enable/,PhishTank_Other_ID8774721
 neartail.com,/public/100424631459895453431/all/form/1FAIpQLSe0-HfpXPjTbUAD4zn9vmsasVAf3dA5whmklii29BoujV_LGQ,PhishTank_Other_ID8741163
 neartail.com,/public/102034245804282072496/all/form/1FAIpQLSePPlNSh6NInMk3FEc_Zq1neWSk5PDy0cihuBDILaSxB5MmHQ,PhishTank_Other_ID8737807
@@ -111094,7 +111009,6 @@ nextgenafrica.org,/amendes-antai-gouv/infractions/redirect,PhishTank_Other_ID951
 nexthost.pk,/,ThreatFox
 nextjs-boilerplate-three-xi-19.vercel.app,/gn?data=c3VwZXJnZWVrLmNvbQ==,PhishTank_Other_ID9339607
 nextjs2385.ngrok.io,/cdn/higeleveltask_x64.exe,URLhaus
-nextoola.shop,/soFbneFy/,PhishTank_Sumitomo_Mitsui_Banking_Corporation_ID9513088
 nextpgh3.com,/,ThreatFox
 nextre.it,/,ThreatFox
 nextside.cfd,/,ThreatFox
@@ -111377,7 +111291,6 @@ nixtla-developer-portal-main.firebaseapp.com,/,PhishTank_Other_ID8286811
 nixtla-developer-portal-main.web.app,/,PhishTank_Other_ID8286812
 nizotchauffage.bilty.be,/clients/login,PhishTank_Other_ID6738839
 nizy2y1o.signal-vault.digital,/,ThreatFox
-nj.gov-eac.help,/,PhishTank_Other_ID9413648
 nj.gov-est.help,/,PhishTank_Other_ID9413650
 nj.gov-mca.help,/,PhishTank_Other_ID9413950
 nj.gov-mcc.help,/,PhishTank_Other_ID9413935
@@ -111486,7 +111399,6 @@ nlwfxesxz.embassyhouston.com,/,ThreatFox
 nlwgc0c9.yekbetiran.com,/,ThreatFox
 nlxmperk.behtarin-site-shartbandi.com,/,ThreatFox
 nlxmperk.behtarin-site-shartbandi.com,/c7104b7b-6dfa-4f01-8d7b-6a4bb8dd4d9b,URLhaus
-nm3q8k.duckdns.org,/,PhishTank_Other_ID9500836
 nm7uqebiup84rmec6eeb.zendesk.com,/auth/v2/login/signin,PhishTank_Other_ID8121682
 nmalou.domici4570977.pro,/,PhishTank_Other_ID9535275
 nmbghfgdrtuyjh.wpenginepowered.com,/no/disney/,PhishTank_Other_ID8899297
@@ -111943,7 +111855,6 @@ norzeta-gld-fentela-r5t2hp76.pages.dev,/,PhishTank_Other_ID9494553
 norzeta-gld-lentavi-p5x6fw83.pages.dev,/,PhishTank_Other_ID9479424
 norzeta-gld-zartavi-r9t2pc76.pages.dev,/,PhishTank_Other_ID9494554
 norzeta-gld-zartavi-r9t2pc76.pages.dev,/,PhishTank_Other_ID9494555
-norzora-gld-zarquna-a6x1fw83.pages.dev,/,PhishTank_Other_ID9476513
 nosja.aiteszt.com,/,ThreatFox
 nossiholdings.co.za,/,ThreatFox
 nossl.segfault.net,/ssh-it-deploy.sh,URLhaus
@@ -113048,7 +112959,6 @@ oisapmtg.sanjeshvaandazegiri.shop,/,ThreatFox
 oise.webflow.io,/,PhishTank_Other_ID9478894
 oistarigrad.com.ba,/app/,PhishTank_Other_ID8261948
 oitavwl.dusanperisicmd.com,/,ThreatFox
-oiutlookingpageaccu.weebly.com,/,PhishTank_Other_ID9464403
 oixkxhga.qen2virex.lat,/,ThreatFox
 oiyatech.com.au,/,ThreatFox
 oiyksxf.vexon3ar.surf,/,ThreatFox
@@ -113056,7 +112966,6 @@ oj44472.com,/insdow92,URLhaus
 oj7f87i3.radioshartbandi.casino,/,ThreatFox
 oj7f87i3.radioshartbandi.casino,/?ublib=9c525f8c-b37f-4761-9e2e-24341614a7fe,URLhaus
 ojalvosa.com.ar,/web/wp/,PhishTank_Other_ID9332110
-ojang.pe.kr,/CALENDAR/DOWN/CALENDAR/SETUP.EXE,URLhaus
 ojang.pe.kr,/calendar/down/calendar.exe,URLhaus
 ojang.pe.kr,/calendar/down/jeditor/jeditor.exe,URLhaus
 ojblxlua.hugugtejarat4.xyz,/,ThreatFox
@@ -113668,7 +113577,6 @@ open-9.slanikt7ay.in.net,/,ThreatFox
 open-9.vortex-node.in.net,/,ThreatFox
 open-academy.com,/,ThreatFox
 open-api-protocol-storage-guide.wiki,/,ThreatFox
-open-appslive.wixstudio.com,/en-us,PhishTank_Other_ID9469631
 open-book1.qi1moxel.in.net,/,ThreatFox
 open-book1.qim8dorel.in.net,/,ThreatFox
 open-book1.ra2telsylo.in.net,/,ThreatFox
@@ -113736,7 +113644,6 @@ openclawcli.co.com,/,ThreatFox
 openclaws.it.com,/,ThreatFox
 openclow.co.com,/,ThreatFox
 openclow.gr.com,/,ThreatFox
-opendesktop.wixstudio.com,/us-en,PhishTank_Other_ID9404067
 opendialoguenhs.com,/wp-includes/fonts/rd.html#redacted@abuse.ionos.com,PhishTank_Other_ID9340379
 opendocumentonline.com,/,ThreatFox
 opendocumentsforfree.com,/,ThreatFox
@@ -114499,7 +114406,6 @@ ow0493040343.web.app,/,PhishTank_Other_ID8443998
 ow49400303.firebaseapp.com,/,PhishTank_Other_ID8269344
 ow49400303.web.app,/,PhishTank_Other_ID8269345
 ow885xy97.ukit.me,/,PhishTank_Microsoft_ID8170144
-ow8yhp.sbs,/o/u28xa/1770655276808#selectedbank9,PhishTank_Other_ID9453754
 ow939939300403043499304.web.app,/,PhishTank_Other_ID8638324
 owa-90837.firebaseapp.com,/,PhishTank_Other_ID8106011
 owa-90837.web.app,/,PhishTank_Other_ID8106012
@@ -114858,7 +114764,6 @@ pagamentodelpacchetto.hosted.phplist.com,/lists/,PhishTank_Other_ID8755963
 pagamentos-bahia.com,/fritadeiracb198482-3,PhishTank_Other_ID9523654
 pagamentos-grafieno.vercel.app,/,PhishTank_Other_ID9488610
 paganomonthly.com,/,PhishTank_Other_ID9500630
-paganomonthly.com,/,PhishTank_Other_ID9500631
 paganomonthly.com,/captcha,PhishTank_Other_ID9500632
 pagar-pendencias.vercel.app,/,PhishTank_Other_ID9504067
 page-appssuites.wixstudio.com,/en-us,PhishTank_Other_ID9470602
@@ -114945,8 +114850,6 @@ pagyamorim.com.br,/,ThreatFox
 paharica.com,/,ThreatFox
 pai-ementlbc.onbue.xyz,/,PhishTank_Other_ID9484667
 pai-ementlbc.onbue.xyz,/login.php,PhishTank_Other_ID9484666
-paialspailas.duckdns.org,/,ThreatFox
-paialspailas22.duckdns.org,/,ThreatFox
 paidboss.vercel.app,/hdhfggfgryrhhffdhfhyrfnusd.html,PhishTank_Other_ID9396248
 paidemek.com,/,ThreatFox
 paiement-avantages.com,/page/otp.php,PhishTank_Other_ID9385654
@@ -115133,6 +115036,7 @@ parik24.webflow.io,/,PhishTank_Other_ID9531322
 parik2412.gitbook.io,/,PhishTank_Other_ID9531323
 parik2412.gitbook.io,/parik24,PhishTank_Other_ID9531324
 pariku.workers.dev,/,ThreatFox
+parisgala.shop,/content/epcfenbbdh,PhishTank_Other_ID9539310
 parish.menberetsebaotholytrinityeotc.org,/,ThreatFox
 park-bench3.kym7laper.in.net,/,ThreatFox
 park-lake.com,/,ThreatFox
@@ -116310,6 +116214,7 @@ phwy7fn6.betvarzeshkade.online,/,ThreatFox
 physical-action-375149.framer.app,/,PhishTank_Other_ID9438328
 physicalliteracyforchildren.com,/,ThreatFox
 physiciancourses.com,/,ThreatFox
+physicsbyfiziks.org,/nullor.php,URLhaus
 physio-benecke.de,/,ThreatFox
 physio-papillon.de,/,ThreatFox
 physio4animals.com.au,/,ThreatFox
@@ -116443,7 +116348,6 @@ pilot-brave.g1enmor.garden,/,ThreatFox
 pilotkadomen.club,/,ThreatFox
 pilotpresence.com,/,ThreatFox
 pimco-du2.pages.dev,/,PhishTank_Other_ID9428225
-pin-storage.enameledtack.in.net,/,ThreatFox
 pin30-sync.de6xamel.in.net,/,ThreatFox
 pinaview.com,/downloads/Pinaview.exe,URLhaus
 pinbahiis.com,/,ThreatFox
@@ -116833,7 +116737,6 @@ platform-suiten.wixstudio.com,/en-us,PhishTank_Other_ID9485283
 platform-trazorsuite.wixstudio.com,/en-us,PhishTank_Other_ID9451847
 platform-trazorsuite.wixstudio.com,/us-en,PhishTank_Other_ID9450107
 platform-trexorcdn.wixstudio.com,/home,PhishTank_Other_ID9443730
-platform-trexorcdn.wixstudio.com,/usen,PhishTank_Other_ID9443739
 platform.formbot.com,/forms/43a79542-2825-48f6-a86b-494f9ef7f90f,PhishTank_Other_ID8220643
 platform.isystemservices.com,/,ThreatFox
 platformbac.help,/pa,PhishTank_Other_ID9461955
@@ -117160,7 +117063,6 @@ polimix.info,/,PhishTank_Other_ID9522013
 polinexclient.org,/Polinex-Fabric-1.21.jar,URLhaus
 polioplkiumred.weebly.com,/,PhishTank_Other_ID9418811
 polite-bavarois-37ef3b.netlify.app,/,PhishTank_Other_ID9501798
-polite-blue-porpoise.31-22-7-7.cpanel.site,/main/,PhishTank_Other_ID9484801
 polite-platforms-206965.framer.app,/,PhishTank_Other_ID9463899
 polite-raven-875893.framer.app,/,PhishTank_Other_ID9490549
 politicads.agency,/,ThreatFox
@@ -117342,7 +117244,6 @@ portal.etapajuridica.click,/app/wd/index.php?p=acesso&amp;auth=ezO9Y86BplksRKi4G
 portal.framerun.click,/,ThreatFox
 portal.gov-mba.click,/,PhishTank_Other_ID9415599
 portal.gov-mbe.click,/,PhishTank_Other_ID9415586
-portal.meajudepj.click,/,PhishTank_Other_ID9423737
 portal.netempresas-atendimentos.net,/app/wd/index.php?p=acesso&amp;auth=97vGE8ehDYPKzaZOmWNgKLkliuCEZYO1rgNdY2pOiO0uZPXwtgUzeMu7P0ICV3Vs1aN8b3Hy4pA7BIDnxmbH139BJXpficWxsGUmgmQ19zjsR7cXiaj9XO2GV4F8s9eYlzmXsu8mBsbkkOEmdRKhHJ,PhishTank_Other_ID9529466
 portal.nifatualiza.com,/,ThreatFox
 portal.onepansol.site,/Bin/ScreenConnect.ClientService.exe,URLhaus
@@ -117755,7 +117656,6 @@ prasenjitgautam.github.io,/AWSxC2AIR_Giveaway/,PhishTank_Other_ID9375661
 pratica-io.eu.cc,/BN,PhishTank_Other_ID9484087
 pratica-io.eu.cc,/BN/checkclient.php?&amp;sessionid=32833d50031f94a45af20cc3df75451f,PhishTank_Other_ID9484089
 pratica-it.eu.cc,/bnl,PhishTank_Other_ID9529940
-pratica-it.eu.cc,/bnl/checkclient.php?&amp;sessionid=02145cffdf436b4fac0e25e6214ef7fe,PhishTank_Other_ID9529941
 pratica-web.eu.cc,/bn/it/index.php?&amp;sessionid=87829592040c28dbc3c7bc6baa68cf7a,PhishTank_Other_ID9414874
 praticainfo.eu.cc,/bnl.it/,PhishTank_Other_ID9519776
 praticainfo.eu.cc,/bnl.it/checkclient.php?&amp;sessionid=e1e2d6967ed8cd85fcb91b1ca45fb311,PhishTank_Other_ID9519779
@@ -118129,7 +118029,6 @@ primes-service.com,/vos-commandes,PhishTank_Amazon.com_ID9527096
 primescan.live,/,ThreatFox
 primeshore.miv6soren.in.net,/,ThreatFox
 primesun.largechildren.in.net,/,ThreatFox
-primesupport.info,/,PhishTank_Other_ID9526008
 primesupport.info,/index.php,PhishTank_Other_ID9526007
 primetomarks.com,/,ThreatFox
 primetrace.cfd,/,ThreatFox
@@ -118163,6 +118062,7 @@ prims-espaces.com,/index.php,PhishTank_Amazon.com_ID9508095
 princeremi25fr.accesscam.org,/,ThreatFox
 princess-gem.com,/,ThreatFox
 principalbradesco.apoiofinancas.click,/,PhishTank_Bradesco_ID9511244
+principalconvidado.biz.ua,/,PhishTank_Other_ID9539322
 pringlesbob.cfd,/,ThreatFox
 prins-machineverhuur.nl,/,ThreatFox
 print2web.es,/,ThreatFox
@@ -118361,6 +118261,7 @@ produto-verificado.myshopify.com,/products/panela-pressao-eletrica-electrolux-di
 produvalidar.webcindario.com,/,PhishTank_Other_ID8469109
 produvalidar94.webcindario.com,/,PhishTank_Other_ID8470803
 prodxk.lol,/,ThreatFox
+proentecsas.com,/,ThreatFox
 proetctagent.com,/,ThreatFox
 proezas.diazpabon.info,/wp-content/plugins/,PhishTank_Other_ID9287999
 prof9-point.xamir2el.surf,/,ThreatFox
@@ -118433,7 +118334,6 @@ project-info-world.info,/,ThreatFox
 project-ms50192kd15.pages.dev,/,ThreatFox
 project-page-loading.firebaseapp.com,/,PhishTank_Other_ID8252667
 project-page-loading.web.app,/,PhishTank_Other_ID8252668
-project-stor129585.pages.dev,/,ThreatFox
 project-token-shakre.replit.app,/,PhishTank_Microsoft_ID9503239
 project.activeadvice.eu,/wp-includes/br/,PhishTank_Other_ID8240858
 project0.cc,/f/m/.X0-lock_x86_64,URLhaus
@@ -118466,7 +118366,6 @@ promericard1.webcindario.com,/,PhishTank_Other_ID9302111
 promericaweb-iota.vercel.app,/,PhishTank_Other_ID9161485
 promericaweb-iota.vercel.app,/?gad_source=1&amp;gad_campaignid=22814035585&amp;gbraid=0AAAABAdl_B-WgX4cpvKwDLtaAsCz-NN95&amp;gclid=EAIaIQobChMI2o7widrQjgMVHzcIBR2TZB8cEAMYASAAEgJ8YfD_BwE,PhishTank_Other_ID9162305
 promericaweb-iota.vercel.app,/?gad_source=1&amp;gad_campaignid=22814035585&amp;gbraid=0AAAABAdl_B9kGqE5mZ0Of2b7_aOa2dMoe&amp;gclid=EAIaIQobChMIqr6v3-_QjgMVQZ9aBR1QNSTgEAAYASAAEgLSpPD_BwE,PhishTank_Other_ID9162302
-promisesmanualsimplementations.fr,/,PhishTank_Other_ID9490066
 promnet.jp,/components/com_media/yrxeqmt/mpzjoiq/udskwfe/cngrce.ps1,URLhaus
 promo-card4.empirical-tuna.in.net,/,ThreatFox
 promo-card4.wex4tiral.in.net,/,ThreatFox
@@ -119354,7 +119253,6 @@ pub-4855794bab3f44ff864513d537421da4.r2.dev,/index.html,PhishTank_Other_ID872166
 pub-485c938c1a1b43b2bbc5b99155f2de68.r2.dev,/giudnfud.html,PhishTank_Other_ID8607247
 pub-48856b16d6504b139bdb76997cd8c881.r2.dev,/878728918938924829838043209401.html,PhishTank_Other_ID8599965
 pub-48c06d21bb5d4b9796a4256272ef7780.r2.dev,/index.html,PhishTank_Other_ID8597869
-pub-48ca7fb99c824c5797ae62fed688005b.r2.dev,/index.html,PhishTank_Other_ID8704927
 pub-48da1d5c48564855b8875ec78c93eab7.r2.dev,/Index.html,PhishTank_Other_ID8633507
 pub-48ea3caf73af44088808b664244c8a2e.r2.dev,/index.html,PhishTank_Other_ID8682543
 pub-48eb0029e95b4f77bc9a141fba6b47c3.r2.dev,/index.html,PhishTank_Other_ID8688997
@@ -120686,7 +120584,6 @@ purdue440.wixsite.com,/my-site-1,PhishTank_Other_ID9445246
 pure-color6.pulp-turquoise.in.net,/,ThreatFox
 pure-energy5.kymli2rex.in.net,/,ThreatFox
 pure-io.noeticstream.in.net,/,ThreatFox
-pure-node.abstractlogic.in.net,/,ThreatFox
 pure-node.bactergreat.in.net,/,ThreatFox
 pure-seed5.firs-tachycardia.in.net,/,ThreatFox
 pure-svc.noetisphere.in.net,/,ThreatFox
@@ -120746,7 +120643,6 @@ pusanik.shop,/,ThreatFox
 pusatjasapasangcctv.com,/,ThreatFox
 puschl.langhaar-schaeferhunde.com,/plugins/linux.bin,URLhaus
 push-api.daibeltrading.com,/,ThreatFox
-push-notify.exhortshelk.in.net,/,ThreatFox
 push-seeksash.xyz,/avast_update,URLhaus
 push.brewtrail.click,/,ThreatFox
 push.pixelplaza.click,/,ThreatFox
@@ -124498,7 +124394,6 @@ qaieskaoqeaoacuy.xyz,/,ThreatFox
 qaiooeuqywwiasgu.xyz,/,ThreatFox
 qakcyiwuysiiaeqc.xyz,/,ThreatFox
 qakm.fiorentini.ir,/,ThreatFox
-qakm.fiorentini.ir,/5a5d55ff-f17c-4ebb-80f3-fabfe639e949,URLhaus
 qakycigiueusmwky.xyz,/,ThreatFox
 qalamin.com,/next/aruba071126/web/authen.php,PhishTank_Other_ID9524830
 qalbbyam.com,/,ThreatFox
@@ -129825,7 +129720,6 @@ queroouvir.com.br,/webj/webmailclip/?email=aaaa@exampl.jp,PhishTank_Other_ID9479
 queroouvir.com.br,/webj/webmailclip?email=aaaa@exampl.jp,PhishTank_Other_ID9479785
 querprair.sylov9er.in.net,/,ThreatFox
 quertumlux.shop,/domesticescv/shoufu/standardsets/reevglularcidio=PR1002,PhishTank_Other_ID9509581
-query-hub.howaskfor.in.net,/,ThreatFox
 queryguard.tul7morax.in.net,/,ThreatFox
 queryspecimen.pares-system.in.net,/,ThreatFox
 quesnel.docu462589.pro,/,PhishTank_Other_ID9529469
@@ -130088,7 +129982,6 @@ qwimnzu.daqotransformers.com,/,ThreatFox
 qwjhcgxcjkhkjxfhhxklk-jytuxjcjxhrty87thfgj.teemill.com,/,PhishTank_Other_ID8954358
 qwkhuelo.firebaseapp.com,/,PhishTank_Other_ID8235322
 qwkhuelo.web.app,/,PhishTank_Other_ID8235323
-qwlkfsfa.com,/,ThreatFox
 qwnvfv.elcornerderaulmorote.com,/,ThreatFox
 qwpe1p.webwave.dev,/,PhishTank_Other_ID8658185
 qwsd3-f1b59.web.app,/,PhishTank_Other_ID8440451
@@ -147839,7 +147732,6 @@ rcmcare.com,/,ThreatFox
 rcmsocal.com,/,ThreatFox
 rcn163.weebly.com,/,PhishTank_Other_ID9029997
 rcodtjdj.melbetiran.bet,/,ThreatFox
-rcodtjdj.melbetiran.bet,/89f5b321-1eca-4e6f-92d4-9b19eade73c1,URLhaus
 rcslfw.eng-usa-synaptigen.com,/,ThreatFox
 rcullc.firebaseapp.com,/,PhishTank_Other_ID8558822
 rcullc.web.app,/,PhishTank_Other_ID8558824
@@ -147919,7 +147811,6 @@ read-the-new-code-of-business-ethical-d.webflow.io,/code-of-business-conduct-and
 read-word3.myportfolio.com,/,PhishTank_Other_ID8012872
 read1-data.norqelix.in.net,/,ThreatFox
 read7siteview.open2byte.surf,/,ThreatFox
-readable-day-332108.framer.app,/,PhishTank_Other_ID9426070
 readablevcforu.wixsite.com,/sdfghj,PhishTank_Other_ID9203914
 readadobe-document.click,/,ThreatFox
 readhostunit.pilo1byte.surf,/,ThreatFox
@@ -148449,7 +148340,6 @@ relay-agent-v4.am,/,ThreatFox
 relay-brief-cube.s3.ap-south-1.amazonaws.com,/UCtfrYNd8UamUtS?email=redacted@abuse.ionos.com,PhishTank_Other_ID9448103
 relay-craft.grov9essa.garden,/,ThreatFox
 relay-pickup-track.com,/captcha,PhishTank_Amazon.com_ID9496569
-relay-svc.exhortshelk.in.net,/,ThreatFox
 relay.backupper.pro,/,ThreatFox
 relay.energysdomes.com,/,ThreatFox
 relay.goruf.top,/,ThreatFox
@@ -148703,7 +148593,6 @@ reputationrescue.info,/,PhishTank_Other_ID9120310
 repvbllcbonk.icu,/?secure_connect=5cv2fc*&_subid=1sd8jpm.7d.1ahup&_token=1r9o4m7ck07iu.1781461379.18.deff4fca4fd3e41b6fae886c3d79149f,PhishTank_Other_ID9452905
 repvbllcbonk.icu,/?secure_connect=5cv2fc*&_subid=28u3f78.7d.1ahur&_token=lk48js292onue.1781524891.1.01f20c2acb7569f3f0e7dc2912e4f5d1,PhishTank_Other_ID9452904
 request-help.start.page,/,PhishTank_Facebook_ID8321970
-request-io.howaskfor.in.net,/,ThreatFox
 request-submit-here-form.surge.sh,/,PhishTank_Facebook_ID9486218
 requiem.llc,/,ThreatFox
 required-volition-id-case.github.io,/case,PhishTank_Other_ID8945785
@@ -149098,7 +148987,6 @@ rf-server.de,/,ThreatFox
 rf74wj.bgp04.sbs,/,PhishTank_Other_ID9505750
 rf9s1gc5.footb.xyz,/,ThreatFox
 rfbqgj-g6.myshopify.com,/,PhishTank_Other_ID9424458
-rfd-tb2fwkwon3.live-website.com,/,PhishTank_TSB_ID9359459
 rfd-url-51-6.s3.amazonaws.com,/rfd/url/ebay-006/,PhishTank_eBay__Inc._ID9458952
 rfdatuh.yek.boats,/,ThreatFox
 rfedpuuc.falsafekonkour.site,/,ThreatFox
@@ -149564,7 +149452,6 @@ robocore-official.gitbook.io,/roboc/,PhishTank_Other_ID9199871
 robodomain.sbs,/,ThreatFox
 robotehran.com,/,ThreatFox
 robotics.cn.com,/,ThreatFox
-roboticsxp.com,/,ThreatFox
 robotpi8812.buzz,/,ThreatFox
 robotprint.lt,/,ThreatFox
 robscarpetcleaning.com,/,ThreatFox
@@ -149686,7 +149573,6 @@ root-gate.ryesears.in.net,/,ThreatFox
 root-hub.excellsadarma.in.net,/,ThreatFox
 root-hub.foersteron.work,/,ThreatFox
 root-slot-quit.xyz,/avast_update,URLhaus
-root-source.conceptmatrix.in.net,/,ThreatFox
 root-source.ontogenesiscore.in.net,/,ThreatFox
 root-svc.epistemevault.in.net,/,ThreatFox
 root-svc.ontocorex.in.net,/,ThreatFox
@@ -150158,6 +150044,7 @@ rubydental.group,/,ThreatFox
 rubysen.com,/,ThreatFox
 rucbhks.grov3elia.bet,/,ThreatFox
 ruceive-rakntanpointapp.com,/,PhishTank_Other_ID9521414
+rucihipe.workers.dev,/,ThreatFox
 ruckerstattung.sviluppo.host,/apk/app/home.php,PhishTank_Other_ID9496312
 rucuxpv.acbet.poker,/,ThreatFox
 rudder-moss.com,/,ThreatFox
@@ -150301,7 +150188,6 @@ russetmoor.cc,/,ThreatFox
 russk22.icu,/,ThreatFox
 russoarquitectura.cl,/,PhishTank_Other_ID8500966
 rustnglow.com,/,ThreatFox
-rustomjeeaden.in.net,/,ThreatFox
 rutgc.weebly.com,/,PhishTank_Other_ID9087912
 ruthiemart.com,/,ThreatFox
 ruthpowity.firebaseapp.com,/,PhishTank_Other_ID8071550
@@ -150806,7 +150692,6 @@ sadppppppd.pages.dev,/,PhishTank_Other_ID8893785
 sadsadsadfff.pages.dev,/,PhishTank_Other_ID8872688
 saegsrl.com,/,ThreatFox
 saf-oil.ru,/downloads/safmanager/safman_setup.exe,URLhaus
-safadezaonlinelbpfr.web.app,/,PhishTank_Other_ID8148659
 safafsafsafasfasfsafsaf4241.pages.dev,/,PhishTank_Other_ID8797187
 safarait.com,/,PhishTank_Other_ID8241183
 safdafaddabfff.weebly.com,/,PhishTank_Other_ID9045919
@@ -151119,7 +151004,6 @@ sanjingcourt.com,/,ThreatFox
 sanjingwindow.com,/,ThreatFox
 sanjinsahloguli.qxk7ui.info,/tptvakto,PhishTank_Other_ID9527362
 sanjinshdfuli.igb56k.info,/tptvakto,PhishTank_Other_ID9527295
-sanjinshdfuli.igb56k.info,/tptvakto/,PhishTank_Other_ID9527297
 sanjinshuli.0r7jy9.info,/tptvakto,PhishTank_Other_ID9527364
 sanjinshuli.0r7jy9.info,/tptvakto/,PhishTank_Other_ID9527368
 sanjvinsdshuli.8p1oh9.info,/tptvakto/,PhishTank_Other_ID9527357
@@ -151879,7 +151763,6 @@ seaport.com.sa,/,ThreatFox
 seapupdate.weebly.com,/,PhishTank_Other_ID9322830
 seaqwqeyukcikcii.xyz,/,ThreatFox
 seara-a077bf.webflow.io,/,PhishTank_Other_ID9458455
-search-svc.howaskfor.in.net,/,ThreatFox
 search.csmq.workers.dev,/,ThreatFox
 search.luminosoocchio.com,/c.php?cu=https%253A%252F%252Fdev-itas5.pantheonsite.io/it/,PhishTank_Other_ID7811092
 searchdestatus.com,/,PhishTank_Other_ID9432115
@@ -151936,7 +151819,6 @@ secpasssverif-caisssedep.com,/,PhishTank_Other_ID9524428
 secpasssverif-caisssedep.com,/pages/desktop/securite/index.php,PhishTank_Other_ID9524427
 secpasssverif-cm.com,/,PhishTank_Other_ID9524495
 secpasssverif-cm.com,/pages/desktop/securite/index.php,PhishTank_Other_ID9524494
-secpasssverif-cm.com,/pages/mobile/securite/index.php,PhishTank_Other_ID9524493
 secpopper.world,/,ThreatFox
 secretcav.remote-flow.work,/,ThreatFox
 secretopanel2.site,/,ThreatFox
@@ -152228,7 +152110,6 @@ securpassinfo-cm.com,/index.php,PhishTank_Other_ID9501424
 securpassinfo-sg.com,/,PhishTank_SociÃ©tÃ©_GÃ©nÃ©rale_ID9488932
 securpassinfo-sg.com,/index.php,PhishTank_SociÃ©tÃ©_GÃ©nÃ©rale_ID9488931
 securpasss-ca.com,/,PhishTank_Western_Union_ID9473411
-securpasss-ca.com,/index.php,PhishTank_Other_ID9473410
 securpassverif-ca.com,/,PhishTank_Other_ID9506643
 securpassverif-ca.com,/pages/desktop/connexion/index.php,PhishTank_Other_ID9506644
 securpassverif-ca.com,/pages/mobile/connexion/index.php,PhishTank_Other_ID9506645
@@ -152239,7 +152120,6 @@ seczimbrupdate.weebly.com,/,PhishTank_Other_ID9006274
 sedamatbaasi.com,/domini/arubastrox/,PhishTank_Other_ID9456729
 sede-dgt-gob-es.pandjul.com,/id/,PhishTank_Other_ID9484800
 sede.agenciatributaia-gob.top,/es,PhishTank_Other_ID9481908
-sedeagencoe.click,/ES,PhishTank_Other_ID9465312
 sedeagencoe.click,/ES,PhishTank_Other_ID9465313
 sedeagencoe.hair,/ES,PhishTank_Other_ID9465310
 sedeagencoe.qpon,/ES,PhishTank_Other_ID9465315
@@ -152461,7 +152341,6 @@ sensational-popover-484895.framer.app,/,PhishTank_Other_ID9433098
 sense-api.cognitrixvector.in.net,/,ThreatFox
 sense-data.cognifabric.in.net,/,ThreatFox
 sense-data.cognisphere.in.net,/,ThreatFox
-sense-gate.cognitivematrix.in.net,/,ThreatFox
 sense-log.cogniversehub.in.net,/,ThreatFox
 sense-node.noeticstream.in.net,/,ThreatFox
 sense-vault.cognifluxion.in.net,/,ThreatFox
@@ -152947,9 +152826,7 @@ sfgreetingcardsfr.web.app,/,PhishTank_Other_ID8233301
 sfinney-totelcsi.formaloo.co,/3gam4h,PhishTank_Other_ID9219747
 sfjskfdizekhzefnbezezoifuoeziufezf.hosted.phplist.com,/,PhishTank_Other_ID9288901
 sfmbqki.betfa90.net,/,ThreatFox
-sfnfpopq.com,/,ThreatFox
 sfonline43.weebly.com,/,PhishTank_Other_ID9206258
-sfqwfq.com,/,ThreatFox
 sfr-cloud-business-pro.ddns-ip.net,/,PhishTank_Other_ID9461777
 sfr-fixe-mobile.weebly.com,/,PhishTank_Other_ID9494398
 sfr-production-8e4a.up.railway.app,/,PhishTank_Other_ID9489482
@@ -153894,7 +153771,6 @@ sie5uyp7.brn-peak.net,/,ThreatFox
 siempreducando.com,/,PhishTank_Other_ID9513504
 sienna-shape-366096.framer.app,/,PhishTank_Other_ID9375084
 sientetemejor.com,/23b48f56#redacted@abuse.ionos.com,PhishTank_Other_ID9056940
-sieradenbycelin.nl,/,PhishTank_Other_ID7904946
 sierionzipared.mystagingwebsite.com,/wp-content/plugins/bridos/public/index.php,PhishTank_Other_ID9384597
 sierrabluepools.com,/,ThreatFox
 sierraspiritmerch.com,/,ThreatFox
@@ -155653,7 +155529,6 @@ skegmc.org.uk,/,ThreatFox
 skenewasm.shop,/o/ix118/7331505120948480#selectedbank9,PhishTank_Other_ID9529048
 skeplqy.cn,/,PhishTank_Other_ID9419226
 sketc-gate.multi5ardina.in.net,/,ThreatFox
-sketch-node.conceptmatrix.in.net,/,ThreatFox
 sketchbasic.tavro4xel.lat,/,ThreatFox
 sketchcb.com,/,ThreatFox
 sketchco.com.sa,/wp-admin/includes/june/webmail-jp/,PhishTank_Other_ID8612518
@@ -155747,6 +155622,7 @@ skugdro.en-usa-bpzone.com,/,ThreatFox
 skuj.dashjore.in.net,/,ThreatFox
 skullcode1.myddns.me,/,ThreatFox
 skuplugs.com,/,ThreatFox
+skx7ny4u92mqdtb3esieng-dyexeyh3gvebbhdv.z03.azurefd.net,/?&SV=6f72de1ffb5ea53a4be598d4ecdea890&VB=US&CLD=Colorado&0=play+chess&1=-&2=RON&3=Highlands+Ranch&4=0.255&_subid=3blkpal.7.120fn&_token=hgun451iis25p.1791399865.1.56ca79099414e2c627e2b054cec097cb,PhishTank_Other_ID9539324
 sky-100034.weeblysite.com,/,PhishTank_Other_ID8321415
 sky-100034.weeblysite.com,/,PhishTank_Other_ID9421980
 sky-102963.square.site,/,PhishTank_Other_ID8405487
@@ -156090,7 +155966,6 @@ smbc-card.duquanzhou.com,/SmbcHtml/,PhishTank_Other_ID9466109
 smbc-card.haikouanjufang.com,/login-index/,PhishTank_Other_ID9436130
 smbc-card.jcjc123.com,/zkpsqllk/,PhishTank_Other_ID9423187
 smbc-card01.co,/,PhishTank_Other_ID9424722
-smbc-cardindex.gloryholevoyeurs.com,/newsinvestore-jp/,PhishTank_Other_ID9449739
 smbc-cardindex.gxlxjt.com,/newsinvestor-jp,PhishTank_Other_ID9454262
 smbc-cardindex.gzlnmy.com,/newsinvestor-jp/,PhishTank_Other_ID9451926
 smbc-cardindex.gzzgjj.com,/newsinvestor-jp/,PhishTank_Other_ID9451925
@@ -156151,7 +156026,6 @@ smesharik.bond,/,ThreatFox
 smetana-js.beer,/,ThreatFox
 smfcdnbb.beer,/,ThreatFox
 smfnctms.fifa90.bet,/,ThreatFox
-smfnctms.fifa90.bet,/d59048b8-33bb-4088-b616-ae04f0a8e12f,URLhaus
 smgoiwekkqsuioou.xyz,/,ThreatFox
 smgvty.villas-restaurant.com,/,ThreatFox
 smiasuwimwiyicag.xyz,/,ThreatFox
@@ -156317,7 +156191,6 @@ snqw.cabmic7on.in.net,/,ThreatFox
 snrmizb.peacefulacrestx.com,/,ThreatFox
 sns-clauder-cdn.beer,/,ThreatFox
 sns.grotominpgroup.pl,/,ThreatFox
-sns73.weebly.com,/,PhishTank_Other_ID9387513
 snsnnswwjhfy8374.weebly.com,/,PhishTank_Other_ID8973519
 snssqb.cheznevine.com,/,ThreatFox
 snugglebloom.com.au,/,ThreatFox
@@ -156650,7 +156523,6 @@ solid-base6.bex1lorim.in.net,/,ThreatFox
 solid-base6.overgr0wnsaval.in.net,/,ThreatFox
 solid-base64.hai1owhiten.in.net,/,ThreatFox
 solid-manage.com,/,ThreatFox
-solid-store.structuralcore.in.net,/,ThreatFox
 solid-svc.shapeprimrose.in.net,/,ThreatFox
 solid.mwbwu.workers.dev,/,ThreatFox
 solid5lowly.digital,/,ThreatFox
@@ -157058,7 +156930,6 @@ sp11ct-morlan-biz8-dravex-polsik.pages.dev,/,PhishTank_Other_ID9494691
 sp11ct-morvek-biz8-seltra-quenix.pages.dev,/,PhishTank_Other_ID9494692
 sp11ct-morvek-biz8-seltra-quenix.pages.dev,/,PhishTank_Other_ID9494693
 sp11ct-movrek-biz8-sarnel-tolvik.pages.dev,/,PhishTank_Other_ID9494694
-sp11ct-movrek-biz8-sarnel-tolvik.pages.dev,/,PhishTank_Other_ID9494695
 sp11ct-nalvek-biz8-sormix-queldor.pages.dev,/,PhishTank_Other_ID9494697
 sp11ct-narkel-biz8-dorsan-velrix.pages.dev,/,PhishTank_Other_ID9494698
 sp11ct-narkel-biz8-dorsan-velrix.pages.dev,/,PhishTank_Other_ID9494699
@@ -157131,7 +157002,6 @@ sp11ct-velsok-biz8-karsen-promel.pages.dev,/,PhishTank_Other_ID9494776
 sp11ct-velsok-biz8-karsen-promel.pages.dev,/,PhishTank_Other_ID9494777
 sp11ct-vexlan-biz8-polmer-drunix.pages.dev,/,PhishTank_Other_ID9494778
 sp11ct-vexlan-biz8-polmer-drunix.pages.dev,/,PhishTank_Other_ID9494779
-sp11ct-vordek-biz8-lamsor-prenik.pages.dev,/,PhishTank_Other_ID9494780
 sp11ct-vordek-biz8-lamsor-prenik.pages.dev,/,PhishTank_Other_ID9494781
 sp11ct-vorsel-biz8-marnik-dolfar.pages.dev,/,PhishTank_Other_ID9494782
 sp11ct-vorsel-biz8-marnik-dolfar.pages.dev,/,PhishTank_Other_ID9494783
@@ -157321,7 +157191,6 @@ sp12ct-lormek-biz-zafrik-vensar.pages.dev,/,PhishTank_Other_ID9498983
 sp12ct-lorsen-biz-fazvik-kremor.pages.dev,/,PhishTank_Other_ID9498986
 sp12ct-lorsen-biz-fazvik-kremor.pages.dev,/,PhishTank_Other_ID9498987
 sp12ct-lorsik-biz-hazdel-framok.pages.dev,/,PhishTank_Other_ID9500017
-sp12ct-lorsor-biz-kandik-fravmel.pages.dev,/,PhishTank_Other_ID9498989
 sp12ct-lovmer-biz-zarnik-frosel.pages.dev,/,PhishTank_Other_ID9498990
 sp12ct-lovmer-biz-zarnik-frosel.pages.dev,/,PhishTank_Other_ID9498991
 sp12ct-mavrek-biz-lonsar-fredok.pages.dev,/,PhishTank_Other_ID9498993
@@ -157366,7 +157235,6 @@ sp12ct-prondok-biz-zarmel-kersik.pages.dev,/,PhishTank_Other_ID9499017
 sp12ct-pronsar-biz-zarmek-holdik.pages.dev,/,PhishTank_Other_ID9494882
 sp12ct-pronsik-biz-havsel-keldor.pages.dev,/,PhishTank_Other_ID9499019
 sp12ct-pronsok-biz-kafdor-zelvik.pages.dev,/,PhishTank_Other_ID9499020
-sp12ct-tersok-biz-havrel-kemdor.pages.dev,/,PhishTank_Other_ID9499022
 sp12ct-tersok-biz-havrel-kemdor.pages.dev,/,PhishTank_Other_ID9499023
 sp12ct-vamdel-biz-fornik-prasel.pages.dev,/,PhishTank_Other_ID9494884
 sp12ct-vamdel-biz-fornik-prasel.pages.dev,/,PhishTank_Other_ID9494885
@@ -157468,7 +157336,6 @@ sp19ct7-durev-biz-kolen-safir.pages.dev,/,PhishTank_Other_ID9479483
 sp19ct7-durev-biz-kolen-safir.pages.dev,/,PhishTank_Other_ID9479484
 sp19ct7-durex-biz-sarem-konil.pages.dev,/,PhishTank_Other_ID9479486
 sp19ct7-farem-biz-lunek-kadis.pages.dev,/,PhishTank_Other_ID9479489
-sp19ct7-farem-biz-lunek-kadis.pages.dev,/,PhishTank_Other_ID9479490
 sp19ct7-forem-biz-durev-sanik.pages.dev,/,PhishTank_Other_ID9479491
 sp19ct7-forem-biz-durev-sanik.pages.dev,/,PhishTank_Other_ID9479492
 sp19ct7-funek-biz-karem-lodis.pages.dev,/,PhishTank_Other_ID9479494
@@ -157530,7 +157397,6 @@ sp19ct7-lurex-biz-marek-dofis.pages.dev,/,PhishTank_Other_ID9479567
 sp19ct7-mafek-biz-lurek-doris.pages.dev,/,PhishTank_Other_ID9479569
 sp19ct7-mafor-biz-surex-kelin.pages.dev,/,PhishTank_Other_ID9479570
 sp19ct7-mafor-biz-surex-kelin.pages.dev,/,PhishTank_Other_ID9479571
-sp19ct7-marek-biz-vurex-dolis.pages.dev,/,PhishTank_Other_ID9479572
 sp19ct7-moren-biz-furel-dasik.pages.dev,/,PhishTank_Other_ID9479574
 sp19ct7-moren-biz-furel-dasik.pages.dev,/,PhishTank_Other_ID9479575
 sp19ct7-muref-biz-sarek-dovil.pages.dev,/,PhishTank_Other_ID9479577
@@ -157545,13 +157411,11 @@ sp19ct7-sarek-biz-lurem-fodis.pages.dev,/,PhishTank_Other_ID9479588
 sp19ct7-sorek-biz-furem-ladis.pages.dev,/,PhishTank_Other_ID9479589
 sp19ct7-soren-biz-lurek-dafim.pages.dev,/,PhishTank_Other_ID9479591
 sp19ct7-soren-biz-lurek-dafim.pages.dev,/,PhishTank_Other_ID9479592
-sp19ct7-sured-biz-farek-lonis.pages.dev,/,PhishTank_Other_ID9479593
 sp19ct7-surek-biz-kafex-lorim.pages.dev,/,PhishTank_Other_ID9479595
 sp19ct7-surek-biz-kafex-lorim.pages.dev,/,PhishTank_Other_ID9479596
 sp19ct7-surek-biz-lafor-demik.pages.dev,/,PhishTank_Other_ID9479597
 sp19ct7-surek-biz-lafor-demik.pages.dev,/,PhishTank_Other_ID9479598
 sp19ct7-surek-biz-lovem-danis.pages.dev,/,PhishTank_Other_ID9479599
-sp19ct7-surem-biz-kafor-denik.pages.dev,/,PhishTank_Other_ID9479603
 sp19ct7-surem-biz-vadek-foril.pages.dev,/,PhishTank_Other_ID9479604
 sp19ct7-surem-biz-vadek-foril.pages.dev,/,PhishTank_Other_ID9479605
 sp19ct7-surev-biz-malek-dofir.pages.dev,/,PhishTank_Other_ID9479606
@@ -157568,7 +157432,6 @@ sp19ct7-vurem-biz-kafel-doris.pages.dev,/,PhishTank_Other_ID9479626
 sp19ct7-vurem-biz-kafel-doris.pages.dev,/,PhishTank_Other_ID9479627
 sp19ct7-vurem-biz-salek-donis.pages.dev,/,PhishTank_Other_ID9479629
 sp19ct7-vurem-biz-salek-donis.pages.dev,/,PhishTank_Other_ID9479630
-sp1ct-bornik-biz8-felvak-drasel.pages.dev,/,PhishTank_Other_ID9492662
 sp1ct-darnel-biz8-korlen-vastik.pages.dev,/,PhishTank_Other_ID9492663
 sp1ct-darnel-biz8-korlen-vastik.pages.dev,/,PhishTank_Other_ID9492664
 sp1ct-galvik-biz8-mortrak-feskor.pages.dev,/,PhishTank_Other_ID9492666
@@ -157805,7 +157668,6 @@ specsaversllc.online,/mrkelly13/qk3FhjayJfgjjLonmTMtgt9pw6hrKmMImzjw2eqKGsHqMovE
 spectacular-aims-380147.framer.app,/,PhishTank_Other_ID9421489
 spectait.com,/,ThreatFox
 spectrum-email-service-update.weeblysite.com,/,PhishTank_Other_ID9463065
-spectrum-email-services-101043.weeblysite.com,/,PhishTank_Other_ID9471267
 spectrum-email-update-account.weeblysite.com,/,PhishTank_Other_ID9475793
 spectrum-email-update.weeblysite.com,/,PhishTank_Other_ID9466101
 spectrum-email-update.weeblysite.com,/,PhishTank_Other_ID9466303
@@ -157933,6 +157795,7 @@ sportautomobile.wixsite.com,/so/cdP-H0zB3?languageTag=fr&cid=8e791fb2-69eb-4365-
 sportbetadderapk.weebly.com,/,PhishTank_Other_ID9349852
 sportbetng247.weebly.com,/,PhishTank_Other_ID9270240
 sportchat.ir,/,ThreatFox
+sportcom.ch,/,ThreatFox
 sporting-apricot-xuiuvslnhr.edgeone.app,/,PhishTank_Other_ID9447892
 sportnsports.com,/,ThreatFox
 sportowepasje.com,/,ThreatFox
@@ -158649,7 +158512,6 @@ startapp-iotrexoe.wixstudio.com,/us-en,PhishTank_Other_ID9425599
 startapp-ledgar.wixstudio.com,/en-us,PhishTank_Other_ID9450492
 startapp-ledgrecdn.wixstudio.com,/en-us,PhishTank_Other_ID9470604
 startapp-ledgrecdn.wixstudio.com,/en-us,PhishTank_Other_ID9470605
-startapp-legir.wixstudio.com,/en-start,PhishTank_Other_ID9450485
 startapp-mypage.wixstudio.com,/start-en,PhishTank_Other_ID9410004
 startapp-trezr-io.wixstudio.com,/app-en,PhishTank_Other_ID9413223
 startapps-io-trexor.wixstudio.com,/en-start,PhishTank_Other_ID9462157
@@ -158707,7 +158569,6 @@ started-advance.ghost.io,/bridge-enus/,PhishTank_Other_ID9334928
 started-appen.zapier.app,/,PhishTank_Other_ID9469466
 started-bridge-trezr.wixstudio.com,/auths,PhishTank_Other_ID9431197
 started-desktop-us.wixstudio.com,/en-desktop,PhishTank_Other_ID9404611
-started-desktoplive.wixstudio.com,/en-us-desktop,PhishTank_Other_ID9396936
 started-en-desktop.wixstudio.com,/usen,PhishTank_Other_ID9412282
 started-en-ledgre.wixstudio.com,/en-start,PhishTank_Other_ID9447000
 started-explore.ghost.io,/exodus-wallet/,PhishTank_Other_ID9350058
@@ -158963,7 +158824,6 @@ startsso-trezxr.wixstudio.com,/us-web,PhishTank_Other_ID9456093
 startstrexxo.wixstudio.com,/enus,PhishTank_Other_ID9448176
 startstrezur-io.wixstudio.com,/en-us,PhishTank_Other_ID9431342
 startstrezur-io.wixstudio.com,/home,PhishTank_Other_ID9428088
-startsuit-apppro.wixstudio.com,/us-en,PhishTank_Other_ID9439639
 startsuit-enapp.wixstudio.com,/suite,PhishTank_Other_ID9450502
 startsuit-enapp.wixstudio.com,/suite-en,PhishTank_Other_ID9450509
 startsuit-enapp.wixstudio.com,/us-en,PhishTank_Other_ID9450493
@@ -159019,7 +158879,6 @@ static.slbc7890.shop,/,ThreatFox
 static.stacksupport.cc,/,ThreatFox
 static.topxgun.com,/1465810408079_502.exe,URLhaus
 static.youdm.cn,/static/clean/clean.apk,URLhaus
-static.zongheng.com,/app/filesrc/android/apk/2023/zonghengXSAndroid_7.5.6.63_zh-zhh5.apk,URLhaus
 staticcloudflare.pro,/,ThreatFox
 staticfile-878b7.wasmer.app,/,PhishTank_Banco_Santander__S.A._ID9471260
 staticflowsys.ferrumgateweb.garden,/,ThreatFox
@@ -159206,7 +159065,6 @@ still-meadow-5d62.othersmx.workers.dev,/,PhishTank_Other_ID9501777
 still-snow-667e.protexweer.workers.dev,/,ThreatFox
 stilles-oertchen.de,/HomeWell/,PhishTank_Adobe_ID9510777
 stimulant-sexuel.fr,/,ThreatFox
-stinosa.duckdns.org,/,ThreatFox
 stitch-spool.kazan-saddle.in.net,/,ThreatFox
 stjais.fullnrg.hu,/,ThreatFox
 stkif-2xe-o9z-lnu-6g2-nray.pages.dev,/,PhishTank_Other_ID9479638
@@ -159494,7 +159352,6 @@ streaming-accountlogin.com,/index.php,PhishTank_Netflix_ID9374108
 streaminghost.myvnc.com,/,PhishTank_Other_ID9492003
 streaminghost.myvnc.com,/captcha,PhishTank_Other_ID9492001
 streamlink.to,/u8trjdj,PhishTank_Other_ID8481534
-streammobs.com,/,URLhaus
 streamprocessingnode.wiki,/,ThreatFox
 streamsol.sleazyhe2ded.in.net,/,ThreatFox
 streamsurge.site,/,ThreatFox
@@ -159508,7 +159365,6 @@ streetfleshroyalgaming.top,/,ThreatFox
 strelenmonsal.contabilidadeonline.top,/,ThreatFox
 strenixcaspian.com,/,ThreatFox
 stresonlingor.contabilsmart.cloud,/,ThreatFox
-stress-node.structuralcore.in.net,/,ThreatFox
 stretar7.contabilfacil.sbs,/,ThreatFox
 strgsd.xyz,/,ThreatFox
 stri3-hold.histo-ricthe.in.net,/,ThreatFox
@@ -159580,6 +159436,7 @@ studio-s.studio.site,/,PhishTank_Other_ID9099298
 studio-salazar.com,/,ThreatFox
 studio613web.com,/,ThreatFox
 studio7dance.co.uk,/,ThreatFox
+studioathos.com,/,ThreatFox
 studioccd.com,/,ThreatFox
 studiocdn-desktop.wixstudio.com,/us-en,PhishTank_Other_ID9477598
 studiochr.com,/,ThreatFox
@@ -159858,7 +159715,6 @@ suiteapps-trexo.wixstudio.com,/en-us,PhishTank_Other_ID9408056
 suiteapps-trexzos.wixstudio.com,/start-en,PhishTank_Other_ID9469874
 suiteapps-trezr.wixstudio.com,/en-us,PhishTank_Other_ID9467459
 suiteapps-trezro.wixstudio.com,/en-us,PhishTank_Other_ID9485276
-suiteapps-trrezor.wixstudio.com,/us-en,PhishTank_Other_ID9418137
 suiteapps-trrzor.wixstudio.com,/enus,PhishTank_Other_ID9410879
 suiteapps-trsexzo.wixstudio.com,/en-us,PhishTank_Other_ID9403943
 suiteappss-trezer.wixstudio.com,/enus,PhishTank_Other_ID9410057
@@ -159962,7 +159818,6 @@ suivre6320f.hub463167.pro,/captcha.php,PhishTank_Other_ID9510847
 suivre6522m.hub463167.pro,/,PhishTank_Other_ID9510845
 suivre6522m.hub463167.pro,/captcha.php,PhishTank_Other_ID9510843
 suivre6523y.hub463167.pro,/,PhishTank_Other_ID9510846
-suivre8633d.oblg463412.pro,/,PhishTank_Other_ID9506343
 suivre8633d.oblg463412.pro,/captcha.php,PhishTank_Other_ID9506342
 suivre9933d.oblg463412.pro,/,PhishTank_Other_ID9506336
 suivre9933d.oblg463412.pro,/captcha.php,PhishTank_Other_ID9506335
@@ -160290,7 +160145,6 @@ surf-life-sank.xyz,/avast_update,URLhaus
 surf.oceanwavepoint.lat,/,ThreatFox
 surf2taskhub.felo7wave.surf,/,ThreatFox
 surf3logicgate.oceanicmeshbit.garden,/,ThreatFox
-surface-api.enameledtack.in.net,/,ThreatFox
 surgeonperth.com.au,/old-site/files/stegopy.png,URLhaus
 surgeonperth.com.au,/old-site/files/stegpayd.png,URLhaus
 surgery-tips.com,/max/trackingresult.php,PhishTank_Other_ID8029692
@@ -160542,7 +160396,6 @@ svensommerlatte.com,/,ThreatFox
 svganchordev.net,/icons/108,URLhaus
 svhost-update-service.casa,/,ThreatFox
 svieckyslaskou.sk,/,ThreatFox
-svirtual.sanviatorperu.edu.pe,/readme.txt,URLhaus
 svitava24.cz,/images/re/,PhishTank_PayPal_ID8388873
 svitlolink.com,/,ThreatFox
 svitrini.com.br,/,ThreatFox
@@ -160701,7 +160554,6 @@ swisschpass.org,/DK/saphe/,PhishTank_Other_ID9420808
 swisscom-ra-portal.com,/,PhishTank_Other_ID9460186
 swisshilfe.cluster1.easy-hebergement.net,/v3/oevlogin/,PhishTank_Other_ID8220412
 swisshomesforsale.com,/,ThreatFox
-swisspas.duckdns.org,/PRODUCTION2/index.php,PhishTank_Other_ID9370322
 swisspass-sbbclient-v5.syd1.digitaloceanspaces.com,/index.html,PhishTank_Other_ID9493027
 swisspass-v8.fra1.digitaloceanspaces.com,/index.html,PhishTank_Other_ID9493028
 swisspass.cluster1.easy-hebergement.net,/rechung/,PhishTank_Other_ID8021897
@@ -160828,7 +160680,6 @@ synadentics.com,/,ThreatFox
 synaptigen-usa.com,/,ThreatFox
 sync-gate.epistemegrid.in.net,/,ThreatFox
 sync-hub.importantserv.in.net,/,ThreatFox
-sync-logic.exhortshelk.in.net,/,ThreatFox
 sync-node.epistematrix.in.net,/,ThreatFox
 sync-service.system-telemetry.workers.dev,/,ThreatFox
 sync-vault.epistemiconflux.in.net,/,ThreatFox
@@ -161036,6 +160887,7 @@ szsansin.com,/uid_477063630?ticket=COIJytE3Gu,PhishTank_Other_ID9513408
 sztxhg.com,/home,PhishTank_Other_ID9459097
 t-2net.com,/,PhishTank_Other_ID9357648
 t-adobe.lat,/,ThreatFox
+t-bp-ceo.novopayment.net,/bp/cards-inquiry,PhishTank_Other_ID9539293
 t-ch-kanqiu.com,/?tid=1781919561729,PhishTank_Other_ID9458110
 t-mobil-28c13.firebaseapp.com,/,PhishTank_Other_ID8017936
 t-mobil-28c13.web.app,/,PhishTank_Other_ID8017937
@@ -161472,6 +161324,7 @@ tab-iroxf.formstack.com,/forms/newform1_copy,PhishTank_Other_ID9466574
 tab-volfed.firebaseapp.com,/,PhishTank_Other_ID8425732
 tab-volfed.web.app,/,PhishTank_Other_ID8425733
 tab.rowlocks.pics,/,ThreatFox
+tabak.hr,/o-nama/PS4U5D/fuck_niggers_2.hta,URLhaus
 tabascosocialmediaforms.com,/,ThreatFox
 tabernamacaenvenenada.com,/,ThreatFox
 table4-data.daily-report-flow.in.net,/,ThreatFox
@@ -161490,13 +161343,13 @@ tactip.cyou,/,ThreatFox
 tadkaindiaka.com,/,ThreatFox
 tadobiyaf.z9.web.core.windows.net,/,PhishTank_Other_ID9354158
 tadola.id,/,ThreatFox
+taffy28.workers.dev,/,ThreatFox
 tafhu17n.nextbahis.blog,/,ThreatFox
 tafhu17n.nextbahis.blog,/?ublib=09cbd437-3986-4cc3-8bf7-0a388b6d0fe6,URLhaus
 tag-heuer-1on1-rsvp-2025.firebaseapp.com,/,PhishTank_Other_ID9157064
 tag-heuer-1on1-rsvp-2025.web.app,/,PhishTank_Other_ID9157065
 tag-home.buzz,/cl,PhishTank_Other_ID9465341
 tag-manager.xyz,/,ThreatFox
-tag-portal.semanticvector.in.net,/,ThreatFox
 tag-traeume.de,/,ThreatFox
 tag3-attr.norxelium.in.net,/,ThreatFox
 tag3s.dialectraflux.in.net,/,ThreatFox
@@ -162244,7 +162097,6 @@ telkomsanetsb.weebly.com,/,PhishTank_Other_ID9063590
 telkomsasecurityupgrade.weebly.com,/,PhishTank_Other_ID9346897
 telkomsaza.weebly.com,/,PhishTank_Other_ID9363034
 telkomserverupgrade.weebly.com,/,PhishTank_Other_ID9244130
-telkomservicenet.weebly.com,/,PhishTank_Other_ID9146216
 telllstraaaanewww.weebly.com,/,PhishTank_Other_ID9448276
 telllstraaadminnn.weebly.com,/,PhishTank_Other_ID9456034
 telllstrraaamyyadmiinn.weebly.com,/,PhishTank_Other_ID9490697
@@ -162276,7 +162128,6 @@ telstraauthhh.weebly.com,/,PhishTank_Other_ID9475361
 telstraawerbmaill.weebly.com,/,PhishTank_Other_ID9490793
 telstraeaavx.weebly.com,/,PhishTank_Other_ID9494375
 telstranotebigpond.weebly.com,/,PhishTank_Other_ID9400462
-telstrapluss1.weebly.com,/,PhishTank_Other_ID9083038
 telstrasupport-107280.square.site,/,PhishTank_Other_ID8388133
 telstrasupprort.weebly.com,/,PhishTank_Other_ID9038728
 telstratt.weebly.com,/,PhishTank_Other_ID9490728
@@ -162383,7 +162234,6 @@ teresariba.com,/,ThreatFox
 teresinasoftwares.com.br,/xfinity/xfinity/,PhishTank_Other_ID9495061
 terezerwallet.webflow.io,/,PhishTank_Other_ID9537730
 terlalu377.bubbleapps.io,/version-test/d,PhishTank_Other_ID8946237
-term-index.semanticvector.in.net,/,ThreatFox
 term-log.dialectdozing.in.net,/,ThreatFox
 term4-text.active-phase-net.in.net,/,ThreatFox
 term4logicway.centenary-kurgan.bet,/,ThreatFox
@@ -162455,7 +162305,6 @@ test1-run.quv7maren.in.net,/,ThreatFox
 test1-run.smart-system-check.in.net,/,ThreatFox
 test2258-f1945.firebaseapp.com,/,PhishTank_Other_ID8395529
 test2258-f1945.web.app,/,PhishTank_Other_ID8395530
-test3.pb3.duckdns.org,/,PhishTank_Other_ID9506841
 test3012.duckdns.org,/,ThreatFox
 testbff.com,/,ThreatFox
 teste.m-firma.lat,/,ThreatFox
@@ -162600,7 +162449,6 @@ the-cash-technology-internet-group.us21.list-manage.com,/track/click?u=33388dd11
 the-cassandra-files.ghost.io,/file-s01e27-the_blind_watchdog_fails/,PhishTank_eBay__Inc._ID9419381
 the-dread-literary-review.ghost.io,/feature-the-other-side-by-saint-lazare/,PhishTank_Other_ID9419397
 the-iff.com,/,ThreatFox
-the-rehab.us.org,/,ThreatFox
 the-silence-tax.ghost.io,/about,PhishTank_Other_ID9419344
 the-sopranos-family-tree.garden,/,ThreatFox
 the-stars-of-rock.com,/home.php?lang=%22%2F%3E%3Cimg%20src%3D%22https%3A%2F%2Fgoogle.com%2Fg8rRYyxY7lnNZ.jpg%22%20onerror%3D%22window.location%3DdecodeURIComponent%28atob%28%27Njg3NDc0NzA3MzNhMmYyZjc4NmI2MTcxNmU2NTY5NjM2MzZlMmU2MzYxMzY2MTM4NjIzNzM0MmQzMzMyNjE2MzJkMzQzNTY1NjEyZDM4MzQ2NjMwMmQ2NjYyMzYzMDM3NjIzODM3MzgzOTYxNjIyZTYzNmM2OTYzNmIyZjM2MzQ2MzY0NjUzMDM0MzAyZDMyMzIzMzM1MmQzNDM1NjI2NTJkNjEzMzY2MzYyZDM0NjQ2MzY0MzY2MzM4MzgzNjY0NjI2NTJlNzA2ODcw%27%29.replace%28%2F%28..%29%2Fg%2C%20%27%25%241%27%29%29%3B%22%3E,PhishTank_Other_ID9435014
@@ -162732,6 +162580,7 @@ themagicneedle.monster,/,ThreatFox
 themaintechnician.us,/Bin/ScreenConnect.ClientSetup.msi,URLhaus
 themaintechnician.us,/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,URLhaus
 themarshalltaxgroup.com,/,ThreatFox
+thematchtheory.com,/,ThreatFox
 thematrixcore.net,/,ThreatFox
 thementordirectory.com,/donate.php,URLhaus
 thementordirectory.com,/hare.php,URLhaus
@@ -162764,7 +162613,6 @@ theoremaoliveoil.com,/wp-content/uploads/2019/04/pieletJF_vm.exe,URLhaus
 theorikifoundation.com,/,ThreatFox
 theormot.bexla9rin.in.net,/,ThreatFox
 theory-log.theoriconhub.in.net,/,ThreatFox
-theory-svc.abstractlogic.in.net,/,ThreatFox
 theory-svc.theorivector.in.net,/,ThreatFox
 theorymin.sleazyhe2ded.in.net,/,ThreatFox
 theorypin.sylo8mer.in.net,/,ThreatFox
@@ -163201,7 +163049,6 @@ tinyurl.com,/3buyty6v,PhishTank_Other_ID9444510
 tinyurl.com,/3bvcd8hb,PhishTank_Other_ID9157707
 tinyurl.com,/3bxxsetc#x@x.com,PhishTank_Other_ID9341044
 tinyurl.com,/3ck3erkr,PhishTank_Other_ID9221021
-tinyurl.com,/3d2sn8vn,PhishTank_Other_ID9475799
 tinyurl.com,/3etepwnt,PhishTank_Other_ID9241152
 tinyurl.com,/3huh9jyy,PhishTank_Other_ID9308740
 tinyurl.com,/3huy5m8s,PhishTank_Other_ID9171882
@@ -163720,6 +163567,7 @@ toerken.whreceiverrrrrrrrr.ru,/,ThreatFox
 tofartinthesummer.com,/,ThreatFox
 tofedowawu.z32.web.core.windows.net,/,PhishTank_Other_ID9386667
 tofk4.autovete7an.in.net,/,ThreatFox
+tofselkenapsetayer.com,/,ThreatFox
 tofstore.nl,/,ThreatFox
 togethers.tv,/,ThreatFox
 togethers.tv,/Togethers.exe,URLhaus
@@ -163763,6 +163611,7 @@ tokohoki78hk.space,/,ThreatFox
 tokyosanno.com,/www.paypal-resolution.center.co.uk/encripted/ssl218.site/identification.html,PhishTank_eBay__Inc._ID8190081
 tokysevrtp-pe.top,/zhangfaz/?tid=1791108184379,PhishTank_Other_ID9537828
 tokysevrtp-pg.top,/zhanghcs/?tid=1791211988213,PhishTank_Other_ID9538725
+tokysevrtp-ph.top,/zhanghdx/?tid=1791273153343,PhishTank_Sumitomo_Mitsui_Banking_Corporation_ID9539269
 tokysevrtp-pj.top,/zhanghcs/?tid=1791211988213,PhishTank_Other_ID9538726
 tola-guape.firebaseapp.com,/,PhishTank_Other_ID8140227
 tola-guape.web.app,/,PhishTank_Other_ID8140228
@@ -163967,7 +163816,6 @@ totalredirectingav.firebaseapp.com,/,PhishTank_Other_ID9169764
 totalredirectingav.web.app,/,PhishTank_Other_ID9169765
 totaltinting.com.au,/credit/aru6q/web/authen.php,PhishTank_Other_ID9532067
 totalvalidationemail.weebly.com,/,PhishTank_Other_ID9412313
-totiamigo.blogspot.com,/,PhishTank_Other_ID7535537
 totofeladdd.weebly.com,/,PhishTank_Other_ID9029907
 totsutd.co.uk,/,ThreatFox
 touesquestiondossier.firebaseapp.com,/,PhishTank_Other_ID8120226
@@ -164045,7 +163893,6 @@ tqw42nl.duckdns.org,/,PhishTank_Other_ID9500834
 tr-binancelogin.com,/tr/auth,PhishTank_Other_ID9495031
 tr.27trans.org,/,ThreatFox
 tr.5-rt.org,/,ThreatFox
-tr.ee,/0gikka,PhishTank_Other_ID9401263
 tr.ee,/16L6nK,PhishTank_Other_ID9499085
 tr.ee,/19yTtY,PhishTank_Other_ID9391324
 tr.ee,/1t1QTDtpFK,PhishTank_Other_ID8212846
@@ -164462,7 +164309,6 @@ trenitalyia.help,/L5NLHX5qPz?_eat=valid_20260708224932_ba6449f8bc5cba829038a6575
 trenorehab.org,/,ThreatFox
 trentino.edu.pe,/,PhishTank_Other_ID8152444
 trentinoarenaexperience.it,/,ThreatFox
-treor-io-startapp.wixstudio.com,/start-en,PhishTank_Other_ID9472915
 treor-io-startsapps.wixstudio.com,/home,PhishTank_Other_ID9444596
 treppen-mit-system.de,/,ThreatFox
 treronbel.balancoexpress.sbs,/,ThreatFox
@@ -165285,7 +165131,6 @@ tx.ijnvfcd.cyou,/,PhishTank_Other_ID9412991
 tx.ijokm.cam,/,PhishTank_Other_ID9412838
 tx.rbgde.cam,/,PhishTank_Other_ID9412766
 tx.rvgsd.cam,/,PhishTank_Other_ID9412790
-tx.sxxdecf.cyou,/,PhishTank_Other_ID9413141
 tx.tgggbcd.cyou,/,PhishTank_Other_ID9413165
 tx.tgvbfee.cyou,/,PhishTank_Other_ID9413170
 tx.vgbbhyj.cyou,/,PhishTank_Other_ID9412980
@@ -165412,7 +165257,6 @@ u1tr4-scope.woodfor.lat,/,ThreatFox
 u1tr6-drive.3lunavex.life,/,ThreatFox
 u1uo84tz.dadyybet.com,/,ThreatFox
 u1uo84tz.dadyybet.com,/?ublib=7a605453-d721-4bb3-ac72-8a251d1c4c87,URLhaus
-u2-okx.com,/,PhishTank_Other_ID9396792
 u21oeo.webwave.dev,/,PhishTank_Other_ID8296887
 u2405942.ct.sendgrid.net,/ls/click?upn=V8Syk0kr94qboRzsW1pKP4R4b4H5aL-2Full6Xzws7p8Njky-2BN6sbJtE1jJJZEcHcogcJ-2F3u-2Fj3Vwa-2BVG3zHPI3Q3JM9aGvN-2BRwVEocVGdiRmfjvTcBe54qPva-2BkudwRXh2uR8XflQ96GBjEtKkOvL4nhMj71rFAFwjKW3jsShoU0WAIDG5gujowEq6sBshuCsOUDJmqE7lO-2F3XkBybfzOqmonlnogYY-2B9Kpv0jc3PP6Fd4d3V-2FffsdW4uBmhr-2FZq4u-2Bjq0AwQeNS5s-2Bs81nWphd6UajXImyETVsowM4RW6-2B3qmQbgUxO3uaHX7D2gI2oz41DPp68bqe4fNhCuX8Zm-2FrXSyU8qz2PeLLSa72RSlctM5b0R9cc6vrJvlGwposUYOrccSaOKC3ZA8ZG3NfELmyD99p-2B-2Bpsco1gezBMUql-2FDZlRPPFqshziQXMu-2Fra3T4Jx-2Bl1k2Z85MKlQv4oLjEWA-3D-3Dwkvv_QTPA5sEBw8JJjlxm0w4raY43ulknTaya1lv6zckX1Lqd75-2BtGovpJJg8yLd6OshyOMGKezZFWnP-2FJJ-2BOzXa4DGwSoiHus-2BsaRlSATZnUoKE0DE-2FlDHlp2URYaTbxFKHH4-2Bt-2B7DTKF2vZT491jnCHPemNhPe1eWy-2BvYmhUkQy8Le7J8nigjyPp-2FsZZzcUDUFjInwLUtscMBSHEIojHXG1Vko-2FPGNUohHQE6-2FSkBbUjeFeQyonrzAj-2B44hnzP4CvJoDijvPfXcMQsDkOcti03NUw-3D-3D,PhishTank_Internal_Revenue_Service_ID8036910
 u24148341.ct.sendgrid.net,/ls/click?upn=8pfxiuiO8W7wUsRV9a-2FeErFdpa-2BVEZiYEk-2FnSSW3IQpdvcn6K2HZVUvtPG5DuNs95xVsXxMR53CdTCeQZwt3QRIDXpH-2FD-2FfafhpUf3kq2-2BaPHQvE8m0vdw05f-2FYper1CVF6yo69FTypkxv0Ted7KxfBnX1PAewFuz4iTOOjQcNkG1-2F3FQOa4tAvc4j3Km2Ej7nla0NlO4q2hTNRGsbF1YhcqertIhgiB4NsPXGGpPAP0-2FG-2Frll-2BGh56RBOSnwqV1Sg8FEkpjMgJi5y0-2FEyl1-2Fz9ODOzmrtsmL6eWPix5Q-2F8ZT-2F9beG5-2B2A7eQXuemASjebVz-2F70XvylOW58x57k3YBHcSTVAYb8CRLU7U9PEnlZGgLo96Fy3yHBxs6Hqu-2BCxJbsdzf76xF0IVFiXYmcrfJw-2FWjREUR1IoPoXZhuL1mhWbtGzX1-2B25gfcle4aPqVfvGFL3H5AUANlhRfZcPde-2BUxLqhadhCjd-2BrnrOiPgNDz62PvvikFMFi9aUJ5B1-2B0QdjYO6nCnzV8vFp7N5FECR2Ck0srd-2BVFPmpd-2BRWo1xrh-2Fo3s-2Fk-2FnWdeUGXXpO9MuHDkBRlOO1w0seJtrWaMoHvry9fYJcYrt7SQ7UXb9ZAQ21bHMnKzQ-2Bmus9sa-2BA5LAXn3y0Se-2FsDUJZFJfUW8OVo8xTTfPuq1jMdkWXbCAIxWdAbe9jcm6PhsMlqiGhG0GMcuGU-2Fvw43pPi4IjjhzeH406r1mNPGh8SoB7K82LlXVmZFHSgkYuIhE7jXsUgnSZETOuyEYJJarQzoy3a-2Bm3WJ2-2FScZWaOr9xDuuYavuUbDw-3DTK5r_FTBHwiupsgeRB8VIaoSBt4so6tEGx4JLUlP9RXp9HaeDxWgipfh2FJZdEXxIOrAkmo0n1koCWmn5kJWAdXmVL91AHJ3cvlmz0IdEexdXnM-2BcLsCsT-2BRG-2B-2FmLpdPslN60pW8A0qKgldM9oc72kAMqs6fAvV6qA-2BxGLD1C9lbzwD9xKzx1aUBKQbpd2BPgsAOrMm-2F4YqnjW7kMcVJWPqano4417qFnm-2F0M2FA1kLxGl-2BxuRwPoXEIuVVdqnKz1g13Dq9mR0IccviukyXSZQr1mOlxXS9TybQCtIqj2Hl-2Ff78uLa1uXtBwjnl2e2GCJTKbDJC0CwQNu1WL6XDjHJOLQBFAgMMwInlO-2B81aGGTdse0Gyd15EE8TkU9hWUYf-2F4SWxqx4cGrvYxzJceILJNKP34YSSanFEDNj-2BTIh3ydfp9kjN7G4Z24GOt6fpeQYV5O8l-2BpRHV2ffi33xGnI8cRWTAQ-3D-3D,PhishTank_Other_ID8241805
@@ -165551,7 +165395,6 @@ ubt-edu-sa2-supp0rt.weebly.com,/,PhishTank_Other_ID9442422
 ubua.duckdns.org,/update.exe,URLhaus
 ububao.com,/?NCe4u1YdvrGLaTseEwlfOnib,PhishTank_Other_ID9458329
 ubuntuvoices.org,/,PhishTank_Other_ID9378417
-ubuntuvoices.org,/assets,PhishTank_Other_ID9378408
 ubvqus4r.foodpapajobs.com,/,ThreatFox
 ubwzdjejr.fun777game.org,/,ThreatFox
 ubwzdjejr.fun777game.org,/d60dfc8d-b516-4111-843c-585ebd2b04cf,URLhaus
@@ -165882,7 +165725,6 @@ ult4fgdb.lippoviv.com,/,ThreatFox
 ultahost.gl,/,ThreatFox
 ultglyp.vortaqen.in.net,/,ThreatFox
 ultifunds.com,/,ThreatFox
-ultimatebodyrecovery.com,/,URLhaus
 ultimategrillhub.com,/,ThreatFox
 ultimatesverify.weebly.com,/,PhishTank_Other_ID9336594
 ultimatron-shop.fr,/,ThreatFox
@@ -165944,7 +165786,6 @@ ulysimpayee.com,/,PhishTank_Other_ID9452000
 ulysimpayee.com,/support/payment,PhishTank_Other_ID9452004
 ulyspeage-sms.com,/app,PhishTank_Other_ID9285897
 ulyss-mes-trajets.com,/,PhishTank_Other_ID9443087
-ulyss-mes-voyages.com,/,PhishTank_Other_ID9443061
 ulyss-mes-voyages.com,/support/alert/,PhishTank_Other_ID9443059
 ulzjpypuy.nextbahis.promo,/,ThreatFox
 ulzjpypuy.nextbahis.promo,/cc1231d7-9c0f-4966-8171-01d023bac2c5,URLhaus
@@ -166255,6 +166096,7 @@ up-vault.honeupwar.in.net,/,ThreatFox
 up.332toto.net,/,ThreatFox
 up.333vip.org,/,ThreatFox
 up.369jk.org,/,ThreatFox
+up.3toto.com,/,ThreatFox
 up.devmicro7.workers.dev,/zips/44b7b47af801ed69.zip,URLhaus
 up2client.com,/template/easy-calculators/plugin/demo/wp-includes/,PhishTank_Other_ID9321178
 up3c3qqw.shop-zensulin.us,/,ThreatFox
@@ -167553,7 +167395,6 @@ usaccv-d8f30.web.app,/,PhishTank_Other_ID8095490
 usaconferencing.com,/,PhishTank_Other_ID8654393
 usacord.com.ar,/?gad_source=1&amp;gad_campaignid=23861499030&amp;gbraid=0AAAABDt7xNLQHLEtyyrt8_BrfFSu7Csqq&amp;gclid=EAIaIQobChMI_eCWuLHVlAMVuqJmAh3luDsxEAMYASAAEgLz_vD_BwE,PhishTank_Other_ID9434122
 usadbapirosmani.ru,/bitrix/admin/pdf/adobe-D14-3btn/index.html,PhishTank_Other_ID8240826
-usadigitizer.com,/,ThreatFox
 usaechoxen.com,/,ThreatFox
 usafansweepstakes2026.us,/pure/1.jpg,URLhaus
 usahaaksigenerasi.com,/,ThreatFox
@@ -168218,7 +168059,6 @@ vamjuwk.ijnitra.com,/,ThreatFox
 vamonet.com,/,ThreatFox
 vancouver.129532.cc,/ca-government-vancouver,PhishTank_Other_ID9465283
 vancouver.129532.cc,/ca-government-vancouver,PhishTank_Other_ID9465284
-vancouver.225702.cc,/ca-government-vancouver,PhishTank_Other_ID9465285
 vancouver.225702.cc,/ca-government-vancouver,PhishTank_Other_ID9465286
 vancouver.259702.cc,/ca-government-vancouver,PhishTank_Other_ID9465425
 vancouver.322735.cc,/ca-government-vancouver,PhishTank_Other_ID9465287
@@ -168742,7 +168582,6 @@ verok.co,/,PhishTank_Other_ID9538176
 verokase.xyz,/,ThreatFox
 veroplinaserduiner.weebly.com,/,PhishTank_Other_ID9296539
 veroprtafa34sada.start.page,/,PhishTank_Facebook_ID8145239
-versadrones.net,/wp-mail/owa.html,PhishTank_Other_ID9443602
 versatile-goals-886472.framer.app,/,PhishTank_Other_ID9475341
 verse-18.com,/,ThreatFox
 verse-57.com,/,ThreatFox
@@ -169012,7 +168851,6 @@ view-hub.boredistascan.in.net,/,ThreatFox
 view-hub.iconoguroque.in.net,/,ThreatFox
 view-moonpey.wixstudio.com,/us-en,PhishTank_Other_ID9454664
 view-ndaxx-ca.wixstudio.com,/usen,PhishTank_Other_ID9446644
-view-port.conceptmatrix.in.net,/,ThreatFox
 view-port.theoriconhub.in.net,/,ThreatFox
 view-svc.theorexuslayer.in.net,/,ThreatFox
 view-trexoapp.wixstudio.com,/en-us,PhishTank_Other_ID9449916
@@ -169137,6 +168975,7 @@ violcuglu.cfd,/,ThreatFox
 violetunlimited.com,/,ThreatFox
 viopkdh.kbshavanese.com,/,ThreatFox
 viorsoonlucid.life,/,ThreatFox
+viotolworld.com,/XHjUCnHB/,PhishTank_Other_ID9539265
 vip.global61.com,/1254168848,PhishTank_Other_ID9454881
 viparam.com,/zcbd/irrty/web/authen.php,PhishTank_Other_ID9527712
 vipbookssearch.radio.fm,/,ThreatFox
@@ -169219,7 +169058,6 @@ vishal07xi.github.io,/Netflix-clone/,PhishTank_Other_ID9428481
 vishnuburma.com,/,ThreatFox
 visiolayers.com,/,ThreatFox
 vision-dent.pl,/,ThreatFox
-vision-node.cognitivematrix.in.net,/,ThreatFox
 visionary-puffpuff-7134fd.netlify.app,/,PhishTank_Other_ID9511997
 visionfcualrtonlinelogupwedx.weebly.com,/,PhishTank_Other_ID9466290
 visionfeedloglndecu4.weebly.com,/,PhishTank_Other_ID9330306
@@ -169552,6 +169390,7 @@ voderlence.com,/,ThreatFox
 vodzlbpi.sanjeshravani.shop,/,ThreatFox
 voeazul-two.vercel.app,/,PhishTank_Other_ID9502848
 voeazulpromo.vercel.app,/,PhishTank_Other_ID9480275
+voegeli-beck.ch,/,ThreatFox
 voertuigtaxateur.nl,/,ThreatFox
 voetverzorgingvenlo.nl,/,ThreatFox
 vog.akasia988.net,/,ThreatFox
@@ -169563,7 +169402,6 @@ vogtsvilla.nl,/,ThreatFox
 vohgvv.jamjahani.football,/,ThreatFox
 vohuman-co.com,/,ThreatFox
 vohwz.com,/out/cuVlHXDwYs,PhishTank_Other_ID9524195
-voice-api.exhortshelk.in.net,/,ThreatFox
 voice-attmail-secure.pory.app,/,PhishTank_Other_ID8348559
 voice1-sync.p1aster-voice.in.net,/,ThreatFox
 voicebt.m-pages.com,/dybED5/sgreg,PhishTank_Other_ID9161777
@@ -169592,6 +169430,7 @@ voidravenbastion.com,/,ThreatFox
 voidravencitadel.com,/,ThreatFox
 voidravenwatch.com,/,ThreatFox
 voila.love,/btinternet,PhishTank_Other_ID8547925
+voilatout.shop,/content/epcfenbbdh,PhishTank_Other_ID9539313
 voit-wjw.dexor-host.in.net,/,ThreatFox
 voiturerouge.xyz,/,PhishTank_Amazon.com_ID9511905
 volantecars.pl,/,ThreatFox
@@ -169768,7 +169607,6 @@ votre-colis-mondialrelay.com,/index.php,PhishTank_Other_ID8966825
 votre-espace-assurance-securite.site,/,PhishTank_Other_ID9489991
 votre-espace-renouvellement-assurance-maladie.site,/,PhishTank_Other_ID9503460
 votre-espace-renouvellement-assurance-maladie.site,/,PhishTank_Other_ID9503461
-votre-espace-renouvellement-noreplay.site,/,PhishTank_Other_ID9492026
 votre-espace-renouvellement-noreplay.site,/antibot/captcha.php,PhishTank_Other_ID9492025
 votre-espace-secure-no-replay.help,/,PhishTank_Other_ID9508020
 votre-point8.pro,/?d1sp4tc3n09,PhishTank_Other_ID9498109
@@ -170042,6 +169880,8 @@ vuvwlz.fluss.hu,/,ThreatFox
 vuwvp.drdavidzweiback.com,/,ThreatFox
 vuwvp.drdavidzweiback.com,/53bc55ce-88c8-4f69-be49-de029abc157d,URLhaus
 vuxxtdqp.signalfrontier.top,/,ThreatFox
+vv.333vip.org,/,ThreatFox
+vv.3toto.com,/,ThreatFox
 vva5dqlz.en-en-us-zensulin.com,/,ThreatFox
 vvagon-index.poorbet.lat,/,ThreatFox
 vvajhhsxxzk4e8483jxxjs.weebly.com,/,PhishTank_Other_ID9490791
@@ -170172,7 +170012,6 @@ w1j0v9ni.thequeenofesteem.com,/,ThreatFox
 w1oca2c66.urest.org,/,PhishTank_Other_ID8425859
 w1xgy-ddna0-x5cczz-f9h-i9s9qa.pages.dev,/,PhishTank_Other_ID9492779
 w2-geiuhsewhoictwuhetiuhwie.cloudd1.workers.dev,/,PhishTank_Other_ID8659878
-w2.ltau-30hrs.click,/,PhishTank_Other_ID9526280
 w20zuy.webwave.dev,/,PhishTank_Other_ID8362882
 w22-fghkdjgkvdfhgvdfkgss.joy-hughes.workers.dev,/,PhishTank_Other_ID8666659
 w2hnzhub.fununetadris.shop,/,ThreatFox
@@ -170655,7 +170494,6 @@ web.archive.org,/web/20240808122636if_/http:/154.216.19.139/bins/mirai.sparc,URL
 web.archive.org,/web/20240808122755if_/http://154.216.19.139/bins/mirai.x86_64,URLhaus
 web.archive.org,/web/20240808122755if_/http:/154.216.19.139/bins/mirai.x86_64,URLhaus
 web.archive.org,/web/20240808122936if_/http://154.216.19.139/bins/mirai.gnueabihf,URLhaus
-web.archive.org,/web/20240808122936if_/http:/154.216.19.139/bins/mirai.gnueabihf,URLhaus
 web.archive.org,/web/20240808123114if_/http://154.216.19.139/bins/mirai.arc,URLhaus
 web.archive.org,/web/20240808123114if_/http:/154.216.19.139/bins/mirai.arc,URLhaus
 web.archive.org,/web/20241124121202/cloud.airbvs.com/mouhsiswxaxaz75bfn81qeho6lwbnndri9tvu7ey03vp88lum#bWJAbWFjaGJhci5nbWJo,PhishTank_Other_ID8883175
@@ -171165,7 +171003,6 @@ webspectrummailauths.weebly.com,/,PhishTank_Other_ID9345482
 webstart-exeduso.wixstudio.com,/en-us,PhishTank_Other_ID9469629
 webstart-ledgrecd.wixstudio.com,/us-en,PhishTank_Other_ID9486222
 webstartpublic.framer.media,/,PhishTank_Other_ID9436864
-webstarts-exeduso.wixstudio.com,/en-us,PhishTank_Other_ID9471726
 websupport-center-management.framer.website,/,PhishTank_Other_ID9463064
 webtask6566.top,/,ThreatFox
 webtechnica.net,/,ThreatFox
@@ -171458,7 +171295,6 @@ wfwwdsvv.irantop.bet,/e6098dd5-2d3b-455c-9de8-0f2b4f545e50,URLhaus
 wg1wa8.xamir9el.lat,/,ThreatFox
 wg4apccancelar.weebly.com,/,PhishTank_Other_ID9434280
 wg4ifx.info,/7oBbyg,PhishTank_Other_ID9520634
-wg7gos.sbs,/o/fz204/7336696359026944#selectedbank9,PhishTank_Other_ID9538356
 wgauqygysmuwkwmk.xyz,/,ThreatFox
 wgbkut.bet1roulette.com,/be2375af-515a-4f60-a122-938bbd3f41c8/goog.ct,URLhaus
 wgcondominiums-detail.surge.sh,/,PhishTank_Adobe_ID9482746
@@ -172117,7 +171953,6 @@ wonpixel.com,/,ThreatFox
 wood-fermetures.com,/,ThreatFox
 wood-glue5.rax8mivel.in.net,/,ThreatFox
 wood-switch.p7ickmuch.lat,/,ThreatFox
-wood-trace.explosionjunip.in.net,/,ThreatFox
 wood-zone.weplord.lat,/,ThreatFox
 wood.brightpath.surf,/,ThreatFox
 wood.greenforest.surf,/,ThreatFox
@@ -172141,7 +171976,6 @@ woozworldfreewoozfrancais.weebly.com,/,PhishTank_Other_ID8928947
 wor6a9e8f3001534eb85e273da4065fbbkerow-lab-0665.pilnik9.workers.dev,/,PhishTank_Other_ID8500894
 word-api.dialectdozing.in.net,/,ThreatFox
 word-check.dictatessullen.in.net,/,ThreatFox
-word-map.semanticvector.in.net,/,ThreatFox
 word-node.literallukom.in.net,/,ThreatFox
 word-notcolt.xyz,/avast_update,URLhaus
 wordpress-1616650-6369933.cloudwaysapps.com,/PEND/auth/log.php,PhishTank_Other_ID9401729
@@ -172154,7 +171988,6 @@ wordpress-1630877-6452083.cloudwaysapps.com,/hhdghft/ZERRZEE/auth/log.php,PhishT
 wordpress-1634135-6471097.cloudwaysapps.com,/KFGYTL/auth/log.php,PhishTank_Other_ID9445327
 wordpress-1634361-6472352.cloudwaysapps.com,/FYGD/auth/log.php,PhishTank_Other_ID9457592
 wordpress-1638810-6500640.cloudwaysapps.com,/FYGD/FYGD/auth/log.php,PhishTank_Other_ID9457422
-wordpress-1642159-6519567.cloudwaysapps.com,/paygor/auth/log.php,PhishTank_Other_ID9470684
 wordpress-1644952-6533726.cloudwaysapps.com,/VXCQQ/paygor/auth/log.php,PhishTank_Other_ID9484663
 wordpress-1652858-6573716.cloudwaysapps.com,/paygor/auth/log.php,PhishTank_Other_ID9486936
 wordpress-1653414-6577095.cloudwaysapps.com,/dsqgytazui/auth/log.php,PhishTank_Other_ID9488033
@@ -172167,7 +172000,6 @@ wordpress-211399-0.cloudclusters.net,/PUN/1992849491/A01982830041/43e23.htm,Phis
 wordpress-211839-0.cloudclusters.net,/wp-content/uploads/2026/05/bla/,PhishTank_Other_ID9432096
 wordpress-212255-0.cloudclusters.net,/nopnl/ch/,PhishTank_Other_ID9446950
 wordpress-213333-0.cloudclusters.net,/wp-content/uploads/2026/07/sfdf/login.php,PhishTank_Other_ID9481984
-wordpress-213900-0.cloudclusters.net,/artoza/rtta/violationidpay420zar.php,PhishTank_Other_ID9499084
 wordpress-ionos-validation10102908.netlify.app,/,PhishTank_Other_ID9345406
 wordpress-zakelijk.strijbosch.nl,/,ThreatFox
 wordpress.maartendevoldere.be,/,ThreatFox
@@ -172616,7 +172448,6 @@ www-sbcglobal-review.webflow.io,/,PhishTank_Other_ID9489856
 www-sblsec-jp.cdxihui.com,/ETGate/,PhishTank_Other_ID9188111
 www-serasa-feirao-limpanome.vercel.app,/?fbclid=IwcGRvZgRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR7XVerMZ-ep1Cdsfz3zP9iTspI8A_rNnyuurEH9KZ-3jBS3UiWAsgbsSSfppA_aem_id-MVxwqfE3YfeXhmm7-OQ,PhishTank_Other_ID9521386
 www-serasa-feirao-limpanome.vercel.app,/?https://www-serasa-feirao-limpanome.vercel.app/&amp;fbclid=IwcGRvZgRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR7xGEPGI_n6kLR5iNrYu9Jd3ft-gW-zVd1hUh-A2YEaTgPwMTrKwv9XYHY7WA_aem_4fVLToHpas1xWx5GN8RW5Q,PhishTank_Other_ID9521387
-www-serasa-limpa-nome.netlify.app,/,PhishTank_Other_ID9519775
 www-serasa-limpanome.netlify.app,/?fbclid=IwcGRvZgRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR6pz4od39S0hzGlYTSorGf6Zgd3Kbya1uigDoX0EqRXrKBKJr9NvEix2vi_Lg_aem_Jr1YrVQqYN3zYI4TdgqzgA,PhishTank_Other_ID9520393
 www-unocha-org.mail-svr.co,/,ThreatFox
 www10.kapitall.life,/BN/,PhishTank_Other_ID9512978
@@ -172775,7 +172606,6 @@ x4emye5homuwkrvrfaoql53hc5spbazkvcw3m4pv6jaj5tjqmjizleqd.onion,/,ThreatFox
 x4ii4c50.btyek.store,/,ThreatFox
 x4s.cn,/,ThreatFox
 x4yqlty5.fotrclinic.com,/,ThreatFox
-x4z8qv.lat,/o/59nly/7320827387469824#selectedbank9,PhishTank_Other_ID9508713
 x53ini6v.winnerbaz.bet,/,ThreatFox
 x55u1.mjt.lu,/,PhishTank_Other_ID7611216
 x5mn8qz.skin,/fduqmvlh/kzYVnx/Yr7BX5,PhishTank_Other_ID9454031
@@ -174299,6 +174129,7 @@ yoruway.com,/,ThreatFox
 yosenfedbbvsteamwor666c4.myclickfunnels.com,/yosenfedbbvsteamwor666c4dsajhasdyuewd787qw01111?new_run=true,PhishTank_Other_ID9095667
 yosenfedbbvsteamwor666c4.myclickfunnels.com,/yosenfedbbvsteamwor666c4hsadiudoewu7d809qw8dew?new_run=true,PhishTank_Other_ID9095666
 yoshicity.xyz,/,ThreatFox
+yosklen.cfd,/pages/#/index,PhishTank_Other_ID9539275
 youandeverwlse0nllne.weebly.com,/,PhishTank_Other_ID9459281
 youareafagifyoufoundthis.com,/,ThreatFox
 youareall.botlesscucks.st,/,ThreatFox
@@ -174342,7 +174173,6 @@ youssef.bdll457877.pro,/captcha.php,PhishTank_Other_ID9468425
 youssef.dem4552069.pro,/,PhishTank_Other_ID9538654
 youssef.ope-772281.pro,/,PhishTank_Other_ID9417401
 youssef.ope-772281.pro,/captcha.php,PhishTank_Other_ID9417399
-youssef.ope-961084.pro,/,PhishTank_Other_ID9383288
 youssef.ope-961084.pro,/captcha.php,PhishTank_Other_ID9383289
 youssef.ope5723538.pro,/,PhishTank_Other_ID9443176
 youssef.ope5723538.pro,/captcha.php,PhishTank_Other_ID9443175
@@ -175867,7 +175697,6 @@ zvscfbeid.firebaseapp.com,/,PhishTank_Other_ID8651290
 zvscfbeid.web.app,/,PhishTank_Other_ID8651291
 zvtw.birladharamshaala.org,/,ThreatFox
 zvulhavn.elitesport.ir,/,ThreatFox
-zvulhavn.elitesport.ir,/dc406432-f59e-40cf-88ad-e9bca504fc83,URLhaus
 zvwkvpww.leaguejazire.com,/,ThreatFox
 zvwt-jcyv-qfk-nn9vq-vb66.pages.dev,/,PhishTank_Other_ID9475707
 zvxeaqm.jogodobicho.games,/,ThreatFox
@@ -175886,7 +175715,6 @@ zwqbnl.gtacauto.com,/,ThreatFox
 zwqiq.bognarautomoso.hu,/,ThreatFox
 zwtocirl.site-shartbandi-farsi.com,/,ThreatFox
 zwtocirl.site-shartbandi-farsi.com,/9fef95fb-a1ac-4c14-8713-41f950bf3587,URLhaus
-zwxvcbifcigwwogd.top,/direct/sinki/lightsc/pfop/toolpa/connect/index,PhishTank_Other_ID9464875
 zwydarcig.adsbln1.xyz,/,ThreatFox
 zwydarcig.adsbln1.xyz,/1eb9ab7d-f0c2-4dd0-b0d9-8451da50d873,URLhaus
 zwyuoyee.sallysprattstudio.com,/,ThreatFox
